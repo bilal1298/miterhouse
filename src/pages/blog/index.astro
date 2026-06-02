@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getSortedPosts } from "../../utils/helpers";
+import { siteConfig } from "../../../site.config";
+
+const posts = await getSortedPosts();
+---
+
+<BaseLayout
+  title={`${siteConfig.name} Journal`}
+  description={`Every ${siteConfig.niche} guide we've published — real costs, real steps, newest first.`}
+>
+  <div class="wrap">
+    <section class="page-head">
+      <p class="eyebrow">All Articles</p>
+      <h1>{siteConfig.name} Journal</h1>
+      <p>Every guide we've published, newest first.</p>
+    </section>
+
+    {posts.length > 0 ? (
+      <div class="grid3">
+        {posts.map((post) => (
+          <PostCard post={post} />
+        ))}
+      </div>
+    ) : (
+      <p class="muted" style="text-align:center;padding:3rem 0;">Posts are on the way. Check back soon.</p>
+    )}
+  </div>
+</BaseLayout>

@@ -1,0 +1,148 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostCard from "../components/PostCard.astro";
+import JsonLd from "../components/JsonLd.astro";
+import { getCollection } from "astro:content";
+import { siteConfig } from "../../site.config";
+import { formatDate, readingTime } from "../utils/helpers";
+
+const allPosts = await getCollection("blog", ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const featured = posts[0];
+const gridPosts = posts.slice(1, 4);
+const mostRead = posts.slice(0, 4);
+const categoryPosts = posts.slice(4, 7);
+
+// Pick first category for the category section header
+const firstCategory = siteConfig.categories[0];
+
+// Derive author initials for the byline avatar
+function initials(name: string) {
+  return name
+    .split(" ")
+    .map((w) => w[0])
+    .join("")
+    .toUpperCase()
+    .slice(0, 2);
+}
+
+const webSiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: siteConfig.name,
+  url: siteConfig.siteUrl,
+  description: siteConfig.description,
+};
+---
+
+<BaseLayout title={`${siteConfig.name} — ${siteConfig.tagline}`} description={siteConfig.description}>
+  <JsonLd data={webSiteJsonLd} />
+
+  {featured && (
+    <section class="hero wrap">
+      <div class="hero__grid">
+        <div class="hero__body reveal d2">
+          <span class="kicker">{featured.data.category}</span>
+          <h1>{featured.data.title.split(" ").length > 4
+            ? <>
+                {featured.data.title.split(" ").slice(0, Math.floor(featured.data.title.split(" ").length / 2)).join(" ")}{" "}
+                <em>{featured.data.title.split(" ").slice(Math.floor(featured.data.title.split(" ").length / 2)).join(" ")}</em>
+              </>
+            : featured.data.title
+          }</h1>
+          <p class="hero__dek">{featured.data.description}</p>
+          <div class="byline">
+            <span class="av">{initials(featured.data.author)}</span>
+            <span>By <b>{featured.data.author}</b></span>
+            <span class="sep"></span>
+            <span>{readingTime(featured.body)} min read</span>
+          </div>
+        </div>
+        <div class="hero__media reveal d3">
+          <div class="ph"></div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <div class="wrap">
+
+    <div class="shead">
+      <h2>From the journal</h2>
+      <a href="/blog/">All stories &rarr;</a>
+    </div>
+
+    <div class="feature">
+      <div>
+        {gridPosts.length > 0 ? (
+          <div class="grid3">
+            {gridPosts.map((post) => (
+              <PostCard post={post} />
+            ))}
+          </div>
+        ) : (
+          <div class="grid3">
+            <PostCard post={featured} />
+          </div>
+        )}
+      </div>
+
+      <aside>
+        <div class="shead" style="padding-top:0;border-bottom:1px solid var(--ink)">
+          <h2 style="font-size:22px">Most read</h2>
+        </div>
+        <div class="sidelist">
+          {mostRead.map((post, i) => (
+            <a href={`/blog/${post.id}/`}>
+              <div class="sideitem">
+                <div class="num">{String(i + 1).padStart(2, "0")}</div>
+                <div>
+                  <div class="kicker">{post.data.category}</div>
+                  <h4>{post.data.title}</h4>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </aside>
+    </div>
+
+    <div class="adslot">
+      <div class="tag">Advertisement</div>
+      <div class="box">Leaderboard / responsive ad unit</div>
+    </div>
+
+    {categoryPosts.length > 0 && (
+      <>
+        <div class="shead">
+          <h2>{firstCategory}</h2>
+          <a href={`/category/${firstCategory.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/-+/g, "")}/`}>More &rarr;</a>
+        </div>
+        <div class="grid3" style="margin-top:clamp(34px,5vw,52px)">
+          {categoryPosts.map((post) => (
+            <PostCard post={post} />
+          ))}
+        </div>
+      </>
+    )}
+
+  </div>
+
+  <section id="newsletter" class="band">
+    <div class="wrap">
+      <div>
+        <span class="kicker">The weekly update</span>
+        <h2>One <em>practical guide</em>, in your inbox each week.</h2>
+      </div>
+      <div>
+        <p>No noise, no fluff. Just the single most useful home improvement guide we published this week.</p>
+        <form class="form" onsubmit="return false">
+          <input type="email" placeholder="your@email.com" aria-label="Email address" />
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

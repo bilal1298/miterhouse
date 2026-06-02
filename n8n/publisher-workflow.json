@@ -1,0 +1,224 @@
+{
+  "name": "Miter House - Content Publisher",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{ "field": "hours", "hoursInterval": 12 }]
+        }
+      },
+      "id": "schedule",
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [220, 300],
+      "notes": "Runs every 12 hours = max 2 posts/day (respects PUBLISH_CADENCE_PER_DAY)"
+    },
+    {
+      "parameters": {
+        "operation": "read",
+        "documentId": "1ODfJsuHQ2-P7LTUbVr0y9OmjKYTUZ-95EEhJ2Pyv1cc",
+        "sheetName": "Sheet1",
+        "filters": {
+          "column": "status",
+          "value": "ready"
+        },
+        "options": {
+          "range": "A:L",
+          "returnAllMatches": false
+        }
+      },
+      "id": "read-next-row",
+      "name": "Read Next Ready Row",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [440, 300],
+      "notes": "Gets the first row with status=ready"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{ $json.primary_keyword !== undefined && $json.primary_keyword !== '' }}",
+              "value2": true
+            }
+          ]
+        }
+      },
+      "id": "check-row",
+      "name": "Has Ready Row?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [640, 300],
+      "notes": "Only proceed if we found a ready row"
+    },
+    {
+      "parameters": {
+        "operation": "read",
+        "documentId": "1ODfJsuHQ2-P7LTUbVr0y9OmjKYTUZ-95EEhJ2Pyv1cc",
+        "sheetName": "Sheet1",
+        "filters": {
+          "column": "status",
+          "value": "published"
+        },
+        "options": {
+          "returnAllMatches": true
+        }
+      },
+      "id": "get-published",
+      "name": "Get Published Posts",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [860, 300],
+      "notes": "Fetch already-published posts for internal linking"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Build internal link candidates from published posts\nconst publishedPosts = $input.all().map(item => item.json);\nconst linkCandidates = publishedPosts\n  .filter(p => p.live_url && p.suggested_title)\n  .map(p => `- [${p.suggested_title}](${p.live_url})`)\n  .join('\\n');\n\nconst currentRow = $('Read Next Ready Row').first().json;\nconst publishDate = new Date().toISOString().split('T')[0];\n\nreturn [{\n  json: {\n    ...currentRow,\n    internalLinkCandidates: linkCandidates || 'none yet',\n    publishDate\n  }\n}];"
+      },
+      "id": "prepare-context",
+      "name": "Prepare Writer Context",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1060, 300]
+    },
+    {
+      "parameters": {
+        "model": "claude-sonnet-4-20250514",
+        "messages": {
+          "values": [
+            {
+              "role": "user",
+              "content": "=[CONFIG — injected from site.config + workflow, set once]\nNiche: home improvement | Audience: US homeowners — DIYers and budget-conscious renovators | Author: Daniel Ware\nLength range: 1200-2200 | Categories: Kitchen & Bath Remodeling, Flooring & Tile, Painting & Walls, Outdoor & Landscaping, Plumbing & Electrical, Basement & Attic, Tools & Materials, Budget & Planning | Brand voice: Straightforward, experienced, and practical. Like a neighbor who's done the project before — gives you the real steps, warns you about the gotchas, skips the filler.\n\n[PER POST — injected from the Sheet row + published-posts lookup]\nTopic / primary keyword: {{ $json.primary_keyword }}\nInternal link candidates (use any genuinely relevant, skip the rest; may be empty):\n{{ $json.internalLinkCandidates }}\n\nTASK: Write a complete, genuinely useful post for \"{{ $json.primary_keyword }}\".\nFirst silently determine the search intent and the right depth within 1200-2200 words.\nThen write for a human who needs this solved.\n\nQUALITY RULES (Google 2026):\n- Answer the query specifically in the first 2-3 sentences. No throat-clearing.\n- Show real expertise: specifics, numbers, steps, trade-offs, at least one insight a generic AI summary would miss. No filler, no padding to length.\n- Accurate. Never fabricate statistics, studies, prices, or quotes; if unsure, say so generally.\n- Use the primary keyword and natural related terms without stuffing.\n- Vary sentence structure and openings away from a fixed template.\n- Weave in relevant internal links from the candidates where they help the reader.\n\nOUTPUT EXACTLY THIS FORMAT, NOTHING ELSE:\n---\ntitle: \"<specific, <60 chars, primary keyword natural>\"\nslug: \"<url-safe-lowercase-hyphenated>\"\ndescription: \"<150-160 char meta description that earns the click>\"\nauthor: \"Daniel Ware\"\ncategory: \"<best fit from categories above>\"\ntags: [\"<3-6 tags>\"]\ndate: \"{{ $json.publishDate }}\"\nhero_image_prompt: \"<one-sentence header image description>\"\nfaq:\n  - q: \"<question>\"\n    a: \"<1-3 sentence answer>\"\n---\n\n<full Markdown body, starting with the intro — do NOT repeat the H1; Astro renders it>"
+            }
+          ]
+        },
+        "options": {
+          "maxTokens": 8000
+        }
+      },
+      "id": "ai-writer",
+      "name": "AI Write Post",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1,
+      "position": [1280, 300],
+      "notes": "Generates the full blog post using the Writer prompt from CLAUDE.md §6.3"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Validate the AI output has proper frontmatter\nconst content = $input.first().json.message?.content || $input.first().json.text || '';\n\n// Check it starts with frontmatter\nif (!content.trim().startsWith('---')) {\n  throw new Error('AI output does not start with frontmatter (---)');\n}\n\n// Extract frontmatter\nconst parts = content.split('---');\nif (parts.length < 3) {\n  throw new Error('Invalid frontmatter structure');\n}\n\nconst frontmatter = parts[1];\nconst body = parts.slice(2).join('---').trim();\n\n// Basic validation\nconst requiredFields = ['title', 'slug', 'description', 'author', 'category', 'tags', 'date'];\nfor (const field of requiredFields) {\n  if (!frontmatter.includes(field + ':')) {\n    throw new Error(`Missing required frontmatter field: ${field}`);\n  }\n}\n\n// Extract slug for the filename\nconst slugMatch = frontmatter.match(/slug:\\s*[\"']?([^\"'\\n]+)[\"']?/);\nconst slug = slugMatch ? slugMatch[1].trim() : $input.first().json.primary_keyword?.replace(/\\s+/g, '-').toLowerCase();\n\nif (body.length < 500) {\n  throw new Error('Post body too short (< 500 chars). Likely truncated.');\n}\n\nreturn [{\n  json: {\n    slug,\n    filename: `${slug}.md`,\n    content: content.trim(),\n    valid: true\n  }\n}];"
+      },
+      "id": "validate",
+      "name": "Validate Output",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1500, 300],
+      "notes": "Validates frontmatter structure before committing"
+    },
+    {
+      "parameters": {
+        "method": "PUT",
+        "url": "=https://api.github.com/repos/OWNER/REPO/contents/src/content/blog/{{ $json.filename }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"message\": \"post: {{ $json.slug }}\",\n  \"content\": \"{{ Buffer.from($json.content).toString('base64') }}\"\n}",
+        "options": {}
+      },
+      "id": "github-commit",
+      "name": "Commit to GitHub",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1720, 300],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "GITHUB_CREDENTIAL_ID",
+          "name": "GitHub Token"
+        }
+      },
+      "notes": "Commits the .md file to src/content/blog/ in the repo. Replace OWNER/REPO with actual values."
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": "1ODfJsuHQ2-P7LTUbVr0y9OmjKYTUZ-95EEhJ2Pyv1cc",
+        "sheetName": "Sheet1",
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "status": "published",
+            "live_url": "=https://miterhouse.com/blog/{{ $('Validate Output').item.json.slug }}/",
+            "notes": "=Published {{ new Date().toISOString().split('T')[0] }}"
+          }
+        },
+        "options": {
+          "cellFormat": "USER_ENTERED"
+        }
+      },
+      "id": "update-sheet-success",
+      "name": "Update Sheet (Published)",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [1940, 300],
+      "notes": "Marks the row as published with the live URL"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": "1ODfJsuHQ2-P7LTUbVr0y9OmjKYTUZ-95EEhJ2Pyv1cc",
+        "sheetName": "Sheet1",
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "status": "error",
+            "notes": "={{ 'Error: ' + $json.error?.message || 'Unknown error' }}"
+          }
+        },
+        "options": {}
+      },
+      "id": "update-sheet-error",
+      "name": "Update Sheet (Error)",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [1940, 520],
+      "notes": "On failure, marks row as error with the error message"
+    }
+  ],
+  "connections": {
+    "Schedule Trigger": {
+      "main": [[{ "node": "Read Next Ready Row", "type": "main", "index": 0 }]]
+    },
+    "Read Next Ready Row": {
+      "main": [[{ "node": "Has Ready Row?", "type": "main", "index": 0 }]]
+    },
+    "Has Ready Row?": {
+      "main": [
+        [{ "node": "Get Published Posts", "type": "main", "index": 0 }],
+        []
+      ]
+    },
+    "Get Published Posts": {
+      "main": [[{ "node": "Prepare Writer Context", "type": "main", "index": 0 }]]
+    },
+    "Prepare Writer Context": {
+      "main": [[{ "node": "AI Write Post", "type": "main", "index": 0 }]]
+    },
+    "AI Write Post": {
+      "main": [[{ "node": "Validate Output", "type": "main", "index": 0 }]]
+    },
+    "Validate Output": {
+      "main": [[{ "node": "Commit to GitHub", "type": "main", "index": 0 }]]
+    },
+    "Commit to GitHub": {
+      "main": [[{ "node": "Update Sheet (Published)", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "errorWorkflow": ""
+  },
+  "tags": [{ "name": "miter-house" }],
+  "notes": "SETUP REQUIRED:\n1. Replace OWNER/REPO in the GitHub commit node with your actual repo\n2. Configure credentials: DataForSEO (HTTP Basic Auth), GitHub (HTTP Header Auth with token), Google Sheets (OAuth2), Anthropic API key\n3. The schedule runs every 12 hours (2x/day max). Adjust the Schedule Trigger interval to change cadence.\n4. The review gate works via the Sheet: only rows manually set to 'ready' will be picked up. The Planner outputs rows as 'idea' status."
+}

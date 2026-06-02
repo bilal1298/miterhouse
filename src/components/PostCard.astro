@@ -1,0 +1,24 @@
+---
+import type { Post } from '../utils/helpers';
+import { categoryPath, formatDate, readingTime } from '../utils/helpers';
+
+interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+const { data } = post;
+const mins = readingTime(post.body);
+---
+
+<article class="card">
+  <a href={`/blog/${post.id}/`} aria-label={data.title}>
+    <div class="ph"></div>
+  </a>
+  <span class="kicker">
+    <a href={categoryPath(data.category)}>{data.category}</a>
+  </span>
+  <h3><a href={`/blog/${post.id}/`}>{data.title}</a></h3>
+  <p>{data.description}</p>
+  <div class="meta">By <b>{data.author}</b> · {mins} min read</div>
+</article>

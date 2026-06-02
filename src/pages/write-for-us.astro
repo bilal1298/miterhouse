@@ -1,0 +1,55 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title={`Write for Us — ${siteConfig.name}`}
+  description={`Contribute a guest post to ${siteConfig.name}. We publish practical, expert home improvement content.`}
+>
+  <div class="wrap">
+    <article class="prose" style="padding-top:3rem">
+      <h1>Write for Us</h1>
+
+      <p>
+        {siteConfig.name} welcomes guest contributions from experienced home improvement
+        professionals, contractors, interior designers, and knowledgeable DIYers. If you
+        have genuine expertise and can write clearly, we'd like to hear from you. A
+        published post includes a byline and a dofollow link in your author bio.
+      </p>
+
+      <h2>What We Look For</h2>
+
+      <ul>
+        <li>In-depth how-to guides with real steps and specific details</li>
+        <li>Honest cost breakdowns based on actual project experience</li>
+        <li>Tool and material comparisons with practical trade-offs</li>
+        <li>Project planning guides that help homeowners make informed decisions</li>
+        <li>Minimum 1,200 words with genuine depth — not filler to hit a count</li>
+        <li>Original writing; no republished, spun, or unedited AI content</li>
+      </ul>
+
+      <h2>What We Don't Accept</h2>
+
+      <ul>
+        <li>Thinly veiled promotional pieces or product ads dressed as guides</li>
+        <li>Fabricated statistics, invented studies, or made-up prices</li>
+        <li>Generic advice that could apply to any niche without modification</li>
+        <li>Previously published content (including your own site)</li>
+      </ul>
+
+      <h2>Pitch Us</h2>
+
+      <p>
+        Email your pitch to{" "}
+        <a href={`mailto:${siteConfig.email}?subject=Guest Post Pitch`}>
+          {siteConfig.email}
+        </a>{" "}
+        with the subject line <strong>Guest Post Pitch</strong>. Include 2–3 topic ideas
+        with a brief outline and 1–2 links to previously published writing. We'll respond
+        within 5 business days. Please don't send completed articles without pitching
+        first.
+      </p>
+    </article>
+  </div>
+</BaseLayout>

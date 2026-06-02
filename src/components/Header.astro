@@ -1,0 +1,49 @@
+---
+import { siteConfig } from "../../site.config";
+import { categoryPath } from "../utils/helpers";
+
+// Format the current date: "Monday, June 2"
+const now = new Date();
+const formattedDate = now.toLocaleDateString("en-US", {
+  weekday: "long",
+  month: "long",
+  day: "numeric",
+});
+
+// Short category names: take text before " &" or the first word
+function shortCatName(cat: string): string {
+  const beforeAmp = cat.split(" &")[0].split(" &amp;")[0].trim();
+  return beforeAmp;
+}
+
+// Use first 6 categories for nav
+const navCats = siteConfig.categories.slice(0, 6);
+---
+
+<div class="topbar">
+  <div class="wrap">
+    <div>{formattedDate}<span class="dot">·</span>Issue No. 1</div>
+    <div>
+      <a href="/#newsletter">Subscribe</a><span class="dot">·</span><a href="/write-for-us/">Write for us</a>
+    </div>
+  </div>
+</div>
+
+<header class="masthead wrap">
+  <div class="masthead__rule reveal d1">
+    <span>Practical guides for the working homeowner</span>
+  </div>
+  <h1 class="logo reveal d2">
+    <a href="/"><b>{siteConfig.name}</b></a>
+  </h1>
+  <p class="tagline reveal d3">{siteConfig.tagline}</p>
+</header>
+
+<nav class="nav">
+  <div class="wrap">
+    {navCats.map((cat) => (
+      <a href={categoryPath(cat)}>{shortCatName(cat)}</a>
+    ))}
+    <a href="/search/" class="search">Search ⌕</a>
+  </div>
+</nav>

@@ -1,0 +1,62 @@
+---
+import SEO from "../components/SEO.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import JsonLd from "../components/JsonLd.astro";
+import { siteConfig } from "../../site.config";
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  ogType?: string;
+  ogImage?: string;
+  noindex?: boolean;
+}
+
+const props = Astro.props;
+const t = siteConfig.theme;
+
+const orgJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: siteConfig.name,
+  url: siteConfig.siteUrl,
+  description: siteConfig.description,
+  ...(siteConfig.email ? { email: siteConfig.email } : {}),
+};
+---
+
+<!doctype html>
+<html lang={siteConfig.language}>
+  <head>
+    <SEO {...props} />
+    <JsonLd data={orgJsonLd} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+    <!-- Theme tokens — driven entirely by siteConfig.theme; nothing else changes per niche -->
+    <style is:inline set:html={`:root{
+  --paper:${t.paper};
+  --paper-2:${t.paper2};
+  --paper-3:${t.paper3};
+  --ink:${t.ink};
+  --ink-soft:${t.inkSoft};
+  --muted:${t.muted};
+  --line:${t.line};
+  --accent:${t.accent};
+  --accent-deep:${t.accentDeep};
+  --display:${t.fontDisplay};
+  --read:${t.fontRead};
+  --label:${t.fontLabel};
+  --maxw:${t.maxWidth};
+  --gut:clamp(20px,5vw,64px);
+}`}></style>
+  </head>
+  <body>
+    <a class="skip" href="#main" style="position:absolute;left:-9999px;top:0;z-index:9999;padding:8px 16px;background:var(--accent);color:var(--paper);font-family:var(--label);font-size:12px;letter-spacing:.1em;text-transform:uppercase;border-radius:0 0 4px 4px;">Skip to content</a>
+    <Header />
+    <main id="main"><slot /></main>
+    <Footer />
+  </body>
+</html>

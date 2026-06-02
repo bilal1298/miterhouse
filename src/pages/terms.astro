@@ -1,0 +1,65 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title={`Terms of Use — ${siteConfig.name}`}
+  description={`Terms of use for ${siteConfig.name}.`}
+>
+  <div class="wrap">
+    <article class="prose" style="padding-block:3rem">
+      <h1>Terms of Use</h1>
+      <p><em>Last updated: June 2, 2026</em></p>
+
+      <p>
+        By accessing and using {siteConfig.name} ({siteConfig.siteUrl}), you agree to
+        the following terms.
+      </p>
+
+      <h2>Content</h2>
+      <p>
+        All content on this site is provided for informational purposes only. While we
+        strive for accuracy, we make no warranties or guarantees about the completeness,
+        reliability, or suitability of any information.
+      </p>
+      <p>
+        Home improvement projects involve inherent risks. Always consult qualified
+        professionals for electrical, plumbing, and structural work. Follow local
+        building codes and obtain necessary permits.
+      </p>
+
+      <h2>Intellectual Property</h2>
+      <p>
+        All original content, including text, images, and graphics, is the property of
+        {siteConfig.name} and protected by copyright law. You may not reproduce,
+        distribute, or republish our content without written permission.
+      </p>
+
+      <h2>User Conduct</h2>
+      <p>
+        You agree not to use this site for any unlawful purpose or in any way that could
+        damage, disable, or impair the site.
+      </p>
+
+      <h2>Limitation of Liability</h2>
+      <p>
+        {siteConfig.name} shall not be liable for any damages arising from the use of
+        this site or reliance on information provided. This includes direct, indirect,
+        incidental, and consequential damages.
+      </p>
+
+      <h2>Changes</h2>
+      <p>
+        We reserve the right to modify these terms at any time. Continued use of the
+        site constitutes acceptance of updated terms.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions? Email{" "}
+        <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>.
+      </p>
+    </article>
+  </div>
+</BaseLayout>

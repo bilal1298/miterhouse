@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title={`Contact — ${siteConfig.name}`}
+  description={`Get in touch with the ${siteConfig.name} team. Questions, corrections, or partnership inquiries welcome.`}
+>
+  <div class="wrap">
+    <article class="prose" style="padding-block:3rem">
+      <h1>Contact</h1>
+
+      <p>
+        Questions about a project, corrections to an article, or partnership inquiries —
+        we read every email and aim to reply within a few business days.
+      </p>
+
+      <p>
+        Email us at{" "}
+        <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>.
+      </p>
+
+      <h2>Guest Posts</h2>
+
+      <p>
+        Interested in contributing a guide? Check out our{" "}
+        <a href="/write-for-us/">Write for Us</a> page for full guidelines and how to pitch.
+      </p>
+
+      <h2>Corrections</h2>
+
+      <p>
+        If you spot an error in any of our articles — wrong numbers, outdated
+        information, broken links — please email us. We take accuracy seriously and
+        will update the article promptly.
+      </p>
+    </article>
+  </div>
+</BaseLayout>

@@ -1,0 +1,224 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import AuthorBio from "../components/AuthorBio.astro";
+import AdSlot from "../components/AdSlot.astro";
+import PostCard from "../components/PostCard.astro";
+import JsonLd from "../components/JsonLd.astro";
+import { siteConfig } from "../../site.config";
+import { getSortedPosts, relatedPosts, tagPath, categoryPath, formatDate, readingTime } from "../utils/helpers";
+
+interface Props {
+  title: string;
+  description: string;
+  author: string;
+  category: string;
+  tags: string[];
+  date: Date;
+  updated?: Date;
+  faq?: { q: string; a: string }[];
+  slug: string;
+  headings?: { depth: number; slug: string; text: string }[];
+  body?: string;
+}
+
+const {
+  title,
+  description,
+  author,
+  category,
+  tags,
+  date,
+  updated,
+  faq,
+  slug,
+  headings = [],
+  body,
+} = Astro.props;
+
+const dateStr = formatDate(date);
+const categorySlug = category.toLowerCase().replace(/[&\s]+/g, "-").replace(/-+/g, "-");
+
+const authorId =
+  Object.keys(siteConfig.authors).find(
+    (id) => siteConfig.authors[id as keyof typeof siteConfig.authors].name === author
+  ) || siteConfig.defaultAuthor;
+const authorData = siteConfig.authors[authorId as keyof typeof siteConfig.authors];
+
+// Author initials: first letter of each word
+const initials = authorData.name
+  .split(" ")
+  .map((w: string) => w[0])
+  .join("")
+  .toUpperCase();
+
+// Reading time — from body if passed, else estimate from heading count
+const mins = body ? readingTime(body) : Math.max(3, headings.length * 2);
+
+const canonicalUrl = `${siteConfig.siteUrl}/blog/${slug}/`;
+
+// ToC: H2 headings only
+const h2s = headings.filter((h) => h.depth === 2);
+
+// Related posts
+const allPosts = await getSortedPosts();
+// Build a minimal Post-compatible object for relatedPosts()
+const currentPostLike = {
+  id: slug,
+  data: { category, tags, date },
+} as any;
+const related = relatedPosts(currentPostLike, allPosts, 3);
+
+// JSON-LD: Article
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url: canonicalUrl,
+  datePublished: date.toISOString(),
+  ...(updated ? { dateModified: updated.toISOString() } : {}),
+  author: {
+    "@type": "Person",
+    name: authorData.name,
+    url: `${siteConfig.siteUrl}/author/${authorData.slug}/`,
+  },
+  publisher: {
+    "@type": "Organization",
+    name: siteConfig.name,
+    url: siteConfig.siteUrl,
+  },
+};
+
+// JSON-LD: FAQ
+const faqJsonLd =
+  faq && faq.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faq.map((item) => ({
+          "@type": "Question",
+          name: item.q,
+          acceptedAnswer: { "@type": "Answer", text: item.a },
+        })),
+      }
+    : null;
+
+// Share URL helpers (built on canonical)
+const encodedUrl = encodeURIComponent(canonicalUrl);
+const encodedTitle = encodeURIComponent(title);
+---
+
+<BaseLayout title={title} description={description} ogType="article" canonical={canonicalUrl}>
+  <JsonLd data={articleJsonLd} />
+  {faqJsonLd && <JsonLd data={faqJsonLd} />}
+
+  <article class="article wrap">
+
+    <!-- 1. Breadcrumbs -->
+    <Breadcrumbs items={[
+      { label: category, href: categoryPath(category) },
+      { label: title },
+    ]} />
+
+    <!-- 2. Centered article header -->
+    <div class="ahead reveal d1">
+      <span class="kicker">
+        <a href={categoryPath(category)}>{category}</a>
+      </span>
+      <h1>{title}</h1>
+      <p class="dek">{description}</p>
+      <div class="ameta">
+        <span class="av">{initials}</span>
+        <span>By <b><a href={`/author/${authorData.slug}/`}>{authorData.name}</a></b></span>
+        <span class="sep"></span>
+        <time datetime={date.toISOString()}>{dateStr}</time>
+        <span class="sep"></span>
+        <span>{mins} min read</span>
+      </div>
+    </div>
+
+    <!-- 3. Hero image area -->
+    <figure class="ahero reveal d2">
+      <div class="ph"></div>
+      <figcaption class="cap">
+        {category} · Miter House
+      </figcaption>
+    </figure>
+
+    <!-- 4. Body grid: sticky ToC | Prose | (empty right col) -->
+    <div class="abody">
+      {h2s.length > 2 && (
+        <nav class="toc" aria-label="Table of contents">
+          <h6>In this article</h6>
+          {h2s.map((h) => (
+            <a href={`#${h.slug}`}>{h.text}</a>
+          ))}
+        </nav>
+      )}
+
+      <div class="prose">
+        <slot />
+      </div>
+    </div>
+
+    <!-- 5. In-content ad slot -->
+    <AdSlot inline={true} />
+
+    <!-- 6. FAQ accordion -->
+    {faq && faq.length > 0 && (
+      <section class="faq-list" style="max-width:680px;margin-inline:auto;">
+        <h2 style="font-family:var(--display);font-weight:420;font-size:clamp(24px,3vw,32px);margin-bottom:4px;">Frequently Asked Questions</h2>
+        {faq.map((item) => (
+          <details class="faq-item">
+            <summary>{item.q}</summary>
+            <p class="faq-item__answer">{item.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <!-- 7. Tag pills -->
+    {tags.length > 0 && (
+      <div class="tag-cloud" style="max-width:680px;margin:clamp(28px,4vw,44px) auto 0;">
+        {tags.map((tag) => (
+          <a class="pill" href={tagPath(tag)}>{tag}</a>
+        ))}
+      </div>
+    )}
+
+    <!-- 8. Author box -->
+    <AuthorBio authorId={authorId} />
+
+    <!-- 9. Share row -->
+    <div class="share">
+      <span>Share</span>
+      <a href={`mailto:?subject=${encodedTitle}&body=${encodedUrl}`}>Email</a>
+      <a
+        href={canonicalUrl}
+        onclick={`navigator.clipboard&&navigator.clipboard.writeText('${canonicalUrl}');return false;`}
+        aria-label="Copy link"
+      >Copy link</a>
+      <a
+        href={`https://bsky.app/intent/compose?text=${encodedTitle}%20${encodedUrl}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >Bluesky</a>
+    </div>
+
+  </article>
+
+  <!-- 10. Keep reading (related posts) -->
+  {related.length > 0 && (
+    <div class="wrap">
+      <div class="shead">
+        <h2>Keep reading</h2>
+        <a href="/blog/">All stories →</a>
+      </div>
+      <div class="grid3" style="margin-top:clamp(34px,5vw,52px);padding-bottom:clamp(20px,4vw,40px)">
+        {related.map((post) => <PostCard post={post} />)}
+      </div>
+    </div>
+  )}
+
+</BaseLayout>

@@ -1,0 +1,156 @@
+{
+  "name": "Miter House - Content Planner",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "trigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [220, 300]
+    },
+    {
+      "parameters": {
+        "inputSource": "passthrough",
+        "jsonOutput": "{\n  \"pillar\": \"Bathroom Remodeling\",\n  \"n_ideas\": 10\n}",
+        "options": {}
+      },
+      "id": "set-config",
+      "name": "Set Pillar Config",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [420, 300],
+      "notes": "Edit the pillar name and count here to generate ideas for a different cluster"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.dataforseo.com/v3/dataforseo_labs/google/keyword_suggestions/live",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpBasicAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "=[{\"keyword\": \"{{ $json.pillar }}\", \"location_name\": \"United States\", \"language_code\": \"en\", \"limit\": 50, \"filters\": [[\"keyword_info.search_volume\", \">\", 100], \"and\", [\"keyword_info.competition_level\", \"=\", \"LOW\"]], \"order_by\": [\"keyword_info.cpc,desc\"]}]",
+        "options": {}
+      },
+      "id": "dataforseo-keywords",
+      "name": "DataForSEO Keywords",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [620, 300],
+      "credentials": {
+        "httpBasicAuth": {
+          "id": "DATAFORSEO_CREDENTIAL_ID",
+          "name": "DataForSEO"
+        }
+      },
+      "notes": "Pulls keyword suggestions from DataForSEO filtered for LOW competition"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract keyword data from DataForSEO response\nconst response = $input.first().json;\nconst tasks = response.tasks || [];\nconst items = tasks[0]?.result?.[0]?.items || [];\n\n// Format for the AI prompt\nconst keywordData = items.map(item => ({\n  keyword: item.keyword,\n  search_volume: item.keyword_info?.search_volume || 0,\n  cpc: item.keyword_info?.cpc || 0,\n  competition: item.keyword_info?.competition_level || '',\n  difficulty: item.keyword_properties?.keyword_difficulty || 'N/A',\n  intent: item.search_intent_info?.main_intent || ''\n}));\n\nreturn [{ json: { keywordData: JSON.stringify(keywordData, null, 2) } }];"
+      },
+      "id": "parse-keywords",
+      "name": "Parse Keyword Data",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [820, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.googleapis.com/v4/spreadsheets/1ODfJsuHQ2-P7LTUbVr0y9OmjKYTUZ-95EEhJ2Pyv1cc/values/A:A",
+        "authentication": "oAuth2",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{}",
+        "options": {}
+      },
+      "id": "get-existing",
+      "name": "Get Existing Titles",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [820, 500],
+      "notes": "Fetch existing titles from Sheet to avoid duplicates. Replace with Google Sheets node if preferred."
+    },
+    {
+      "parameters": {
+        "model": "claude-sonnet-4-20250514",
+        "messages": {
+          "values": [
+            {
+              "role": "user",
+              "content": "=You are an SEO content strategist for a home improvement blog targeting US homeowners (DIYers and budget-conscious renovators).\nUsing the keyword data provided below (from DataForSEO), generate {{ $('Set Pillar Config').item.json.n_ideas }} blog post ideas that form a topical cluster around the pillar \"{{ $('Set Pillar Config').item.json.pillar }}\" — one comprehensive angle plus supporting long-tail angles. Prioritize low-difficulty, decent-CPC, realistic queries.\n\nDataForSEO keyword data:\n{{ $('Parse Keyword Data').item.json.keywordData }}\n\nAlready covered — do NOT repeat or overlap:\n{{ $('Get Existing Titles').item.json.body?.values?.flat().join(', ') || 'none yet' }}\n\nOutput ONLY a JSON array, nothing else:\n[\n  {\n    \"primary_keyword\": \"<the query this post targets>\",\n    \"suggested_title\": \"<compelling, <60 chars>\",\n    \"intent\": \"informational | how-to | commercial\",\n    \"secondary_keywords\": [\"<3-5 related terms>\"],\n    \"category\": \"<best fit from: Kitchen & Bath Remodeling, Flooring & Tile, Painting & Walls, Outdoor & Landscaping, Plumbing & Electrical, Basement & Attic, Tools & Materials, Budget & Planning>\"\n  }\n]"
+            }
+          ]
+        },
+        "options": {
+          "maxTokens": 4000
+        }
+      },
+      "id": "ai-planner",
+      "name": "AI Generate Ideas",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1,
+      "position": [1060, 300],
+      "notes": "Generates post ideas using the Planner prompt from CLAUDE.md §6.2"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse the AI response into individual rows\nconst aiResponse = $input.first().json.message?.content || $input.first().json.text || '';\nlet ideas;\ntry {\n  // Extract JSON array from response\n  const jsonMatch = aiResponse.match(/\\[\\s*\\{[\\s\\S]*\\}\\s*\\]/);\n  ideas = JSON.parse(jsonMatch ? jsonMatch[0] : aiResponse);\n} catch (e) {\n  throw new Error('Failed to parse AI response as JSON: ' + e.message);\n}\n\nconst pillar = $('Set Pillar Config').first().json.pillar;\n\nreturn ideas.map(idea => ({\n  json: {\n    status: 'idea',\n    pillar,\n    primary_keyword: idea.primary_keyword,\n    search_volume: '',\n    cpc: '',\n    difficulty: '',\n    intent: idea.intent,\n    suggested_title: idea.suggested_title,\n    category: idea.category,\n    slug: idea.suggested_title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60),\n    live_url: '',\n    notes: 'Generated by Planner'\n  }\n}));"
+      },
+      "id": "format-rows",
+      "name": "Format Sheet Rows",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1260, 300]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": "1ODfJsuHQ2-P7LTUbVr0y9OmjKYTUZ-95EEhJ2Pyv1cc",
+        "sheetName": "Sheet1",
+        "columns": {
+          "mappingMode": "autoMapInputData"
+        },
+        "options": {}
+      },
+      "id": "append-sheet",
+      "name": "Append to Sheet",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [1460, 300],
+      "notes": "Appends generated ideas to the content queue"
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{ "node": "Set Pillar Config", "type": "main", "index": 0 }]]
+    },
+    "Set Pillar Config": {
+      "main": [[
+        { "node": "DataForSEO Keywords", "type": "main", "index": 0 },
+        { "node": "Get Existing Titles", "type": "main", "index": 0 }
+      ]]
+    },
+    "DataForSEO Keywords": {
+      "main": [[{ "node": "Parse Keyword Data", "type": "main", "index": 0 }]]
+    },
+    "Parse Keyword Data": {
+      "main": [[{ "node": "AI Generate Ideas", "type": "main", "index": 0 }]]
+    },
+    "Get Existing Titles": {
+      "main": [[{ "node": "AI Generate Ideas", "type": "main", "index": 0 }]]
+    },
+    "AI Generate Ideas": {
+      "main": [[{ "node": "Format Sheet Rows", "type": "main", "index": 0 }]]
+    },
+    "Format Sheet Rows": {
+      "main": [[{ "node": "Append to Sheet", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": [{ "name": "miter-house" }]
+}

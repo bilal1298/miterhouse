@@ -1,0 +1,52 @@
+---
+import { siteConfig } from "../../site.config";
+import { categoryPath } from "../utils/helpers";
+
+const year = new Date().getFullYear();
+const topCats = siteConfig.categories.slice(0, 5);
+---
+
+<footer>
+  <div class="wrap">
+    <div class="fgrid">
+
+      <!-- Brand column -->
+      <div class="fcol">
+        <div class="flogo">{siteConfig.name}</div>
+        <p>{siteConfig.description}</p>
+      </div>
+
+      <!-- Sections column -->
+      <div class="fcol">
+        <h5>Sections</h5>
+        {topCats.map((cat) => (
+          <a href={categoryPath(cat)}>{cat}</a>
+        ))}
+      </div>
+
+      <!-- About column -->
+      <div class="fcol">
+        <h5>About</h5>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+        <a href="/write-for-us/">Write for Us</a>
+        <a href="/write-for-us/">Advertise</a>
+      </div>
+
+      <!-- Legal column -->
+      <div class="fcol">
+        <h5>Legal</h5>
+        <a href="/privacy-policy/">Privacy Policy</a>
+        <a href="/terms/">Terms</a>
+        <a href="/disclosure/">Disclosure</a>
+        <a href="/rss.xml">RSS</a>
+      </div>
+
+    </div>
+
+    <div class="colophon">
+      <span>&copy; {year} {siteConfig.name}</span>
+      <span>Built with Astro · Hosted on Cloudflare</span>
+    </div>
+  </div>
+</footer>

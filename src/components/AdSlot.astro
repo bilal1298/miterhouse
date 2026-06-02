@@ -1,0 +1,30 @@
+---
+import { siteConfig } from "../../site.config";
+
+interface Props {
+  inline?: boolean;
+}
+const { inline = false } = Astro.props;
+
+const pubId = siteConfig.adsense.publisherId;
+const slotId = siteConfig.adsense.slots.inContent;
+const isPlaceholder = pubId.includes("XXXX") || slotId.includes("XXXX");
+---
+
+<div class={`adslot${inline ? " inline" : ""}`}>
+  <div class="tag">Advertisement</div>
+  {isPlaceholder ? (
+    <div class="box">
+      {inline ? "In-content responsive unit" : "Display advertisement"}
+    </div>
+  ) : (
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={pubId}
+      data-ad-slot={slotId}
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    />
+  )}
+</div>

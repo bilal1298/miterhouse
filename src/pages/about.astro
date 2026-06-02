@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+
+const author = siteConfig.authors["daniel-ware"];
+---
+
+<BaseLayout
+  title={`About — ${siteConfig.name}`}
+  description={`Learn about ${siteConfig.name} and why we publish honest, practical home improvement guides.`}
+>
+  <div class="wrap">
+    <article class="prose" style="padding-block:3rem">
+      <h1>About {siteConfig.name}</h1>
+
+      <p>
+        {siteConfig.name} exists because most home improvement advice online is either
+        written by people who've never held a drill or padded with filler to hit a word
+        count. We do things differently.
+      </p>
+
+      <p>
+        Every guide on this site comes from hands-on experience. Real costs, real steps,
+        real trade-offs — including the mistakes so you don't have to make them yourself.
+      </p>
+
+      <h2>Who We Are</h2>
+
+      <p>
+        <strong>{author.name}</strong> — {author.bio}
+      </p>
+
+      <h2>What We Cover</h2>
+
+      <p>
+        We focus on the topics that matter most to homeowners tackling projects
+        themselves or trying to budget smartly for professional help:
+      </p>
+
+      <ul>
+        {siteConfig.categories.map((cat) => <li>{cat}</li>)}
+      </ul>
+
+      <h2>Our Standards</h2>
+
+      <p>
+        We never fabricate cost numbers, invent statistics, or recommend products we
+        haven't researched. If we're unsure about something, we say so. Every article
+        is written to be the guide we wish we'd found when we started a project.
+      </p>
+
+      <h2>Get in Touch</h2>
+
+      <p>
+        Questions, corrections, or collaboration ideas? Email us at{" "}
+        <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a> or visit our{" "}
+        <a href="/contact/">contact page</a>.
+      </p>
+    </article>
+  </div>
+</BaseLayout>

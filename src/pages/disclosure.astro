@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title={`Disclosure — ${siteConfig.name}`}
+  description={`How ${siteConfig.name} earns revenue and our commitment to editorial integrity.`}
+>
+  <div class="wrap">
+    <article class="prose" style="padding-block:3rem">
+      <h1>Disclosure</h1>
+      <p><em>Last updated: June 2, 2026</em></p>
+
+      <p>
+        Transparency matters to us. Here's how {siteConfig.name} earns revenue and how
+        that does (and doesn't) affect our content.
+      </p>
+
+      <h2>How We Make Money</h2>
+
+      <h3>Display Advertising</h3>
+      <p>
+        We display ads through Google AdSense (and potentially other ad networks in the
+        future). We earn a small amount when visitors view or click on these ads. The
+        presence of ads does not influence our editorial content.
+      </p>
+
+      <h3>Guest Posts</h3>
+      <p>
+        We accept paid guest contributions from qualified professionals and businesses in
+        the home improvement space. All guest posts are clearly attributed to their
+        authors. Guest authors may receive a dofollow link in their author bio.
+      </p>
+      <p>
+        We maintain full editorial control over all published content. We do not guarantee
+        publication, and we reject submissions that don't meet our quality standards
+        regardless of payment.
+      </p>
+
+      <h2>What This Means for You</h2>
+
+      <ul>
+        <li>Our editorial opinions are never for sale.</li>
+        <li>We never fabricate reviews, statistics, or recommendations.</li>
+        <li>Sponsored or guest content is always clearly labeled.</li>
+        <li>Ad placement does not influence which topics we cover or what we recommend.</li>
+      </ul>
+
+      <h2>Questions?</h2>
+      <p>
+        If you have questions about our revenue model or editorial practices, email us at{" "}
+        <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>.
+      </p>
+    </article>
+  </div>
+</BaseLayout>
