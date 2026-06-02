@@ -158,7 +158,7 @@ a { color: inherit; text-decoration: none; }
   font-family: var(--display);
   font-weight: 600;
   font-optical-sizing: auto;
-  font-size: clamp(46px, 11vw, 128px);
+  font-size: clamp(32px, 7.7vw, 90px);
   line-height: .92;
   letter-spacing: .02em;
   margin: .12em 0 .08em;
