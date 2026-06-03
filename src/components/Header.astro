@@ -1,8 +1,7 @@
 ---
 import { siteConfig } from "../../site.config";
-import { categoryPath } from "../utils/helpers";
+import { categoryPath, getSortedPosts } from "../utils/helpers";
 
-// Format the current date: "Monday, June 2"
 const now = new Date();
 const formattedDate = now.toLocaleDateString("en-US", {
   weekday: "long",
@@ -10,14 +9,19 @@ const formattedDate = now.toLocaleDateString("en-US", {
   day: "numeric",
 });
 
-// Short category names: take text before " &" or the first word
 function shortCatName(cat: string): string {
   const beforeAmp = cat.split(" &")[0].split(" &amp;")[0].trim();
   return beforeAmp;
 }
 
-// Use first 6 categories for nav
-const navCats = siteConfig.categories.slice(0, 6);
+const posts = await getSortedPosts();
+const catCounts = new Map<string, number>();
+for (const cat of siteConfig.categories) {
+  catCounts.set(cat, posts.filter((p) => p.data.category === cat).length);
+}
+const navCats = [...siteConfig.categories]
+  .sort((a, b) => (catCounts.get(b) || 0) - (catCounts.get(a) || 0))
+  .slice(0, 6);
 ---
 
 <div class="topbar">

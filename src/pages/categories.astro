@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getSortedPosts, categoryPath } from "../utils/helpers";
+import { siteConfig } from "../../site.config";
+
+const posts = await getSortedPosts();
+
+const categories = siteConfig.categories.map((cat) => {
+  const count = posts.filter((p) => p.data.category === cat).length;
+  const description =
+    (siteConfig.categoryDescriptions as Record<string, string>)[cat] ||
+    `Browse all ${cat.toLowerCase()} guides on ${siteConfig.name}.`;
+  return { name: cat, count, description, path: categoryPath(cat) };
+}).sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout
+  title={`All Categories — ${siteConfig.name}`}
+  description={`Browse all ${siteConfig.categories.length} home improvement categories on ${siteConfig.name}.`}
+>
+  <div class="wrap">
+    <section class="page-head">
+      <p class="eyebrow">Browse by topic</p>
+      <h1>Categories</h1>
+      <p>Every topic we cover, organized by category.</p>
+    </section>
+
+    <div class="cat-grid">
+      {categories.map((cat) => (
+        <a href={cat.path} class="cat-card">
+          <h2>{cat.name}</h2>
+          <p>{cat.description}</p>
+          <span class="cat-count">
+            {cat.count} {cat.count === 1 ? "article" : "articles"}
+          </span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
