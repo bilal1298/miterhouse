@@ -12,41 +12,68 @@ import { siteConfig } from "../../site.config";
       <h1>Write for Us</h1>
 
       <p>
-        {siteConfig.name} accepts guest posts from home improvement professionals,
-        contractors, interior designers, and experienced DIYers. Each published post
-        includes a permanent byline and a dofollow link in your author bio.
+        Have hands-on experience with home improvement projects? {siteConfig.name} welcomes
+        guest contributions from contractors, interior designers, remodelers, and experienced
+        DIYers who want to share practical tips, project insights, and real-world advice with
+        our community of homeowners.
       </p>
 
-      <h2>What You Get</h2>
+      <h2>Why Contribute to {siteConfig.name}?</h2>
 
       <ul>
-        <li>A permanent dofollow backlink in your author bio</li>
-        <li>A dedicated author profile page on {siteConfig.name}</li>
-        <li>Exposure to our audience of DIYers and budget-conscious homeowners</li>
+        <li><strong>Reach an engaged audience</strong> — our readers are DIYers and budget-conscious homeowners actively planning their next project</li>
+        <li><strong>Build your authority</strong> — position yourself as a trusted voice in the home improvement space</li>
+        <li><strong>Get a permanent dofollow backlink</strong> — every published post includes an author bio with a link back to your site</li>
+        <li><strong>Dedicated author profile</strong> — your own page on {siteConfig.name} showcasing all your contributions</li>
       </ul>
 
-      <h2>Content Guidelines</h2>
-
-      <ul>
-        <li>In-depth how-to guides with real steps and specific details</li>
-        <li>Honest cost breakdowns based on actual project experience</li>
-        <li>Tool and material comparisons with practical trade-offs</li>
-        <li>Project planning guides that help homeowners make informed decisions</li>
-        <li>Minimum 1,200 words with genuine depth — not filler to hit a count</li>
-        <li>Original writing only; no republished, spun, or unedited AI content</li>
-        <li>No fabricated statistics, invented studies, or made-up prices</li>
-      </ul>
-
-      <h2>How It Works</h2>
+      <h2>Topics We Accept</h2>
 
       <p>
-        Email{" "}
-        <a href={`mailto:${siteConfig.email}?subject=Guest Post Inquiry`}>
+        Guest posts covering any of our core topics are welcome:
+      </p>
+
+      <ul>
+        {siteConfig.categories.map((cat) => <li>{cat}</li>)}
+      </ul>
+
+      <p>
+        We're especially interested in step-by-step how-to guides, honest cost breakdowns
+        from real projects, tool and material comparisons with practical trade-offs, and
+        project planning advice that helps homeowners make informed decisions.
+      </p>
+
+      <h2>Submission Requirements</h2>
+
+      <ul>
+        <li>1,200–2,500 words of original, unpublished content</li>
+        <li>Clear H2/H3 headings with short, scannable paragraphs</li>
+        <li>Practical, conversational tone — write like you're explaining to a neighbor</li>
+        <li>Up to 2 relevant outbound links (subject to editorial review)</li>
+        <li>100% original work — no republished, spun, or unedited AI-generated content</li>
+        <li>No fabricated statistics, invented studies, or made-up cost figures</li>
+        <li>No keyword stuffing or thinly veiled promotional pieces</li>
+      </ul>
+
+      <h2>How to Submit</h2>
+
+      <p>
+        Send your submission to{" "}
+        <a href={`mailto:${siteConfig.email}?subject=Guest Post Submission – [Your Topic]`}>
           {siteConfig.email}
         </a>{" "}
-        with the subject line <strong>Guest Post Inquiry</strong>. Let us know your
-        topic and a link to your site or previously published work. We'll reply within
-        5 business days with next steps and pricing.
+        with the subject line <strong>Guest Post Submission – [Your Topic]</strong>. Please include:
+      </p>
+
+      <ul>
+        <li>Your completed article (Google Doc or Word format preferred)</li>
+        <li>A short bio (2–3 sentences) and a link to your website</li>
+        <li>Any relevant images (royalty-free, minimum 1200×630px)</li>
+      </ul>
+
+      <p>
+        Our editorial team will review your submission and get back to you within
+        5–7 business days.
       </p>
     </article>
   </div>
