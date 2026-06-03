@@ -26,6 +26,7 @@ const { Content, headings } = await render(post);
   slug={post.id}
   headings={headings}
   body={post.body}
+  hero_image={post.data.hero_image}
 >
   <Content />
 </PostLayout>

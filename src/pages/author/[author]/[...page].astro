@@ -6,6 +6,7 @@ import Pagination from "../../../components/Pagination.astro";
 import JsonLd from "../../../components/JsonLd.astro";
 import { getSortedPosts } from "../../../utils/helpers";
 import { siteConfig } from "../../../../site.config";
+import { getCollection } from "astro:content";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getSortedPosts();
@@ -22,7 +23,11 @@ export const getStaticPaths = (async ({ paginate }) => {
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
-const { author, totalPosts } = Astro.props;
+const { authorId, author, totalPosts } = Astro.props;
+
+const allAuthors = await getCollection("authors");
+const authorEntry = allAuthors.find((a) => a.id === authorId);
+const avatar = authorEntry?.data.avatar || author.avatar;
 
 const initials = author.name
   .split(" ")
@@ -53,12 +58,20 @@ const personJsonLd = {
   <div class="wrap">
     <section class="page-head">
       <p class="eyebrow">Author</p>
-      <div
-        class="av"
-        style="width:80px;height:80px;font-size:1.8rem;margin:0 auto 1rem;border-radius:50%;background:var(--accent);color:var(--paper);display:grid;place-items:center;font-family:var(--label);font-weight:700;"
-      >
-        {initials}
-      </div>
+      {avatar ? (
+        <img
+          src={avatar}
+          alt={author.name}
+          style="width:80px;height:80px;margin:0 auto 1rem;border-radius:50%;object-fit:cover;"
+        />
+      ) : (
+        <div
+          class="av"
+          style="width:80px;height:80px;font-size:1.8rem;margin:0 auto 1rem;border-radius:50%;background:var(--accent);color:var(--paper);display:grid;place-items:center;font-family:var(--label);font-weight:700;"
+        >
+          {initials}
+        </div>
+      )}
       <h1>{author.name}</h1>
       <p style="max-width:52ch;margin-inline:auto;">{author.bio}</p>
     </section>

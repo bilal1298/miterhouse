@@ -17,7 +17,8 @@ const categoryPosts = posts.slice(4, 7);
 // Pick first category for the category section header
 const firstCategory = siteConfig.categories[0];
 
-// Derive author initials for the byline avatar
+const allAuthors = await getCollection("authors");
+
 function initials(name: string) {
   return name
     .split(" ")
@@ -25,6 +26,15 @@ function initials(name: string) {
     .join("")
     .toUpperCase()
     .slice(0, 2);
+}
+
+function getAuthorAvatar(authorName: string): string | undefined {
+  const authorId = Object.keys(siteConfig.authors).find(
+    (id) => siteConfig.authors[id as keyof typeof siteConfig.authors].name === authorName
+  );
+  if (!authorId) return undefined;
+  const entry = allAuthors.find((a) => a.id === authorId);
+  return entry?.data.avatar || siteConfig.authors[authorId as keyof typeof siteConfig.authors].avatar;
 }
 
 const webSiteJsonLd = {
@@ -53,14 +63,22 @@ const webSiteJsonLd = {
           }</h1>
           <p class="hero__dek">{featured.data.description}</p>
           <div class="byline">
-            <span class="av">{initials(featured.data.author)}</span>
+            {getAuthorAvatar(featured.data.author) ? (
+              <img src={getAuthorAvatar(featured.data.author)} alt={featured.data.author} class="av av--img" />
+            ) : (
+              <span class="av">{initials(featured.data.author)}</span>
+            )}
             <span>By <b>{featured.data.author}</b></span>
             <span class="sep"></span>
             <span>{readingTime(featured.body)} min read</span>
           </div>
         </div>
         <div class="hero__media reveal d3">
-          <div class="ph"></div>
+          {featured.data.hero_image ? (
+            <img src={featured.data.hero_image} alt={featured.data.title} loading="eager" />
+          ) : (
+            <div class="ph"></div>
+          )}
         </div>
       </a>
     </section>

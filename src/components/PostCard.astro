@@ -13,7 +13,11 @@ const mins = readingTime(post.body);
 
 <article class="card">
   <a href={`/blog/${post.id}/`} aria-label={data.title}>
-    <div class="ph"></div>
+    {data.hero_image ? (
+      <img src={data.hero_image} alt={data.title} loading="lazy" />
+    ) : (
+      <div class="ph"></div>
+    )}
   </a>
   <span class="kicker">
     <a href={categoryPath(data.category)}>{data.category}</a>

@@ -1,4 +1,5 @@
 ---
+import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
 import { authorPath } from "../utils/helpers";
 
@@ -8,6 +9,10 @@ interface Props {
 const { authorId } = Astro.props;
 const author = siteConfig.authors[authorId as keyof typeof siteConfig.authors];
 if (!author) return;
+
+const authors = await getCollection("authors");
+const authorEntry = authors.find((a) => a.id === authorId);
+const avatar = authorEntry?.data.avatar || author.avatar;
 
 const initials = author.name
   .split(" ")
@@ -20,7 +25,11 @@ const hasExternalLink = author.externalUrl && author.externalUrl.length > 0;
 ---
 
 <div class="authorbox">
-  <span class="av">{initials}</span>
+  {avatar ? (
+    <img src={avatar} alt={author.name} class="av av--img" />
+  ) : (
+    <span class="av">{initials}</span>
+  )}
   <div>
     <div class="eyebrow">About the author</div>
     <h4>{author.name}</h4>

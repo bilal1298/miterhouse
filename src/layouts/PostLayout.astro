@@ -7,6 +7,7 @@ import PostCard from "../components/PostCard.astro";
 import JsonLd from "../components/JsonLd.astro";
 import { siteConfig } from "../../site.config";
 import { getSortedPosts, relatedPosts, tagPath, categoryPath, formatDate, readingTime } from "../utils/helpers";
+import { getCollection } from "astro:content";
 
 interface Props {
   title: string;
@@ -20,6 +21,7 @@ interface Props {
   slug: string;
   headings?: { depth: number; slug: string; text: string }[];
   body?: string;
+  hero_image?: string;
 }
 
 const {
@@ -34,6 +36,7 @@ const {
   slug,
   headings = [],
   body,
+  hero_image,
 } = Astro.props;
 
 const dateStr = formatDate(date);
@@ -45,7 +48,10 @@ const authorId =
   ) || siteConfig.defaultAuthor;
 const authorData = siteConfig.authors[authorId as keyof typeof siteConfig.authors];
 
-// Author initials: first letter of each word
+const allAuthors = await getCollection("authors");
+const authorEntry = allAuthors.find((a) => a.id === authorId);
+const authorAvatar = authorEntry?.data.avatar || authorData.avatar;
+
 const initials = authorData.name
   .split(" ")
   .map((w: string) => w[0])
@@ -129,7 +135,11 @@ const encodedTitle = encodeURIComponent(title);
       <h1>{title}</h1>
       <p class="dek">{description}</p>
       <div class="ameta">
-        <span class="av">{initials}</span>
+        {authorAvatar ? (
+          <img src={authorAvatar} alt={authorData.name} class="av av--img" />
+        ) : (
+          <span class="av">{initials}</span>
+        )}
         <span>By <b><a href={`/author/${authorData.slug}/`}>{authorData.name}</a></b></span>
         <span class="sep"></span>
         <time datetime={date.toISOString()}>{dateStr}</time>
@@ -140,7 +150,11 @@ const encodedTitle = encodeURIComponent(title);
 
     <!-- 3. Hero image area -->
     <figure class="ahero reveal d2">
-      <div class="ph"></div>
+      {hero_image ? (
+        <img src={hero_image} alt={title} loading="eager" />
+      ) : (
+        <div class="ph"></div>
+      )}
       <figcaption class="cap">
         {category} · Miter House
       </figcaption>
