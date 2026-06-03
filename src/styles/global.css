@@ -231,6 +231,10 @@ a { color: inherit; text-decoration: none; }
   padding-bottom: clamp(34px, 6vw, 64px);
   border-bottom: 1px solid var(--line);
 }
+a.hero__grid {
+  text-decoration: none;
+  color: inherit;
+}
 .hero__grid {
   display: grid;
   grid-template-columns: 1.05fr .95fr;

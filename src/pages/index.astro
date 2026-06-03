@@ -41,7 +41,7 @@ const webSiteJsonLd = {
 
   {featured && (
     <section class="hero wrap">
-      <div class="hero__grid">
+      <a href={`/blog/${featured.id}/`} class="hero__grid">
         <div class="hero__body reveal d2">
           <span class="kicker">{featured.data.category}</span>
           <h1>{featured.data.title.split(" ").length > 4
@@ -62,7 +62,7 @@ const webSiteJsonLd = {
         <div class="hero__media reveal d3">
           <div class="ph"></div>
         </div>
-      </div>
+      </a>
     </section>
   )}
 
@@ -108,10 +108,6 @@ const webSiteJsonLd = {
       </aside>
     </div>
 
-    <div class="adslot">
-      <div class="tag">Advertisement</div>
-      <div class="box">Leaderboard / responsive ad unit</div>
-    </div>
 
     {categoryPosts.length > 0 && (
       <>

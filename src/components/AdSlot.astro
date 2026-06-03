@@ -11,13 +11,9 @@ const slotId = siteConfig.adsense.slots.inContent;
 const isPlaceholder = pubId.includes("XXXX") || slotId.includes("XXXX");
 ---
 
-<div class={`adslot${inline ? " inline" : ""}`}>
-  <div class="tag">Advertisement</div>
-  {isPlaceholder ? (
-    <div class="box">
-      {inline ? "In-content responsive unit" : "Display advertisement"}
-    </div>
-  ) : (
+{!isPlaceholder && (
+  <div class={`adslot${inline ? " inline" : ""}`}>
+    <div class="tag">Advertisement</div>
     <ins
       class="adsbygoogle"
       style="display:block"
@@ -26,5 +22,5 @@ const isPlaceholder = pubId.includes("XXXX") || slotId.includes("XXXX");
       data-ad-format="auto"
       data-full-width-responsive="true"
     />
-  )}
-</div>
+  </div>
+)}
