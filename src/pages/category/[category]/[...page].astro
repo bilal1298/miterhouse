@@ -1,0 +1,60 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import Pagination from "../../../components/Pagination.astro";
+import { getSortedPosts, slugify } from "../../../utils/helpers";
+import { siteConfig } from "../../../../site.config";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getSortedPosts();
+  return siteConfig.categories.flatMap((cat) => {
+    const filtered = posts.filter((p) => p.data.category === cat);
+    return paginate(filtered, {
+      params: { category: slugify(cat) },
+      props: { category: cat, totalPosts: filtered.length },
+      pageSize: siteConfig.postsPerPage,
+    });
+  });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const { category, totalPosts } = Astro.props;
+const description =
+  (siteConfig.categoryDescriptions as Record<string, string>)[category] ||
+  `Browse all ${category.toLowerCase()} guides on ${siteConfig.name}.`;
+---
+
+<BaseLayout
+  title={page.currentPage > 1 ? `${category} — Page ${page.currentPage} — ${siteConfig.name}` : `${category} — ${siteConfig.name}`}
+  description={description}
+  noindex={page.currentPage > 1}
+>
+  <div class="wrap">
+    <section class="page-head">
+      <p class="eyebrow">Category</p>
+      <h1>{category}</h1>
+      <p>{description}</p>
+      <p class="muted" style="margin-top:.75rem;font-family:var(--label);font-size:.85rem;">
+        {totalPosts} {totalPosts === 1 ? "article" : "articles"}
+      </p>
+    </section>
+
+    {page.data.length > 0 ? (
+      <div class="grid3">
+        {page.data.map((post) => (
+          <PostCard post={post} />
+        ))}
+      </div>
+    ) : (
+      <p class="muted" style="text-align:center;padding:3rem 0;">No articles in this category yet.</p>
+    )}
+
+    <Pagination
+      prevUrl={page.url.prev}
+      nextUrl={page.url.next}
+      currentPage={page.currentPage}
+      lastPage={page.lastPage}
+    />
+  </div>
+</BaseLayout>

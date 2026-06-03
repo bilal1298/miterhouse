@@ -1,0 +1,89 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import Pagination from "../../../components/Pagination.astro";
+import JsonLd from "../../../components/JsonLd.astro";
+import { getSortedPosts } from "../../../utils/helpers";
+import { siteConfig } from "../../../../site.config";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getSortedPosts();
+  return Object.entries(siteConfig.authors).flatMap(([id, author]) => {
+    const filtered = posts
+      .filter((p) => p.data.author === author.name)
+      .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+    return paginate(filtered, {
+      params: { author: author.slug },
+      props: { authorId: id, author, totalPosts: filtered.length },
+      pageSize: siteConfig.postsPerPage,
+    });
+  });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const { author, totalPosts } = Astro.props;
+
+const initials = author.name
+  .split(" ")
+  .map((n: string) => n[0])
+  .join("")
+  .toUpperCase()
+  .slice(0, 2);
+
+const firstName = author.name.split(" ")[0];
+
+const personJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: author.name,
+  url: `${siteConfig.siteUrl}/author/${author.slug}/`,
+  description: author.bio,
+  ...(author.externalUrl ? { sameAs: [author.externalUrl] } : {}),
+};
+---
+
+<BaseLayout
+  title={page.currentPage > 1 ? `${author.name} — Page ${page.currentPage} — ${siteConfig.name}` : `${author.name} — ${siteConfig.name}`}
+  description={`Articles by ${author.name} on ${siteConfig.name}. ${author.bio.split(".")[0]}.`.slice(0, 160)}
+  noindex={page.currentPage > 1}
+>
+  {page.currentPage === 1 && <JsonLd data={personJsonLd} />}
+
+  <div class="wrap">
+    <section class="page-head">
+      <p class="eyebrow">Author</p>
+      <div
+        class="av"
+        style="width:80px;height:80px;font-size:1.8rem;margin:0 auto 1rem;border-radius:50%;background:var(--accent);color:var(--paper);display:grid;place-items:center;font-family:var(--label);font-weight:700;"
+      >
+        {initials}
+      </div>
+      <h1>{author.name}</h1>
+      <p style="max-width:52ch;margin-inline:auto;">{author.bio}</p>
+    </section>
+
+    {page.data.length > 0 ? (
+      <>
+        <div class="shead">
+          <h2>Articles by {firstName}</h2>
+          <a href="/blog/">All stories &rarr;</a>
+        </div>
+        <div class="grid3">
+          {page.data.map((post: any) => (
+            <PostCard post={post} />
+          ))}
+        </div>
+      </>
+    ) : (
+      <p class="muted" style="text-align:center;padding:2rem 0;">Articles by {author.name} coming soon.</p>
+    )}
+
+    <Pagination
+      prevUrl={page.url.prev}
+      nextUrl={page.url.next}
+      currentPage={page.currentPage}
+      lastPage={page.lastPage}
+    />
+  </div>
+</BaseLayout>
