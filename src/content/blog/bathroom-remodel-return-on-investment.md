@@ -119,4 +119,4 @@ Where it does make sense: correcting a functional deficiency that's dragging you
 
 The worst outcome is a $40,000 gut renovation six months before a planned sale in a $320,000 neighborhood. You won't recover it, and you'll wish you'd done a $4,000 refresh instead.
 
-Do the math for your specific situation — your market, your timeline, your home value, and the actual scope of work needed. That number will be more useful than any national average.
+Do the math for your specific situation — your market, your timeline, your home value, and the actual scope of work needed. That number will be more useful than any national average. For more on the real estate angle, see [does a bathroom renovation increase home value?](/blog/does-bathroom-renovation-increase-home-value/) — it covers what buyers and agents actually look for.

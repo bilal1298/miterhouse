@@ -134,4 +134,6 @@ A contractor quoted the same scope at $7,800. That $5,200 difference paid for ab
 
 If you're handy enough to watch a YouTube tutorial and follow it carefully, a DIY bathroom remodel saves serious money. Budget $3,000-$5,000 for a standard full bathroom with decent materials. Add $1,000-$2,000 if you want premium tile or fixtures.
 
-The key is being honest about what you can and can't do. Tile work, painting, vanity installation, and demolition are learnable. Electrical panels, drain relocations, and structural changes are not weekend projects.
+The key is being honest about what you can and can't do. [Tile work](/blog/bathroom-tile-installation-cost/), painting, [vanity installation](/blog/bathroom-vanity-installation-cost/), and demolition are learnable. Electrical panels, drain relocations, and structural changes are not weekend projects.
+
+If you're weighing DIY against hiring out, our [full bathroom remodel cost guide](/blog/bathroom-remodel-cost-estimate/) breaks down what contractors charge for the same work. For smaller spaces, see our [small bathroom remodel cost](/blog/small-bathroom-remodel-cost/) breakdown. And if you need help paying for it, we've compared [6 financing options](/blog/bathroom-remodel-financing-options/) side by side.

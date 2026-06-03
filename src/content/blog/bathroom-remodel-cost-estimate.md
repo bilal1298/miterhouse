@@ -162,3 +162,22 @@ Get three quotes minimum. In most markets, the spread between the lowest and hig
 A bathroom remodel in 2026 is a $10,000–$15,000 project for most homeowners doing a proper full renovation with a contractor. Cosmetic-only updates with the existing layout and fixtures kept in place come in under $6,000. Gut remodels that touch plumbing and use premium materials start at $18,000 and have no real ceiling.
 
 The number that matters most isn't the total — it's the scope. Define exactly what you're changing before you talk to contractors or set a budget. "Remodel my bathroom" isn't a scope. "Replace the shower surround with subway tile, install a new 36-inch vanity with quartz top, replace the toilet, and re-tile the floor" is a scope — and it's one you can price accurately.
+
+## Dive Deeper
+
+We've broken down every angle of bathroom remodeling costs in detail:
+
+- **[DIY Bathroom Remodel Cost](/blog/diy-bathroom-remodel-cost/)** — what you'll actually spend doing it yourself
+- **[Small Bathroom Remodel Cost](/blog/small-bathroom-remodel-cost/)** — pricing for 5x8 baths, half baths, and powder rooms
+- **[Master Bathroom Remodel Cost](/blog/master-bathroom-remodel-cost/)** — costs by project tier for larger spaces
+- **[Walk-In Shower Remodel Cost](/blog/walk-in-shower-remodel-cost/)** — tub-to-shower conversions and custom tile
+- **[Bathroom Vanity Installation Cost](/blog/bathroom-vanity-installation-cost/)** — DIY vs. hiring a plumber
+- **[Bathroom Tile Installation Cost](/blog/bathroom-tile-installation-cost/)** — material and labor by tile type
+- **[Bathroom Remodel Cost Breakdown](/blog/bathroom-remodel-cost-breakdown/)** — where the money goes, category by category
+- **[Bathroom Remodel Timeline](/blog/bathroom-remodel-timeline/)** — realistic week-by-week schedules
+- **[How to Finance a Bathroom Remodel](/blog/bathroom-remodel-financing-options/)** — 6 financing options compared
+- **[Bathroom Remodel ROI](/blog/bathroom-remodel-return-on-investment/)** — what you'll get back at resale
+- **[Does a Bathroom Renovation Increase Home Value?](/blog/does-bathroom-renovation-increase-home-value/)** — the real estate perspective
+- **[Mobile Home Bathroom Remodel](/blog/mobile-home-bathroom-remodel/)** — costs and unique challenges
+- **[Budget Bathroom Remodel Ideas](/blog/budget-bathroom-remodel-ideas/)** — 15 upgrades that look expensive
+- **[How Long Does a Small Bathroom Remodel Take?](/blog/how-long-does-a-small-bathroom-remodel-take/)** — realistic timelines for smaller spaces

@@ -180,4 +180,4 @@ The work itself on a small bathroom takes 1–2 weeks. Getting a contractor sche
 
 Order tile, vanities, and specialty fixtures before demo begins. A shower door that takes three weeks to arrive will idle a crew and push your timeline regardless of how fast everything else moves.
 
-The remodel itself is the easy part. The planning, sequencing, and material selection is where most projects go sideways — and where doing your homework upfront makes the difference between a smooth job and a stressful one.
+The remodel itself is the easy part. The planning, sequencing, and material selection is where most projects go sideways — and where doing your homework upfront makes the difference between a smooth job and a stressful one. For a detailed timeline breakdown, see [how long does a small bathroom remodel take?](/blog/how-long-does-a-small-bathroom-remodel-take/). And if you're working on a manufactured home, the rules are different — check our [mobile home bathroom remodel](/blog/mobile-home-bathroom-remodel/) guide for the unique challenges and costs.

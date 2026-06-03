@@ -60,7 +60,7 @@ This is where contractors catch homeowners off guard. A proper shower needs ceme
 A 3×6 subway tile in a 36"×36" shower stall: tile material runs $2–$5/sq ft, but installation (including the mortar, grout, and labor) runs $10–$20/sq ft. Total for shower walls: **$800–$1,400**.
 
 **Tile — floor**
-Porcelain floor tile at 55 sq ft, installed: **$600–$1,100** depending on pattern complexity. Herringbone costs more than straight lay; both cost more than vinyl plank.
+Porcelain floor tile at 55 sq ft, installed: **$600–$1,100** depending on pattern complexity. Herringbone costs more than straight lay; both cost more than vinyl plank. For a full breakdown by tile type, see our [bathroom tile installation cost](/blog/bathroom-tile-installation-cost/) guide.
 
 **Vanity (supply only)**
 A 36" vanity with a pre-mounted countertop from a supplier: **$400–$1,200**. The contractor installs it and typically charges a flat install fee of $150–$300 on top.

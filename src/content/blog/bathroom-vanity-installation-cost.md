@@ -168,3 +168,5 @@ If you're installing a new vanity as part of a broader bathroom overhaul, the la
 These ranges assume mid-range materials. Bargain-hunting at a Habitat ReStore or opting for a prefab vanity from a big-box store pulls costs down; custom cabinetry and designer hardware pushes them up significantly.
 
 The single biggest lever you have is whether your drain and supply lines need to move. If they don't, a vanity replacement is one of the more accessible DIY projects in a bathroom. If they do, be honest about what that work involves before you commit to the DIY path.
+
+A vanity swap is often part of a larger project. If you're planning a full remodel, our [bathroom remodel cost estimate](/blog/bathroom-remodel-cost-estimate/) covers every line item. For more ideas on high-impact, low-cost upgrades, see [15 budget bathroom remodel ideas](/blog/budget-bathroom-remodel-ideas/) that look expensive.
