@@ -17,13 +17,13 @@ export const siteConfig = {
   // ── Categories ─────────────────────────────────────────────────
   categories: [
     "Kitchen & Bath Remodeling",
+    "Budget & Planning",
     "Flooring & Tile",
     "Painting & Walls",
     "Outdoor & Landscaping",
     "Plumbing & Electrical",
     "Basement & Attic",
     "Tools & Materials",
-    "Budget & Planning",
   ] as const,
 
   categoryDescriptions: {

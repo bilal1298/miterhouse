@@ -41,6 +41,7 @@ const navCats = siteConfig.categories.slice(0, 6);
 
 <nav class="nav">
   <div class="wrap">
+    <a href="/blog/">Journal</a>
     {navCats.map((cat) => (
       <a href={categoryPath(cat)}>{shortCatName(cat)}</a>
     ))}
