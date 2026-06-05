@@ -1,7 +1,7 @@
 ---
 title: "How to Finance a Bathroom Remodel: 6 Smart Options"
 description: "Comparing the 6 best bathroom remodel financing options — rates, terms, pros, and cons — so you can choose the right fit before work starts."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Budget & Planning"
 tags: ["bathroom remodel", "financing", "home equity", "personal loan", "HELOC", "home improvement loans"]
 date: 2026-05-19

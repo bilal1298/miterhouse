@@ -4,53 +4,51 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import PostCard from "../../../components/PostCard.astro";
 import Pagination from "../../../components/Pagination.astro";
 import JsonLd from "../../../components/JsonLd.astro";
-import { getSortedPosts } from "../../../utils/helpers";
+import { getSortedPosts, getAllAuthors } from "../../../utils/helpers";
 import { siteConfig } from "../../../../site.config";
-import { getCollection } from "astro:content";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getSortedPosts();
-  return Object.entries(siteConfig.authors).flatMap(([id, author]) => {
+  const authors = await getAllAuthors();
+  return authors.flatMap((author) => {
     const filtered = posts
-      .filter((p) => p.data.author === author.name)
+      .filter((p) => p.data.author === author.id)
       .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
     return paginate(filtered, {
-      params: { author: author.slug },
-      props: { authorId: id, author, totalPosts: filtered.length },
+      params: { author: author.id },
+      props: { authorData: author.data, authorSlug: author.id, totalPosts: filtered.length },
       pageSize: siteConfig.postsPerPage,
     });
   });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
-const { authorId, author, totalPosts } = Astro.props;
+const { authorData, authorSlug, totalPosts } = Astro.props;
 
-const allAuthors = await getCollection("authors");
-const authorEntry = allAuthors.find((a) => a.id === authorId);
-const avatar = authorEntry?.data.avatar || author.avatar;
+const avatar = authorData.avatar;
 
-const initials = author.name
+const initials = authorData.name
   .split(" ")
   .map((n: string) => n[0])
   .join("")
   .toUpperCase()
   .slice(0, 2);
 
-const firstName = author.name.split(" ")[0];
+const firstName = authorData.name.split(" ")[0];
 
 const personJsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
-  name: author.name,
-  url: `${siteConfig.siteUrl}/author/${author.slug}/`,
-  description: author.bio,
-  ...(author.externalUrl ? { sameAs: [author.externalUrl] } : {}),
+  name: authorData.name,
+  url: `${siteConfig.siteUrl}/author/${authorSlug}/`,
+  description: authorData.bio,
+  ...(authorData.externalUrl ? { sameAs: [authorData.externalUrl] } : {}),
 };
 ---
 
 <BaseLayout
-  title={page.currentPage > 1 ? `${author.name} — Page ${page.currentPage} — ${siteConfig.name}` : `${author.name} — ${siteConfig.name}`}
-  description={`Articles by ${author.name} on ${siteConfig.name}. ${author.bio.split(".")[0]}.`.slice(0, 160)}
+  title={page.currentPage > 1 ? `${authorData.name} — Page ${page.currentPage} — ${siteConfig.name}` : `${authorData.name} — ${siteConfig.name}`}
+  description={`Articles by ${authorData.name} on ${siteConfig.name}. ${authorData.bio.split(".")[0]}.`.slice(0, 160)}
   noindex={page.currentPage > 1}
 >
   {page.currentPage === 1 && <JsonLd data={personJsonLd} />}
@@ -61,7 +59,7 @@ const personJsonLd = {
       {avatar ? (
         <img
           src={avatar}
-          alt={author.name}
+          alt={authorData.name}
           style="width:80px;height:80px;margin:0 auto 1rem;border-radius:50%;object-fit:cover;"
         />
       ) : (
@@ -72,8 +70,8 @@ const personJsonLd = {
           {initials}
         </div>
       )}
-      <h1>{author.name}</h1>
-      <p style="max-width:52ch;margin-inline:auto;">{author.bio}</p>
+      <h1>{authorData.name}</h1>
+      <p style="max-width:52ch;margin-inline:auto;">{authorData.bio}</p>
     </section>
 
     {page.data.length > 0 ? (
@@ -89,7 +87,7 @@ const personJsonLd = {
         </div>
       </>
     ) : (
-      <p class="muted" style="text-align:center;padding:2rem 0;">Articles by {author.name} coming soon.</p>
+      <p class="muted" style="text-align:center;padding:2rem 0;">Articles by {authorData.name} coming soon.</p>
     )}
 
     <Pagination

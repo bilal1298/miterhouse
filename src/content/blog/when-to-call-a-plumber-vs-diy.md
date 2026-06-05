@@ -1,7 +1,7 @@
 ---
 title: "When to Call a Plumber vs. DIY: A Homeowner's Guide"
 description: "Know when to grab a wrench and when to call a pro. This guide breaks down which plumbing jobs are safe to DIY—and which ones can cost you far more if you don't."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Plumbing & Electrical"
 tags: ["plumbing", "diy plumbing", "when to call a pro", "home repair", "plumbing costs"]
 date: 2026-05-12

@@ -1,7 +1,7 @@
 ---
 title: "Cost to Finish a Basement: Complete Budget Guide"
 description: "Finishing a basement costs $25–$50 per sq ft for a basic job and $75–$150+ for a high-end build. Here's every line item, broken down for a 1,000 sq ft space."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Basement & Attic"
 tags: ["basement finishing", "basement cost", "home renovation", "basement remodel", "finishing costs", "basement framing"]
 date: 2026-05-11

@@ -6,8 +6,7 @@ import AdSlot from "../components/AdSlot.astro";
 import PostCard from "../components/PostCard.astro";
 import JsonLd from "../components/JsonLd.astro";
 import { siteConfig } from "../../site.config";
-import { getSortedPosts, relatedPosts, tagPath, categoryPath, formatDate, readingTime } from "../utils/helpers";
-import { getCollection } from "astro:content";
+import { getSortedPosts, relatedPosts, tagPath, categoryPath, formatDate, readingTime, getAuthorById } from "../utils/helpers";
 
 interface Props {
   title: string;
@@ -42,17 +41,14 @@ const {
 const dateStr = formatDate(date);
 const categorySlug = category.toLowerCase().replace(/[&\s]+/g, "-").replace(/-+/g, "-");
 
-const authorId =
-  Object.keys(siteConfig.authors).find(
-    (id) => siteConfig.authors[id as keyof typeof siteConfig.authors].name === author
-  ) || siteConfig.defaultAuthor;
-const authorData = siteConfig.authors[authorId as keyof typeof siteConfig.authors];
+const authorEntry = await getAuthorById(author);
+const authorName = authorEntry?.data.name || author;
+const authorBio = authorEntry?.data.bio || "";
+const authorAvatar = authorEntry?.data.avatar;
+const authorSlug = authorEntry?.id || author;
+const authorExternalUrl = authorEntry?.data.externalUrl;
 
-const allAuthors = await getCollection("authors");
-const authorEntry = allAuthors.find((a) => a.id === authorId);
-const authorAvatar = authorEntry?.data.avatar || authorData.avatar;
-
-const initials = authorData.name
+const initials = authorName
   .split(" ")
   .map((w: string) => w[0])
   .join("")
@@ -86,8 +82,8 @@ const articleJsonLd = {
   ...(updated ? { dateModified: updated.toISOString() } : {}),
   author: {
     "@type": "Person",
-    name: authorData.name,
-    url: `${siteConfig.siteUrl}/author/${authorData.slug}/`,
+    name: authorName,
+    url: `${siteConfig.siteUrl}/author/${authorSlug}/`,
   },
   publisher: {
     "@type": "Organization",
@@ -136,11 +132,11 @@ const encodedTitle = encodeURIComponent(title);
       <p class="dek">{description}</p>
       <div class="ameta">
         {authorAvatar ? (
-          <img src={authorAvatar} alt={authorData.name} class="av av--img" />
+          <img src={authorAvatar} alt={authorName} class="av av--img" />
         ) : (
           <span class="av">{initials}</span>
         )}
-        <span>By <b><a href={`/author/${authorData.slug}/`}>{authorData.name}</a></b></span>
+        <span>By <b><a href={`/author/${authorSlug}/`}>{authorName}</a></b></span>
         <span class="sep"></span>
         <time datetime={date.toISOString()}>{dateStr}</time>
         <span class="sep"></span>
@@ -202,7 +198,7 @@ const encodedTitle = encodeURIComponent(title);
     )}
 
     <!-- 8. Author box -->
-    <AuthorBio authorId={authorId} />
+    <AuthorBio authorId={authorSlug} />
 
     <!-- 9. Share row -->
     <div class="share">

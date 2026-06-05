@@ -1,7 +1,7 @@
 ---
 title: "How Much Does a Bathroom Remodel Really Cost in 2026?"
 description: "Bathroom remodel costs range from $3,500 to $25,000+ depending on scope. Here's a real breakdown of where the money goes and how to budget accurately."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Budget & Planning"
 tags: ["bathroom remodel", "remodel cost", "budget", "home improvement", "cost estimate"]
 date: 2026-05-28

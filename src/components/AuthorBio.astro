@@ -1,18 +1,17 @@
 ---
-import { getCollection } from "astro:content";
-import { siteConfig } from "../../site.config";
+import { getAuthorById } from "../utils/helpers";
 import { authorPath } from "../utils/helpers";
 
 interface Props {
   authorId: string;
 }
 const { authorId } = Astro.props;
-const author = siteConfig.authors[authorId as keyof typeof siteConfig.authors];
-if (!author) return;
 
-const authors = await getCollection("authors");
-const authorEntry = authors.find((a) => a.id === authorId);
-const avatar = authorEntry?.data.avatar || author.avatar;
+const authorEntry = await getAuthorById(authorId);
+if (!authorEntry) return;
+
+const author = authorEntry.data;
+const avatar = author.avatar;
 
 const initials = author.name
   .split(" ")
@@ -38,7 +37,7 @@ const hasExternalLink = author.externalUrl && author.externalUrl.length > 0;
       {hasExternalLink && (
         <a href={author.externalUrl} rel="nofollow">Website ↗</a>
       )}
-      <a href={authorPath(author.slug)}>More by {firstName} →</a>
+      <a href={authorPath(authorEntry.id)}>More by {firstName} →</a>
     </div>
   </div>
 </div>

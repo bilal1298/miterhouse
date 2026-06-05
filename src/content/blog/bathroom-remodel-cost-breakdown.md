@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Remodel Cost Breakdown: Where the Money Goes"
 description: "See exactly where bathroom remodel money goes — labor, fixtures, tile, and more — with a line-by-line cost breakdown and tips on where to cut without regret."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Budget & Planning"
 tags: ["bathroom remodel", "cost breakdown", "budget", "labor costs", "fixtures", "tile"]
 date: 2026-05-21

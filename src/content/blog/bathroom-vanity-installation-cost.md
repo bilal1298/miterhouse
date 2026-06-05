@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Vanity Installation Cost: DIY vs. Pro"
 description: "Bathroom vanity installation costs $200–$1,000+ depending on vanity type and whether you hire a plumber. Here's what to expect for every scenario."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Kitchen & Bath Remodeling"
 tags: ["bathroom vanity", "installation cost", "diy", "plumbing", "bathroom remodel"]
 date: 2026-05-23

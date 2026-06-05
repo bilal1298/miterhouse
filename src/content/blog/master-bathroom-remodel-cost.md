@@ -1,7 +1,7 @@
 ---
 title: "Master Bathroom Remodel Cost by Project Size"
 description: "Master bathroom remodel costs range from $3,000 for a cosmetic refresh to $50,000+ for a full gut renovation. Here's what each tier actually covers."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Kitchen & Bath Remodeling"
 tags: ["master bathroom", "bathroom remodel", "remodel cost", "bathroom renovation", "home improvement budget"]
 date: 2026-05-24

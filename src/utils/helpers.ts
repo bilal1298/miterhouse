@@ -1,12 +1,22 @@
 import { getCollection, type CollectionEntry } from "astro:content";
 
 export type Post = CollectionEntry<"blog">;
+export type Author = CollectionEntry<"authors">;
 
 export async function getSortedPosts(): Promise<Post[]> {
   const posts = await getCollection("blog");
   return posts.sort(
     (a, b) => b.data.date.getTime() - a.data.date.getTime()
   );
+}
+
+export async function getAuthorById(id: string): Promise<Author | undefined> {
+  const authors = await getCollection("authors");
+  return authors.find((a) => a.id === id);
+}
+
+export async function getAllAuthors(): Promise<Author[]> {
+  return getCollection("authors");
 }
 
 export const slugify = (s: string) =>

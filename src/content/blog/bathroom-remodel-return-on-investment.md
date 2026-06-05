@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Remodel ROI: Is It Actually Worth It?"
 description: "Bathroom remodels return 60–70% on average, but the right scope and timing can push that higher. Here's what the numbers actually show."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Budget & Planning"
 tags: ["bathroom remodel", "roi", "home value", "resale value", "remodeling costs"]
 date: 2026-05-26

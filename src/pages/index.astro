@@ -4,7 +4,7 @@ import PostCard from "../components/PostCard.astro";
 import JsonLd from "../components/JsonLd.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
-import { formatDate, readingTime } from "../utils/helpers";
+import { formatDate, readingTime, getAuthorById } from "../utils/helpers";
 
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
@@ -14,10 +14,11 @@ const gridPosts = posts.slice(1, 4);
 const mostRead = posts.slice(0, 4);
 const categoryPosts = posts.slice(4, 7);
 
-// Pick first category for the category section header
 const firstCategory = siteConfig.categories[0];
 
-const allAuthors = await getCollection("authors");
+const featuredAuthor = featured ? await getAuthorById(featured.data.author) : undefined;
+const featuredAuthorName = featuredAuthor?.data.name || featured?.data.author || "";
+const featuredAuthorAvatar = featuredAuthor?.data.avatar;
 
 function initials(name: string) {
   return name
@@ -26,15 +27,6 @@ function initials(name: string) {
     .join("")
     .toUpperCase()
     .slice(0, 2);
-}
-
-function getAuthorAvatar(authorName: string): string | undefined {
-  const authorId = Object.keys(siteConfig.authors).find(
-    (id) => siteConfig.authors[id as keyof typeof siteConfig.authors].name === authorName
-  );
-  if (!authorId) return undefined;
-  const entry = allAuthors.find((a) => a.id === authorId);
-  return entry?.data.avatar || siteConfig.authors[authorId as keyof typeof siteConfig.authors].avatar;
 }
 
 const webSiteJsonLd = {
@@ -63,12 +55,12 @@ const webSiteJsonLd = {
           }</h1>
           <p class="hero__dek">{featured.data.description}</p>
           <div class="byline">
-            {getAuthorAvatar(featured.data.author) ? (
-              <img src={getAuthorAvatar(featured.data.author)} alt={featured.data.author} class="av av--img" />
+            {featuredAuthorAvatar ? (
+              <img src={featuredAuthorAvatar} alt={featuredAuthorName} class="av av--img" />
             ) : (
-              <span class="av">{initials(featured.data.author)}</span>
+              <span class="av">{initials(featuredAuthorName)}</span>
             )}
-            <span>By <b>{featured.data.author}</b></span>
+            <span>By <b>{featuredAuthorName}</b></span>
             <span class="sep"></span>
             <span>{readingTime(featured.body)} min read</span>
           </div>

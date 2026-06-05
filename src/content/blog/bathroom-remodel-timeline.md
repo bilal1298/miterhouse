@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Remodel Timeline: A Realistic Week-by-Week Plan"
 description: "A real bathroom remodel takes 3–8 weeks depending on scope. Here's an honest week-by-week breakdown for both DIY and contractor projects."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Budget & Planning"
 tags: ["bathroom remodel", "timeline", "project planning", "permits", "home improvement"]
 date: 2026-05-20

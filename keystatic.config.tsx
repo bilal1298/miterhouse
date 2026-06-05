@@ -1,15 +1,16 @@
 import { config, fields, collection, singleton } from "@keystatic/core";
+import categoriesData from "./src/data/categories.json";
+import tagsData from "./src/data/tags.json";
 
-const categories = [
-  "Kitchen & Bath Remodeling",
-  "Budget & Planning",
-  "Flooring & Tile",
-  "Painting & Walls",
-  "Outdoor & Landscaping",
-  "Plumbing & Electrical",
-  "Basement & Attic",
-  "Tools & Materials",
-] as const;
+const categoryOptions = categoriesData.items.map((c) => ({
+  label: c.name,
+  value: c.name,
+}));
+
+const tagOptions = tagsData.items.map((t) => ({
+  label: t.name,
+  value: t.name,
+}));
 
 export default config({
   storage: { kind: "local" },
@@ -82,19 +83,18 @@ export default config({
           label: "Meta Description",
           validation: { isRequired: true, length: { min: 120, max: 165 } },
         }),
-        author: fields.text({
+        author: fields.relationship({
           label: "Author",
-          defaultValue: "Daniel Ware",
-          validation: { isRequired: true },
+          collection: "authors",
         }),
         category: fields.select({
           label: "Category",
-          options: categories.map((c) => ({ label: c, value: c })),
-          defaultValue: "Kitchen & Bath Remodeling",
+          options: categoryOptions,
+          defaultValue: categoryOptions[0]?.value ?? "Kitchen & Bath Remodeling",
         }),
-        tags: fields.array(fields.text({ label: "Tag" }), {
+        tags: fields.multiselect({
           label: "Tags",
-          itemLabel: (props) => props.value,
+          options: tagOptions,
         }),
         date: fields.date({
           label: "Publish Date",

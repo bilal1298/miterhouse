@@ -1,6 +1,6 @@
 ---
 import type { Post } from '../utils/helpers';
-import { categoryPath, formatDate, readingTime } from '../utils/helpers';
+import { categoryPath, readingTime, getAuthorById } from '../utils/helpers';
 
 interface Props {
   post: Post;
@@ -9,6 +9,8 @@ interface Props {
 const { post } = Astro.props;
 const { data } = post;
 const mins = readingTime(post.body);
+const authorEntry = await getAuthorById(data.author);
+const authorName = authorEntry?.data.name || data.author;
 ---
 
 <article class="card">
@@ -24,5 +26,5 @@ const mins = readingTime(post.body);
   </span>
   <h3><a href={`/blog/${post.id}/`}>{data.title}</a></h3>
   <p>{data.description}</p>
-  <div class="meta">By <b>{data.author}</b> · {mins} min read</div>
+  <div class="meta">By <b>{authorName}</b> · {mins} min read</div>
 </article>

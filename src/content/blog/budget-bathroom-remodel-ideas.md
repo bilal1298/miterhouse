@@ -1,7 +1,7 @@
 ---
 title: "15 Budget Bathroom Remodel Ideas That Look Expensive"
 description: "Transform your bathroom without breaking the bank. These 15 budget remodel ideas deliver high-end results for a fraction of the cost, with real price estimates."
-author: "Daniel Ware"
+author: daniel-ware
 category: "Kitchen & Bath Remodeling"
 tags: ["budget bathroom", "remodel ideas", "diy", "bathroom makeover", "home improvement"]
 date: 2026-05-22
