@@ -3,8 +3,12 @@ title: "DIY Bathroom Remodel Cost: Real Budget Breakdown"
 slug: "diy-bathroom-remodel-cost"
 description: "A realistic cost breakdown for a DIY bathroom remodel, covering materials, tools, and where you can actually save money vs. hiring a contractor."
 author: daniel-ware
-category: "Budget & Planning"
-tags: ["bathroom remodel", "diy", "remodel cost", "budget"]
+category: budget-planning
+tags:
+  - bathroom-remodel
+  - diy
+  - remodel-cost
+  - budget
 date: 2026-06-02
 hero_image_prompt: "A clean, well-lit bathroom mid-renovation with tools on the floor and fresh tile partially installed on one wall"
 faq:

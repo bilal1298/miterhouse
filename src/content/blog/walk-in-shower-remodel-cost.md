@@ -2,8 +2,14 @@
 title: "Walk-In Shower Remodel Cost: Full Pricing Guide"
 description: "Walk-in shower remodel costs range from $3,500 to $15,000+. Here's exactly what drives the price — materials, labor, tub conversions, and curbless builds."
 author: daniel-ware
-category: "Kitchen & Bath Remodeling"
-tags: ["walk-in shower", "shower remodel", "bathroom remodel", "tub to shower conversion", "curbless shower", "tile shower"]
+category: kitchen-bath-remodeling
+tags:
+  - walk-in-shower
+  - shower-remodel
+  - bathroom-remodel
+  - tub-to-shower-conversion
+  - curbless-shower
+  - tile-shower
 date: 2026-05-25
 hero_image_prompt: "A modern walk-in curbless shower with large-format gray tiles, a rain showerhead, and frameless glass panel in a bright white bathroom."
 faq:

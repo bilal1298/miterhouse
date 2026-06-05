@@ -2,8 +2,13 @@
 title: "Bathroom Tile Installation Cost: Material and Labor Guide"
 description: "Bathroom tile installation costs $7–$25 per sq ft installed. Learn what drives the price by tile type, labor region, and what materials you'll need beyond just tile."
 author: daniel-ware
-category: "Flooring & Tile"
-tags: ["bathroom tile", "tile installation", "flooring cost", "tile cost per square foot", "bathroom remodel"]
+category: flooring-tile
+tags:
+  - bathroom-tile
+  - tile-installation
+  - flooring-cost
+  - tile-cost-per-square-foot
+  - bathroom-remodel
 date: 2026-05-15
 hero_image_prompt: "A professional tile installer laying large-format porcelain tiles on a bathroom floor, with grout lines, trowel, and tile spacers visible in a bright modern bathroom."
 faq:

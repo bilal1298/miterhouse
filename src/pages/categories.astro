@@ -1,22 +1,22 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getSortedPosts, categoryPath } from "../utils/helpers";
+import { getSortedPosts, categoryPath, getAllCategories } from "../utils/helpers";
 import { siteConfig } from "../../site.config";
 
 const posts = await getSortedPosts();
+const allCategories = await getAllCategories();
 
-const categories = siteConfig.categories.map((cat) => {
-  const count = posts.filter((p) => p.data.category === cat).length;
-  const description =
-    (siteConfig.categoryDescriptions as Record<string, string>)[cat] ||
-    `Browse all ${cat.toLowerCase()} guides on ${siteConfig.name}.`;
-  return { name: cat, count, description, path: categoryPath(cat) };
+const categories = allCategories.map((cat) => {
+  const count = posts.filter((p) => p.data.category === cat.id).length;
+  const description = cat.data.description ||
+    `Browse all ${cat.data.name.toLowerCase()} guides on ${siteConfig.name}.`;
+  return { name: cat.data.name, count, description, path: categoryPath(cat.id) };
 }).sort((a, b) => b.count - a.count);
 ---
 
 <BaseLayout
   title={`All Categories — ${siteConfig.name}`}
-  description={`Browse all ${siteConfig.categories.length} home improvement categories on ${siteConfig.name}.`}
+  description={`Browse all ${allCategories.length} home improvement categories on ${siteConfig.name}.`}
 >
   <div class="wrap">
     <section class="page-head">

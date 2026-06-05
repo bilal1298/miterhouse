@@ -2,14 +2,18 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
+import { buildCategoryMap, buildTagMap } from "../utils/helpers";
 
 const posts = await getCollection("blog", ({ data }) => !data.draft);
+const catMap = await buildCategoryMap();
+const tagMap = await buildTagMap();
+
 const searchData = posts.map((p) => ({
   title: p.data.title,
   description: p.data.description,
   slug: p.id,
-  category: p.data.category,
-  tags: p.data.tags,
+  category: catMap.get(p.data.category)?.data.name || p.data.category,
+  tags: p.data.tags.map((t) => tagMap.get(t)?.data.name || t),
 }));
 ---
 

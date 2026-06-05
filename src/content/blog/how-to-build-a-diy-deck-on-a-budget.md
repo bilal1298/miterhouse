@@ -2,8 +2,14 @@
 title: "How to Build a DIY Deck on a Budget"
 description: "Build a solid 12x16 deck for under $2,500 with the right lumber, foundation choice, and framing sequence. Step-by-step guide with real cost breakdowns."
 author: daniel-ware
-category: "Outdoor & Landscaping"
-tags: ["deck building", "diy deck", "outdoor projects", "pressure-treated lumber", "budget home improvement", "backyard deck"]
+category: outdoor-landscaping
+tags:
+  - deck-building
+  - diy-deck
+  - outdoor-projects
+  - pressure-treated-lumber
+  - budget-home-improvement
+  - backyard-deck
 date: 2026-05-13
 hero_image_prompt: "A freshly built pressure-treated wood deck attached to the back of a suburban house, photographed on a bright afternoon with a power drill and lumber visible in the foreground."
 faq:

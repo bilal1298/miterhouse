@@ -3,37 +3,37 @@ import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import PostCard from "../../../components/PostCard.astro";
 import Pagination from "../../../components/Pagination.astro";
-import { getSortedPosts, slugify } from "../../../utils/helpers";
+import { getSortedPosts, getAllCategories } from "../../../utils/helpers";
 import { siteConfig } from "../../../../site.config";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getSortedPosts();
-  return siteConfig.categories.flatMap((cat) => {
-    const filtered = posts.filter((p) => p.data.category === cat);
+  const categories = await getAllCategories();
+  return categories.flatMap((cat) => {
+    const filtered = posts.filter((p) => p.data.category === cat.id);
     return paginate(filtered, {
-      params: { category: slugify(cat) },
-      props: { category: cat, totalPosts: filtered.length },
+      params: { category: cat.id },
+      props: { categoryName: cat.data.name, categoryDescription: cat.data.description, totalPosts: filtered.length },
       pageSize: siteConfig.postsPerPage,
     });
   });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
-const { category, totalPosts } = Astro.props;
-const description =
-  (siteConfig.categoryDescriptions as Record<string, string>)[category] ||
-  `Browse all ${category.toLowerCase()} guides on ${siteConfig.name}.`;
+const { categoryName, categoryDescription, totalPosts } = Astro.props;
+const description = categoryDescription ||
+  `Browse all ${categoryName.toLowerCase()} guides on ${siteConfig.name}.`;
 ---
 
 <BaseLayout
-  title={page.currentPage > 1 ? `${category} — Page ${page.currentPage} — ${siteConfig.name}` : `${category} — ${siteConfig.name}`}
+  title={page.currentPage > 1 ? `${categoryName} — Page ${page.currentPage} — ${siteConfig.name}` : `${categoryName} — ${siteConfig.name}`}
   description={description}
   noindex={page.currentPage > 1}
 >
   <div class="wrap">
     <section class="page-head">
       <p class="eyebrow">Category</p>
-      <h1>{category}</h1>
+      <h1>{categoryName}</h1>
       <p>{description}</p>
       <p class="muted" style="margin-top:.75rem;font-family:var(--label);font-size:.85rem;">
         {totalPosts} {totalPosts === 1 ? "article" : "articles"}

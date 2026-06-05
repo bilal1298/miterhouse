@@ -2,8 +2,14 @@
 title: "How Long Does a Small Bathroom Remodel Take?"
 description: "A small bathroom remodel takes 3–5 days for cosmetic updates or 1–3 weeks for a full gut. Here's a realistic timeline by project type and who's doing the work."
 author: daniel-ware
-category: "Kitchen & Bath Remodeling"
-tags: ["small bathroom", "remodel timeline", "bathroom remodel", "gut remodel", "DIY bathroom", "contractor timeline"]
+category: kitchen-bath-remodeling
+tags:
+  - small-bathroom
+  - remodel-timeline
+  - bathroom-remodel
+  - gut-remodel
+  - diy-bathroom
+  - contractor-timeline
 date: 2026-05-16
 hero_image_prompt: "A compact 5x8 bathroom mid-renovation with cement board on the walls, a new alcove tub framed in, and tools laid out on a drop cloth."
 faq:

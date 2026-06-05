@@ -31,4 +31,20 @@ const authors = defineCollection({
   }),
 });
 
-export const collections = { blog, authors };
+const categories = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/categories" }),
+  schema: z.object({
+    name: z.string(),
+    description: z.string(),
+  }),
+});
+
+const tags = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/tags" }),
+  schema: z.object({
+    name: z.string(),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, authors, categories, tags };

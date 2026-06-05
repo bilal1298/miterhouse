@@ -1,16 +1,4 @@
-import { config, fields, collection, singleton } from "@keystatic/core";
-import categoriesData from "./src/data/categories.json";
-import tagsData from "./src/data/tags.json";
-
-const categoryOptions = categoriesData.items.map((c) => ({
-  label: c.name,
-  value: c.name,
-}));
-
-const tagOptions = tagsData.items.map((t) => ({
-  label: t.name,
-  value: t.name,
-}));
+import { config, fields, collection } from "@keystatic/core";
 
 export default config({
   storage: { kind: "local" },
@@ -20,54 +8,6 @@ export default config({
       Content: ["blog", "authors"],
       Taxonomy: ["categories", "tags"],
     },
-  },
-  singletons: {
-    categories: singleton({
-      label: "Categories",
-      path: "src/data/categories",
-      schema: {
-        items: fields.array(
-          fields.object({
-            name: fields.text({
-              label: "Category Name",
-              validation: { isRequired: true },
-            }),
-            description: fields.text({
-              label: "Description",
-              description: "SEO-friendly description shown on the category archive page",
-              multiline: true,
-              validation: { isRequired: true },
-            }),
-          }),
-          {
-            label: "Categories",
-            itemLabel: (props) => props.fields.name.value || "New Category",
-          }
-        ),
-      },
-    }),
-    tags: singleton({
-      label: "Tags",
-      path: "src/data/tags",
-      schema: {
-        items: fields.array(
-          fields.object({
-            name: fields.text({
-              label: "Tag Name",
-              validation: { isRequired: true },
-            }),
-            description: fields.text({
-              label: "Description",
-              description: "Optional description for the tag archive page",
-            }),
-          }),
-          {
-            label: "Tags",
-            itemLabel: (props) => props.fields.name.value || "New Tag",
-          }
-        ),
-      },
-    }),
   },
   collections: {
     blog: collection({
@@ -87,15 +27,20 @@ export default config({
           label: "Author",
           collection: "authors",
         }),
-        category: fields.select({
+        category: fields.relationship({
           label: "Category",
-          options: categoryOptions,
-          defaultValue: categoryOptions[0]?.value ?? "Kitchen & Bath Remodeling",
+          collection: "categories",
         }),
-        tags: fields.multiselect({
-          label: "Tags",
-          options: tagOptions,
-        }),
+        tags: fields.array(
+          fields.relationship({
+            label: "Tag",
+            collection: "tags",
+          }),
+          {
+            label: "Tags",
+            itemLabel: (props) => props.value || "Select a tag",
+          }
+        ),
         date: fields.date({
           label: "Publish Date",
           validation: { isRequired: true },
@@ -147,6 +92,46 @@ export default config({
           publicPath: "/images/authors/",
         }),
         externalUrl: fields.text({ label: "External URL" }),
+        content: fields.markdoc({
+          label: "Content",
+          extension: "md",
+        }),
+      },
+    }),
+    categories: collection({
+      label: "Categories",
+      slugField: "name",
+      path: "src/content/categories/*",
+      format: { contentField: "content" },
+      schema: {
+        name: fields.slug({
+          name: { label: "Category Name" },
+        }),
+        description: fields.text({
+          label: "Description",
+          description: "SEO-friendly description shown on the category archive page",
+          multiline: true,
+          validation: { isRequired: true },
+        }),
+        content: fields.markdoc({
+          label: "Content",
+          extension: "md",
+        }),
+      },
+    }),
+    tags: collection({
+      label: "Tags",
+      slugField: "name",
+      path: "src/content/tags/*",
+      format: { contentField: "content" },
+      schema: {
+        name: fields.slug({
+          name: { label: "Tag Name" },
+        }),
+        description: fields.text({
+          label: "Description",
+          description: "Optional description for the tag archive page",
+        }),
         content: fields.markdoc({
           label: "Content",
           extension: "md",

@@ -1,6 +1,6 @@
 ---
 import type { Post } from '../utils/helpers';
-import { categoryPath, readingTime, getAuthorById } from '../utils/helpers';
+import { categoryPath, readingTime, getAuthorById, getCategoryName } from '../utils/helpers';
 
 interface Props {
   post: Post;
@@ -11,6 +11,7 @@ const { data } = post;
 const mins = readingTime(post.body);
 const authorEntry = await getAuthorById(data.author);
 const authorName = authorEntry?.data.name || data.author;
+const catName = await getCategoryName(data.category);
 ---
 
 <article class="card">
@@ -22,7 +23,7 @@ const authorName = authorEntry?.data.name || data.author;
     )}
   </a>
   <span class="kicker">
-    <a href={categoryPath(data.category)}>{data.category}</a>
+    <a href={categoryPath(data.category)}>{catName}</a>
   </span>
   <h3><a href={`/blog/${post.id}/`}>{data.title}</a></h3>
   <p>{data.description}</p>

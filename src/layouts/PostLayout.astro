@@ -6,7 +6,7 @@ import AdSlot from "../components/AdSlot.astro";
 import PostCard from "../components/PostCard.astro";
 import JsonLd from "../components/JsonLd.astro";
 import { siteConfig } from "../../site.config";
-import { getSortedPosts, relatedPosts, tagPath, categoryPath, formatDate, readingTime, getAuthorById } from "../utils/helpers";
+import { getSortedPosts, relatedPosts, tagPath, categoryPath, formatDate, readingTime, getAuthorById, getCategoryName, buildTagMap } from "../utils/helpers";
 
 interface Props {
   title: string;
@@ -39,7 +39,8 @@ const {
 } = Astro.props;
 
 const dateStr = formatDate(date);
-const categorySlug = category.toLowerCase().replace(/[&\s]+/g, "-").replace(/-+/g, "-");
+const categoryName = await getCategoryName(category);
+const tagMap = await buildTagMap();
 
 const authorEntry = await getAuthorById(author);
 const authorName = authorEntry?.data.name || author;
@@ -119,14 +120,14 @@ const encodedTitle = encodeURIComponent(title);
 
     <!-- 1. Breadcrumbs -->
     <Breadcrumbs items={[
-      { label: category, href: categoryPath(category) },
+      { label: categoryName, href: categoryPath(category) },
       { label: title },
     ]} />
 
     <!-- 2. Centered article header -->
     <div class="ahead reveal d1">
       <span class="kicker">
-        <a href={categoryPath(category)}>{category}</a>
+        <a href={categoryPath(category)}>{categoryName}</a>
       </span>
       <h1>{title}</h1>
       <p class="dek">{description}</p>
@@ -152,7 +153,7 @@ const encodedTitle = encodeURIComponent(title);
         <div class="ph"></div>
       )}
       <figcaption class="cap">
-        {category} · Miter House
+        {categoryName} · Miter House
       </figcaption>
     </figure>
 
@@ -191,8 +192,8 @@ const encodedTitle = encodeURIComponent(title);
     <!-- 7. Tag pills -->
     {tags.length > 0 && (
       <div class="tag-cloud" style="max-width:680px;margin:clamp(28px,4vw,44px) auto 0;">
-        {tags.map((tag) => (
-          <a class="pill" href={tagPath(tag)}>{tag}</a>
+        {tags.map((slug) => (
+          <a class="pill" href={tagPath(slug)}>{tagMap.get(slug)?.data.name || slug}</a>
         ))}
       </div>
     )}

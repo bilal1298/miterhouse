@@ -2,8 +2,14 @@
 title: "How to Paint a Room Like a Pro: Step-by-Step Guide"
 description: "Learn how to paint a room like a pro with this step-by-step guide covering prep, priming, cutting in, rolling, and cleanup — with real product picks."
 author: daniel-ware
-category: "Painting & Walls"
-tags: ["painting", "interior painting", "diy", "wall prep", "home improvement", "painting tips"]
+category: painting-walls
+tags:
+  - painting
+  - interior-painting
+  - diy
+  - wall-prep
+  - home-improvement
+  - painting-tips
 date: 2026-05-14
 hero_image_prompt: "A freshly painted light gray bedroom with clean taped trim lines, a roller and paint tray on a drop cloth, and warm afternoon light coming through the window."
 faq:

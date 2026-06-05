@@ -2,8 +2,14 @@
 title: "25 Essential Tools for Home Renovation: The Complete Starter Kit"
 description: "The 25 essential tools for home renovation, organized by job, with realistic prices for both a starter kit and a full kit — so you know exactly what to buy first."
 author: daniel-ware
-category: "Tools & Materials"
-tags: ["tools", "home renovation", "diy tools", "tool guide", "starter kit", "power tools"]
+category: tools-materials
+tags:
+  - tools
+  - home-renovation
+  - diy-tools
+  - tool-guide
+  - starter-kit
+  - power-tools
 date: 2026-05-10
 hero_image_prompt: "A well-organized pegboard workshop wall covered with hand tools, power tools, and measuring equipment in warm workshop lighting."
 faq:

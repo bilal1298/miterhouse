@@ -2,8 +2,14 @@
 title: "Does a Bathroom Renovation Increase Home Value?"
 description: "Yes — but how much depends on what you do and where you live. Here's what real estate agents and appraisers actually say adds value in a bathroom."
 author: daniel-ware
-category: "Budget & Planning"
-tags: ["bathroom renovation", "home value", "real estate", "home selling", "ROI", "appraisal"]
+category: budget-planning
+tags:
+  - bathroom-renovation
+  - home-value
+  - real-estate
+  - home-selling
+  - roi
+  - appraisal
 date: 2026-05-17
 hero_image_prompt: "A freshly renovated bathroom with white subway tile, a floating vanity, and brushed nickel fixtures, photographed from the doorway to show the full space."
 faq:

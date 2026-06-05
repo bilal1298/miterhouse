@@ -2,8 +2,14 @@
 title: "Small Bathroom Remodel Cost: What to Expect"
 description: "A small bathroom remodel typically costs $3,500–$15,000. Here's what drives that range, where to spend, and where to cut without regret."
 author: daniel-ware
-category: "Kitchen & Bath Remodeling"
-tags: ["small bathroom", "bathroom remodel", "remodel cost", "bathroom renovation", "budget bathroom", "powder room"]
+category: kitchen-bath-remodeling
+tags:
+  - small-bathroom
+  - bathroom-remodel
+  - remodel-cost
+  - bathroom-renovation
+  - budget-bathroom
+  - powder-room
 date: 2026-05-27
 hero_image_prompt: "A freshly remodeled small 5x8 bathroom with white subway tile, a floating vanity, and brushed nickel fixtures under warm lighting."
 faq:

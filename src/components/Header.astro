@@ -1,6 +1,6 @@
 ---
 import { siteConfig } from "../../site.config";
-import { categoryPath, getSortedPosts } from "../utils/helpers";
+import { categoryPath, getSortedPosts, getAllCategories } from "../utils/helpers";
 
 const now = new Date();
 const formattedDate = now.toLocaleDateString("en-US", {
@@ -9,18 +9,16 @@ const formattedDate = now.toLocaleDateString("en-US", {
   day: "numeric",
 });
 
-function shortCatName(cat: string): string {
-  const beforeAmp = cat.split(" &")[0].split(" &amp;")[0].trim();
-  return beforeAmp;
+const posts = await getSortedPosts();
+const categories = await getAllCategories();
+
+const catCounts = new Map<string, number>();
+for (const cat of categories) {
+  catCounts.set(cat.id, posts.filter((p) => p.data.category === cat.id).length);
 }
 
-const posts = await getSortedPosts();
-const catCounts = new Map<string, number>();
-for (const cat of siteConfig.categories) {
-  catCounts.set(cat, posts.filter((p) => p.data.category === cat).length);
-}
-const navCats = [...siteConfig.categories]
-  .sort((a, b) => (catCounts.get(b) || 0) - (catCounts.get(a) || 0))
+const navCats = [...categories]
+  .sort((a, b) => (catCounts.get(b.id) || 0) - (catCounts.get(a.id) || 0))
   .slice(0, 6);
 ---
 
@@ -47,7 +45,7 @@ const navCats = [...siteConfig.categories]
   <div class="wrap">
     <a href="/blog/">Journal</a>
     {navCats.map((cat) => (
-      <a href={categoryPath(cat)}>{shortCatName(cat)}</a>
+      <a href={categoryPath(cat.id)}>{cat.data.name.split(" &")[0]}</a>
     ))}
     <a href="/search/" class="search">Search ⌕</a>
   </div>

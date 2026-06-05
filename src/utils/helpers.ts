@@ -2,6 +2,8 @@ import { getCollection, type CollectionEntry } from "astro:content";
 
 export type Post = CollectionEntry<"blog">;
 export type Author = CollectionEntry<"authors">;
+export type Category = CollectionEntry<"categories">;
+export type Tag = CollectionEntry<"tags">;
 
 export async function getSortedPosts(): Promise<Post[]> {
   const posts = await getCollection("blog");
@@ -19,6 +21,44 @@ export async function getAllAuthors(): Promise<Author[]> {
   return getCollection("authors");
 }
 
+export async function getCategoryById(id: string): Promise<Category | undefined> {
+  const categories = await getCollection("categories");
+  return categories.find((c) => c.id === id);
+}
+
+export async function getAllCategories(): Promise<Category[]> {
+  return getCollection("categories");
+}
+
+export async function getTagById(id: string): Promise<Tag | undefined> {
+  const tags = await getCollection("tags");
+  return tags.find((t) => t.id === id);
+}
+
+export async function getAllTags(): Promise<Tag[]> {
+  return getCollection("tags");
+}
+
+export async function getCategoryName(slug: string): Promise<string> {
+  const cat = await getCategoryById(slug);
+  return cat?.data.name || slug;
+}
+
+export async function getTagName(slug: string): Promise<string> {
+  const tag = await getTagById(slug);
+  return tag?.data.name || slug;
+}
+
+export async function buildCategoryMap(): Promise<Map<string, Category>> {
+  const categories = await getAllCategories();
+  return new Map(categories.map((c) => [c.id, c]));
+}
+
+export async function buildTagMap(): Promise<Map<string, Tag>> {
+  const tags = await getAllTags();
+  return new Map(tags.map((t) => [t.id, t]));
+}
+
 export const slugify = (s: string) =>
   s
     .toLowerCase()
@@ -26,11 +66,11 @@ export const slugify = (s: string) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 
-export function categoryPath(c: string) {
-  return `/category/${slugify(c)}/`;
+export function categoryPath(slug: string) {
+  return `/category/${slug}/`;
 }
-export function tagPath(t: string) {
-  return `/tag/${slugify(t)}/`;
+export function tagPath(slug: string) {
+  return `/tag/${slug}/`;
 }
 export function authorPath(a: string) {
   return `/author/${slugify(a)}/`;

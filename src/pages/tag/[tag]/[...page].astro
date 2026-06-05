@@ -3,37 +3,39 @@ import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import PostCard from "../../../components/PostCard.astro";
 import Pagination from "../../../components/Pagination.astro";
-import { getSortedPosts, uniqueTags, slugify } from "../../../utils/helpers";
+import { getSortedPosts, uniqueTags, getAllTags } from "../../../utils/helpers";
 import { siteConfig } from "../../../../site.config";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getSortedPosts();
-  const tags = uniqueTags(posts);
-  return tags.flatMap((tag) => {
-    const filtered = posts.filter((p) =>
-      p.data.tags.map((t) => slugify(t)).includes(slugify(tag))
-    );
+  const allTags = await getAllTags();
+  const tagMap = new Map(allTags.map((t) => [t.id, t.data.name]));
+
+  const usedTagSlugs = uniqueTags(posts);
+  return usedTagSlugs.flatMap((tagSlug) => {
+    const filtered = posts.filter((p) => p.data.tags.includes(tagSlug));
+    const tagName = tagMap.get(tagSlug) || tagSlug;
     return paginate(filtered, {
-      params: { tag: slugify(tag) },
-      props: { tag, totalPosts: filtered.length },
+      params: { tag: tagSlug },
+      props: { tagName, totalPosts: filtered.length },
       pageSize: siteConfig.postsPerPage,
     });
   });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
-const { tag, totalPosts } = Astro.props;
+const { tagName, totalPosts } = Astro.props;
 ---
 
 <BaseLayout
-  title={page.currentPage > 1 ? `#${tag} — Page ${page.currentPage} — ${siteConfig.name}` : `#${tag} — ${siteConfig.name}`}
-  description={`All ${siteConfig.name} articles tagged with ${tag}.`}
+  title={page.currentPage > 1 ? `#${tagName} — Page ${page.currentPage} — ${siteConfig.name}` : `#${tagName} — ${siteConfig.name}`}
+  description={`All ${siteConfig.name} articles tagged with ${tagName}.`}
   noindex={page.currentPage > 1}
 >
   <div class="wrap">
     <section class="page-head">
       <p class="eyebrow">Tag</p>
-      <h1>#{tag}</h1>
+      <h1>#{tagName}</h1>
       <p class="muted" style="margin-top:.75rem;font-family:var(--label);font-size:.85rem;">
         {totalPosts} {totalPosts === 1 ? "article" : "articles"}
       </p>

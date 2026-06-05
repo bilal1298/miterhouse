@@ -2,8 +2,14 @@
 title: "Mobile Home Bathroom Remodel: Costs and Unique Challenges"
 description: "Mobile home bathroom remodels cost $1,500–$8,000 and come with unique challenges: thinner walls, non-standard sizes, ABS plumbing, and soft subfloors."
 author: daniel-ware
-category: "Kitchen & Bath Remodeling"
-tags: ["mobile home", "bathroom remodel", "manufactured home", "remodel cost", "bathroom renovation", "mobile home plumbing"]
+category: kitchen-bath-remodeling
+tags:
+  - mobile-home
+  - bathroom-remodel
+  - manufactured-home
+  - remodel-cost
+  - bathroom-renovation
+  - mobile-home-plumbing
 date: 2026-05-18
 hero_image_prompt: "A freshly remodeled mobile home bathroom with white subway tile, a compact vanity, and modern fixtures in a bright, clean space."
 faq:
