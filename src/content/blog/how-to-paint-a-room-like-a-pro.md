@@ -67,7 +67,7 @@ Once everything is dry, sand all patches smooth with 120-grit, then finish with 
 
 Painting over dirty walls is a common and invisible mistake. Grease, dust, and skin oils prevent paint adhesion, and you won't see it fail until months later when sections start peeling or you notice the sheen looks different.
 
-Wipe walls down with a damp cloth or a sponge with a little TSP substitute (trisodium phosphate alternative, available at any hardware store for around $8). Pay extra attention to areas near light switches, door frames, and any walls near the kitchen. Let the walls dry completely before taping.
+Wipe walls down with a damp cloth or a sponge with a little TSP substitute (trisodium phosphate alternative, available at any hardware store for around $8). If you're working in a home built before 1978, the [EPA's Renovation, Repair, and Painting (RRP) Rule](https://www.epa.gov/lead/renovation-repair-and-painting-program-contractors) requires lead-safe practices when disturbing painted surfaces — even for homeowners doing their own work, testing first is strongly recommended. Pay extra attention to areas near light switches, door frames, and any walls near the kitchen. Let the walls dry completely before taping.
 
 ---
 
@@ -100,7 +100,7 @@ Apply primer with the same brush-and-roller technique you'll use for paint (desc
 
 **For bedrooms and living rooms:** Eggshell finish. It hides minor wall imperfections, has a barely-there sheen, and is easy to touch up. Benjamin Moore Regal Select and Sherwin-Williams Emerald are both excellent. They're pricier (~$50–$65/gallon) but cover in fewer coats and hold their color.
 
-**For kitchens, bathrooms, hallways, and kids' rooms:** Satin finish. More durable, cleans up better, resists moisture. For bathrooms specifically, look for a product labeled "bath and spa" or with mildew-resistant additives.
+**For kitchens, bathrooms, hallways, and kids' rooms:** Satin finish. More durable, cleans up better, resists moisture. For bathrooms specifically, look for a product labeled "bath and spa" or with mildew-resistant additives. If indoor air quality is a concern, the [EPA's guide to VOCs](https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality) explains what to look for on paint labels — low-VOC and zero-VOC formulas are widely available at comparable prices.
 
 **For ceilings:** Flat white ceiling paint. It hides roller texture and doesn't reflect light at unflattering angles. Don't use wall paint on ceilings — the finish reads differently overhead.
 

@@ -25,7 +25,7 @@ Three variables set your number: the vanity type, whether you're doing a straigh
 
 **Plumbing complexity** is the biggest wildcard. If the supply lines and drain are exactly where they need to be for your new vanity, installation is straightforward. The moment you need to shift the drain even four inches, you're into wall demo, pipe work, and patching — that's where costs accelerate.
 
-**Labor rates** vary by region but plumbers typically charge $75–$150 per hour. A simple vanity swap runs 1–3 hours. A more involved install with plumbing modifications can hit 4–8 hours.
+**Labor rates** vary by region but plumbers typically charge $75–$150 per hour. The [Bureau of Labor Statistics](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm) tracks plumber wages by state if you want to benchmark rates in your area. A simple vanity swap runs 1–3 hours. A more involved install with plumbing modifications can hit 4–8 hours.
 
 ---
 
@@ -94,7 +94,7 @@ These are the line items that don't show up in installation quotes but appear on
 
 **Drywall repair:** Old vanities often sit against walls that were never properly finished behind them — or the removal process damages drywall. Patching and painting adds $50–$200 depending on the extent.
 
-**Permit fees:** Some municipalities require permits for any work touching supply lines. Fees run $50–$150. Ask your local building department before you start; an unpermitted plumbing modification can complicate a home sale.
+**Permit fees:** Some municipalities require permits for any work touching supply lines per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/). Fees run $50–$150. Ask your local building department before you start; an unpermitted plumbing modification can complicate a home sale.
 
 **Tile or flooring work:** If the new vanity footprint doesn't match the old one exactly, you may expose unfinished floor. Factor in tile work if this applies.
 

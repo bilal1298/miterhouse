@@ -71,11 +71,11 @@ If you're opening walls anyway, it's worth inspecting supply and drain lines. Re
 
 ### Electrical
 
-A basic bathroom electrical update — replace the GFCI outlets, install a new vanity light, replace the exhaust fan — runs $300–$700. If you're adding a circuit for a heated floor or a new dedicated circuit for a towel warmer, budget $400–$800 per circuit depending on where your panel is. Most jurisdictions require a permit for electrical work in a bathroom; a permit is typically $75–$150 and worth getting.
+A basic bathroom electrical update — replace the GFCI outlets, install a new vanity light, replace the exhaust fan — runs $300–$700. If you're adding a circuit for a heated floor or a new dedicated circuit for a towel warmer, budget $400–$800 per circuit depending on where your panel is. Most jurisdictions require a permit for electrical work in a bathroom under the [National Electrical Code (NFPA 70)](https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70); a permit is typically $75–$150 and worth getting.
 
 ### Exhaust Fan
 
-**$250–$500 installed.** Don't cheap out here. An undersized or ineffective exhaust fan is the #1 cause of mold in bathroom walls and ceilings. The Panasonic WhisperCeiling and Broan-NuTone 110 CFM series are workhorses in the $100–$180 range at retail, and a competent electrician can swap one in within an hour.
+**$250–$500 installed.** Don't cheap out here. An undersized or ineffective exhaust fan is the #1 cause of mold in bathroom walls and ceilings. The [EPA's guide to mold prevention](https://www.epa.gov/mold) emphasizes ventilation as the primary defense in wet areas. The Panasonic WhisperCeiling and Broan-NuTone 110 CFM series are workhorses in the $100–$180 range at retail, and a competent electrician can swap one in within an hour.
 
 ### Drywall and Waterproofing
 

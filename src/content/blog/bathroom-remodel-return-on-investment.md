@@ -19,7 +19,7 @@ A bathroom remodel returns roughly 60–70 cents on every dollar you spend when 
 
 ## The ROI Baseline: What the Data Shows
 
-The most cited source for remodeling return on investment is the annual *Remodeling Magazine Cost vs. Value* report, which surveys real estate professionals and tracks actual resale outcomes across major US metros. The numbers aren't great reading if you're hoping to profit from a remodel:
+The most cited source for remodeling return on investment is the annual [*Remodeling Magazine Cost vs. Value* report](https://www.remodeling.hw.net/cost-vs-value/2025/), which surveys real estate professionals and tracks actual resale outcomes across major US metros. The numbers aren't great reading if you're hoping to profit from a remodel:
 
 | Project Type | Avg. Cost | Avg. Resale Value Added | ROI |
 |---|---|---|---|
@@ -93,7 +93,7 @@ Some rough patterns from Cost vs. Value data over recent years:
 - **Midwest and Sun Belt secondary markets** often see 55–65% returns — not because the renovations are worth less, but because the ceiling price for the neighborhood is lower
 - **Markets with aging housing stock** (Northeast, Rust Belt) sometimes see outsized returns on bathroom modernization because the baseline is worse — a functional, updated bathroom can be a genuine differentiator
 
-Check local comps, not national averages, when making a real decision. A local real estate agent who knows your neighborhood is worth a conversation before you commit to a scope.
+Check local comps, not national averages, when making a real decision. The [National Association of Realtors (NAR)](https://www.nar.realtor/research-and-statistics/housing-statistics) publishes regional housing data that can help frame your market, and a local real estate agent who knows your neighborhood is worth a conversation before you commit to a scope.
 
 ## A Simple Framework for the Decision
 

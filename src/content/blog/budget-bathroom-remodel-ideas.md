@@ -31,7 +31,7 @@ Towel bars, toilet paper holders, robe hooks, and drawer pulls are the jewelry o
 
 **Cost: $50–$200 | Difficulty: Easy–Moderate | Impact: Very High**
 
-The vanity light is one of the most visible fixtures in the room and one of the easiest to replace yourself if you're comfortable turning off a breaker. A dated brass or chrome bar light can be replaced with a modern cage-style, globe, or linear LED fixture for $50–$200 at Home Depot or Wayfair. Match the finish to your new hardware for a pulled-together look. Budget 45–60 minutes for the swap.
+The vanity light is one of the most visible fixtures in the room and one of the easiest to replace yourself if you're comfortable turning off a breaker. Make sure the replacement fixture is [UL-listed](https://www.ul.com/) for damp or wet locations if it's near the shower or tub. A dated brass or chrome bar light can be replaced with a modern cage-style, globe, or linear LED fixture for $50–$200 at Home Depot or Wayfair. Match the finish to your new hardware for a pulled-together look. Budget 45–60 minutes for the swap.
 
 ---
 
@@ -103,7 +103,7 @@ Clutter on the shower floor or a soap dish stuck to the wall with suction cups u
 
 **Cost: $60–$200 | Difficulty: Moderate | Impact: High**
 
-A builder-grade chrome faucet is easy to spot and easy to replace. Moen, Delta, and Kohler all make single-hole and widespread faucets in matte black, brushed gold, and brushed nickel for $60–$200. The job requires shutting off the supply valves under the sink, disconnecting the supply lines, and reversing the process with the new faucet. It's a 1–2 hour job with basic plumbing tools. Pair it with a matching drain cover for a complete look. If you're also thinking about a new vanity, review [bathroom vanity installation cost](/blog/bathroom-vanity-installation-cost/) before deciding whether a faucet swap is enough.
+A builder-grade chrome faucet is easy to spot and easy to replace. Moen, Delta, and Kohler all make single-hole and widespread faucets in matte black, brushed gold, and brushed nickel for $60–$200. Look for the [EPA WaterSense label](https://www.epa.gov/watersense) — certified faucets use at least 20% less water without sacrificing pressure, and they cost the same as standard models. The job requires shutting off the supply valves under the sink, disconnecting the supply lines, and reversing the process with the new faucet. It's a 1–2 hour job with basic plumbing tools. Pair it with a matching drain cover for a complete look. If you're also thinking about a new vanity, review [bathroom vanity installation cost](/blog/bathroom-vanity-installation-cost/) before deciding whether a faucet swap is enough.
 
 ---
 

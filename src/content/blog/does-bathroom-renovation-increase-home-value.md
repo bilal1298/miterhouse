@@ -37,7 +37,7 @@ This is the distinction most sellers get wrong before calling an agent. The [bat
 
 **Cosmetic updates** — new vanity, new toilet, new light fixture, regrouted tile, freshly caulked tub — typically cost $1,500 to $5,000 and can return close to or above what you spend, especially in a dated bathroom. Why? Because they remove buyer objections without triggering a full renovation budget. A buyer who was going to ask for a $10,000 concession because the bathroom "needs work" may no longer ask when the bathroom looks clean and updated.
 
-**Midrange remodel** — new tile, new tub or shower, new vanity and fixtures, updated lighting — runs $10,000 to $20,000 for most bathrooms (see [bathroom remodel cost in 2026](/blog/bathroom-remodel-cost-estimate/) for current numbers). The National Association of Realtors' Cost vs. Value data consistently shows midrange bathroom remodels recouping around 60–70 cents on the dollar at resale nationally. That is a real contribution to value, but not a full return.
+**Midrange remodel** — new tile, new tub or shower, new vanity and fixtures, updated lighting — runs $10,000 to $20,000 for most bathrooms (see [bathroom remodel cost in 2026](/blog/bathroom-remodel-cost-estimate/) for current numbers). The [National Association of Realtors'](https://www.nar.realtor/research-and-statistics/research-reports/remodeling-impact-report) Cost vs. Value data consistently shows midrange bathroom remodels recouping around 60–70 cents on the dollar at resale nationally. That is a real contribution to value, but not a full return.
 
 **Upscale or luxury remodel** — heated floors, steam shower, freestanding soaking tub, custom tile work — can push $30,000 to $50,000 or more and typically recoup the least as a percentage. The buyers who want those features are looking in a price bracket where the home has to be competitive with other luxury properties. If you are adding a steam shower to a $280,000 house in a neighborhood of $280,000 houses, the market cannot absorb that cost.
 
@@ -47,7 +47,7 @@ The rule of thumb most experienced agents use: spend no more than 5–10% of you
 
 One renovation that consistently performs well from a real estate perspective is adding a half bath — a powder room with a toilet and sink, no shower — to a home that currently has only one full bath.
 
-Going from one bathroom to one full plus one half is a meaningful functional upgrade in most markets. Families with guests, or buyers who have teenagers, immediately see the value. The National Association of Realtors has estimated this addition can increase a home's value by 10–11% in markets where it fills a genuine gap.
+Going from one bathroom to one full plus one half is a meaningful functional upgrade in most markets. Families with guests, or buyers who have teenagers, immediately see the value. The [National Association of Realtors](https://www.nar.realtor/) has estimated this addition can increase a home's value by 10–11% in markets where it fills a genuine gap.
 
 The economics work when you can convert existing space — an underused closet, the space under a staircase, a corner of a laundry room — without major structural work. A powder room built into existing square footage in the $3,000 to $8,000 range can add $15,000 to $25,000 in perceived value in the right market. That math pencils out better than almost any cosmetic update.
 
@@ -57,7 +57,7 @@ It does not pencil out when it requires moving plumbing walls, adding square foo
 
 This is the concept that most homeowners underweight when planning a renovation before selling, and it is the main reason high-end bathroom remodels underperform.
 
-Every neighborhood has a price ceiling — the top of what the market will pay for a home in that area, regardless of what's inside. Appraisers use comparable sales to establish value, and comps are bounded by the neighborhood. If the nicest homes on your street sell for $350,000, spending $45,000 renovating your bathrooms to a luxury standard will not push your sale price to $395,000. The comps will not support it.
+Every neighborhood has a price ceiling — the top of what the market will pay for a home in that area, regardless of what's inside. The [Appraisal Institute](https://www.appraisalinstitute.org/) calls this the principle of conformity — appraisers use comparable sales to establish value, and comps are bounded by the neighborhood. If the nicest homes on your street sell for $350,000, spending $45,000 renovating your bathrooms to a luxury standard will not push your sale price to $395,000. The comps will not support it.
 
 This does not mean renovations are pointless — it means they need to be calibrated to the price bracket. A bathroom that is visibly neglected will trade at a discount to neighborhood comps. A bathroom that is clean, functional, and updated to current basic standards will trade at the comp average. A bathroom renovated above what the market expects will not trade above the comp ceiling.
 

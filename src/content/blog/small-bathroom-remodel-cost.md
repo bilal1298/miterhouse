@@ -114,7 +114,7 @@ Every contractor I know has a "found behind the walls" story. In a bathroom, the
 
 **Out-of-code wiring.** Older homes often have no GFCI protection in the bathroom, an undersized circuit, or a light switch too close to the tub. Bringing this to code isn't optional — an inspector will catch it, and your insurance cares too. Budget $200–$600 for electrical upgrades if the home is pre-1990.
 
-**Lead paint or asbestos.** Homes built before 1978 may have lead paint. Tile installed before 1980 sometimes contains asbestos in the adhesive (not the tile face). Testing costs $30–$150. Remediation if found adds $500–$3,000. You can DIY in some states with proper precautions, but not in others — check your local regs.
+**Lead paint or asbestos.** Homes built before 1978 may have [lead paint](https://www.epa.gov/lead) — test before disturbing any painted surfaces. Tile installed before 1980 sometimes contains [asbestos in the adhesive](https://www.epa.gov/asbestos) (not the tile face). Testing costs $30–$150. Remediation if found adds $500–$3,000. You can DIY in some states with proper precautions, but not in others — check your local regs.
 
 **Out-of-square or unlevel floors.** Old homes settle. A floor that's 1/2 inch out of level across 8 feet needs to be floated before large-format tile goes down, or you get cracked grout lines within a year. Floating and leveling adds $150–$400.
 
@@ -127,7 +127,7 @@ The standard advice is to add 10–15% contingency to your budget. In older home
 Not all budget decisions are equal in a small bathroom. Here's what's worth the money and what isn't:
 
 **Worth every dollar:**
-- **Waterproofing.** Schluter Kerdi membrane or RedGard over cement board in the shower costs $100–$250 more than skipping it. Failing to waterproof properly is how $8,000 remodels become $15,000 ones two years later.
+- **Waterproofing.** Schluter Kerdi membrane or RedGard over cement board in the shower, installed per the [TCNA Handbook](https://www.tcnatile.com/) specifications, costs $100–$250 more than skipping it. Failing to waterproof properly is how $8,000 remodels become $15,000 ones two years later.
 - **A good exhaust fan.** A 110 CFM fan with a humidity sensor (Panasonic WhisperSense is the go-to, around $60–$90) keeps moisture out of the walls and prevents mold. The $25 builder-grade fans move almost no air.
 - **Tile labor.** A bad tile job in a small bathroom is more visible, not less. The room is small enough that one unlevel row or inconsistent grout lines dominate the space.
 
@@ -170,7 +170,7 @@ General ranges by market type:
 - **Mid-tier metros** (Denver, Dallas, Atlanta, Chicago): at or near national average
 - **Smaller cities and rural markets**: often 15–25% below national average
 
-Permit costs also vary — some cities charge flat fees around $75, others charge percentage-based fees that add up fast on higher-budget jobs. Pull the permit. Unpermitted bathroom work can complicate a home sale and void homeowner's insurance claims if something goes wrong.
+Permit costs also vary — some cities charge flat fees around $75, others charge percentage-based fees that add up fast on higher-budget jobs. Pull the permit. The [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) governs permit requirements in most US jurisdictions. Unpermitted bathroom work can complicate a home sale and void homeowner's insurance claims if something goes wrong.
 
 ---
 

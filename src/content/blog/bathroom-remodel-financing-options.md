@@ -36,7 +36,7 @@ Before you go further, make sure you have a realistic project budget in hand. If
 
 ## 1. Home Equity Loan
 
-**How it works:** A home equity loan lets you borrow a fixed lump sum against the equity in your home. You receive the money in one payment, repay it over a fixed term at a fixed interest rate, and the loan is secured by your property — meaning your home is collateral.
+**How it works:** A home equity loan lets you borrow a fixed lump sum against the equity in your home. The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/owning-a-home/) offers a neutral guide to understanding home equity products before you shop. You receive the money in one payment, repay it over a fixed term at a fixed interest rate, and the loan is secured by your property — meaning your home is collateral.
 
 **Typical rates and terms:** Rates generally run 7–10% APR for borrowers with strong credit and 15–20% equity remaining after the loan. Terms range from 5 to 20 years, with 10–15 years being the most common for remodel projects. Most lenders cap combined loan-to-value (CLTV) at 80–85%.
 
@@ -102,7 +102,7 @@ Before you go further, make sure you have a realistic project budget in hand. If
 
 **Best for:** Homeowners without sufficient equity, renters finishing out a space (unusual but it happens), or anyone financing a smaller job ($5,000–$20,000) who doesn't want the timeline or closing costs of a home equity product.
 
-**What to look for:** Compare the origination fee alongside the APR — a lender advertising a low rate but charging a 6% origination fee may be more expensive than a lender with a slightly higher rate and no fee. Use the total cost of the loan (principal + all interest + fees) as the comparison metric.
+**What to look for:** Compare the origination fee alongside the APR — a lender advertising a low rate but charging a 6% origination fee may be more expensive than a lender with a slightly higher rate and no fee. The [Federal Trade Commission's guide to personal loans](https://consumer.ftc.gov/articles/personal-loans) explains how to compare loan offers effectively. Use the total cost of the loan (principal + all interest + fees) as the comparison metric.
 
 ---
 
@@ -126,7 +126,7 @@ Before you go further, make sure you have a realistic project budget in hand. If
 
 **Best for:** Smaller bathroom updates ($3,000–$12,000) where you're confident you can retire the balance within the promotional window. Also useful as a bridge for a homeowner who has home equity approval in progress but needs to get the contractor started.
 
-**What to look for:** Read the fine print on whether the card uses deferred interest or true 0% interest. With deferred interest, if you carry any balance at the end of the promo period, you get charged interest back to day one. True 0% cards only charge interest on the remaining balance going forward — a huge difference.
+**What to look for:** The [CFPB's credit card guide](https://www.consumerfinance.gov/consumer-tools/credit-cards/) can help you understand promotional APR terms. Read the fine print on whether the card uses deferred interest or true 0% interest. With deferred interest, if you carry any balance at the end of the promo period, you get charged interest back to day one. True 0% cards only charge interest on the remaining balance going forward — a huge difference.
 
 ---
 

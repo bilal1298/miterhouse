@@ -115,7 +115,7 @@ Named for what it does: opens paint cans, cleans roller covers, scrapes paint, g
 
 ## Safety Gear
 
-Don't skip this section. Hearing loss is permanent, silica dust causes silicosis, and a stray nail or grinder spark can end a project — and your eyesight — fast.
+Don't skip this section. [OSHA's construction safety guidelines](https://www.osha.gov/construction) apply to professional jobsites, but the hazards are the same in your garage. Hearing loss is permanent, silica dust causes silicosis, and a stray nail or grinder spark can end a project — and your eyesight — fast.
 
 ### 18. Ear Protection — $10–$30
 
@@ -123,11 +123,11 @@ Foam earplugs (NRR 33) are the most effective option and cost almost nothing. Fo
 
 ### 19. Safety Glasses / Goggles — $8–$25
 
-Clear ANSI Z87.1-rated glasses are the standard. Keep two pairs: one clear for general work, one in a tinted lens for outdoor work. The DeWalt DPG82-11C ($12) fits well over regular glasses. Grinding, sawing, nailing — all of these throw debris.
+Clear [ANSI Z87.1](https://www.ansi.org/)-rated glasses are the standard. Keep two pairs: one clear for general work, one in a tinted lens for outdoor work. The DeWalt DPG82-11C ($12) fits well over regular glasses. Grinding, sawing, nailing — all of these throw debris.
 
 ### 20. N95 Respirator — $20–$40 for a pack
 
-If you're cutting drywall, sanding joint compound, disturbing old insulation, or doing anything that creates dust, wear an N95 at minimum. An old house? Assume lead paint on anything pre-1978 and treat the dust accordingly. The 3M 8511 N95 is the comfortable standard. A face mask is not a respirator.
+If you're cutting drywall, sanding joint compound, disturbing old insulation, or doing anything that creates dust, wear an N95 at minimum. An old house? Assume lead paint on anything pre-1978 and treat the dust accordingly — the [EPA's lead safety page](https://www.epa.gov/lead) covers testing kits and safe work practices. The 3M 8511 N95 is the comfortable standard. A face mask is not a respirator.
 
 ### 21. Work Gloves — $15–$35
 

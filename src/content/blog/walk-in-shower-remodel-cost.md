@@ -100,14 +100,14 @@ If you're keeping cost down, a semi-frameless door with a panel (just a metal ch
 
 ## Curbless Shower Costs: What You're Actually Paying For
 
-A curbless (zero-threshold or barrier-free) shower has no lip at the entry. Water stays in the shower through a sloped floor and a quality drain. They're popular for aging-in-place designs and for a clean, open look.
+A curbless (zero-threshold or barrier-free) shower has no lip at the entry. Water stays in the shower through a sloped floor and a quality drain. They're popular for [aging-in-place designs](https://www.aarp.org/livable-communities/housing/) and for a clean, open look — the [ADA Standards for Accessible Design](https://www.ada.gov/law-and-regs/design-standards/) inform many curbless specifications, even in private homes.
 
 The extra cost over a standard shower isn't just the drain — it's the floor work:
 
 - **Linear drain:** $150–$600 for the drain itself; positions along one wall for a single-slope floor (easier to tile)
 - **Center drain:** Cheaper drain, but requires the floor to slope four ways — harder to tile well
 - **Floor slope modification:** $300–$800 in labor to set the mortar bed correctly
-- **Waterproofing upgrade:** Curbless showers are more demanding here because there's no physical barrier to catch water. Schluter Kerdi or a similar membrane system runs $400–$800 in materials plus labor
+- **Waterproofing upgrade:** Curbless showers are more demanding here because there's no physical barrier to catch water. The [TCNA Handbook](https://www.tcnatile.com/) details the specific membrane configurations required for curbless builds. Schluter Kerdi or a similar membrane system runs $400–$800 in materials plus labor
 
 Total add-on for going curbless: **$800–$2,500** depending on drain choice and floor complexity.
 

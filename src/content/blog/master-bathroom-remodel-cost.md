@@ -97,7 +97,7 @@ A gut renovation takes the bathroom to the studs. You're relocating fixtures, ad
 
 **Freestanding soaking tub:** $1,500–$6,000 for the tub itself, plus $500–$1,200 for the floor-mount filler and installation. Freestanding tubs look great in photos but require more floor space than alcove tubs — don't specify one unless the room can actually breathe around it.
 
-**Heated tile floors (electric radiant):** $8–$15 per square foot for the mat, plus $200–$500 for a thermostat and electrician time. For an 80-square-foot bathroom, budget $900–$1,700 installed. It's one of the most cost-effective luxury upgrades per dollar spent — minimal structural work, real daily comfort.
+**Heated tile floors (electric radiant):** $8–$15 per square foot for the mat, plus $200–$500 for a thermostat and electrician time. These systems must be installed per the [National Electrical Code (NFPA 70)](https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70) and typically require a dedicated circuit. For an 80-square-foot bathroom, budget $900–$1,700 installed. It's one of the most cost-effective luxury upgrades per dollar spent — minimal structural work, real daily comfort.
 
 **Custom cabinetry vs. stock:** A stock 60" double vanity from a big-box store runs $600–$1,200. A semi-custom version from a kitchen/bath dealer: $1,500–$3,500. A fully custom built-in: $4,000–$10,000+. Custom is worth it when the layout demands it — odd dimensions, built-in storage towers, integrated linen cabinet. Otherwise, semi-custom gets you most of the look for half the price.
 
@@ -135,7 +135,7 @@ Five variables have more impact on final cost than anything else:
 
 **3. Labor market.** In major metros (NYC, San Francisco, Seattle), labor rates run 30–50% higher than national averages. In the Midwest and South, you'll often come in under the ranges quoted here.
 
-**4. Permit requirements.** Some jurisdictions require permits for any plumbing or electrical work; others only require them for structural changes. Skipping a required permit creates title problems when you sell. Budget $200–$600 and pull the permits.
+**4. Permit requirements.** Some jurisdictions require permits for any plumbing or electrical work per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/); others only require them for structural changes. Skipping a required permit creates title problems when you sell. Budget $200–$600 and pull the permits.
 
 **5. What you find in the walls.** Mold remediation adds $500–$3,000. Replacing a deteriorated subfloor adds $500–$1,500. These aren't rare — they're routine in bathrooms older than 15 years. Build a 15% contingency into any mid-range or gut renovation budget.
 
@@ -143,7 +143,7 @@ Five variables have more impact on final cost than anything else:
 
 ## Will You Get Your Money Back?
 
-A master bathroom remodel is not a pure financial investment — no renovation is — but it's among the better-returning projects in the house. Mid-range master bath remodels recoup roughly 60–70% of cost at resale. Upscale remodels come in slightly lower because luxury finishes appeal to a narrower buyer pool.
+A master bathroom remodel is not a pure financial investment — no renovation is — but it's among the better-returning projects in the house. Mid-range master bath remodels recoup roughly 60–70% of cost at resale according to the [Remodeling Magazine Cost vs. Value report](https://www.remodeling.hw.net/cost-vs-value/2025/). Upscale remodels come in slightly lower because luxury finishes appeal to a narrower buyer pool.
 
 The practical calculus: if you're selling within two years, do the mid-range work that makes the room competitive, not the high-end project that adds marginal resale value over what the neighborhood supports. If you're staying for five or more years, the daily use math changes significantly.
 

@@ -91,7 +91,7 @@ Renting a dumpster runs $200–$400. If you can haul debris to the dump yourself
 
 ### Permits: $0–$300
 
-Most cosmetic remodels don't need permits. If you're moving plumbing or electrical, check your local requirements. Getting caught without a permit during a home sale is expensive.
+Most cosmetic remodels don't need permits. If you're moving plumbing or electrical, check your local requirements — the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) governs what triggers a permit in most US jurisdictions. Getting caught without a permit during a home sale is expensive.
 
 ## Where DIY Saves the Most
 
@@ -104,7 +104,7 @@ Labor is the #1 expense in a professional remodel — typically 40-65% of the to
 
 ## Where DIY Costs More (or Goes Wrong)
 
-- **Waterproofing mistakes** — if your shower leaks, you're tearing everything out and starting over. Use a liquid membrane system and don't rush.
+- **Waterproofing mistakes** — if your shower leaks, you're tearing everything out and starting over. The [TCNA Handbook](https://www.tcnatile.com/) details the correct membrane and application methods for every shower type. Use a liquid membrane system and don't rush.
 - **Plumbing errors** — a bad solder joint behind a wall means cutting drywall later.
 - **Buying cheap tools** — a $40 tile saw will chip every cut. Rent a good one or buy mid-range.
 

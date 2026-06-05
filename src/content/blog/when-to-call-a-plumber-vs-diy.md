@@ -91,9 +91,9 @@ If drains throughout the house are backing up simultaneously, or you're seeing s
 
 ### Water Heater Replacement
 
-Replacing a tank water heater involves gas or 240V electrical connections, a temperature-pressure relief valve, proper venting (for gas units), and code compliance. In most jurisdictions, this work requires a permit and inspection.
+Replacing a tank water heater involves gas or 240V electrical connections, a temperature-pressure relief valve, proper venting (for gas units), and code compliance. In most jurisdictions, this work requires a permit and inspection per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/).
 
-Gas lines especially: a bad connection is a carbon monoxide and explosion risk. This is not the place to learn on the job.
+Gas lines especially: a bad connection is a carbon monoxide and explosion risk — the [Consumer Product Safety Commission](https://www.cpsc.gov/Safety-Education/Safety-Guides/General-Information/Carbon-Monoxide-Information-Center) has documented hundreds of CO incidents from improperly installed gas appliances. This is not the place to learn on the job.
 
 **Plumber cost:** $300–$600 labor for a standard tank swap, plus the unit ($400–$1,200).
 
@@ -136,7 +136,7 @@ If you're pricing out a [DIY bathroom remodel](/blog/diy-bathroom-remodel-cost/)
 
 When you do need a pro, the quality difference between plumbers is significant. Here's how to avoid the bad ones:
 
-**Check license and insurance first.** Every state requires plumbers to be licensed. Ask for their license number and verify it on your state's contractor licensing board website. They should also carry general liability insurance and workers' comp.
+**Check license and insurance first.** Every state requires plumbers to be licensed. Ask for their license number and verify it on your state's contractor licensing board website — most states list active licenses through a searchable database maintained by their [Department of Consumer Affairs](https://www.usa.gov/state-consumer) or equivalent agency. They should also carry general liability insurance and workers' comp.
 
 **Get three quotes for anything over $500.** For a water heater or larger job, three quotes will usually show you the range clearly. If one is dramatically lower, ask why—it often means they're cutting corners on permits or materials.
 

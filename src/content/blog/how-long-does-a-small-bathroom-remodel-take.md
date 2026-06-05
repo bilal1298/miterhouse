@@ -36,7 +36,7 @@ Timeline: **2–4 days** for a competent DIYer. One day demo and prep, one day f
 - Demo everything to studs
 - Replace subfloor if needed
 - Rough plumbing and electrical
-- Cement board or Schluter Kerdi waterproofing
+- Cement board or Schluter Kerdi waterproofing (per [TCNA specifications](https://www.tcnatile.com/))
 - Floor tile set and grouted
 - Wall tile set and grouted
 - Fixtures installed after tile cures
@@ -90,7 +90,7 @@ A 5x8 bathroom is small, but small rooms can still hide expensive problems. Here
 
 **Cast-iron drain replacement:** Older homes often have 4-inch cast-iron drain lines. Cutting into cast iron, transitioning to PVC, and getting a rough plumbing inspection adds 1–3 days. This comes up most often when people try to relocate the toilet even a few inches.
 
-**Permit and inspection scheduling:** Permits are required for most gut remodels that involve plumbing or electrical work. In some jurisdictions, rough inspections are scheduled 3–5 business days out. If your inspector finds something — wrong vent sizing, missing GFCI protection — you lose another inspection cycle. Pull permits at the very start of planning, not the day before demo.
+**Permit and inspection scheduling:** Permits are required per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) for most gut remodels that involve plumbing or electrical work. In some jurisdictions, rough inspections are scheduled 3–5 business days out. If your inspector finds something — wrong vent sizing, missing GFCI protection — you lose another inspection cycle. Pull permits at the very start of planning, not the day before demo.
 
 **Backordered materials:** This is the silent killer of project timelines. A tile that ships in "4–6 weeks" stalls everything if you've already demoed the walls. Order all materials before you touch a pry bar. If a tile is backordered, pick something in stock.
 

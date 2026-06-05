@@ -53,7 +53,7 @@ This phase determines everything that comes after. Most projects that run late w
 - Order fixtures, vanity, and any special-order items (vessel sinks, custom glass enclosures)
 - Schedule subcontractors: plumber, electrician, tile setter (if not DIY)
 
-**Permit reality:** In most US municipalities, a permit for a bathroom remodel costs $50–$200 and takes 3–10 business days for approval. Moving a toilet or adding a GFCI circuit almost always requires one. Skipping permits creates problems at resale and can void your homeowner's insurance if something goes wrong. Pull them.
+**Permit reality:** Per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/), most US municipalities require a permit for a bathroom remodel — costs run $50–$200 and approval takes 3–10 business days. Moving a toilet or adding a GFCI circuit almost always requires one. Skipping permits creates problems at resale and can void your homeowner's insurance if something goes wrong. Pull them.
 
 **Where projects stall:** Tile and vanity lead times are the silent project killers. Popular tile lines from large-format or imported manufacturers often have 3–6 week lead times. Order before you schedule demo, not after. If your tile arrives after demo, you're paying a contractor to wait — or living in construction limbo.
 
@@ -78,7 +78,7 @@ Demo is fast and satisfying until it isn't.
 
 *Rotted subfloor.* This is the most common surprise. If the old tile was installed without proper waterproofing (common in pre-2000 construction), water has likely worked its way under it. Probe the subfloor before you start ordering materials. If it flexes or smells, budget for replacement. Sistering floor joists adds 1–3 days to the project.
 
-*Asbestos tile or mastic.* Homes built before 1980 may have asbestos floor tile or black mastic adhesive underneath. You don't need to remove it if it's in good condition — you can tile over it — but if it's damaged or you need to remove it, you'll need abatement, which takes time and adds cost.
+*Asbestos tile or mastic.* Homes built before 1980 may have [asbestos-containing floor tile or mastic](https://www.epa.gov/asbestos) underneath. You don't need to remove it if it's in good condition — you can tile over it — but if it's damaged or you need to remove it, you'll need abatement, which takes time and adds cost.
 
 *Hidden mold.* Often found behind shower tile in older bathrooms. If it's limited to the surface, you can treat and encapsulate it. If it's in the framing, you're looking at remediation before you can continue.
 
@@ -113,7 +113,7 @@ Skipping or rushing this phase is the single most expensive mistake in bathroom 
 
 **What happens:**
 - Install cement board or tile backer on all wet walls (not drywall)
-- Apply waterproof membrane in the shower — RedGard, Schluter Kerdi, or similar
+- Apply waterproof membrane in the shower — RedGard, Schluter Kerdi, or similar — per [TCNA Handbook](https://www.tcnatile.com/) specifications
 - Waterproof the shower floor pan, including corners and curb
 - Install Schluter strip or transition at shower entry
 - Pre-slope the shower floor for drainage (minimum 1/4" per foot toward drain)

@@ -12,7 +12,7 @@ faq:
   - q: "Can you use standard bathroom fixtures in a mobile home?"
     a: "Not always. Mobile home bathrooms are often built to non-standard dimensions — tubs are commonly 48\" or 54\" long rather than the 60\" standard. Always measure before buying fixtures, and look specifically for fixtures marketed as 'mobile home' or 'manufactured home' compatible."
   - q: "Do I need a permit to remodel a bathroom in a mobile home?"
-    a: "Yes, in most jurisdictions. Permit requirements for mobile homes vary by state and county — some fall under HUD code, others under local building codes depending on when the home was built. Check with your local building department before starting any plumbing or structural work."
+    a: "Yes, in most jurisdictions. Permit requirements for mobile homes vary by state and county — some fall under [HUD's Manufactured Housing Standards](https://www.hud.gov/program_offices/housing/rmra/mhs/mhshome), others under local building codes depending on when the home was built. Check with your local building department before starting any plumbing or structural work."
 ---
 
 A mobile home bathroom remodel costs between $1,500 and $8,000 for most projects — noticeably less than a site-built home remodel on the surface, but the unique construction of manufactured homes introduces a set of complications that can drive costs up fast if you don't know what you're walking into. Before you pull out that old vanity, here's what makes these jobs different and how to plan accordingly.
@@ -25,7 +25,7 @@ The gap between a mobile home bathroom and one in a site-built house isn't just 
 
 **Non-standard dimensions.** Mobile home bathrooms are compact by design. Tub surrounds are almost never the standard 60 inches; 48-inch and 54-inch tubs are common. The shower pan, vanity, and toilet rough-in distances can all be different from what home improvement stores stock. If you buy a standard tub kit and try to drop it into the existing alcove, you're going to be cutting backer board and rebuilding framing — at minimum.
 
-**ABS plastic plumbing (not PVC).** Many manufactured homes built before the mid-2000s used ABS (acrylonitrile butadiene styrene) black plastic pipe rather than white PVC. The two systems don't bond with the same cement, and using the wrong glue on an ABS joint is a slow leak waiting to happen. If you're extending or modifying any drain lines, identify what you have before buying fittings.
+**ABS plastic plumbing (not PVC).** Many manufactured homes built before the mid-2000s used ABS (acrylonitrile butadiene styrene) black plastic pipe rather than white PVC, as specified by the [International Association of Plumbing and Mechanical Officials (IAPMO)](https://www.iapmo.org/) standards for manufactured housing. The two systems don't bond with the same cement, and using the wrong glue on an ABS joint is a slow leak waiting to happen. If you're extending or modifying any drain lines, identify what you have before buying fittings.
 
 **Belly board access.** The drain lines and supply lines run through the "belly" of the home — a vapor barrier underneath the floor sealed with a board. To access a leak or reroute plumbing, you're often cutting through that belly board from underneath. It's not impossible, but it's messier and more time-consuming than opening a wall in a site-built home, and a bad repair to the belly board can invite moisture problems and pest intrusion.
 
@@ -110,7 +110,7 @@ If budget is the barrier, there are [budget bathroom remodel strategies](/blog/b
 
 ## Financing the Remodel
 
-Manufactured homes have historically been trickier to finance than site-built homes, and that extends to remodel financing. A traditional home equity loan may not be available if the home is titled as personal property rather than real estate. FHA Title I loans are one option specifically designed for manufactured home improvements; personal loans and contractor financing are others. The [full guide to bathroom remodel financing options](/blog/bathroom-remodel-financing-options/) covers the tradeoffs in detail.
+Manufactured homes have historically been trickier to finance than site-built homes, and that extends to remodel financing. A traditional home equity loan may not be available if the home is titled as personal property rather than real estate. [FHA Title I loans](https://www.hud.gov/program_offices/housing/sfh/title/title-i) are one option specifically designed for manufactured home improvements; personal loans and contractor financing are others. The [full guide to bathroom remodel financing options](/blog/bathroom-remodel-financing-options/) covers the tradeoffs in detail.
 
 ---
 

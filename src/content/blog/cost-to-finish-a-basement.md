@@ -64,7 +64,7 @@ This is the step most people want to skip because nothing about it is glamorous.
 
 Before any framing goes up, run a plastic sheet test: tape a 12"×12" piece of plastic sheeting to the floor and walls and leave it for 24–48 hours. Condensation on top means humidity in the air (a dehumidifier fixes this). Condensation underneath means water is migrating through the concrete — that's a waterproofing job.
 
-Minor seepage from wall cracks can be handled with hydraulic cement and masonry sealer ($200–$500 DIY). Persistent water intrusion along the footer requires an interior drain tile system (French drain around the perimeter + sump pump), which runs $5,000–$15,000 installed. That's not optional if the water is there.
+Minor seepage from wall cracks can be handled with hydraulic cement and masonry sealer ($200–$500 DIY). The [EPA recommends testing for radon](https://www.epa.gov/radon) before finishing any basement, since radon levels above 4 pCi/L require a mitigation system — and it's far cheaper to install before walls go up. Persistent water intrusion along the footer requires an interior drain tile system (French drain around the perimeter + sump pump), which runs $5,000–$15,000 installed. That's not optional if the water is there.
 
 ### Framing
 
@@ -117,7 +117,7 @@ A ductless mini-split ($3,000–$6,000 installed for a single-zone unit) gives t
 
 ### Egress Windows
 
-If any room in your finished basement will be used as a sleeping area — including a guest room — egress is required by the International Residential Code and by nearly every local building department. An egress window requires a rough opening of at least 5.7 sq ft, a minimum width of 20 inches, and a well that allows emergency escape.
+If any room in your finished basement will be used as a sleeping area — including a guest room — egress is required by the [International Residential Code (IRC Section R310)](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) and by nearly every local building department. An egress window requires a rough opening of at least 5.7 sq ft, a minimum width of 20 inches, and a well that allows emergency escape.
 
 Budget $1,500–$3,500 per window including excavation, the window unit itself, and waterproofing around the opening. This is not a DIY job in most cases — the concrete cutting and waterproofing details need to be done right or the window becomes a water entry point.
 
@@ -137,7 +137,7 @@ For a detailed look at bathroom-specific costs, see our [Bathroom Remodel Cost i
 
 Every structural, electrical, and plumbing element of a basement finish requires a permit in virtually every US jurisdiction. Permits cost $500–$2,000 and are non-negotiable for three reasons:
 
-1. **Insurance.** Unpermitted work can void your homeowner's policy coverage for those areas.
+1. **Insurance.** Unpermitted work can void your homeowner's policy coverage for those areas. The [National Association of Home Builders](https://www.nahb.org/) recommends pulling permits for every phase of a basement finish — it protects your investment and ensures code compliance.
 2. **Resale.** Buyers' inspectors look for unpermitted basement finishes. The disclosure hits your price or kills the deal.
 3. **Safety.** Electrical and egress inspections catch real problems — it's the system working as designed.
 

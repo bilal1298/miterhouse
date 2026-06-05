@@ -47,7 +47,7 @@ These three applications look similar but carry different technical requirements
 
 Floor tile installation typically runs $7–$15 per square foot installed for ceramic or standard porcelain. The substrate is usually existing concrete or plywood subfloor. If the subfloor flexes, deflects, or isn't level, the installer needs to float a mortar bed or add cement backer board before any tile goes down — add $2–$4 per sq ft for that.
 
-The critical spec for floor tile: it must have a PEI (Porcelain Enamel Institute) rating of at least 3 for bathroom floors, 4 for heavy-traffic areas. Installers won't usually use a wall tile on a floor, and if one does without telling you, that's a red flag.
+The critical spec for floor tile: it must have a PEI (Porcelain Enamel Institute) rating of at least 3 for bathroom floors, 4 for heavy-traffic areas. The [Tile Council of North America (TCNA)](https://www.tcnatile.com/) publishes the definitive handbook on tile selection and installation standards. Installers won't usually use a wall tile on a floor, and if one does without telling you, that's a red flag.
 
 ### Wall Tile
 
@@ -62,7 +62,7 @@ Shower tile is the most expensive category, running $12–$25+ per square foot i
 - Cement board or tile backer on all walls
 - Then tile, thinset, and grout
 
-Skip or rush any of those steps and you're looking at mold, structural damage, and a full shower demo within a few years. If you're getting quotes and one installer is significantly cheaper on a shower job, ask them to walk you through the waterproofing step by step. The answer will tell you a lot.
+Skip or rush any of those steps and you're looking at mold, structural damage, and a full shower demo within a few years. The [TCNA Handbook](https://www.tcnatile.com/tcna-handbook.html) details specific membrane and mortar requirements for each shower configuration — it's the reference most professional installers follow. If you're getting quotes and one installer is significantly cheaper on a shower job, ask them to walk you through the waterproofing step by step. The answer will tell you a lot.
 
 For full context on what a shower remodel costs end-to-end, see [Walk-In Shower Remodel Cost](/blog/walk-in-shower-remodel-cost/).
 
@@ -102,7 +102,7 @@ On a basic bathroom floor — rectangular room, no obstacles, 12"×12" or larger
 
 Where DIY gets dangerous:
 
-**Shower waterproofing.** The membrane application is not difficult, but it requires attention to corners, seams, and drain flashings that most tutorials gloss over. A pinhole failure in the membrane means water gets in — not visibly, but steadily — and the damage shows up 2–4 years later as a wall or subfloor replacement. If you're doing your own shower, at minimum watch Schluter's official installation videos start to finish and follow the spec exactly.
+**Shower waterproofing.** The membrane application is not difficult, but it requires attention to corners, seams, and drain flashings that most tutorials gloss over. A pinhole failure in the membrane means water gets in — not visibly, but steadily — and the damage shows up 2–4 years later as a wall or subfloor replacement. If you're doing your own shower, at minimum watch Schluter's official installation videos start to finish and follow the spec exactly. The [National Tile Contractors Association (NTCA)](https://www.tile-assn.com/) also publishes free reference guides for homeowners tackling wet-area tile work.
 
 **Substrate prep.** Tile telegraphs every imperfection in the substrate. If your floor has soft spots, the tile will crack. If it's out of level more than 1/8" over 10 feet, grout lines will be visibly uneven. This is the step pros spend the most time on, and the step DIYers most often skip.
 

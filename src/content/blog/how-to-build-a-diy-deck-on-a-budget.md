@@ -58,7 +58,7 @@ The ledger is a 2x10 or 2x12 pressure-treated board that attaches directly to yo
 
 - Remove any siding in the ledger area. You need to bolt through sheathing and rim joist, not just siding.
 - Flash properly. Use self-adhering membrane flashing or Z-flashing to prevent water from wicking behind the ledger and rotting your rim joist. This is the single most common ledger failure point — skipping it causes rot that costs $3,000+ to fix.
-- Use 1/2-inch hot-dipped galvanized or stainless lag screws or through-bolts, two per joist location, minimum. Consult the American Wood Council's prescriptive ledger tables for your exact lumber size and joist spacing.
+- Use 1/2-inch hot-dipped galvanized or stainless lag screws or through-bolts, two per joist location, minimum. Consult the [American Wood Council's](https://awc.org/codes-standards/publications/dca6/) prescriptive ledger tables for your exact lumber size and joist spacing.
 
 ### Beams and Posts
 
@@ -131,7 +131,7 @@ Prices reflect current lumber yard rates (mid-2026). Big-box pricing runs 10–2
 
 ## Step 5: Railings
 
-If your deck is 30 inches or more off grade, most codes require 36-inch railings with balusters spaced no more than 4 inches apart (the "4-inch sphere rule" — nothing larger than a 4-inch ball should pass through).
+If your deck is 30 inches or more off grade, the [International Residential Code (IRC Section R312)](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) requires 36-inch railings with balusters spaced no more than 4 inches apart (the "4-inch sphere rule" — nothing larger than a 4-inch ball should pass through).
 
 The most budget-friendly approach: 4x4 PT posts, 2x4 top and bottom rails, and pressure-treated or composite balusters.
 
@@ -158,7 +158,7 @@ Plan to re-seal every 1–2 years in wet climates, every 2–3 in dry ones. A $4
 
 **Buying green lumber and framing immediately.** Green PT lumber will shrink and warp as it dries. If you frame immediately with fully saturated lumber, you'll have popped fasteners and cupped boards by fall. Either let it acclimate for a few weeks or specify "KDAT" (kiln-dried after treatment) lumber, which costs about 15% more but installs flat.
 
-**Using the wrong fasteners.** ACQ pressure treatment is corrosive to standard galvanized and zinc fasteners. Use hot-dipped galvanized (HDG) or stainless for everything — hangers, screws, bolts, post bases.
+**Using the wrong fasteners.** ACQ pressure treatment is corrosive to standard galvanized and zinc fasteners. Use hot-dipped galvanized (HDG) or stainless for everything — hangers, screws, bolts, post bases. The [Simpson Strong-Tie fastener guide](https://www.strongtie.com/resources/literature/fastening-systems-catalog) details which hardware is compatible with treated lumber.
 
 **No stair handrail.** If you have four or more risers, code requires a graspable handrail. Easy to add; never overlooked by inspectors.
 

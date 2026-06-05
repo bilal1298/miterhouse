@@ -54,7 +54,7 @@ Removing the old tile, vanity, toilet, and tub surround, plus dumpster or haul-a
 Shutoffs, supply line updates, drain repositioning if needed: **$400–$800**. If you're not moving anything, this stays at the low end.
 
 **Backer board and waterproofing membrane**
-This is where contractors catch homeowners off guard. A proper shower needs cement board or a waterproofing system like Schluter Kerdi. Material plus install: **$350–$700**.
+This is where contractors catch homeowners off guard. A proper shower needs cement board or a waterproofing system like Schluter Kerdi, installed per the [Tile Council of North America (TCNA) Handbook](https://www.tcnatile.com/) specifications. Material plus install: **$350–$700**.
 
 **Tile — shower walls**
 A 3×6 subway tile in a 36"×36" shower stall: tile material runs $2–$5/sq ft, but installation (including the mortar, grout, and labor) runs $10–$20/sq ft. Total for shower walls: **$800–$1,400**.
@@ -124,7 +124,7 @@ Installing a $900 Kohler toilet in a bathroom with $1/sq ft floor tile creates a
 
 For more context on how budgets scale up and down, our [bathroom remodel cost estimate for 2026](/blog/bathroom-remodel-cost-estimate/) covers the full range from cosmetic refreshes to high-end renovations, and the [walk-in shower remodel cost breakdown](/blog/walk-in-shower-remodel-cost/) isolates what a shower-specific project actually costs when that's your primary focus.
 
-If you're seriously considering DIY labor to reduce the 40–50% labor share, the tradeoffs are significant — plumbing and electrical still require licensed work in most jurisdictions, and tile work is harder than it looks. The savings are real, but so is the risk of a weekend project that stretches to six weeks.
+If you're seriously considering DIY labor to reduce the 40–50% labor share, the tradeoffs are significant — plumbing and electrical still require licensed work in most jurisdictions per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/), and tile work is harder than it looks. The savings are real, but so is the risk of a weekend project that stretches to six weeks.
 
 For vanity-specific costs, which is often the biggest single fixture purchase, our [bathroom vanity installation cost guide](/blog/bathroom-vanity-installation-cost/) breaks down the material-vs-labor split in more detail.
 
