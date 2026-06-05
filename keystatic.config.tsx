@@ -1,4 +1,4 @@
-import { config, fields, collection } from "@keystatic/core";
+import { config, fields, collection, singleton } from "@keystatic/core";
 
 const categories = [
   "Kitchen & Bath Remodeling",
@@ -15,6 +15,58 @@ export default config({
   storage: { kind: "local" },
   ui: {
     brand: { name: "Miter House" },
+    navigation: {
+      Content: ["blog", "authors"],
+      Taxonomy: ["categories", "tags"],
+    },
+  },
+  singletons: {
+    categories: singleton({
+      label: "Categories",
+      path: "src/data/categories",
+      schema: {
+        items: fields.array(
+          fields.object({
+            name: fields.text({
+              label: "Category Name",
+              validation: { isRequired: true },
+            }),
+            description: fields.text({
+              label: "Description",
+              description: "SEO-friendly description shown on the category archive page",
+              multiline: true,
+              validation: { isRequired: true },
+            }),
+          }),
+          {
+            label: "Categories",
+            itemLabel: (props) => props.fields.name.value || "New Category",
+          }
+        ),
+      },
+    }),
+    tags: singleton({
+      label: "Tags",
+      path: "src/data/tags",
+      schema: {
+        items: fields.array(
+          fields.object({
+            name: fields.text({
+              label: "Tag Name",
+              validation: { isRequired: true },
+            }),
+            description: fields.text({
+              label: "Description",
+              description: "Optional description for the tag archive page",
+            }),
+          }),
+          {
+            label: "Tags",
+            itemLabel: (props) => props.fields.name.value || "New Tag",
+          }
+        ),
+      },
+    }),
   },
   collections: {
     blog: collection({

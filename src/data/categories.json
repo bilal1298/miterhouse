@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "name": "Kitchen & Bath Remodeling",
+      "description": "Real costs and step-by-step guides for your next kitchen or bathroom project."
+    },
+    {
+      "name": "Budget & Planning",
+      "description": "Cost breakdowns, project planning, and how to get the most from your budget."
+    },
+    {
+      "name": "Flooring & Tile",
+      "description": "From subfloor prep to grout — practical flooring guides for every room."
+    },
+    {
+      "name": "Painting & Walls",
+      "description": "Techniques, product picks, and honest advice for interior and exterior painting."
+    },
+    {
+      "name": "Outdoor & Landscaping",
+      "description": "Decks, patios, gardens, and curb appeal projects you can tackle yourself."
+    },
+    {
+      "name": "Plumbing & Electrical",
+      "description": "Know when to DIY and when to call a pro — plus the basics you can handle."
+    },
+    {
+      "name": "Basement & Attic",
+      "description": "Finishing, waterproofing, insulation, and making unused space livable."
+    },
+    {
+      "name": "Tools & Materials",
+      "description": "Honest reviews and comparisons of the tools and materials that matter."
+    }
+  ]
+}
