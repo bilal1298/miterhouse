@@ -43,10 +43,18 @@ const navCats = [...categories]
 
 <nav class="nav">
   <div class="wrap">
-    <a href="/blog/">Journal</a>
-    {navCats.map((cat) => (
-      <a href={categoryPath(cat.id)}>{cat.data.name.split(" &")[0]}</a>
-    ))}
-    <a href="/search/" class="search">Search ⌕</a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true" />
+    <label for="nav-toggle" class="nav-burger" aria-label="Toggle menu">
+      <span></span>
+    </label>
+    <a href="/" class="nav-logo-mobile">{siteConfig.name}</a>
+    <a href="/search/" class="nav-search-mobile" aria-label="Search">⌕</a>
+    <div class="nav-links">
+      <a href="/blog/">Journal</a>
+      {navCats.map((cat) => (
+        <a href={categoryPath(cat.id)}>{cat.data.name.split(" &")[0]}</a>
+      ))}
+      <a href="/search/" class="search">Search ⌕</a>
+    </div>
   </div>
 </nav>

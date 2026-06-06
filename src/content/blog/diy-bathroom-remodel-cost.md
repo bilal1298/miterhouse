@@ -1,7 +1,8 @@
 ---
-title: "DIY Bathroom Remodel Cost: Real Budget Breakdown"
-slug: "diy-bathroom-remodel-cost"
-description: "A realistic cost breakdown for a DIY bathroom remodel, covering materials, tools, and where you can actually save money vs. hiring a contractor."
+title: 'DIY Bathroom Remodel Cost: Real Budget Breakdown'
+description: >-
+  A realistic cost breakdown for a DIY bathroom remodel, covering materials,
+  tools, and where you can actually save money vs. hiring a contractor.
 author: daniel-ware
 category: budget-planning
 tags:
@@ -10,16 +11,28 @@ tags:
   - remodel-cost
   - budget
 date: 2026-06-02
-hero_image_prompt: "A clean, well-lit bathroom mid-renovation with tools on the floor and fresh tile partially installed on one wall"
+hero_image: /images/posts/diy-bathroom-remodel-cost/hero_image.webp
+hero_image_prompt: >-
+  A clean, well-lit bathroom mid-renovation with tools on the floor and fresh
+  tile partially installed on one wall
 faq:
-  - q: "How much does a DIY bathroom remodel cost on average?"
-    a: "A typical DIY bathroom remodel costs between $2,000 and $8,000 in materials alone, depending on the scope. You save 40-60% compared to hiring a contractor, where the same project would run $8,000 to $25,000."
-  - q: "What parts of a bathroom remodel should you NOT DIY?"
-    a: "Electrical work requiring new circuits, moving plumbing supply lines, and anything structural should be left to licensed professionals. Most municipalities require permits and inspections for these tasks."
-  - q: "How long does a DIY bathroom remodel take?"
-    a: "Working evenings and weekends, most homeowners complete a full DIY bathroom remodel in 4 to 8 weeks. A contractor would finish the same project in 2 to 3 weeks of full-time work."
+  - q: How much does a DIY bathroom remodel cost on average?
+    a: >-
+      A typical DIY bathroom remodel costs between $2,000 and $8,000 in
+      materials alone, depending on the scope. You save 40-60% compared to
+      hiring a contractor, where the same project would run $8,000 to $25,000.
+  - q: What parts of a bathroom remodel should you NOT DIY?
+    a: >-
+      Electrical work requiring new circuits, moving plumbing supply lines, and
+      anything structural should be left to licensed professionals. Most
+      municipalities require permits and inspections for these tasks.
+  - q: How long does a DIY bathroom remodel take?
+    a: >-
+      Working evenings and weekends, most homeowners complete a full DIY
+      bathroom remodel in 4 to 8 weeks. A contractor would finish the same
+      project in 2 to 3 weeks of full-time work.
+draft: false
 ---
-
 A full DIY bathroom remodel typically costs $2,000 to $8,000 in materials — roughly 40-60% less than hiring a general contractor for the same scope. The catch: your time investment is significant, and mistakes cost money to fix.
 
 Here's an honest breakdown of where the money actually goes, based on a standard 5x8 full bathroom gut-and-rebuild.
@@ -102,9 +115,9 @@ Most cosmetic remodels don't need permits. If you're moving plumbing or electric
 Labor is the #1 expense in a professional remodel — typically 40-65% of the total project cost. Here's where your sweat equity pays off the most:
 
 1. **Demolition** — contractors charge $500-$1,500 for demo. You can do it in a weekend.
-2. **Tile installation** — labor runs $7-$15/sq ft. Learning to tile is the single highest-ROI DIY skill.
-3. **Painting** — professional painters charge $300-$800 for a bathroom. This is a half-day job.
-4. **Vanity installation** — plumbers charge $200-$500. It's four bolts and three connections.
+1. **Tile installation** — labor runs $7-$15/sq ft. Learning to tile is the single highest-ROI DIY skill.
+1. **Painting** — professional painters charge $300-$800 for a bathroom. This is a half-day job.
+1. **Vanity installation** — plumbers charge $200-$500. It's four bolts and three connections.
 
 ## Where DIY Costs More (or Goes Wrong)
 
@@ -116,21 +129,49 @@ Labor is the #1 expense in a professional remodel — typically 40-65% of the to
 
 Here's what I actually spent on my last 5x8 guest bathroom gut remodel:
 
-| Category | Cost |
-|----------|------|
-| Tile (floor + shower) | $680 |
-| Vanity + top + faucet | $520 |
-| Toilet | $210 |
-| Shower fixtures | $280 |
-| Cement board + waterproofing | $190 |
-| Light fixture + vent fan | $175 |
-| Paint + trim | $95 |
-| Thinset, grout, caulk | $110 |
-| Mirror + accessories | $140 |
-| Demo + dump fees | $85 |
-| Misc (screws, shims, PVC) | $65 |
-| Tool rental | $50 |
-| **Total** | **$2,600** |
+{% table %}
+- Category
+- Cost
+---
+- Tile (floor + shower)
+- $680
+---
+- Vanity + top + faucet
+- $520
+---
+- Toilet
+- $210
+---
+- Shower fixtures
+- $280
+---
+- Cement board + waterproofing
+- $190
+---
+- Light fixture + vent fan
+- $175
+---
+- Paint + trim
+- $95
+---
+- Thinset, grout, caulk
+- $110
+---
+- Mirror + accessories
+- $140
+---
+- Demo + dump fees
+- $85
+---
+- Misc (screws, shims, PVC)
+- $65
+---
+- Tool rental
+- $50
+---
+- **Total**
+- **$2,600**
+{% /table %}
 
 A contractor quoted the same scope at $7,800. That $5,200 difference paid for about 6 weekends of work.
 

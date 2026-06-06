@@ -6,7 +6,7 @@ export type Category = CollectionEntry<"categories">;
 export type Tag = CollectionEntry<"tags">;
 
 export async function getSortedPosts(): Promise<Post[]> {
-  const posts = await getCollection("blog");
+  const posts = await getCollection("blog", ({ data }) => !data.draft);
   return posts.sort(
     (a, b) => b.data.date.getTime() - a.data.date.getTime()
   );

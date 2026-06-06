@@ -1,9 +1,10 @@
 ---
 import { siteConfig } from "../../site.config";
-import { categoryPath } from "../utils/helpers";
+import { categoryPath, getAllCategories } from "../utils/helpers";
 
 const year = new Date().getFullYear();
-const topCats = siteConfig.categories.slice(0, 5);
+const allCats = await getAllCategories();
+const topCats = allCats.slice(0, 5);
 ---
 
 <footer>
@@ -20,7 +21,7 @@ const topCats = siteConfig.categories.slice(0, 5);
       <div class="fcol">
         <h5>Sections</h5>
         {topCats.map((cat) => (
-          <a href={categoryPath(cat)}>{cat}</a>
+          <a href={categoryPath(cat.id)}>{cat.data.name}</a>
         ))}
         <a href="/categories/">All Categories</a>
       </div>
