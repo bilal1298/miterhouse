@@ -17,7 +17,7 @@ faq:
     a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
   - q: "How long should I expect this project to take?"
     a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
-draft: true
+draft: false
 ---
 
 Homes built in the 1980s share a specific set of renovation challenges that differ from older and newer construction. The good news: 1980s homes generally have solid structural bones, reasonable room sizes, and straightforward floor plans. The bad news: nearly everything cosmetic and many mechanical systems are at or past their useful life. Renovating a 1980s home effectively means knowing which systems to prioritize, which dated features are worth updating, and which ones to leave alone.
