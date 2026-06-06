@@ -1,0 +1,320 @@
+{
+  "name": "Miter House — Daily Post Publisher",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 9
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Daily 9 AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "operation": "read",
+        "documentId": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "sheetName": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "options": {}
+      },
+      "id": "read-sheet",
+      "name": "Read Content Calendar",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [220, 0],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "notes": "Configure: 1) Select your Google Sheets credential. 2) Pick the 'Content Calendar' spreadsheet. 3) Pick the sheet tab."
+    },
+    {
+      "parameters": {
+        "jsCode": "// Find the next post to publish:\n// - status is 'idea'\n// - publish_date is today or earlier\n\nconst today = new Date();\ntoday.setHours(0, 0, 0, 0);\n\nconst candidates = $input.all().filter(item => {\n  const d = item.json;\n  if (d.status !== 'idea') return false;\n  \n  const pubDate = new Date(d.publish_date);\n  pubDate.setHours(0, 0, 0, 0);\n  return pubDate <= today;\n});\n\nif (candidates.length === 0) {\n  return [{ json: { found: false } }];\n}\n\n// Sort by publish_date ascending — oldest first\ncandidates.sort((a, b) => new Date(a.json.publish_date) - new Date(b.json.publish_date));\n\nconst post = candidates[0].json;\nreturn [{ json: { found: true, ...post } }];\n"
+      },
+      "id": "find-next-post",
+      "name": "Find Next Post",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [440, 0]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "post-found",
+              "leftValue": "={{ $json.found }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "if-post-found",
+      "name": "Post Found?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [660, 0]
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "repository": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "filePath": "=src/content/blog/{{ $json.slug }}.md"
+      },
+      "id": "github-get-file",
+      "name": "Get Post from GitHub",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [880, -100],
+      "credentials": {
+        "githubApi": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "notes": "Configure: 1) Select your GitHub credential. 2) Set owner to 'bilal1298'. 3) Set repository to 'miterhouse'."
+    },
+    {
+      "parameters": {
+        "jsCode": "// Flip draft: true → draft: false in the frontmatter\nconst content = $json.content;\n\nif (!content) {\n  throw new Error('No file content returned from GitHub');\n}\n\n// Decode base64 content from GitHub API\nconst decoded = Buffer.from(content, 'base64').toString('utf-8');\n\n// Replace draft: true with draft: false in frontmatter\n// Only replace the first occurrence (in the YAML frontmatter block)\nconst updated = decoded.replace(/^(---[\\s\\S]*?)draft:\\s*true/m, '$1draft: false');\n\nif (updated === decoded) {\n  throw new Error('Could not find draft: true in frontmatter — file may already be published');\n}\n\n// Pass along the slug and sha (needed for GitHub commit)\nreturn [{\n  json: {\n    updatedContent: updated,\n    sha: $json.sha,\n    slug: $('Find Next Post').first().json.slug,\n    post_number: $('Find Next Post').first().json.post_number\n  }\n}];\n"
+      },
+      "id": "flip-draft",
+      "name": "Flip Draft → Published",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1100, -100]
+    },
+    {
+      "parameters": {
+        "operation": "edit",
+        "owner": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "repository": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "filePath": "=src/content/blog/{{ $json.slug }}.md",
+        "fileContent": "={{ $json.updatedContent }}",
+        "commitMessage": "=post: {{ $json.slug }}",
+        "additionalParameters": {
+          "sha": "={{ $json.sha }}",
+          "branch": {
+            "branch": "main"
+          }
+        }
+      },
+      "id": "github-commit",
+      "name": "Commit to GitHub",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [1320, -100],
+      "credentials": {
+        "githubApi": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "notes": "Configure: Same GitHub credential as 'Get Post from GitHub'. Set owner to 'bilal1298', repository to 'miterhouse'."
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "sheetName": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "status": "published"
+          },
+          "matchingColumns": ["post_number"],
+          "schema": [
+            {
+              "id": "post_number",
+              "displayName": "post_number",
+              "required": false,
+              "defaultMatch": true,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "status",
+              "displayName": "status",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": false
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "update-sheet",
+      "name": "Mark Published in Sheet",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [1540, -100],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "notes": "Configure: Same Google Sheets credential and spreadsheet as 'Read Content Calendar'. The node matches on post_number and updates status to 'published'."
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "no-post",
+      "name": "No Post Today",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [880, 100]
+    }
+  ],
+  "connections": {
+    "Daily 9 AM": {
+      "main": [
+        [
+          {
+            "node": "Read Content Calendar",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Content Calendar": {
+      "main": [
+        [
+          {
+            "node": "Find Next Post",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Find Next Post": {
+      "main": [
+        [
+          {
+            "node": "Post Found?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Post Found?": {
+      "main": [
+        [
+          {
+            "node": "Get Post from GitHub",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "No Post Today",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Post from GitHub": {
+      "main": [
+        [
+          {
+            "node": "Flip Draft → Published",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Flip Draft → Published": {
+      "main": [
+        [
+          {
+            "node": "Commit to GitHub",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Commit to GitHub": {
+      "main": [
+        [
+          {
+            "node": "Mark Published in Sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 1
+}
