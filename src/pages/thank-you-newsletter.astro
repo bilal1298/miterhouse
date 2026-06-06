@@ -1,0 +1,22 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout
+  title={`Subscribed — ${siteConfig.name}`}
+  description="You're subscribed to the weekly newsletter."
+>
+  <div class="wrap">
+    <article class="prose" style="padding-block:4rem;text-align:center;max-width:540px;margin:0 auto">
+      <h1>You're In</h1>
+      <p>
+        Thanks for subscribing. You'll receive one practical home improvement guide
+        in your inbox each week — no noise, no fluff.
+      </p>
+      <p style="margin-top:2rem">
+        <a href="/" class="btn">Back to Home</a>
+      </p>
+    </article>
+  </div>
+</BaseLayout>

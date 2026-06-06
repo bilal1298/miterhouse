@@ -90,6 +90,7 @@ export const siteConfig = {
 
   // ── Contact & social ───────────────────────────────────────────
   email: "hello@miterhouse.com",
+  turnstileSiteKey: "0x4AAAAAADf2YEvMRSN3U8cW",
   social: {
     twitter: "",
     facebook: "",
