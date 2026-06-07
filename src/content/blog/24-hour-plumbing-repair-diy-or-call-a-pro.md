@@ -17,7 +17,7 @@ faq:
     a: "The exact tools depend on your approach, but most 24 hour plumbing repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
   - q: "What's the most common mistake to avoid?"
     a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
-draft: true
+draft: false
 ---
 
 A burst pipe at 2 a.m., a toilet backing up onto the bathroom floor on a Sunday night, a water heater that suddenly stops producing hot water when you have guests arriving in the morning — emergency plumbing situations have a way of finding the worst possible timing. The real question when it happens is whether you can handle a temporary fix yourself or need to call a 24-hour plumbing service immediately.
