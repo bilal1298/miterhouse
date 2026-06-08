@@ -4,7 +4,7 @@ import PostCard from "../components/PostCard.astro";
 import JsonLd from "../components/JsonLd.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
-import { formatDate, readingTime, getAuthorById, getAllCategories, getCategoryName, buildCategoryMap } from "../utils/helpers";
+import { formatDate, readingTime, getAuthorById, getAllCategories, getCategoryName, buildCategoryMap, getHeroImage } from "../utils/helpers";
 
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
@@ -69,8 +69,8 @@ const webSiteJsonLd = {
           </div>
         </div>
         <div class="hero__media reveal d3">
-          {featured.data.hero_image ? (
-            <img src={featured.data.hero_image} alt={featured.data.title} loading="eager" />
+          {getHeroImage(featured) ? (
+            <img src={getHeroImage(featured)} alt={featured.data.title} loading="eager" />
           ) : (
             <div class="ph"></div>
           )}

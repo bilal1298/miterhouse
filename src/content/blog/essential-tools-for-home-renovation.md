@@ -11,6 +11,7 @@ tags:
   - starter-kit
   - power-tools
 date: 2026-05-10
+hero_image: /images/posts/essential-tools-for-home-renovation.webp
 hero_image_prompt: "A well-organized pegboard workshop wall covered with hand tools, power tools, and measuring equipment in warm workshop lighting."
 faq:
   - q: "What is the single most important tool to buy first for home renovation?"

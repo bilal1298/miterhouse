@@ -11,6 +11,7 @@ tags:
   - budget-home-improvement
   - backyard-deck
 date: 2026-05-13
+hero_image: /images/posts/how-to-build-a-diy-deck-on-a-budget.webp
 hero_image_prompt: "A freshly built pressure-treated wood deck attached to the back of a suburban house, photographed on a bright afternoon with a power drill and lumber visible in the foreground."
 faq:
   - q: "Do I need a permit to build a deck?"

@@ -10,6 +10,7 @@ tags:
   - home-repair
   - plumbing-costs
 date: 2026-05-12
+hero_image: /images/posts/when-to-call-a-plumber-vs-diy.webp
 hero_image_prompt: "A homeowner crouching under a bathroom sink with a wrench in hand, examining pipes, with a toolbox open beside them on a tile floor."
 faq:
   - q: "How do I know if a plumbing job is beyond my skill level?"

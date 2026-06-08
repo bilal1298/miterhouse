@@ -11,6 +11,7 @@ tags:
   - fixtures
   - tile
 date: 2026-05-21
+hero_image: /images/posts/bathroom-remodel-cost-breakdown.webp
 hero_image_prompt: "A partially renovated bathroom with exposed tile work, a new vanity being installed, and contractor tools laid out on the floor, overhead natural light."
 faq:
   - q: "What percentage of a bathroom remodel cost goes to labor?"

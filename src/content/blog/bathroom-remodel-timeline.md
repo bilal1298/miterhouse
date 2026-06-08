@@ -10,6 +10,7 @@ tags:
   - permits
   - home-improvement
 date: 2026-05-20
+hero_image: /images/posts/bathroom-remodel-timeline.webp
 hero_image_prompt: "A bathroom mid-remodel showing exposed wall framing, cement board, and stacked tile materials on a dusty subfloor under bright work lights."
 faq:
   - q: "How long does a full bathroom remodel take?"

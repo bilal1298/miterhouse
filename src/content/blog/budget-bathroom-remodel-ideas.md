@@ -10,6 +10,7 @@ tags:
   - bathroom-makeover
   - home-improvement
 date: 2026-05-22
+hero_image: /images/posts/budget-bathroom-remodel-ideas.webp
 hero_image_prompt: "A bright, freshly updated bathroom with a white shiplap accent wall, matte black hardware, and a modern vessel sink vanity, warm lighting, clean and minimal aesthetic."
 faq:
   - q: "What is the cheapest way to update a bathroom?"

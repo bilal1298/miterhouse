@@ -11,7 +11,7 @@ tags:
   - remodel-cost
   - budget
 date: 2026-06-02
-hero_image: /images/posts/diy-bathroom-remodel-cost/hero_image.webp
+hero_image: /images/posts/diy-bathroom-remodel-cost.webp
 hero_image_prompt: >-
   A clean, well-lit bathroom mid-renovation with tools on the floor and fresh
   tile partially installed on one wall

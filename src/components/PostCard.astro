@@ -1,6 +1,6 @@
 ---
 import type { Post } from '../utils/helpers';
-import { categoryPath, readingTime, getAuthorById, getCategoryName } from '../utils/helpers';
+import { categoryPath, readingTime, getAuthorById, getCategoryName, getHeroImage } from '../utils/helpers';
 
 interface Props {
   post: Post;
@@ -8,6 +8,7 @@ interface Props {
 
 const { post } = Astro.props;
 const { data } = post;
+const heroImage = getHeroImage(post);
 const mins = readingTime(post.body);
 const authorEntry = await getAuthorById(data.author);
 const authorName = authorEntry?.data.name || data.author;
@@ -16,8 +17,8 @@ const catName = await getCategoryName(data.category);
 
 <article class="card">
   <a href={`/blog/${post.id}/`} aria-label={data.title}>
-    {data.hero_image ? (
-      <img src={data.hero_image} alt={data.title} loading="lazy" />
+    {heroImage ? (
+      <img src={heroImage} alt={data.title} loading="lazy" />
     ) : (
       <div class="ph"></div>
     )}

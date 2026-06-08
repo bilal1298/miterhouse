@@ -8,6 +8,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
 date: 2026-08-15
+hero_image: /images/posts/contractor-to-remodel-kitchen-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Is hiring a contractor to remodel a kitchen worth the investment?"

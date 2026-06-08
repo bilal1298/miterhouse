@@ -10,6 +10,7 @@ tags:
   - bathroom-renovation
   - home-improvement-budget
 date: 2026-05-24
+hero_image: /images/posts/master-bathroom-remodel-cost.webp
 hero_image_prompt: "A freshly remodeled master bathroom with large-format floor tile, a freestanding soaking tub, frameless glass shower, and double vanity under warm overhead lighting."
 faq:
   - q: "What is the average cost of a master bathroom remodel?"

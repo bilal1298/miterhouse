@@ -10,6 +10,7 @@ tags:
   - home-improvement
   - cost-estimate
 date: 2026-05-28
+hero_image: /images/posts/bathroom-remodel-cost-estimate.webp
 hero_image_prompt: "A partially renovated bathroom mid-project with a new white subway tile surround, removed vanity, and exposed wall framing, tools and materials scattered on a plywood subfloor."
 faq:
   - q: "What is the average cost of a bathroom remodel in 2026?"

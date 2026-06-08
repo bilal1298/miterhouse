@@ -1,4 +1,6 @@
 import { getCollection, type CollectionEntry } from "astro:content";
+import fs from "node:fs";
+import path from "node:path";
 
 export type Post = CollectionEntry<"blog">;
 export type Author = CollectionEntry<"authors">;
@@ -107,6 +109,16 @@ export function relatedPosts(current: Post, all: Post[], n: number) {
         b.p.data.date.getTime() - a.p.data.date.getTime()
     );
   return scored.slice(0, n).map((s) => s.p);
+}
+
+export function getHeroImage(post: Post): string | null {
+  const publicDir = path.join(process.cwd(), "public");
+  if (post.data.hero_image) {
+    if (fs.existsSync(path.join(publicDir, post.data.hero_image))) return post.data.hero_image;
+  }
+  const fallback = `/images/posts/${post.id}.webp`;
+  if (fs.existsSync(path.join(publicDir, fallback))) return fallback;
+  return null;
 }
 
 export function formatDate(d: Date, locale = "en-US") {

@@ -11,6 +11,7 @@ tags:
   - budget-bathroom
   - powder-room
 date: 2026-05-27
+hero_image: /images/posts/small-bathroom-remodel-cost.webp
 hero_image_prompt: "A freshly remodeled small 5x8 bathroom with white subway tile, a floating vanity, and brushed nickel fixtures under warm lighting."
 faq:
   - q: "How much does it cost to remodel a small 5x8 bathroom?"

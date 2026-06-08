@@ -11,6 +11,7 @@ tags:
   - finishing-costs
   - basement-framing
 date: 2026-05-11
+hero_image: /images/posts/cost-to-finish-a-basement.webp
 hero_image_prompt: "A freshly finished basement with recessed lighting, luxury vinyl plank flooring, a sectional sofa, and a built-in wet bar, photographed in warm natural light from an egress window."
 faq:
   - q: "How much does it cost to finish a 1,000 sq ft basement?"

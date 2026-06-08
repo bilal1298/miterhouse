@@ -10,6 +10,7 @@ tags:
   - plumbing
   - bathroom-remodel
 date: 2026-05-23
+hero_image: /images/posts/bathroom-vanity-installation-cost.webp
 hero_image_prompt: "A freshly installed white floating bathroom vanity with a vessel sink, polished chrome fixtures, and subway tile backsplash in a bright modern bathroom."
 faq:
   - q: "How much does it cost to install a bathroom vanity?"

@@ -11,6 +11,7 @@ tags:
   - diy-bathroom
   - contractor-timeline
 date: 2026-05-16
+hero_image: /images/posts/how-long-does-a-small-bathroom-remodel-take.webp
 hero_image_prompt: "A compact 5x8 bathroom mid-renovation with cement board on the walls, a new alcove tub framed in, and tools laid out on a drop cloth."
 faq:
   - q: "Can you remodel a small bathroom in a weekend?"

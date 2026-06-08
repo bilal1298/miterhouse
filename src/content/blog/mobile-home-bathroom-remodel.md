@@ -11,6 +11,7 @@ tags:
   - bathroom-renovation
   - mobile-home-plumbing
 date: 2026-05-18
+hero_image: /images/posts/mobile-home-bathroom-remodel.webp
 hero_image_prompt: "A freshly remodeled mobile home bathroom with white subway tile, a compact vanity, and modern fixtures in a bright, clean space."
 faq:
   - q: "How much does it cost to remodel a bathroom in a mobile home?"

@@ -11,6 +11,7 @@ tags:
   - curbless-shower
   - tile-shower
 date: 2026-05-25
+hero_image: /images/posts/walk-in-shower-remodel-cost.webp
 hero_image_prompt: "A modern walk-in curbless shower with large-format gray tiles, a rain showerhead, and frameless glass panel in a bright white bathroom."
 faq:
   - q: "What is the average cost to convert a tub to a walk-in shower?"

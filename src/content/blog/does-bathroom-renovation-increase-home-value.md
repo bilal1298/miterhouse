@@ -11,6 +11,7 @@ tags:
   - roi
   - appraisal
 date: 2026-05-17
+hero_image: /images/posts/does-bathroom-renovation-increase-home-value.webp
 hero_image_prompt: "A freshly renovated bathroom with white subway tile, a floating vanity, and brushed nickel fixtures, photographed from the doorway to show the full space."
 faq:
   - q: "How much value does a bathroom renovation add to a home?"

@@ -10,6 +10,7 @@ tags:
   - tile-cost-per-square-foot
   - bathroom-remodel
 date: 2026-05-15
+hero_image: /images/posts/bathroom-tile-installation-cost.webp
 hero_image_prompt: "A professional tile installer laying large-format porcelain tiles on a bathroom floor, with grout lines, trowel, and tile spacers visible in a bright modern bathroom."
 faq:
   - q: "How much does it cost to tile a 50 sq ft bathroom floor?"

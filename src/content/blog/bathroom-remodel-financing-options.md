@@ -11,6 +11,7 @@ tags:
   - heloc
   - home-improvement-loans
 date: 2026-05-19
+hero_image: /images/posts/bathroom-remodel-financing-options.webp
 hero_image_prompt: "A clean, modern bathroom under renovation with tile work half-finished, blueprints on the counter, and a calculator beside a stack of financing documents."
 faq:
   - q: "What credit score do I need to finance a bathroom remodel?"

@@ -11,6 +11,7 @@ tags:
   - home-improvement
   - painting-tips
 date: 2026-05-14
+hero_image: /images/posts/how-to-paint-a-room-like-a-pro.webp
 hero_image_prompt: "A freshly painted light gray bedroom with clean taped trim lines, a roller and paint tray on a drop cloth, and warm afternoon light coming through the window."
 faq:
   - q: "How many coats of paint does a room need?"

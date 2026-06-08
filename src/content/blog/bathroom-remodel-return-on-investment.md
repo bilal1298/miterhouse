@@ -10,6 +10,7 @@ tags:
   - resale-value
   - remodeling-costs
 date: 2026-05-26
+hero_image: /images/posts/bathroom-remodel-return-on-investment.webp
 hero_image_prompt: "A freshly renovated mid-range bathroom with white subway tile, brushed nickel fixtures, and a floating vanity, photographed in natural morning light."
 faq:
   - q: "What is the average ROI on a bathroom remodel?"
