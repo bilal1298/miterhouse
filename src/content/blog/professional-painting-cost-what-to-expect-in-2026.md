@@ -1,6 +1,6 @@
 ---
 title: "Professional Painting Cost: What to Expect in 2026"
-description: "Professional interior painting costs $2–$6 per square foot in 2026, or $4,000–$12,000 for a 2,000-square-foot home. Here's how to read a quote and what separates good painters from bad ones."
+description: "Professional interior painting costs $2–$6 per square foot in 2026, or $4,000–$12,000 for a 2,000 sq ft home. Here's how to read a quote and spot good painters."
 author: daniel-ware
 category: painting-walls
 tags:

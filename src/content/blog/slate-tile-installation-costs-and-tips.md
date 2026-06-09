@@ -1,6 +1,6 @@
 ---
 title: "Slate Tile Installation: Costs and Tips"
-description: "Slate tile installation costs $10–$30 per square foot fully installed. The natural thickness variation that gives slate its character also makes it harder to install than ceramic — here's what that means in practice."
+description: "Slate tile costs $10–$30 per square foot installed. Its thickness variation gives it character but makes installation harder than ceramic — here's what that means."
 author: daniel-ware
 category: flooring-tile
 tags:

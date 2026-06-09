@@ -1,6 +1,6 @@
 ---
 title: "Lvp Flooring Installation Pricing Guide for Homeowners"
-description: "LVP flooring installation costs $3.50–$8/sq ft professionally installed. Here's a tier-by-tier breakdown of what the material price actually buys you and where DIY saves the most."
+description: "LVP flooring installation runs $3.50–$8/sq ft installed. Here's a tier-by-tier breakdown of material costs and where DIY saves the most."
 author: daniel-ware
 category: flooring-tile
 tags:

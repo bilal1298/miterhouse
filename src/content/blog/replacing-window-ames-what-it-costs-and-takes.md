@@ -1,6 +1,6 @@
 ---
 title: "Replacing Window Ames: What It Costs and Takes"
-description: "Window replacement in Ames costs $350–$1,100 per window installed. Iowa's Climate Zone 5 requirements and the city's mix of pre-1950 to post-1990 housing stock shape every buying decision here."
+description: "Window replacement in Ames costs $350–$1,100 per window. Iowa's Climate Zone 5 requirements and the city's housing mix shape every buying decision here."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

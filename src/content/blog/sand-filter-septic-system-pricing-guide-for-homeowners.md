@@ -1,6 +1,6 @@
 ---
 title: "Sand Filter Septic System Pricing Guide for Homeowners"
-description: "Sand filter septic systems cost $7,000–$18,000 installed — roughly double a conventional system. Here's what that money buys and when your soil leaves you no other choice."
+description: "Sand filter septic systems cost $7,000–$18,000 — roughly double a conventional system. Here's what that buys and when your soil leaves no other choice."
 author: daniel-ware
 category: budget-planning
 tags:

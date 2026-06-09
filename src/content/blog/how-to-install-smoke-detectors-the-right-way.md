@@ -1,6 +1,6 @@
 ---
 title: "How to Install Smoke Detectors the Right Way"
-description: "Smoke detector installation takes 15 minutes per unit. Here's exactly where to place them, which type to buy, and why dual-sensor wireless models are worth the extra $10."
+description: "Smoke detector installation takes 15 minutes per unit. Here's where to place them, which type to buy, and why dual-sensor models are worth the extra $10."
 author: daniel-ware
 category: tools-materials
 tags:

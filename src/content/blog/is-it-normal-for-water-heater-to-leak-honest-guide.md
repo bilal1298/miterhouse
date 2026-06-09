@@ -1,6 +1,6 @@
 ---
 title: "Is It Normal for Water Heater to Leak: Honest Guide"
-description: "Not all water around a heater means it's failing. A 10-minute inspection with a flashlight and dry towels distinguishes harmless condensation from the leaks that demand immediate action."
+description: "Not all water around a heater means it's failing. A 10-minute inspection with a flashlight distinguishes harmless condensation from leaks that demand action."
 author: daniel-ware
 category: plumbing-electrical
 tags:

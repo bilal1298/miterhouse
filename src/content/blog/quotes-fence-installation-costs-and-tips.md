@@ -1,6 +1,6 @@
 ---
 title: "Quotes Fence Installation: Costs and Tips"
-description: "Most homeowners get wildly different fence quotes because they don't prepare. Here's how to get comparable bids, read them correctly, and negotiate without sacrificing quality."
+description: "Most homeowners get wildly different fence quotes because they don't prepare. Here's how to get comparable bids and negotiate without sacrificing quality."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

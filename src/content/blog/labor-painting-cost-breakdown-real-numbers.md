@@ -1,6 +1,6 @@
 ---
 title: "Labor Painting Cost Breakdown: Real Numbers"
-description: "Painting labor costs $25–$50/hr direct, $50–$85/hr billable. This breakdown shows exactly where prep, paint application, and cleanup time goes — and what low bids are actually skipping."
+description: "Painting labor costs $25–$50/hr direct, $50–$85/hr billable. This breakdown shows where prep, paint, and cleanup time goes — and what low bids are actually skipping."
 author: daniel-ware
 category: painting-walls
 tags:

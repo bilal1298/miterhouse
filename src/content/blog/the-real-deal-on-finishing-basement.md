@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Finishing Basement"
-description: "Finishing a basement costs $25–$50/sq ft DIY versus $100–$200/sq ft for a room addition. The value is real — but moisture and radon testing come before a single stud goes up."
+description: "Finishing a basement costs $25–$50/sq ft DIY versus $100–$200 for an addition. But moisture and radon testing must come before a single stud goes up."
 author: daniel-ware
 category: basement-attic
 tags:

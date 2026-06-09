@@ -1,6 +1,6 @@
 ---
 title: "Replacing Signature Window and Door: What It Costs and Takes"
-description: "Replacing signature windows and entry doors together costs $5,000–$25,000 for a mid-size home and cuts energy loss from two of your biggest air infiltration sources in one project."
+description: "Replacing signature windows and entry doors costs $5,000–$25,000 for a mid-size home and cuts energy loss from two of your biggest air infiltration sources."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

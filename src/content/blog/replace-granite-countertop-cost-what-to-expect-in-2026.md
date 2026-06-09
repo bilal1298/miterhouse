@@ -1,6 +1,6 @@
 ---
 title: "Replace Granite Countertop Cost: What to Expect in 2026"
-description: "Replacing granite countertops costs $2,500–$8,000 for most kitchens in 2026, including the removal step that new installs skip. Here's what drives the number and what hides under old slabs."
+description: "Replacing granite countertops costs $2,500–$8,000 for most kitchens in 2026, including removal. Here's what drives the number and what hides under old slabs."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:

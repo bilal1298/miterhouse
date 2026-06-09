@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Repair: DIY or Call a Pro?"
-description: "Half of all plumbing service calls cover repairs you could do yourself in under an hour for $20 in parts. Here's the decision framework that tells you which half you're facing."
+description: "Half of all plumbing service calls cover repairs you could do yourself in under an hour for $20 in parts. Here's the decision framework for which half you're facing."
 author: daniel-ware
 category: plumbing-electrical
 tags:

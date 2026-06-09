@@ -1,6 +1,6 @@
 ---
 title: "How to Shut Off Water Heater (Without Wrecking Anything)"
-description: "Shutting off your water heater correctly takes under 5 minutes — but the order of operations matters. Gas and electric units have different shutdown sequences that protect against damage."
+description: "Shutting off your water heater correctly takes under 5 minutes — but gas and electric units have different shutdown sequences that protect against damage."
 author: daniel-ware
 category: plumbing-electrical
 tags:

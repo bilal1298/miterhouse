@@ -1,6 +1,6 @@
 ---
 title: "Mold Damage Repairs: A Homeowner's Guide"
-description: "Mold damage repair costs $500–$6,000 for moderate problems, but the moisture source must be fixed first or the mold returns. Here's how to assess scope and when to call a professional remediator."
+description: "Mold damage repair costs $500–$6,000, but the moisture source must be fixed first or it returns. Here's how to assess scope and when to call a remediator."
 author: daniel-ware
 category: basement-attic
 tags:

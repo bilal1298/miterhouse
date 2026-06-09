@@ -1,6 +1,6 @@
 ---
 title: "Replace Concrete Slab Cost Breakdown: Real Numbers"
-description: "Concrete slab replacement costs $6–$16 per square foot, or $2,400–$6,400 for a typical 400 sq ft area. Here's the full line-by-line breakdown and when repair is enough."
+description: "Concrete slab replacement costs $6–$16 per square foot, or $2,400–$6,400 for a 400 sq ft area. Here's the full breakdown and when repair is enough."
 author: daniel-ware
 category: budget-planning
 tags:

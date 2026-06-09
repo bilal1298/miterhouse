@@ -1,6 +1,6 @@
 ---
 title: "Privacy Fence Installation: Costs and Tips"
-description: "Privacy fence installation costs $20–$55 per linear foot installed, or $3,000–$8,250 for a typical 150-foot backyard. Here's the honest material comparison and the installation details that determine longevity."
+description: "Privacy fence installation costs $20–$55 per linear foot, or $3,000–$8,250 for a 150-foot yard. Here's the honest material comparison and longevity details."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

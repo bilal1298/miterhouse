@@ -1,6 +1,6 @@
 ---
 title: "Installing Woven Wire Fence: What to Know First"
-description: "Woven wire fencing costs $2–$5/ft for materials — about half the price of chain link. Here's how to set proper corner bracing and tension wire so the fence stays tight for 20 years."
+description: "Woven wire fencing costs $2–$5/ft — about half the price of chain link. Here's how to set corner bracing and tension wire so the fence stays tight for 20 years."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

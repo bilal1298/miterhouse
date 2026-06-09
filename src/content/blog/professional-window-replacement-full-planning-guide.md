@@ -1,6 +1,6 @@
 ---
 title: "Professional Window Replacement: Full Planning Guide"
-description: "Professional window replacement costs $300–$1,500 per window installed, and a full-house project runs $8,000–$18,000. Here's what the process actually looks like and how to hire the right installer."
+description: "Professional window replacement costs $300–$1,500 per window installed; a full house runs $8,000–$18,000. Here's what the process looks like and how to hire right."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

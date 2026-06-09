@@ -1,6 +1,6 @@
 ---
 title: "Kitchen Remodel Services: A Practical Guide"
-description: "Kitchen remodels involve roughly a dozen distinct trades. Here's which services you actually need, what each costs, and the sequencing that prevents expensive rework."
+description: "Kitchen remodels involve roughly a dozen distinct trades. Here's which services you actually need, what each costs, and the sequencing that prevents rework."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:

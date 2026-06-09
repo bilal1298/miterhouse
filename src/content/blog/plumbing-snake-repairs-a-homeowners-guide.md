@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Snake Repairs: A Homeowner's Guide"
-description: "A $25–$40 hand drum auger handles most household clogs that plungers can't clear, saving $150–$350 per service call. Here's how to use one correctly and when it won't work."
+description: "A $25–$40 hand drum auger handles most clogs that plungers can't clear, saving $150–$350 per service call. Here's how to use one correctly and when it won't work."
 author: daniel-ware
 category: plumbing-electrical
 tags:

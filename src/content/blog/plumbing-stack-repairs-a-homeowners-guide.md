@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Stack Repairs: A Homeowner's Guide"
-description: "Plumbing stack problems show up in multiple fixtures simultaneously — gurgling, slow drains, sewer smell. Here's how to diagnose the cause and what repair costs to expect for PVC versus aging cast iron."
+description: "Plumbing stack problems hit multiple fixtures at once — gurgling, slow drains, sewer smell. Here's how to diagnose the cause and what repairs cost."
 author: daniel-ware
 category: plumbing-electrical
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Poured Concrete Walls Pricing Guide for Homeowners"
-description: "Poured concrete foundation walls cost $12–$25 per square foot installed — about 20–30% more than concrete block. Here's what you get for that premium and when it's worth it."
+description: "Poured concrete foundation walls cost $12–$25 per square foot installed — 20–30% more than block. Here's what you get for the premium and when it's worth it."
 author: daniel-ware
 category: painting-walls
 tags:

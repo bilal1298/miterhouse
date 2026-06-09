@@ -1,6 +1,6 @@
 ---
 title: "Modern Home Improvements: What Homeowners Should Know"
-description: "Modern home improvements that actually pay off solve functional problems and reduce ongoing costs — not just look good in photos. Here's where to spend and what to skip in 2026."
+description: "Modern home improvements that pay off solve functional problems and cut ongoing costs. Here's where to spend and what to skip in 2026."
 author: daniel-ware
 category: budget-planning
 tags:

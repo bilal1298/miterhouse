@@ -1,6 +1,6 @@
 ---
 title: "Simple Basement Finishing: A DIYer's Honest Take"
-description: "A simple basement finish — one open room, no plumbing — runs $15–$30/sq ft in materials, or $9,000–$18,000 for 600 sq ft. Here's the honest sequence and where DIYers typically hit the wall."
+description: "A simple basement finish — one open room, no plumbing — runs $15–$30/sq ft in materials. Here's the honest sequence and where DIYers typically hit the wall."
 author: daniel-ware
 category: basement-attic
 tags:

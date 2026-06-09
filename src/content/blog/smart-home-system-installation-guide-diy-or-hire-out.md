@@ -1,6 +1,6 @@
 ---
 title: "Smart Home System Installation Guide: DIY or Hire Out?"
-description: "A DIY smart home package — thermostat, locks, doorbell, switches, leak sensors — costs about $2,250 versus $4,700–$7,000 for professional installation. Here's which components are genuinely DIY-friendly."
+description: "A DIY smart home package costs about $2,250 versus $4,700–$7,000 professional. Here's which components — thermostat, locks, sensors — are genuinely DIY-safe."
 author: daniel-ware
 category: tools-materials
 tags:

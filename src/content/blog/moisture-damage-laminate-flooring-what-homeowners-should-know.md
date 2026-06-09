@@ -1,6 +1,6 @@
 ---
 title: "Moisture Damage Laminate Flooring: What Homeowners Should Know"
-description: "Moisture-damaged laminate cannot be repaired — it must be replaced. But the real cost is finding and fixing the water source first, or you'll be replacing the new floor too."
+description: "Moisture-damaged laminate cannot be repaired — it must be replaced. The real cost is fixing the water source first, or you'll be replacing the new floor too."
 author: daniel-ware
 category: flooring-tile
 tags:

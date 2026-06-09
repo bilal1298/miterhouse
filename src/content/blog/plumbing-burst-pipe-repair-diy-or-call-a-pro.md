@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Burst Pipe Repair: DIY or Call a Pro?"
-description: "A burst pipe dumps 4–8 gallons per minute into your home. Here's which repairs — PVC cuts, SharkBite fittings, clamps — you can do for under $30 vs. when to call a pro."
+description: "A burst pipe dumps 4–8 gallons per minute into your home. Here's which fixes — PVC cuts, SharkBite fittings, clamps — cost under $30 vs. when to call a pro."
 author: daniel-ware
 category: plumbing-electrical
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Master Plumbing Repair: DIY or Call a Pro?"
-description: "Master plumbing repairs — main lines, sewer, water heater — cost $500 to $5,000+. Here's the honest breakdown of what homeowners can safely tackle and what requires a licensed plumber."
+description: "Master plumbing repairs — main lines, sewer, water heater — cost $500–$5,000+. Here's what homeowners can safely tackle vs. what requires a licensed plumber."
 author: daniel-ware
 category: plumbing-electrical
 tags:

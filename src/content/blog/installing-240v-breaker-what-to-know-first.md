@@ -1,6 +1,6 @@
 ---
 title: "Installing 240v Breaker: What to Know First"
-description: "Installing a 240V breaker costs $200–$500 for a simple add by an electrician. Here's what the job involves, how to check panel capacity first, and when DIY is actually reasonable."
+description: "Installing a 240V breaker costs $200–$500 with an electrician. Here's what the job involves, how to check panel capacity, and when DIY is actually reasonable."
 author: daniel-ware
 category: tools-materials
 tags:

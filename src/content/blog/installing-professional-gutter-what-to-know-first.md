@@ -1,6 +1,6 @@
 ---
 title: "Installing Professional Gutter: What to Know First"
-description: "Professional gutter installation costs $6–$15/ft for aluminum seamless gutters — $1,000–$2,500 for a typical home. Here's what determines where you fall in that range."
+description: "Professional gutter installation costs $6–$15/ft for aluminum seamless gutters — $1,000–$2,500 for a typical home. Here's what determines your price."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

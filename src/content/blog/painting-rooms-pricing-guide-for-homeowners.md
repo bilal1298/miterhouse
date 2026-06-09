@@ -1,6 +1,6 @@
 ---
 title: "Painting Rooms Pricing Guide for Homeowners"
-description: "DIY room painting costs $100–$300 in materials for a standard bedroom; hiring a pro runs $300–$800. Here's the prep work, sheen choices, and technique tips that actually change the outcome."
+description: "DIY room painting costs $100–$300 in materials; hiring a pro runs $300–$800. Here's the prep, sheen choices, and technique tips that change the outcome."
 author: daniel-ware
 category: painting-walls
 tags:

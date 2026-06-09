@@ -1,6 +1,6 @@
 ---
 title: "Sewer Plumbing Repair Guide: What to Know"
-description: "Sewer repair ranges from a $200 drain cleaning to a $15,000 full line replacement. A $150–$300 camera inspection tells you exactly which you're facing before anyone starts digging."
+description: "Sewer repair ranges from a $200 drain cleaning to a $15,000 line replacement. A camera inspection at $150–$300 tells you which you face before anyone digs."
 author: daniel-ware
 category: plumbing-electrical
 tags:

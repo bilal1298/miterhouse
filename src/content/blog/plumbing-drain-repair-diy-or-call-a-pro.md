@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Drain Repair: DIY or Call a Pro?"
-description: "Most drain repairs are DIY-friendly if you diagnose correctly first. One slow drain is a trap fix; all drains backing up means a main sewer problem. Here's how to tell the difference and what each repair costs."
+description: "One slow drain is usually a trap fix; all drains backing up means a sewer line problem. Here's how to diagnose the difference and what each repair costs."
 author: daniel-ware
 category: plumbing-electrical
 tags:

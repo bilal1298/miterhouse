@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Active Electrical Cables"
-description: "Never assume a cable is dead based on appearance. A $15–$30 non-contact voltage tester is the most important electrical safety tool in your house — here's why and how to use it."
+description: "Never assume a cable is dead based on appearance. A $15–$30 non-contact voltage tester is the most critical electrical safety tool you own — here's how to use it."
 author: daniel-ware
 category: plumbing-electrical
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Water Leak Repair Guide: What to Know"
-description: "Plumbing leaks range from a $5 faucet washer fix to a $10,000 slab repair. Here's how to find where water is actually coming from and what each repair category costs."
+description: "Plumbing leaks range from a $5 faucet washer fix to a $10,000 slab repair. Here's how to find where water is coming from and what each repair costs."
 author: daniel-ware
 category: plumbing-electrical
 tags:

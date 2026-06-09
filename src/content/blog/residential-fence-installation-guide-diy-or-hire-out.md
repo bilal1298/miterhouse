@@ -1,6 +1,6 @@
 ---
 title: "Residential Fence Installation Guide: DIY or Hire Out?"
-description: "DIY fence installation on a 200-linear-foot lot saves $1,500–$3,500 but takes 25–40 hours of work. Here's the material comparison and the post-setting details that determine longevity."
+description: "DIY fence installation on a 200-foot lot saves $1,500–$3,500 but takes 25–40 hours. Here's the material comparison and post-setting details that determine longevity."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

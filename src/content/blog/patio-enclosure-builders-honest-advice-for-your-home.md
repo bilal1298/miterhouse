@@ -1,6 +1,6 @@
 ---
 title: "Patio Enclosure Builders: Honest Advice for Your Home"
-description: "Patio enclosure builders charge $8,000–$50,000+ depending on whether you want a screen room or a full four-season sunroom. Here's how to tell them apart and hire right."
+description: "Patio enclosure builders charge $8,000–$50,000+ depending on whether you want a screen room or a four-season sunroom. Here's how to tell them apart and hire right."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Installing Tank Water Heater: What to Know First"
-description: "Tank water heater installation costs $300–$800 labor for a straight swap, more if code updates are needed. Here's what's DIY-safe and where gas connections make professional help non-negotiable."
+description: "Tank water heater installation costs $300–$800 labor for a straight swap. Here's what's DIY-safe and where gas connections make a pro non-negotiable."
 author: daniel-ware
 category: plumbing-electrical
 tags:

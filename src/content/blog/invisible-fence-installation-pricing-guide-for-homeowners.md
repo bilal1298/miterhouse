@@ -1,6 +1,6 @@
 ---
 title: "Invisible Fence Installation Pricing Guide for Homeowners"
-description: "Invisible fence installation costs $200–$500 for a DIY kit or $1,000–$2,500 professionally installed. Here's what drives the price and what the brand-name companies don't mention upfront."
+description: "Invisible fence installation costs $200–$500 DIY or $1,000–$2,500 professionally installed. Here's what drives the price and what companies don't mention upfront."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

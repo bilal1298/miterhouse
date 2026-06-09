@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Pipe Repair: DIY or Call a Pro?"
-description: "Plumbers charge $150–$350 per hour, but many common pipe fixes take 10 minutes and cost $2 in parts. Here's how to diagnose the problem and decide which side of that line you're on."
+description: "Plumbers charge $150–$350/hr, but many common pipe fixes take 10 minutes and cost $2 in parts. Here's how to diagnose and decide which side of that line you're on."
 author: daniel-ware
 category: plumbing-electrical
 tags:

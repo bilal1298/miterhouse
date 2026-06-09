@@ -1,6 +1,6 @@
 ---
 title: "Roof Tile Inspection: Honest Advice for Your Home"
-description: "A professional roof tile inspection costs $150–$500 and catches problems before they become leaks. Here's what inspectors actually check, common findings, and how to evaluate your roof from the ground."
+description: "A roof tile inspection costs $150–$500 and catches problems before they leak. Here's what inspectors check and how to evaluate your roof yourself."
 author: daniel-ware
 category: flooring-tile
 tags:

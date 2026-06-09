@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Water Damage in Bathroom Walls"
-description: "Bathroom wall water damage ranges from a $150 recaulk job to a $15,000 mold-and-framing rebuild. The cost depends on how long moisture was there — here's how to assess it."
+description: "Bathroom wall water damage ranges from a $150 recaulk to a $15,000 mold rebuild. Cost depends on how long moisture sat — here's how to assess it."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
