@@ -18,7 +18,7 @@ faq:
     a: "The exact tools depend on your approach, but most 24 hour water heater repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
   - q: "How long should I expect this project to take?"
     a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
-draft: true
+draft: false
 ---
 
 When your water heater quits at 2 AM and you are standing in a cold shower debating your life choices, the first question is always the same: fix it yourself or call someone who does this for a living? The answer depends on what is actually wrong, your comfort level with gas and electrical connections, and how quickly you need hot water back.
