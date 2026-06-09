@@ -1,0 +1,754 @@
+{
+  "name": "Daily Post Publisher",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 9
+            }
+          ]
+        }
+      },
+      "id": "c493b5fa-c493-4675-90d1-97e30dff821d",
+      "name": "Daily 9 AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        -880,
+        -192
+      ]
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0",
+          "mode": "list",
+          "cachedResultName": "Miter House Posts",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Sheet1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0/edit#gid=0"
+        },
+        "filtersUI": {
+          "values": [
+            {
+              "lookupColumn": "status",
+              "lookupValue": "idea"
+            }
+          ]
+        },
+        "options": {
+          "returnFirstMatch": true
+        }
+      },
+      "id": "a87a760e-7446-449f-bde9-704cebbcfa97",
+      "name": "Read Content Calendar",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        -656,
+        -192
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "UENQ8z6WtgHTrlIB",
+          "name": "bilalshaikh1298@gmail.com"
+        }
+      },
+      "notes": "Configure: 1) Select your Google Sheets credential. 2) Pick the 'Content Calendar' spreadsheet. 3) Pick the sheet tab."
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "bilal1298",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "miterhouse",
+          "mode": "list",
+          "cachedResultName": "miterhouse",
+          "cachedResultUrl": "https://github.com/bilal1298/miterhouse"
+        },
+        "filePath": "=src/content/blog/{{ $json.slug }}.md",
+        "asBinaryProperty": false,
+        "additionalParameters": {}
+      },
+      "id": "cf9ccdea-3781-4afa-93d3-af90cdc0606e",
+      "name": "Get Post from GitHub",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [
+        -432,
+        -192
+      ],
+      "webhookId": "5bc121b2-70b6-4b4f-a1a8-1a55ca1144b3",
+      "alwaysOutputData": true,
+      "credentials": {
+        "githubApi": {
+          "id": "CqoWWz4kdNAB1935",
+          "name": "bilalshaikh1298@gmail.com"
+        }
+      },
+      "onError": "continueRegularOutput",
+      "notes": "Configure: 1) Select your GitHub credential. 2) Set owner to 'bilal1298'. 3) Set repository to 'miterhouse'."
+    },
+    {
+      "parameters": {
+        "jsCode": "const content = $json.content;\n  const sha = $json.sha;\n  const name = $json.name; // e.g. \"1980s-home-renovation.md\"\n\n  if (!content) {\n    throw new Error('No file content returned from GitHub');\n  }\n  \n  const decoded = Buffer.from(content, 'base64').toString('utf-8');\n\n  const updated = decoded.replace(/^(---[\\s\\S]*?)draft:\\s*true/m, '$1draft: false');\n\n  if (updated === decoded) {\n    throw new Error('Could not find draft: true in frontmatter — file may already be published');\n  }\n\n  const slug = name.replace('.md', '');\n                               \n  return [{\n    json: {\n      updatedContent: updated,\n      sha: sha,\n      slug: slug\n    }\n  }];"
+      },
+      "id": "67d2ed3c-ec11-4ec2-9839-d3842d37236d",
+      "name": "Flip Draft → Published",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        16,
+        -96
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "file",
+        "operation": "edit",
+        "owner": {
+          "__rl": true,
+          "value": "bilal1298",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "miterhouse",
+          "mode": "list",
+          "cachedResultName": "miterhouse",
+          "cachedResultUrl": "https://github.com/bilal1298/miterhouse"
+        },
+        "filePath": "=src/content/blog/{{ $json.slug }}.md",
+        "fileContent": "={{ $json.updatedContent }}",
+        "commitMessage": "=post: {{ $json.slug }}",
+        "additionalParameters": {
+          "branch": {
+            "branch": "main"
+          }
+        }
+      },
+      "id": "a10e5de2-5454-4324-9cf5-6cd9af327c3f",
+      "name": "Commit to GitHub",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [
+        240,
+        -96
+      ],
+      "webhookId": "20b6515e-ae0e-4fa4-9d81-855501990e0b",
+      "credentials": {
+        "githubApi": {
+          "id": "CqoWWz4kdNAB1935",
+          "name": "bilalshaikh1298@gmail.com"
+        }
+      },
+      "notes": "Configure: Same GitHub credential as 'Get Post from GitHub'. Set owner to 'bilal1298', repository to 'miterhouse'."
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": {
+          "__rl": true,
+          "value": "16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0",
+          "mode": "list",
+          "cachedResultName": "Miter House Posts",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Sheet1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "slug": "={{ $('Read Content Calendar').item.json.slug }}",
+            "status": "published",
+            "publish_date": "={{ $now }}"
+          },
+          "matchingColumns": [
+            "slug"
+          ],
+          "schema": [
+            {
+              "id": "post_number",
+              "displayName": "post_number",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "publish_date",
+              "displayName": "publish_date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "pillar",
+              "displayName": "pillar",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "primary_keyword",
+              "displayName": "primary_keyword",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "search_volume",
+              "displayName": "search_volume",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "cpc",
+              "displayName": "cpc",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "keyword_difficulty",
+              "displayName": "keyword_difficulty",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "intent",
+              "displayName": "intent",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "suggested_title",
+              "displayName": "suggested_title",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "slug",
+              "displayName": "slug",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "description",
+              "displayName": "description",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "category",
+              "displayName": "category",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "tags",
+              "displayName": "tags",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "internal_link_candidates",
+              "displayName": "internal_link_candidates",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "external_link_candidates",
+              "displayName": "external_link_candidates",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "hero_image_prompt",
+              "displayName": "hero_image_prompt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "faq_seeds",
+              "displayName": "faq_seeds",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "status",
+              "displayName": "status",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "author",
+              "displayName": "author",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "row_number",
+              "displayName": "row_number",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "readOnly": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "id": "55dc6ee7-a1b8-4bd7-b794-d9b2f9239f65",
+      "name": "Mark Published in Sheet",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        464,
+        -96
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "UENQ8z6WtgHTrlIB",
+          "name": "bilalshaikh1298@gmail.com"
+        }
+      },
+      "notes": "Configure: Same Google Sheets credential and spreadsheet as 'Read Content Calendar'. The node matches on post_number and updates status to 'published'."
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "888c3224-c751-4b1c-8892-ec57cd6eafd9",
+              "leftValue": "={{ $json.error }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "exists",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        -208,
+        -192
+      ],
+      "id": "92509e09-2264-4a8f-b16d-d1234b31127a",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": {
+          "__rl": true,
+          "value": "16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0",
+          "mode": "list",
+          "cachedResultName": "Miter House Posts",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Sheet1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/16ScDEA4_9jseNHzqmrnynhdOBoueYMpU_ER_zt2Dnr0/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "slug": "={{ $('Read Content Calendar').item.json.slug }}",
+            "status": "error",
+            "publish_date": "={{ $now }}"
+          },
+          "matchingColumns": [
+            "slug"
+          ],
+          "schema": [
+            {
+              "id": "post_number",
+              "displayName": "post_number",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "publish_date",
+              "displayName": "publish_date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "pillar",
+              "displayName": "pillar",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "primary_keyword",
+              "displayName": "primary_keyword",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "search_volume",
+              "displayName": "search_volume",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "cpc",
+              "displayName": "cpc",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "keyword_difficulty",
+              "displayName": "keyword_difficulty",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "intent",
+              "displayName": "intent",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "suggested_title",
+              "displayName": "suggested_title",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "slug",
+              "displayName": "slug",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "description",
+              "displayName": "description",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "category",
+              "displayName": "category",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "tags",
+              "displayName": "tags",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "internal_link_candidates",
+              "displayName": "internal_link_candidates",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "external_link_candidates",
+              "displayName": "external_link_candidates",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "hero_image_prompt",
+              "displayName": "hero_image_prompt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "faq_seeds",
+              "displayName": "faq_seeds",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "status",
+              "displayName": "status",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "author",
+              "displayName": "author",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "row_number",
+              "displayName": "row_number",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "readOnly": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "id": "f56f5f06-b8f5-429d-aab5-46884b637341",
+      "name": "Mark Published in Sheet1",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        16,
+        -288
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "UENQ8z6WtgHTrlIB",
+          "name": "bilalshaikh1298@gmail.com"
+        }
+      },
+      "notes": "Configure: Same Google Sheets credential and spreadsheet as 'Read Content Calendar'. The node matches on post_number and updates status to 'published'."
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Daily 9 AM": {
+      "main": [
+        [
+          {
+            "node": "Read Content Calendar",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Content Calendar": {
+      "main": [
+        [
+          {
+            "node": "Get Post from GitHub",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Post from GitHub": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Flip Draft → Published": {
+      "main": [
+        [
+          {
+            "node": "Commit to GitHub",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Commit to GitHub": {
+      "main": [
+        [
+          {
+            "node": "Mark Published in Sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Mark Published in Sheet1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Flip Draft → Published",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": true,
+    "timezone": "Asia/Kolkata"
+  },
+  "versionId": "01872030-4fa3-48ca-aa45-a86db21dd0d7",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "4249770dbefe3403613674c6b0bd444b1c6f376e7105a9ed24c6e244eaa6b1f3"
+  },
+  "id": "NSHzlMJsJc6TWa0g",
+  "tags": []
+}
