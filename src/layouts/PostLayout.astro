@@ -85,6 +85,7 @@ const articleJsonLd = {
     "@type": "Person",
     name: authorName,
     url: `${siteConfig.siteUrl}/author/${authorSlug}/`,
+    ...(authorAvatar ? { image: `${siteConfig.siteUrl}${authorAvatar}` } : {}),
   },
   publisher: {
     "@type": "Organization",

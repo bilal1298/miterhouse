@@ -7,7 +7,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - home-improvement
-date: 2026-11-05
+date: 2026-06-06
 hero_image: /images/posts/1980s-home-renovation-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner measuring cabinet dimensions in a kitchen with a tape measure and notepad, new cabinet samples on the counter, morning light through a window above the sink. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:

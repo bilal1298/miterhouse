@@ -42,6 +42,7 @@ const personJsonLd = {
   name: authorData.name,
   url: `${siteConfig.siteUrl}/author/${authorSlug}/`,
   description: authorData.bio,
+  ...(avatar ? { image: `${siteConfig.siteUrl}${avatar}` } : {}),
   ...(authorData.externalUrl ? { sameAs: [authorData.externalUrl] } : {}),
 };
 ---

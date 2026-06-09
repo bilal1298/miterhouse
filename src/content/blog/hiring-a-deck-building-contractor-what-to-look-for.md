@@ -7,7 +7,7 @@ tags:
   - deck-building
   - outdoor-projects
   - landscaping
-date: 2026-08-11
+date: 2026-06-09
 hero_image: /images/posts/hiring-a-deck-building-contractor-what-to-look-for.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
