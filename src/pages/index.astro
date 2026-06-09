@@ -11,13 +11,23 @@ const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTim
 
 const featured = posts[0];
 const gridPosts = posts.slice(1, 4);
-const mostRead = posts.slice(0, 4);
-const categoryPosts = posts.slice(4, 7);
+const mostRead = posts.slice(4, 8);
 
 const categories = await getAllCategories();
 const catMap = await buildCategoryMap();
-const firstCategory = categories[0];
-const firstCategoryName = firstCategory?.data.name || "";
+
+const shown = new Set(posts.slice(0, 8).map(p => p.id));
+let spotlightCat: typeof categories[0] | undefined;
+let categoryPosts: typeof posts = [];
+for (const cat of categories) {
+  const remaining = posts.filter(p => p.data.category === cat.id && !shown.has(p.id));
+  if (remaining.length > categoryPosts.length) {
+    spotlightCat = cat;
+    categoryPosts = remaining;
+  }
+}
+categoryPosts = categoryPosts.slice(0, 3);
+const spotlightCatName = spotlightCat?.data.name || "";
 
 const featuredAuthor = featured ? await getAuthorById(featured.data.author) : undefined;
 const featuredAuthorName = featuredAuthor?.data.name || featured?.data.author || "";
@@ -125,8 +135,8 @@ const webSiteJsonLd = {
     {categoryPosts.length > 0 && (
       <>
         <div class="shead">
-          <h2>{firstCategoryName}</h2>
-          <a href={`/category/${firstCategory?.id}/`}>More &rarr;</a>
+          <h2>{spotlightCatName}</h2>
+          <a href={`/category/${spotlightCat?.id}/`}>More &rarr;</a>
         </div>
         <div class="grid3" style="margin-top:clamp(34px,5vw,52px)">
           {categoryPosts.map((post) => (
