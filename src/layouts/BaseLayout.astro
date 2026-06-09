@@ -31,6 +31,13 @@ const orgJsonLd = {
 <!doctype html>
 <html lang={siteConfig.language}>
   <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BL1P85EJK6"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-BL1P85EJK6');
+    </script>
     <SEO {...props} />
     <JsonLd data={orgJsonLd} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
