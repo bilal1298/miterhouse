@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Water Damage in Bathroom Walls"
-description: "Real costs, realistic timelines, and practical steps for water damage in bathroom walls. Written by a homeowner who's been through it."
+description: "Bathroom wall water damage ranges from a $150 recaulk job to a $15,000 mold-and-framing rebuild. The cost depends on how long moisture was there — here's how to assess it."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -12,12 +12,12 @@ date: 2026-10-17
 hero_image: /images/posts/the-real-deal-on-water-damage-in-bathroom-walls.webp
 hero_image_prompt: "A photorealistic photograph of a clean, updated bathroom with white subway tile, a floating vanity with a vessel sink, brushed nickel fixtures, and natural light streaming through a frosted window. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is water damage in bathroom walls worth the investment?"
-    a: "Most homeowners recoup 60-70% of water damage in bathroom walls costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Should I repair the water damage or just do a full bathroom renovation?"
+    a: "Consider renovation when damage affects more than 50% of the walls, the subfloor also needs replacement, or plumbing changes are needed to fix the leak source. If repair costs exceed 40–50% of a modest renovation, it often makes more sense to upgrade finishes and layout while the walls are already open — a mid-range bathroom renovation runs $10,000–$25,000."
+  - q: "Can a beginner handle bathroom water damage repair?"
+    a: "Level 1 repairs (recaulking, regrouting, surface painting) are beginner-friendly — total cost $150–$500 and a weekend of work. Level 2 (drywall replacement) requires comfort with cutting drywall, taping, and mudding — learnable but takes patience. Call a professional for Level 3 or 4 damage: rotted framing, supply line leaks behind the wall, shower pan failure, or mold covering more than 10 square feet require specialized skills and containment."
+  - q: "How long does bathroom wall water damage repair take?"
+    a: "Surface repairs (recaulk, repaint) take half a day. Drywall replacement on one wall section takes 1–2 days plus drying time between mud coats. A full wall rebuild with plumbing takes a professional crew 5–10 days. If mold remediation is involved, add 1–3 weeks before reconstruction can begin. The mandatory 24–48 hour drying window before closing walls is non-negotiable."
 draft: true
 ---
 

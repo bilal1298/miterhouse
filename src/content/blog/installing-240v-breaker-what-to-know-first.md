@@ -1,6 +1,6 @@
 ---
 title: "Installing 240v Breaker: What to Know First"
-description: "A no-nonsense guide to install 240v breaker: what to buy, what to skip, and what actually matters for home projects. Practical tips from real projects."
+description: "Installing a 240V breaker costs $200–$500 for a simple add by an electrician. Here's what the job involves, how to check panel capacity first, and when DIY is actually reasonable."
 author: daniel-ware
 category: tools-materials
 tags:
@@ -14,9 +14,9 @@ faq:
   - q: "What should I buy first on a limited budget?"
     a: "Start with a quality cordless drill/driver, a good tape measure, a level, safety glasses, and a utility knife. These five tools cover 80% of basic home projects."
   - q: "What tools do I need for this project?"
-    a: "A 240V breaker installation requires wire strippers, a voltage tester (non-contact and plug-in), screwdrivers (flat and Phillips), and appropriate safety gear including insulated gloves and safety glasses."
+    a: "A 240V breaker installation requires wire strippers, a non-contact voltage tester and a plug-in circuit tester, screwdrivers (flat and Phillips), and appropriate safety gear including insulated gloves and safety glasses."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Using undersized wire for the circuit amperage is the most dangerous 240V mistake. Every breaker amperage has a minimum wire gauge — 30A requires 10/3, 50A requires 6/3. Undersized wire overheats before the breaker trips, which can start a wall fire. Always size wire to the NEC tables, not just what fits through the conduit."
 draft: true
 ---
 

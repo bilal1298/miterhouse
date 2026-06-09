@@ -12,11 +12,11 @@ hero_image: /images/posts/bathroom-remodeling-salem-what-homeowners-should-know.
 hero_image_prompt: "A photorealistic photograph of a bathroom mid-renovation with partially installed white subway tile, new fixtures still in packaging nearby, blue painter's tape on the edges, and a level tool resting on the vanity. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Is bathroom remodeling in Salem worth the investment?"
-    a: "Most homeowners recoup 60-70% of bathroom remodeling costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "For a full bathroom remodel, you'll need basic demo tools, tile-cutting equipment, plumbing wrenches, a level, and safety gear. Most homeowners hire a contractor for the skilled trades."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "In both Salem markets, you can recoup 60–70% at resale. The better return comes from prioritizing waterproofing, ventilation, and functional layout over premium fixtures. In Salem, MA especially, buyers expect updated baths — an outdated bathroom can drag list price more than the renovation cost."
+  - q: "What should Salem, MA homeowners know about older housing stock?"
+    a: "Many Salem, MA homes date to the 1800s–early 1900s, which means likely lead paint, galvanized plumbing, and non-standard framing. Budget 20–30% more than a standard remodel estimate, and confirm your contractor holds EPA RRP certification before they disturb any painted surfaces."
+  - q: "How long does a standard bathroom remodel take in Salem?"
+    a: "A standard full bath remodel runs about 5 weeks of active work, plus 1–2 weeks upfront for permits. Add time for contractor availability — good bathroom remodelers in both Salem markets are typically booked 6–12 weeks out."
 draft: true
 ---
 

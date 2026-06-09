@@ -1,6 +1,6 @@
 ---
 title: "Residential Fence Installation Guide: DIY or Hire Out?"
-description: "Everything you need for residential fence installation: materials, costs, permits, and lessons from actual backyard projects."
+description: "DIY fence installation on a 200-linear-foot lot saves $1,500–$3,500 but takes 25–40 hours of work. Here's the material comparison and the post-setting details that determine longevity."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,11 +13,11 @@ hero_image: /images/posts/residential-fence-installation-guide-diy-or-hire-out.w
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Do I need a permit for this project?"
-    a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
+    a: "Most jurisdictions require a permit for fences over 4 feet — which includes virtually every privacy or security fence. Permit fees run $50–$200. Before you apply, call 811 to have buried utilities marked (required by law in every state before any digging), and locate your property pins or order a survey ($300–$600). Building even a few inches over the property line is your problem legally, and the permit process will ask for setback confirmation."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most residential fence installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "A rented power auger ($50–$100/day) is essential — hand-digging 30-inch post holes through clay or rocky soil is not realistic for more than a few posts. Beyond that: a 4-foot level, 25-foot tape measure, string line and stakes, circular saw, cordless drill with bits, and safety glasses and gloves. For post setting, two bags of 80-pound fast-setting concrete per post and a mixing bucket. Everything except the auger is standard homeowner tool inventory."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first - rushing the setup phase causes most DIY failures."
+    a: "Not calling 811 before digging. It is required by law in every US state, it is free, and buried utilities are marked within two business days. Hitting a gas line is a safety emergency; hitting a cable or phone line triggers immediate repair billing. The second most common mistake is setting line posts before corner posts have cured — if corner posts shift during cure, the whole fence line shifts with them. Set corners first, wait 24 hours, then align and set the rest."
 draft: true
 ---
 

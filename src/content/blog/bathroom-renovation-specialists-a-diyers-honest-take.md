@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a bathroom mid-renovation wit
 faq:
   - q: "How much does bathroom renovation specialists cost on average?"
     a: "A mid-range bathroom renovation specialists project typically runs $5,000–$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a homeowner do part of the work themselves during a specialist renovation?"
+    a: "Yes — demo, painting non-tiled walls, and installing accessories like towel bars and mirrors are all homeowner-friendly tasks. Handling those yourself can save $700–$1,900 in labor while leaving the waterproofing, tile, and plumbing to the specialist."
+  - q: "What's the most common mistake when hiring a bathroom specialist?"
+    a: "Not verifying their waterproofing approach upfront. A qualified specialist names specific products — Schluter-KERDI, Laticrete Hydro Ban, or RedGard — and explains their process. Vague answers like 'we make sure it's waterproof' are a red flag; a failed waterproof membrane costs $5,000–$15,000 to remediate."
 draft: true
 ---
 

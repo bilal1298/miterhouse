@@ -12,12 +12,12 @@ date: 2026-09-06
 hero_image: /images/posts/kitchen-plumbing-remodel-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is kitchen plumbing remodel worth the investment?"
-    a: "Most homeowners recoup 60-70% of kitchen plumbing remodel costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most kitchen plumbing remodel projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What kitchen plumbing decisions most affect the budget?"
+    a: "Keeping the sink in its current location is the single biggest money-saving decision in a kitchen plumbing remodel. Every foot you move a drain line adds cost, complexity, and risk. A simple fixture swap on existing connections runs $500–$2,500. Moving the sink 6 inches in the wrong direction can mean rerouting drain lines through joists and a $2,500–$6,000 project."
+  - q: "What tools do I need for kitchen plumbing work I can DIY?"
+    a: "A faucet replacement needs basin wrenches (the awkward ones that work in tight spaces under the sink), adjustable pliers, and Teflon tape. Adding a garbage disposal also needs a wire stripper and wire nuts. For supply line swaps, compression fittings require two adjustable wrenches and a pipe cutter. That's your kit for the fixture-level work that makes sense to DIY."
+  - q: "How long does kitchen plumbing rough-in take?"
+    a: "A plumber's rough-in phase — installing new supply lines, drain lines, vent connections, and stub-outs before drywall — typically takes 1 to 2 days for a standard kitchen. Then comes a 4 to 8 week gap for other trades. The finish phase (faucet, disposal, dishwasher, ice maker) takes half a day to a full day after countertops are installed."
 draft: true
 ---
 

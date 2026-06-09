@@ -1,6 +1,6 @@
 ---
 title: "Installing Woven Wire Fence: What to Know First"
-description: "A hands-on guide to woven wire fence installation with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Woven wire fencing costs $2–$5/ft for materials — about half the price of chain link. Here's how to set proper corner bracing and tension wire so the fence stays tight for 20 years."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,11 +13,11 @@ hero_image: /images/posts/installing-woven-wire-fence-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
+    a: "Spring and fall work well for woven wire installation since the ground is workable but not frozen. Avoid midsummer heat for the physical labor of driving T-posts, and avoid frozen ground that prevents proper post hole depth. Concrete footings for corner posts should be poured when temperatures stay above freezing for at least 48 hours."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most woven wire fence installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "You'll need a T-post driver, come-along or fence stretcher for tensioning the wire, pliers, wire cutters, post hole digger or auger for corner posts, a level, measuring tape, and heavy leather gloves — woven wire will cut you without them."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "A 200-foot run is a solid full-day project for two people. Setting and bracing four corner posts the day before is the most critical prep step — let the concrete cure 48 hours before stretching wire against them. A professional crew typically installs 500 to 800 linear feet per day."
 draft: true
 ---
 

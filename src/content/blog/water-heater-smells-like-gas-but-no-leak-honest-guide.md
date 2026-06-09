@@ -1,6 +1,6 @@
 ---
 title: "Water Heater Smells Like Gas but No Leak: Honest Guide"
-description: "Know what you're getting into with water heater smells like gas but no leak. Costs, code requirements, and the honest DIY difficulty level."
+description: "A gas smell near your water heater without a visible leak is usually a pilot out, dirty burner, or sulfur in the water. Here's how to diagnose each."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-10-03
 hero_image: /images/posts/water-heater-smells-like-gas-but-no-leak-honest-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I know if my gas water heater smell is actually dangerous?"
+    a: "If the smell is throughout the house or very strong, leave immediately and call your gas utility from outside — their emergency inspection is free. If the smell is mild and localized only near the water heater, open windows, ventilate, and follow the diagnostic steps. A sulfur smell at the faucet rather than in the air around the heater is a water quality issue, not a gas leak."
+  - q: "Can I fix a gas smell near the water heater myself?"
+    a: "Relighting the pilot, cleaning the burner assembly with compressed air, and replacing an anode rod (for sulfur in the water) are all DIY-safe. Backdrafting vent problems and gas valve seepage require a licensed technician — these involve safety-critical components you should not attempt to repair without proper training and testing equipment."
+  - q: "What does it mean if my hot water smells like sulfur but the water heater doesn't smell like gas?"
+    a: "That's hydrogen sulfide from bacteria reacting with the magnesium anode rod inside the tank — a water quality issue, not a gas leak. Replace the magnesium anode with an aluminum/zinc rod ($25–$50) and flush the tank with 3% hydrogen peroxide to kill the bacteria."
 draft: true
 ---
 

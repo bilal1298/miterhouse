@@ -1,6 +1,6 @@
 ---
 title: "Poured Concrete Walls Pricing Guide for Homeowners"
-description: "Skip the rookie mistakes on cost for poured concrete walls. Prep, products, and techniques from someone who's painted 30+ rooms."
+description: "Poured concrete foundation walls cost $12–$25 per square foot installed — about 20–30% more than concrete block. Here's what you get for that premium and when it's worth it."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -11,12 +11,12 @@ date: 2026-10-16
 hero_image: /images/posts/poured-concrete-walls-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How many coats of paint do I actually need?"
-    a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Why do poured concrete walls cost more than concrete block?"
+    a: "The premium comes from formwork — the steel or aluminum forms cost $0.50–$1.50 per square foot per day to rent and require a skilled crew to set and strip. Contractors without their own forms pass that rental cost to you. The payoff is a monolithic wall with fewer joints, better lateral strength, and easier exterior waterproofing than block."
+  - q: "Can I pour concrete walls without a contractor?"
+    a: "The concrete truck is the limiting factor — you have 60–90 minutes from delivery to place and consolidate the entire pour before it sets. Without an experienced crew, you risk cold joints, honeycombing, and a wall that does not meet structural code. The formwork itself also requires precise assembly. This is not a DIY project for primary foundations."
+  - q: "How long does the construction timeline take?"
+    a: "From footing pour to backfill-ready walls: 7 to 10 days in warm weather. That covers footing pour (Day 1), 48-hour footing cure, 2–3 days of form setup, wall pour (1 day), 24+ hours of form stripping, and 7 days of curing before backfilling. Cold weather extends every phase and requires concrete admixtures that add cost."
 draft: true
 ---
 

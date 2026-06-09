@@ -16,7 +16,7 @@ faq:
   - q: "What tools do I need for this project?"
     a: "Compression fitting projects need two adjustable wrenches (or open-end wrenches matched to the fitting size), a pipe cutter or hacksaw, deburring tool, and possibly Teflon tape or pipe dope depending on the application."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Over-tightening is the most common compression fitting mistake. The correct technique is hand-tight plus 1/2 to 3/4 turn with a wrench — not cranked down as hard as possible. Over-tightening deforms the ferrule beyond its design limits and creates leaks rather than preventing them."
 draft: true
 ---
 

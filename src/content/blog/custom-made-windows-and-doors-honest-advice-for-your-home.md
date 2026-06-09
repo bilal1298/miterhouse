@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a replacement window being in
 faq:
   - q: "What's the biggest hidden cost in this project?"
     a: "Permit fees, unexpected structural issues, and temporary living adjustments often surprise homeowners. Budget 10-20% above your estimate for contingencies."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a homeowner install custom windows themselves?"
+    a: "Insert replacement windows in existing frames are manageable for a DIYer comfortable with basic carpentry. Full-frame replacements that involve exterior casing and flashing work are better left to professionals. A measuring error on a custom unit — where returns and restocking fees can reach 50% of the order price — is an expensive lesson."
+  - q: "What's the most common mistake when ordering custom windows?"
+    a: "Ordering before the rough opening is confirmed and the existing opening is checked for square. Bathroom walls and older homes are rarely perfectly plumb. Custom fabricators measure to your opening's actual dimensions — if those dimensions change during demo, the window won't fit. Always measure after any framing or structural changes, never before."
 draft: true
 ---
 

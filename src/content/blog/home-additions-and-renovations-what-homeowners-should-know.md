@@ -1,6 +1,6 @@
 ---
 title: "Home Additions and Renovations: What Homeowners Should Know"
-description: "Considering home additions and renovations? Here are the actual numbers, common pitfalls, and what most guides leave out."
+description: "Home additions cost $100–$300 per sq ft; interior renovations run $30–$100. How to decide between adding space and renovating — with real ROI numbers."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-08-23
 hero_image: /images/posts/home-additions-and-renovations-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is a home addition worth the investment?"
-    a: "Most homeowners recoup 60-70% of home additions and renovations costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "Can a beginner handle this project?"
-    a: "Home additions require permits, structural engineering, and multiple licensed trades. This is not a DIY project. Renovations within existing walls have more DIY-friendly components."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is a home addition worth the investment at resale?"
+    a: "It depends on the type. A wooden deck addition returns 70–100% at resale. A master suite addition returns only 30–50%. If you're staying 10+ years, build what you need and enjoy it regardless of ROI. If you might sell in 3–5 years, renovate existing space instead — it's almost always a better financial decision."
+  - q: "Can a homeowner manage part of a home addition themselves?"
+    a: "Demolition, debris hauling, and finishing work like painting are DIY-friendly. Structural framing, plumbing rough-in, electrical, and mechanical work all require licensed professionals and permitted inspections. Trying to shortcut those trades on an addition is how projects end up with serious code violations that surface at resale."
+  - q: "How long does a room addition take from permits to completion?"
+    a: "Permit review takes 2–6 weeks depending on your jurisdiction's backlog. Construction typically runs 8–16 weeks for a standard room addition. Factor in architectural drawings and structural engineering before permit submission — that adds another 2–4 weeks upfront before a shovel touches the ground."
 draft: true
 ---
 

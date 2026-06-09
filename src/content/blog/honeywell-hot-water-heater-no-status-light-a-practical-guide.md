@@ -1,6 +1,6 @@
 ---
 title: "Honeywell Hot Water Heater No Status Light: A Practical Guide"
-description: "Know what you're getting into with honeywell hot water heater no status light. Costs, code requirements, and the honest DIY difficulty level."
+description: "A Honeywell water heater with no status light usually means a failed thermopile. How to diagnose and fix it — most repairs cost under $40 in parts."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a new tank water heater being
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a homeowner replace a thermopile themselves?"
+    a: "Yes — it's a straightforward repair. Turn off gas, remove the burner assembly (typically 2–4 screws), swap the thermopile, and reinstall. The whole job takes about 45 minutes. Match the thermopile model to your water heater; bring the old one to the hardware store to confirm compatibility."
+  - q: "What's the most common mistake when troubleshooting a Honeywell no-status-light problem?"
+    a: "Assuming the gas control valve has failed without testing the thermopile first. The gas control valve ($100–$250) is expensive; a thermopile ($15–$40) is cheap. Always test thermopile voltage with a multimeter before replacing anything else — 400+ millivolts means the thermopile is fine and the gas control itself needs attention."
 draft: true
 ---
 

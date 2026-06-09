@@ -1,6 +1,6 @@
 ---
 title: "Cedar Fence Installation Guide: DIY or Hire Out?"
-description: "Everything you need for cedar fence installation: materials, costs, permits, and lessons from actual backyard projects. Practical tips from real projects."
+description: "Cedar fence installation costs $25–$55 per linear foot installed. Why to use pressure-treated posts with cedar pickets, and why three rails beat two every time."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-09
 hero_image: /images/posts/cedar-fence-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most cedar fence installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What's the best time of year to install a cedar fence?"
+    a: "Spring and fall are ideal — moderate temperatures help concrete cure properly and physical labor is less miserable than in summer heat. Many fence contractors offer 10–15% discounts for fall and winter scheduling. Avoid pouring concrete footings when frost is in the ground."
+  - q: "What tools do I need to build a cedar fence?"
+    a: "A miter saw or circular saw, impact driver, post-hole digger or rented auger ($75–$150/half day), level, speed square, string line, and a helper for setting posts. Galvanized or stainless steel screws only — regular steel fasteners stain cedar black within a year from a chemical reaction with the wood's tannins."
+  - q: "How long does it take to build a 150-foot cedar fence?"
+    a: "A professional crew of 2–3 finishes 150 feet in 2–3 days. A DIY team of two should budget 3–4 weekends — post setting and concrete cure take the first weekend, rails and pickets fill the remaining time. The physical labor of digging 20+ holes is the real limiting factor."
 draft: true
 ---
 

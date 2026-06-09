@@ -1,6 +1,6 @@
 ---
 title: "Hot Water Unclog Drain: A Practical Guide"
-description: "Know what you're getting into with hot water unclog drain. Costs, code requirements, and the honest DIY difficulty level."
+description: "Hot water unclogs 30–40% of slow drains but damages PVC if too hot. Here's the safe temperature by pipe type and what to try when hot water doesn't work."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-11-11
 hero_image: /images/posts/hot-water-unclog-drain-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Why won't hot water unclog my bathroom drain?"
+    a: "Hair clogs don't respond to hot water at any temperature — they need physical removal. Remove the drain stopper, look for the hair mass, and pull it out. The P-trap under the sink catches most bathroom clogs; removing and cleaning it takes 10 minutes and solves about 60% of persistent sink drain problems."
+  - q: "Is boiling water safe to pour down a clogged drain?"
+    a: "Only for metal pipes. PVC drains — the standard in homes built after 1980 — are rated for 140°F continuous use. Boiling water at 212°F can soften joints and loosen connections, especially at the trap. For PVC, use the hottest water from your tap rather than boiling water off the stove."
+  - q: "When should I call a plumber for a clogged drain?"
+    a: "If three rounds of hot water, a plunger, and removing the P-trap don't restore flow, the clog is likely deeper in the main drain line. A plumber's basic snake service costs $150–$250 and reaches 25–50 feet into the drain line — worth it before renting a power auger yourself."
 draft: true
 ---
 

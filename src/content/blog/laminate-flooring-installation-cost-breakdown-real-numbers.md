@@ -15,10 +15,10 @@ hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring b
 faq:
   - q: "What's the most durable option for laminate flooring?"
     a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most laminate flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+  - q: "What tools do I need for a DIY laminate installation?"
+    a: "You need a tape measure, T-square or straight edge, miter or circular saw for crosscuts, jigsaw for notches around pipes and door frames, a tapping block and pull bar (sold together for $15–$25), and 1/4-inch spacers. An oscillating tool for undercutting door casings is the one specialty tool worth renting. Total tool cost if starting from scratch: $50 to $150."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Getting the first row wrong and discovering it three rows later. An out-of-square first row compounds across the room — by the far wall, the planks may be visibly angled. Don't trust the wall to be straight; snap a chalk line for your true reference. Fixing a misaligned row mid-installation means disassembling everything you've already laid."
 draft: true
 ---
 

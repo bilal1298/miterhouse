@@ -1,6 +1,6 @@
 ---
 title: "Vermont Window Replacement: Full Planning Guide"
-description: "A hands-on guide to vermont window replacement with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Vermont window replacement costs $700–$1,500 installed. Triple-pane and fiberglass frames aren't luxuries — the 7-month heating season makes them pay back."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

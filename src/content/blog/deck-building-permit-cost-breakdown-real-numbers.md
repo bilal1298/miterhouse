@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner building a pressu
 faq:
   - q: "What's the biggest hidden cost in this project?"
     a: "Permit fees, unexpected structural issues, and temporary living adjustments often surprise homeowners. Budget 10-20% above your estimate for contingencies."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most deck building permit cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What documents do I need to submit for a deck permit?"
+    a: "A site plan showing property lines, house footprint, and deck location with setback dimensions, plus construction drawings with footing locations, framing layout, ledger attachment details, railing design, and stair layout. Many municipalities accept hand-drawn plans for simple decks; check with your building department before spending money on engineer-stamped drawings."
+  - q: "What's the most common mistake homeowners make with deck permits?"
+    a: "Building without one to save the $150–$500 fee. The consequences dwarf the permit cost: fines that can double the original fee, insurance denial for accidents on the unpermitted structure, and resale complications when title companies flag the unpermitted work. Retroactive permitting often costs more than a proper permit would have."
 draft: true
 ---
 

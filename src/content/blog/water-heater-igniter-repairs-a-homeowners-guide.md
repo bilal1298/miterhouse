@@ -1,6 +1,6 @@
 ---
 title: "Water Heater Igniter Repairs: A Homeowner's Guide"
-description: "A straightforward guide to water heater igniter repair: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "A failed igniter causes 60% of water heater no-light calls. A piezo element costs $8–$20 and swaps in 30 minutes. Here's how to diagnose which part you need."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a new tank water heater being
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most water heater igniter repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to replace a water heater igniter?"
+    a: "Adjustable wrench and needle-nose pliers for a piezo igniter swap — that's it. A hot surface igniter replacement also needs a screwdriver and your owner's manual to identify the correct model-specific part. Handle HSI elements only by the ceramic base; touching the heating element with bare hands deposits oils that create hot spots and cause early failure."
+  - q: "What's the most common water heater igniter diagnosis mistake?"
+    a: "Replacing the igniter when the actual problem is a bad thermocouple. If the pilot lights but goes out when you release the control knob, the igniter is fine — the thermocouple is not holding the gas valve open. A thermocouple costs $10–$25 and is the more common failure between the two. Diagnose before ordering parts."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Water Leaking From Ac Vent in Ceiling"
-description: "Know what you're getting into with water leaking from ac vent in ceiling. Costs, code requirements, and the honest DIY difficulty level."
+description: "Water dripping from an AC vent is almost always a clogged condensate drain or frozen coils. Here's how to diagnose and fix it before mold sets in at 48 hours."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-22
 hero_image: /images/posts/the-real-deal-on-water-leaking-from-ac-vent-in-ceiling.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "When should I call an HVAC technician instead of handling this myself?"
+    a: "Handle it yourself if the cause is a clogged drain line (vinegar flush), a dirty filter, or a disconnected PVC joint — these are basic maintenance tasks. Call a professional when you suspect low refrigerant (refrigerant handling requires EPA Section 608 certification), when the blower motor has stopped, when you have cleared the drain and the leak continues, or when the air handler is in a location you cannot safely access."
+  - q: "Can I clear a clogged condensate drain myself?"
+    a: "Yes — pour a cup of distilled white vinegar down the cleanout port near the air handler, wait 30 minutes, then flush with warm water. For stubborn clogs, a wet/dry vacuum sealed against the exterior drain end clears most blockages in under 5 minutes."
+  - q: "How long does it take to fix water leaking from an AC vent?"
+    a: "A clogged drain line takes 15–30 minutes to clear. Frozen coil thaw takes 2–4 hours with the fan running. Ductwork insulation or drain pan replacement is a half-day job. The key is acting fast — mold can start within 24–48 hours of water contacting drywall."
 draft: true
 ---
 

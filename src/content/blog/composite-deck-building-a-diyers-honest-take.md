@@ -1,6 +1,6 @@
 ---
 title: "Composite Deck Building: A DIYer's Honest Take"
-description: "A hands-on guide to composite deck building with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Composite decking costs 40–60% more upfront than pressure-treated wood but lasts 25–50 years with minimal upkeep. Hidden fasteners, material choices, and DIY tips."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -11,12 +11,12 @@ date: 2026-08-12
 hero_image: /images/posts/composite-deck-building-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most composite deck building projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is composite decking worth the extra cost over pressure-treated wood?"
+    a: "For a deck you plan to keep 10+ years, yes. The break-even point versus wood (including staining and board replacement costs) is typically 7–10 years. After that, every maintenance-free year saves money. For a house you're selling within 5 years, pressure-treated wood is probably the smarter financial choice."
+  - q: "What tools do I need to build a composite deck?"
+    a: "The same tools as a wood deck — circular saw, drill/driver, level, string line — plus a few extras: a miter saw (composite cuts cleaner with a fine-tooth carbide blade), the manufacturer's hidden fastener tool, and joist tape for protecting the pressure-treated framing underneath."
+  - q: "How long does a DIY composite deck take to build?"
+    a: "A 300-square-foot composite deck takes 7–10 days of active work spread over 4–6 weekends. Planning and permits add 2–4 weeks upfront. Hidden fastener installation runs about 20% slower than face screwing, but the cleaner result is worth it."
 draft: true
 ---
 

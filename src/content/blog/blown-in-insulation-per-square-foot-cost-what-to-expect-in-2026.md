@@ -1,6 +1,6 @@
 ---
 title: "Blown-in Insulation Per Square Foot Cost: What to Expect in 2026"
-description: "Turn unused space into livable rooms. A real-world guide to blown-in insulation cost per square foot with honest costs and timelines."
+description: "Blown-in insulation costs $1.00–$3.00 per sq ft installed in 2026. Cellulose vs. fiberglass, DIY machine rental, and the soffit baffle mistake that ruins the job."
 author: daniel-ware
 category: basement-attic
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-31
 hero_image: /images/posts/blown-in-insulation-per-square-foot-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of an attic being insulated with blown-in cellulose insulation being applied between ceiling joists using a hose, the worker wearing a respirator and safety goggles, with kraft-faced batts visible on the walls. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Do I need a permit to finish this space?"
-    a: "Almost certainly yes. Finishing a basement or attic into livable space requires permits for framing, electrical, plumbing, and egress. Skipping permits creates problems at resale."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Is blown-in cellulose or blown-in fiberglass better for an attic?"
+    a: "Cellulose wins on R-value per inch (R-3.2–3.8 vs. R-2.5–3.0 for fiberglass) and fills around obstacles better. Fiberglass is lighter and doesn't absorb moisture. For most attic floors, cellulose at $1.00–$2.50/sq ft installed is the better value."
+  - q: "Can a homeowner DIY blown-in attic insulation?"
+    a: "Yes — home improvement stores loan blowing machines when you buy 20+ bags of insulation. You need a helper to feed the hopper. The critical step people skip: install soffit baffles at every rafter bay before blowing to keep ventilation paths open. Blocking soffits with insulation causes moisture problems."
+  - q: "What's the most important thing to do before adding blown-in insulation?"
+    a: "Air seal all penetrations through the attic floor — plumbing pipes, wiring, recessed lights, and the attic hatch. Air sealing before insulating improves energy savings by 25% or more compared to adding insulation over unaddressed air leaks."
 draft: true
 ---
 

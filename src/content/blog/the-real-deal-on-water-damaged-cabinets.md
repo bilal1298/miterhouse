@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Water Damaged Cabinets"
-description: "A straightforward guide to water damaged cabinets: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Solid wood cabinets caught early can be repaired for $20–$75. Swollen particleboard needs replacing. Here's how to tell the difference."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner assessing water d
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner repair water-damaged cabinets?"
+    a: "Drying, staining, and refinishing a cabinet with surface water damage is beginner-friendly — oxalic acid (wood bleach) removes most water marks, and a single coat of polyurethane seals it. Replacing a cabinet floor panel requires a circular saw and basic woodworking, which is manageable with some patience."
+  - q: "What's the most common mistake with water-damaged cabinets?"
+    a: "Closing up the cabinet before it is fully dry. Moisture trapped inside particleboard or behind the back panel is where mold colonies start. Use a fan inside the cabinet for 48–72 hours and verify with a moisture meter before refinishing or resealing any surface."
 draft: true
 ---
 

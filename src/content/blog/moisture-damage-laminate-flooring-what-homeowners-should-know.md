@@ -1,6 +1,6 @@
 ---
 title: "Moisture Damage Laminate Flooring: What Homeowners Should Know"
-description: "Thinking about moisture damage laminate flooring? Here's what it costs, how long it takes, and whether you should DIY it."
+description: "Moisture-damaged laminate cannot be repaired — it must be replaced. But the real cost is finding and fixing the water source first, or you'll be replacing the new floor too."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-18
 hero_image: /images/posts/moisture-damage-laminate-flooring-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Can I install moisture damage laminate flooring over existing flooring?"
-    a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I know if the subfloor also needs replacement?"
+    a: "Pull up a damaged plank and inspect the subfloor beneath. A dry, clean subfloor means the moisture event was brief — dry it completely and you can reinstall. A damp subfloor with no mold needs thorough drying before new flooring. Soft, crumbly, or moldy subfloor sections must be cut out and replaced before any new flooring goes down — installing over them guarantees a repeat failure."
+  - q: "Should I replace damaged laminate with new laminate or switch materials?"
+    a: "If the room has any moisture exposure — near a dishwasher, bathroom, exterior door, or on a concrete slab — switch to waterproof LVP. The installed cost is similar, but LVP's plastic core handles moisture that destroys laminate's fiberboard core. For bedrooms and dry living areas, new mid-range laminate is still a solid choice."
+  - q: "How long does a laminate replacement project take?"
+    a: "The moisture source investigation and repair may take longer than the flooring work itself. Once that's resolved, replacing a 200-square-foot room takes 1 to 2 days: subfloor drying and prep, then installation. If the damage is mid-room and you're doing individual plank replacement rather than a full room tearout, add time for the row-by-row disassembly to reach the affected planks."
 draft: true
 ---
 

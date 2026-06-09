@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a bright, freshly finished ba
 faq:
   - q: "What about moisture problems?"
     a: "Address any moisture issues before finishing. This means proper exterior grading, waterproofing, a sump pump if needed, and a good dehumidifier. Finishing over a wet problem guarantees mold."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a homeowner restore a flooded basement themselves?"
+    a: "For clean water and moderate damage dried within 48 hours, yes — a submersible pump, rental dehumidifier, and fans handle it. Category 3 contaminated water (sewage, river flooding), visible mold, or damage to electrical systems require professional help regardless of your skill level."
+  - q: "How long does flooded basement restoration take?"
+    a: "Emergency response and water extraction take hours. Structural drying requires 3–7 days of continuous airflow before materials reach safe moisture levels. Rebuilding a finished basement — new drywall, flooring, paint, and trim — typically takes another 2–4 weeks and costs $7,000–$22,000 depending on scope."
 draft: true
 ---
 

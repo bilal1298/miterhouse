@@ -1,6 +1,6 @@
 ---
 title: "Wood Flooring Marietta: A DIYer's Honest Take"
-description: "Step-by-step guide to wood flooring marietta: material options, installation tips, and honest cost expectations. Practical tips from real projects."
+description: "Wood flooring in Marietta costs $6–$18 per sq ft installed. The 65–80% summer humidity makes acclimation non-optional and engineered hardwood the safer choice."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a professional installing flo
 faq:
   - q: "Can I install wood flooring marietta over existing flooring?"
     a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a beginner install wood flooring in a Marietta home?"
+    a: "Floating click-lock engineered hardwood is beginner-friendly and the right product choice for Marietta's slab-on-grade homes anyway — no nailing to concrete required. Nail-down solid hardwood over plywood is harder and benefits from renting a pneumatic flooring nailer rather than hand-nailing. Either way, acclimate the material for 5–7 days with your HVAC running before you start — skip this step in summer and you will get gaps when the AC dehumidifies."
+  - q: "How long does wood flooring installation take in Marietta?"
+    a: "A professional installs 200–300 square feet per day. A careful beginner doing floating installation should plan on a full day for a standard 200-square-foot room. Add 1–2 hours for subfloor prep (moisture testing, leveling, vapor barrier) before any boards go down."
 draft: true
 ---
 

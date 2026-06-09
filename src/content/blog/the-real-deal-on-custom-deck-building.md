@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Custom Deck Building"
-description: "Planning custom deck building? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Custom decks cost $25–$75 per sq ft installed — 40–80% more than standard rectangles. Here's what drives the premium and when it's actually worth it."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -11,12 +11,12 @@ date: 2026-08-13
 hero_image: /images/posts/the-real-deal-on-custom-deck-building.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most custom deck building projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What's the best time of year to build a custom deck?"
+    a: "Late spring through early fall for most climates. Custom decks require longer plan review (2–3 weeks vs. 1–2 for standard decks) and often structural engineering sign-off, so build your scheduling buffer into the permit phase, not the construction phase."
+  - q: "What tools does a DIYer need for a custom deck project?"
+    a: "Standard framing tools: circular saw, miter saw, cordless drill, framing square, level, and post-hole digger. Curved sections require a jigsaw or router. Budget separately for permit-required hardware — Simpson Strong-Tie connectors for multi-level transitions and elevated sections add $300–$600 in hardware costs alone."
+  - q: "How long does a custom deck take to build compared to a standard deck?"
+    a: "A professional crew typically needs 10–20 days for a custom deck versus 5–10 days for a standard 300-square-foot rectangle. As a DIYer working weekends, a custom deck with multi-level sections and built-ins is realistically a 3–4 month project — plan for that commitment before you start."
 draft: true
 ---
 

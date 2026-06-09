@@ -1,6 +1,6 @@
 ---
 title: "When to Replace Window Naperville: Signs and Costs"
-description: "Planning window replacement naperville? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Naperville window replacement costs $400–$1,500 installed. IECC Zone 5 requires U-factor 0.30 or below — most 1990s double-pane windows no longer meet that."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a replacement window being in
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most window replacement naperville projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What window material performs best in Naperville's climate?"
+    a: "Fiberglass is the top performer for Naperville's temperature swings — it expands and contracts at nearly the same rate as glass, which reduces seal failures over time. Vinyl is the more affordable and popular choice, but mid-grade or better is essential; the cheapest vinyl can warp or discolor within 10 years in northern Illinois winters and summers."
+  - q: "What's the most common mistake when replacing windows in Naperville?"
+    a: "Hiring an installer who prioritizes brand name over installation technique. A mid-grade window installed perfectly — properly shimmed, foam-insulated around the frame, flashed at the sill — outperforms a premium window with gaps at the head or a missing sill pan. Get references from completed projects and ask the installer specifically about their flashing approach."
 draft: true
 ---
 

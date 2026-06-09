@@ -1,6 +1,6 @@
 ---
 title: "Emergency Plumbing Repairs: A Homeowner's Guide"
-description: "A straightforward guide to emergency plumbing repair: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "When a pipe bursts at 2 a.m., the first 15 minutes determine whether you face a $300 repair or $15,000 in water damage. Know your main shutoff before you need it."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner working under a k
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most emergency plumbing repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What's in a good emergency plumbing kit?"
+    a: "Pipe repair clamps in two or three sizes ($5–$15 each), plumber's epoxy putty ($8), Teflon tape ($3), adjustable wrench, channel-lock pliers, a flange plunger and cup plunger, wet/dry vacuum, bucket and old towels, and a flashlight. About $150 total — enough to contain most emergencies until professional help arrives."
+  - q: "What's the most important plumbing thing to do before an emergency happens?"
+    a: "Locate your main water shutoff and test that it actually turns. Old gate valves can seize from years of non-use, and discovering that in a flooding emergency is a nightmare. If it's stuck, schedule a plumber to replace it on your schedule — not at emergency rates during a crisis."
 draft: true
 ---
 

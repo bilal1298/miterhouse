@@ -1,6 +1,6 @@
 ---
 title: "Water Proofing Services: A DIYer's Honest Take"
-description: "How much does water proofing services really cost? Line-by-line budget with labor, materials, and hidden expenses. Practical tips from real projects."
+description: "Waterproofing ranges from $500 for sealant to $15,000 for a full perimeter system. Fix grading and downspouts first — many expensive proposals start with $200."
 author: daniel-ware
 category: budget-planning
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a suburban home getting a new
 faq:
   - q: "What's the biggest hidden cost in this project?"
     a: "Permit fees, unexpected structural issues, and temporary living adjustments often surprise homeowners. Budget 10–20% above your estimate for contingencies."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Which waterproofing work can a beginner do themselves?"
+    a: "Interior sealant application (Drylok, RadonSeal) and exterior above-grade coating are easy weekend projects — basically masonry paint that anyone can roll on. Crack injection with polyurethane foam kits is moderate difficulty but manageable with patience. Interior perimeter drain installation involves jackhammering concrete and is hard physical work, but technically doable for a motivated DIYer. Exterior foundation excavation is genuinely dangerous at 8+ feet deep and should always be contracted out."
+  - q: "What's the most common waterproofing mistake?"
+    a: "Skipping the cheap fixes and jumping straight to an engineered drainage system. Correcting the grading so soil slopes 6 inches over the first 10 feet away from the foundation, and extending downspouts 4–6 feet from the house, often resolves basement moisture problems for $200–$500. Many homeowners who bought $8,000 interior systems later fixed grading and realized the expensive system wasn't necessary."
 draft: true
 ---
 

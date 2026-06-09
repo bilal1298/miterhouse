@@ -1,6 +1,6 @@
 ---
 title: "Hiring a Kitchen Bathroom Remodel Contractor: Red Flags and Tips"
-description: "A no-fluff guide to kitchen bathroom remodel contractors with real material costs, labor estimates, and the mistakes to skip."
+description: "Hiring a kitchen or bath remodel contractor? The red flags that predict problems before work starts — and the green flags that tell you who's worth trusting."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -12,12 +12,12 @@ date: 2026-08-22
 hero_image: /images/posts/hiring-a-kitchen-bathroom-remodel-contractor-red-flags-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a bathroom mid-renovation with partially installed white subway tile, new fixtures still in packaging nearby, blue painter's tape on the edges, and a level tool resting on the vanity. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is a kitchen and bathroom remodel worth the investment?"
-    a: "Most homeowners recoup 60-70% of kitchen and bathroom remodel costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "If hiring a contractor, your main tools are a tape measure, a camera for documentation, and a notebook for tracking decisions and communications. The contractor provides all trade-specific tools."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is a combined kitchen and bathroom remodel worth hiring a single contractor for?"
+    a: "Yes, if the contractor specializes in both. Combined projects often share the same electrician and plumber, reducing subcontractor scheduling overhead. Just verify they have recent references for comparable combined-scope work — kitchen experience doesn't automatically mean bathroom expertise."
+  - q: "What should I do before a remodel contractor shows up to quote?"
+    a: "Take photos of the existing space, write out your must-haves versus nice-to-haves, and measure the rooms yourself. Knowing your own dimensions lets you catch if a contractor is quoting a significantly different square footage than you measured. Having your priorities sorted prevents the contractor from upselling you on items that won't move the needle."
+  - q: "How long does a typical kitchen and bathroom remodel take?"
+    a: "A mid-range kitchen remodel takes 4–8 weeks; a bathroom runs 2–4 weeks. Done sequentially, plan 6–12 weeks total — longer if layout changes require plumbing or electrical relocation, which adds inspection wait time between phases."
 draft: true
 ---
 

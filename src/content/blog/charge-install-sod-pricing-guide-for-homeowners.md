@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner sitting at a kitc
 faq:
   - q: "How can I reduce costs without cutting corners?"
     a: "Do your own demolition, source materials during sales, keep the existing layout to avoid plumbing/electrical moves, and save the pro budget for the work that matters most."
-  - q: "What tools do I need for this project?"
-    a: "You'll need a flat shovel or sod cutter, a wheelbarrow, a lawn roller, a sharp utility knife, a garden rake, sprinklers or a hose with a spray nozzle, and stakes with string for laying straight lines."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I need to install sod yourself?"
+    a: "A flat shovel or rented sod cutter ($75–$150/half day to strip old lawn), a lawn roller, a sharp utility knife for trimming pieces, a garden rake, and a reliable irrigation system or hose. New sod needs 1–1.5 inches of water daily for the first two weeks — having a sprinkler setup before delivery day is critical."
+  - q: "How long does sod installation take and when can I mow?"
+    a: "Professional crews install 2,000 square feet in a single day. DIY takes longer — plan a full weekend for prep and installation. Wait 2–3 weeks before the first mow, and only mow when you can tug a corner of sod and feel firm root resistance. Mowing too early tears the sod off the soil before roots establish."
 draft: true
 ---
 

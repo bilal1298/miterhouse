@@ -1,6 +1,6 @@
 ---
 title: "Drywall Professional Repairs: A Homeowner's Guide"
-description: "A practical guide to drywall repair professional — from surface prep to final coat. Real techniques that work. Practical tips from real projects."
+description: "Professional drywall repair costs $150–$1,200 depending on damage type. Learn the 3-coat taping technique, texture matching, and how to spot rushed work."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall s
 faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most drywall repair professional projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools does a professional drywall repair actually require?"
+    a: "A good set of taping knives (6-inch, 10-inch, and 14-inch), a pole sander, a hawk, and a mix of all-purpose and setting-type compound. For texture matching, most pros also bring a hopper gun and compressor."
+  - q: "How long does professional drywall repair take?"
+    a: "Most repairs require three visits spaced 12–24 hours apart — one to tape, one to fill, one to skim. A professional can complete a medium patch over three days. Factor in drying time; rushing coats is why repairs look visible under raking light."
 draft: true
 ---
 

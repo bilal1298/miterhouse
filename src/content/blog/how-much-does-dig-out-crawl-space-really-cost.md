@@ -14,9 +14,9 @@ faq:
   - q: "What about moisture problems?"
     a: "Address any moisture issues before finishing. This means proper exterior grading, waterproofing, a sump pump if needed, and a good dehumidifier. Finishing over a wet problem guarantees mold."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "Almost none of this is DIY territory. The excavation, underpinning, and concrete work require professional expertise and equipment. Where homeowners can contribute is demo cleanup, insulation after structural work is done, and interior finishing — saving $3,000 to $10,000 on peripheral tasks."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "Plan on 2 to 6 months from engineering assessment to finished space. Permitting alone takes 4 to 8 weeks in busy jurisdictions, and excavation must proceed in controlled 4- to 6-foot sections that cannot be rushed."
 draft: true
 ---
 

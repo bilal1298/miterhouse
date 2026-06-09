@@ -1,6 +1,6 @@
 ---
 title: "Installing Professional Gutter: What to Know First"
-description: "A hands-on guide to professional gutter installation with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Professional gutter installation costs $6–$15/ft for aluminum seamless gutters — $1,000–$2,500 for a typical home. Here's what determines where you fall in that range."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -14,9 +14,9 @@ faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most professional gutter installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "Professionals use truck-mounted seamless gutter machines that extrude gutters on-site — you can't rent these. For DIY sectional gutter installation, you need a level, string line, tin snips, a pop rivet gun, gutter sealant, and stable ladder setup that allows you to work safely along the full roofline."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Getting the slope wrong is the most common gutter installation failure. Gutters need to drop 1/4 inch per 10 feet toward the downspout — only one inch of total drop on a 40-foot run. Gutters that pitch the wrong direction or stay flat will pool water and develop leaks at the seams within a season or two."
 draft: true
 ---
 

@@ -14,9 +14,9 @@ faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most how to install board and batten siding projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "You'll need a circular saw or miter saw, a nail gun loaded with stainless steel or hot-dipped galvanized ring-shank nails, a level, chalk line, measuring tape, and a caulk gun. For fiber cement, also add a respirator — cutting it creates silica dust."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Fastening through board edges instead of the center is the single most destructive mistake. Center-nailing lets boards expand and contract freely; edge-nailing pins them and causes splits along the nail line when the wood swells in humid weather."
 draft: true
 ---
 

@@ -15,9 +15,9 @@ faq:
   - q: "What's the biggest hidden cost in this project?"
     a: "Permit fees, unexpected structural issues, and temporary living adjustments often surprise homeowners. Budget 10–20% above your estimate for contingencies."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most cost to install surround sound projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "For surface-mounted speaker placement, just a tape measure, stud finder, drill, and wire staples. In-wall or in-ceiling wire runs also need a drywall saw, fish tape or fish sticks, and low-voltage mounting brackets. The receiver setup itself requires only a measuring microphone — most modern AV receivers include one for auto-calibration."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Skipping acoustic treatment is the biggest missed opportunity. A well-placed $800 system in a treated room with an area rug, heavy curtains, and a few acoustic panels consistently outperforms a $2,000 system in a room with hardwood floors and bare walls."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bathroom Vanity Countertop Installation: Costs and Tips"
-description: "Real costs, realistic timelines, and practical steps for install bathroom vanity countertop. Written by a homeowner who's been through it."
+description: "Bathroom vanity countertop costs run $100–$2,500 for materials. Prefab cultured marble installs in a Saturday; custom quartz needs a fabricator template visit."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -13,12 +13,12 @@ date: 2026-09-13
 hero_image: /images/posts/bathroom-vanity-countertop-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a freshly installed floating bathroom vanity with a white quartz countertop, undermount sink, polished chrome faucet, and the tools used for installation still visible on the floor nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is install bathroom vanity countertop worth the investment?"
-    a: "Most homeowners recoup 60–70% of install bathroom vanity countertop costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most install bathroom vanity countertop projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is a vanity countertop upgrade worth the cost?"
+    a: "For a primary or guest bath you use daily, yes — a $400 quartz top feels noticeably different from a $100 cultured marble top. For a kids' bathroom or rental property, cultured marble prefab is perfectly adequate and replaces cheaply in a few years."
+  - q: "What tools do I need to DIY a prefab vanity countertop?"
+    a: "Silicone caulk, a drill/driver, adjustable wrench, level, measuring tape, and possibly a jigsaw for minor trimming. The installation itself takes 2–4 hours for a single vanity once you have the materials in hand."
+  - q: "What's the most common mistake when installing a vanity countertop?"
+    a: "Not checking that the vanity cabinet is level before setting the countertop. An unlevel cabinet causes poor sink drainage and visible gaps at the wall. Shim the vanity first, then dry-fit the countertop before applying any silicone."
 draft: true
 ---
 

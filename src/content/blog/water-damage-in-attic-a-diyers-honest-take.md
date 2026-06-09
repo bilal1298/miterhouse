@@ -1,6 +1,6 @@
 ---
 title: "Water Damage in Attic: A DIYer's Honest Take"
-description: "A straightforward guide to water damage in attic: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Attic water damage costs $500 for a minor fix or $10,000+ if mold spreads. Most check once a year — by then a $30 shingle repair has become a $5,000 problem."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,12 +12,12 @@ date: 2026-10-18
 hero_image: /images/posts/water-damage-in-attic-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of an attic being insulated with blown-in cellulose insulation being applied between ceiling joists using a hose, the worker wearing a respirator and safety goggles, with kraft-faced batts visible on the walls. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro -- it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first -- rushing the setup phase causes most DIY failures."
+  - q: "Which attic water damage repairs can I do myself?"
+    a: "Replacing a damaged shingle or plumbing vent boot, treating small surface mold patches on framing with vinegar or antifungal primer, replacing wet insulation, and adding soffit vents to improve ventilation are all within DIY range. Rotted rafters, extensive mold over 10 square feet, and anything involving electrical wiring should go to a licensed professional."
+  - q: "How do I tell if attic water damage is from a roof leak or condensation?"
+    a: "Roof leak damage concentrates in one spot and correlates with rainfall. Condensation damage is widespread and uniform — moisture appears on the underside of the roof deck in cold weather, frost forms on nail points in winter, and the attic feels humid even when it hasn't rained recently. The fix is different: a leak needs exterior repair, while condensation needs better air sealing from below and improved ventilation above."
+  - q: "What's the most common mistake in attic water damage repair?"
+    a: "Replacing insulation before the framing is fully dry and the source is fixed. New insulation installed over damp rafters traps moisture against the wood, accelerating rot and creating ideal conditions for mold. Get a moisture meter reading on the framing first — below 15 percent is dry enough to close up."
 draft: true
 ---
 

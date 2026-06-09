@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Water Leak Repair Guide: What to Know"
-description: "Know what you're getting into with plumbing water leak repair. Costs, code requirements, and the honest DIY difficulty level."
+description: "Plumbing leaks range from a $5 faucet washer fix to a $10,000 slab repair. Here's how to find where water is actually coming from and what each repair category costs."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,12 +12,12 @@ date: 2026-09-25
 hero_image: /images/posts/plumbing-water-leak-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most plumbing water leak repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+  - q: "How do I find a reliable plumber for a hidden leak?"
+    a: "For hidden leaks, look specifically for plumbers who advertise leak detection services — they use acoustic detectors or thermal cameras to find the source without opening every wall. Call at least two and ask whether they charge separately for detection. A plumber who quotes repair without locating the leak first is guessing."
+  - q: "What tools do I need for basic leak repairs?"
+    a: "For supply line and fixture leaks: adjustable wrenches, Teflon tape, and replacement supply hoses ($8–$15 each). For a copper pinhole: a pipe repair clamp ($8) for a temporary fix or a SharkBite push-fit coupling ($10–$15) for a permanent, no-solder repair. A thermal imaging camera (rentable for $50–$75/day) is invaluable for locating hidden leaks behind walls."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "Fixing a dripping faucet or replacing a toilet fill valve runs 30–60 minutes including a hardware store trip. A supply line replacement is 10 minutes. For hidden leaks, detection adds a few hours before any repair starts. Slab leaks are multi-day projects that require specialist plumbers and possibly structural access."
 draft: true
 ---
 

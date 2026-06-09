@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall s
 faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most drywall repair arlington projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I need for DIY drywall repair in Arlington?"
+    a: "A 6-inch and 10-inch taping knife, all-purpose joint compound, mesh or paper tape, a sanding sponge, and PVA primer. For homes built before 1978, add a lead paint test kit ($25–$40) before sanding anything. Arlington has EPA RRP requirements for pre-1978 homes that apply to contractors disturbing painted surfaces."
+  - q: "How long do Arlington drywall contractors typically take to schedule?"
+    a: "In Northern Virginia's high-demand market, expect 2–4 weeks for non-emergency work. Grouping repairs into one visit makes financial sense — most Arlington contractors have a $200–$350 minimum service charge regardless of scope, so combining several nail pops, a crack, and a small patch into one call is far more cost-effective."
 draft: true
 ---
 

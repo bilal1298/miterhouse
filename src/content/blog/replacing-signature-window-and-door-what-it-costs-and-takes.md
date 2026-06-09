@@ -1,6 +1,6 @@
 ---
 title: "Replacing Signature Window and Door: What It Costs and Takes"
-description: "Everything you need for signature window and door replacement: materials, costs, permits, and lessons from actual backyard projects."
+description: "Replacing signature windows and entry doors together costs $5,000–$25,000 for a mid-size home and cuts energy loss from two of your biggest air infiltration sources in one project."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,12 +12,12 @@ date: 2026-06-29
 hero_image: /images/posts/replacing-signature-window-and-door-what-it-costs-and-takes.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most signature window and door replacement projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What's the best time of year to replace windows and doors together?"
+    a: "Spring and early fall are ideal — sealants cure best in moderate temperatures, and scheduling mild-weather windows lets you avoid both the summer backlog and the problems cold weather creates for foam insulation and caulking. Winter installations are possible but cost more. Scheduling in early spring often catches contractors before their busy season starts."
+  - q: "Should I use one contractor for both windows and doors?"
+    a: "Yes, always. If one installer does the windows and another does the doors, warranty claims fall into a gray area — each company blames the other for any infiltration or alignment issues at the transitions. A single contractor owns the entire project and cannot point fingers. The combined pricing also runs 10–20% lower per opening than two separate contracts."
+  - q: "What's the most common mistake to avoid?"
+    a: "Forgetting about the rough opening repairs. When old windows and doors come out, hidden water damage, insect damage, and insulation gaps are nearly universal in homes over 20 years old. Budget an extra $1,000–$3,000 for the project and ask every contractor how they price opening repairs — a contractor who does not mention this possibility has not done much of this work."
 draft: true
 ---
 

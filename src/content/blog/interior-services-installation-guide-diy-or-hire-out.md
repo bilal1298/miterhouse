@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner's tool belt and s
 faq:
   - q: "Is it worth buying premium tools?"
     a: "For tools you'll use often (drill, circular saw), buy mid-range or better. For specialty tools you'll use once or twice, rent or buy budget versions."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most interior installation services projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I actually need to get started with interior renovation work?"
+    a: "For mid-range DIY projects, start with a cordless drill/driver, miter saw or circular saw, a quality level, stud finder, and a utility knife. These five tools cover painting, flooring, trim installation, and basic carpentry. Specialty tools like a floor nailer or tile saw are worth renting for specific projects rather than buying outright."
+  - q: "How do I decide which interior projects to DIY vs. hire out?"
+    a: "Run three questions before each project: Does it require a permit? If yes, check whether homeowner permits are allowed locally. What does a mistake cost? A bad paint job is a repaint; a botched tile shower is $3,000–$8,000 to redo. Do I have the right tools? Skill compensates for inexperience on many tasks — lack of proper tools rarely does."
 draft: true
 ---
 Every interior renovation involves a mix of tasks — some you should absolutely do yourself, some are borderline, and some will cost you more in mistakes than hiring a professional. The trick is knowing which is which before you start ripping things apart. Here's a project-by-project breakdown of interior installation work, with honest assessments of difficulty, cost savings, and where DIY goes wrong.

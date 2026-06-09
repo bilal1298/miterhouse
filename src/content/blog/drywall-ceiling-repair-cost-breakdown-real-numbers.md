@@ -1,6 +1,6 @@
 ---
 title: "Drywall Ceiling Repair Cost Breakdown: Real Numbers"
-description: "How to get pro-level results with drywall ceiling repair cost. Prep tips, product picks, and honest time estimates. Practical tips from real projects."
+description: "Drywall ceiling repairs cost $200–$750 for most homeowners. Hidden costs: texture matching and ceiling paint that yellowed while you weren't watching."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -15,10 +15,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall s
 faq:
   - q: "Do I need to prime before painting?"
     a: "Yes, if you're covering dark colors, stains, or new drywall. For repaints in similar colors on clean, intact surfaces, a quality paint-and-primer combo usually works fine."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most drywall ceiling repair cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to patch a ceiling hole yourself?"
+    a: "A drywall saw, furring strips for backing, drywall screws, mesh or paper tape, 6-inch and 10-inch taping knives, all-purpose joint compound, 150-grit sanding sponge, and PVA primer. For a medium hole (4–12 inches), renting drywall stilts ($25–$35/day) saves your back compared to working from a ladder."
+  - q: "What's the most expensive part of ceiling drywall repair that people overlook?"
+    a: "Texture matching and repainting the full ceiling. A $200 patch can become a $500–$800 project once you factor in retexturing the entire ceiling for a uniform look and repainting because ceiling white yellows with age. Use a raking light (flashlight held flat against the ceiling) before signing off to catch ridges invisible under normal lighting."
 draft: true
 ---
 

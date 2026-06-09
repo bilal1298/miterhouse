@@ -1,6 +1,6 @@
 ---
 title: "Countertop Removal Cost: What to Expect in 2026"
-description: "Considering countertop removal cost? Here are the actual numbers, common pitfalls, and what most guides leave out. Practical tips from real projects."
+description: "Countertop removal costs $150–$700 hired out. Laminate is an easy DIY job; granite requires 2–3 helpers and careful prying to avoid damaging cabinet boxes."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -12,12 +12,12 @@ date: 2026-11-21
 hero_image: /images/posts/countertop-removal-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How much does countertop removal cost cost on average?"
-    a: "A mid-range countertop removal cost project typically runs $5,000–$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "How much does countertop removal typically cost?"
+    a: "Laminate removal runs $150–$300 professionally or is a free DIY job taking 1–2 hours. Granite and stone removal runs $300–$700 due to weight and fragility — a 10-foot granite slab weighs roughly 200 pounds and must be lifted evenly to avoid cracking. Concrete is the most expensive at $400–$700 and sometimes requires a sledgehammer."
+  - q: "Can a homeowner DIY their countertop removal?"
+    a: "Laminate and solid surface removal are genuinely easy DIY projects that save $150–$400. Stone removal is doable with 2–3 helpers, but carries real risk of cabinet damage if you rush it. Use a thin pry bar worked gently and evenly — not a single-point pry from one end."
+  - q: "What can go wrong during countertop removal?"
+    a: "The most common issue is damaging cabinet tops during granite removal, especially when silicone adhesive holds the slab tightly. Go slow, cut all caulk lines first, and work a thin pry bar around the full perimeter before lifting. A damaged cabinet face frame costs $50–$200 to repair."
 draft: true
 ---
 

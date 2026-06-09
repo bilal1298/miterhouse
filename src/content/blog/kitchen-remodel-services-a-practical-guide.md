@@ -1,6 +1,6 @@
 ---
 title: "Kitchen Remodel Services: A Practical Guide"
-description: "A no-fluff guide to kitchen remodel services with real material costs, labor estimates, and the mistakes to skip. Practical tips from real projects."
+description: "Kitchen remodels involve roughly a dozen distinct trades. Here's which services you actually need, what each costs, and the sequencing that prevents expensive rework."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-04
 hero_image: /images/posts/kitchen-remodel-services-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is kitchen remodel services worth the investment?"
-    a: "Most homeowners recoup 60-70% of kitchen remodel services costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most kitchen remodel services projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is a kitchen remodel worth the investment?"
+    a: "A mid-range kitchen remodel that updates cabinets, countertops, and fixtures while keeping the layout returns 60–70% at resale in most markets. The bigger argument is daily quality of life — a functional, attractive kitchen is the most-used room in most homes. Focus the budget on cabinets and countertops; those two elements drive 80% of the visual result."
+  - q: "Which kitchen remodel services can homeowners DIY?"
+    a: "Demolition, painting, backsplash tile, and basic appliance swaps are the highest-value DIY opportunities. Cabinet installation is doable with patience and a laser level. Plumbing and electrical beyond like-for-like fixture swaps should go to licensed professionals — permit requirements in most jurisdictions make those trades non-negotiable."
+  - q: "How long does a typical kitchen remodel take?"
+    a: "A mid-range project that updates cabinets, countertops, and fixtures while keeping the layout intact takes 4 to 8 weeks. Stone countertop fabrication alone requires 7 to 14 business days after templating, and templating can't happen until cabinets are fully installed — that sequence is the biggest driver of project timeline."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mold Damage Repairs: A Homeowner's Guide"
-description: "Considering mold damage repair? Here's what it actually takes — costs, permits, and the decisions that matter most. Practical tips from real projects."
+description: "Mold damage repair costs $500–$6,000 for moderate problems, but the moisture source must be fixed first or the mold returns. Here's how to assess scope and when to call a professional remediator."
 author: daniel-ware
 category: basement-attic
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of mold being treated in a home 
 faq:
   - q: "What about moisture problems?"
     a: "Address any moisture issues before finishing. This means proper exterior grading, waterproofing, a sump pump if needed, and a good dehumidifier. Finishing over a wet problem guarantees mold."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most mold damage repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What do I need for a DIY mold cleanup under 10 square feet?"
+    a: "At minimum: an N95 respirator (a P100 half-face respirator is better), safety goggles that seal around the eyes, nitrile gloves, and a HEPA vacuum — standard vacuums blow spores back into the air. For cleaning, use a detergent-water solution on porous materials rather than bleach; bleach is effective on non-porous surfaces but doesn't penetrate into drywall or wood where mold roots."
+  - q: "How do I know when to hire a professional remediator vs. handle it myself?"
+    a: "The EPA's guideline is roughly 10 square feet (about a 3x3-foot patch) as the DIY limit. Beyond that size, or when mold is found inside wall cavities, in HVAC systems, or on structural framing, professional remediation is the safer choice. The bigger indicator is the moisture source — if you can't confidently identify and fix what caused the mold, a professional assessment is worth the $300–$600 to avoid fixing the wrong thing."
 draft: true
 ---
 

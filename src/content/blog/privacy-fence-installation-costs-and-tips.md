@@ -1,6 +1,6 @@
 ---
 title: "Privacy Fence Installation: Costs and Tips"
-description: "Planning installation of privacy fence? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Privacy fence installation costs $20–$55 per linear foot installed, or $3,000–$8,250 for a typical 150-foot backyard. Here's the honest material comparison and the installation details that determine longevity."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-06
 hero_image: /images/posts/privacy-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Do I need a permit for this project?"
-    a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most installation of privacy fence projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Do I need a permit for a privacy fence?"
+    a: "Most municipalities require a permit for 6-foot fences, and nearly all privacy fences are 6 feet. Fees are modest ($50–$150 typically), but skipping the permit risks a forced removal order if the fence doesn't meet setback requirements from the property line. Always confirm your property line before applying — a $200–$500 survey is cheaper than rebuilding a misplaced fence."
+  - q: "What tools do I need for DIY privacy fence installation?"
+    a: "A post hole auger or rented power auger (essential — hand digging 24–30-inch holes is brutal), a level (4-foot), a string line, a tape measure, a circular saw or miter saw for cutting pickets, and a cordless drill for driving screws. Rent the auger for $50–$100 per day rather than buying it."
+  - q: "What's the most common mistake that causes early fence failure?"
+    a: "Undersized gate posts. Every gate post should be 6x6 regardless of fence height — gates swing, slam, and bear load in ways regular fence posts don't. Undersized gate posts are the first thing to lean, and a leaning gate post means rebuilding the entire gate section within 3–5 years. The upgrade from 4x4 to 6x6 gate posts costs $20–$30 extra and lasts decades longer."
 draft: true
 ---
 

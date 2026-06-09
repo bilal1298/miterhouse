@@ -1,6 +1,6 @@
 ---
 title: "Simple Basement Finishing: A DIYer's Honest Take"
-description: "Considering simple basement finishing? Here's what it actually takes — costs, permits, and the decisions that matter most."
+description: "A simple basement finish — one open room, no plumbing — runs $15–$30/sq ft in materials, or $9,000–$18,000 for 600 sq ft. Here's the honest sequence and where DIYers typically hit the wall."
 author: daniel-ware
 category: basement-attic
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/simple-basement-finishing-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a basement being finished with metal stud framing going up, fiberglass insulation batts between some studs, recessed lighting cans visible in the ceiling joists above, and a level leaning against the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Do I need a permit to finish this space?"
-    a: "Almost certainly yes. Finishing a basement or attic into livable space requires permits for framing, electrical, plumbing, and egress. Skipping permits creates problems at resale."
+    a: "Yes. Even the scope defined as 'simple' in this guide — one open room, no plumbing, basic electrical — requires permits for framing, electrical rough-in, and the final inspection. Most municipalities require a minimum ceiling height of 7 feet for habitable space, so measure before you commit to any ceiling approach. Unpermitted basement finishing is a common problem at resale: buyers' inspectors flag it, and you may be required to tear out and redo work that did not pass inspection."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "Most tasks are genuinely learnable: framing walls, installing rigid foam insulation, hanging drywall, and floating LVP flooring are all done successfully by first-timers every weekend. The skill ceiling is the electrical rough-in — running Romex through framing to outlet and switch locations. If you have never done electrical work, either study it seriously (the Ugly's Electrical References guide is a practical starting point) or hire an electrician for just that phase and do everything else yourself."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Skipping the moisture check before framing. The plastic sheet test (tape 2-foot polyethylene squares to the floor and walls for 72 hours) costs nothing and takes 5 minutes. If moisture is migrating through the concrete, finishing over it — even with moisture-resistant materials — traps that vapor behind your walls and breeds mold within a few years. Fix the moisture source first: grading, crack sealing, sump pump if needed. Everything else in a simple basement finish is reversible. Mold inside finished walls is not."
 draft: true
 ---
 

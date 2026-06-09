@@ -1,6 +1,6 @@
 ---
 title: "How Often Should I Flush My Water Heater: Honest Guide"
-description: "Know what you're getting into with how often should i flush my water heater. Costs, code requirements, and the honest DIY difficulty level."
+description: "Most water heaters need flushing annually; hard water areas need it every 6 months. The exact process, the right schedule, and what skipping it costs you."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-06-30
 hero_image: /images/posts/how-often-should-i-flush-my-water-heater-honest-guide.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a homeowner flush their own water heater?"
+    a: "Yes — it's one of the most beginner-friendly plumbing maintenance tasks. You need a garden hose, gloves, and 20–30 minutes. The only tricky part is the drain valve on heaters that have never been flushed: years of sediment can cause it to stick or drip afterward. If it won't open smoothly, don't force it."
+  - q: "What happens if I never flush my water heater?"
+    a: "Sediment builds up on the tank bottom, insulating gas burners and burying electric elements — reducing efficiency by 10–15% per the Department of Energy. The popping and rumbling sounds you eventually hear are steam bubbles forcing through the sediment layer. Unflushed tanks also corrode from the inside out, failing years before they should."
+  - q: "How long does flushing a water heater actually take?"
+    a: "The physical process takes 20–30 minutes, but a full drain of a 40–50 gallon tank takes an additional 20–45 minutes. Plan on about an hour total for a thorough flush, including time to let the tank refill and reheat before restoring normal use."
 draft: true
 ---
 

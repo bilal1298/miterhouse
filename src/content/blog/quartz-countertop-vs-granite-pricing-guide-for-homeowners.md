@@ -1,6 +1,6 @@
 ---
 title: "Quartz Countertop vs Granite Pricing Guide for Homeowners"
-description: "Real costs, realistic timelines, and practical steps for quartz countertop vs granite cost. Written by a homeowner who's been through it."
+description: "Granite runs $50–$120/sq ft installed; quartz runs $55–$150. The prices overlap — so the real decision is heat tolerance, maintenance, and how you use your kitchen."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -13,11 +13,11 @@ hero_image: /images/posts/quartz-countertop-vs-granite-pricing-guide-for-homeown
 hero_image_prompt: "A photorealistic photograph of a homeowner measuring cabinet dimensions in a kitchen with a tape measure and notepad, new cabinet samples on the counter, morning light through a window above the sink. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Is quartz countertop vs granite cost worth the investment?"
-    a: "Most homeowners recoup 60–70% of quartz countertop vs granite cost costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
+    a: "At mid-range prices, the 15-year total cost of ownership is roughly equal — granite at about $4,375 (including annual sealing and one chip repair) versus quartz at about $3,900 (zero maintenance). Neither is clearly the better financial bet; the decision comes down to whether you regularly set hot pans on the counter and how much you care about maintenance."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "Countertop fabrication and installation is not a DIY job — the slabs weigh hundreds of pounds and must be templated, cut, and polished with specialized equipment. What you can do yourself: remove the old countertop to reduce labor cost (saves $100–$200), and coordinate the plumber for the sink reconnection, which is a separate charge of roughly $200–$400."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "Once you choose a slab, fabrication typically takes 1–2 weeks, then installation is a single day. The longest part is the waiting: visiting a slab yard, selecting your specific piece, getting the template made after cabinets are final, and waiting for the shop to cut and polish it. Plan for 3–5 weeks from selection to installation day."
 draft: true
 ---
 

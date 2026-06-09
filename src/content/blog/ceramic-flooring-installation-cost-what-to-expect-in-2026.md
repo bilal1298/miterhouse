@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a professional installing flo
 faq:
   - q: "What's the most durable option for ceramic flooring?"
     a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most ceramic flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to DIY ceramic tile installation?"
+    a: "A wet tile saw (rent for $50–$70/day), notched trowel sized to match your tile per manufacturer specs, tile spacers, 4-foot level, grout float, sponges, and knee pads. For a 60-square-foot bathroom, expect to rent the wet saw for 2 days to leave time for layout and cuts."
+  - q: "What's the most common mistake in ceramic tile installation?"
+    a: "Insufficient thinset coverage under the tile. Code requires 80% contact in dry areas and 95% in wet areas — spot-bonding with dabs in the corners is faster but tiles crack and pop off within a few years. Back-butter large tiles in addition to troweling the substrate to achieve proper coverage."
 draft: true
 ---
 

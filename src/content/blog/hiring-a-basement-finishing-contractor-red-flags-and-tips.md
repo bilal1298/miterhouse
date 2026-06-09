@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a basement being finished wit
 faq:
   - q: "Do I need a permit to finish this space?"
     a: "Almost certainly yes. Finishing a basement or attic into livable space requires permits for framing, electrical, plumbing, and egress. Skipping permits creates problems at resale."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a motivated DIYer finish their own basement?"
+    a: "The framing, insulation, drywall, and flooring are within reach for confident DIYers. Electrical and plumbing work requires licensed professionals in most jurisdictions. The biggest risk is skipping moisture testing first — finishing over a wet basement guarantees mold problems within a year."
+  - q: "What's the most common basement finishing contractor red flag?"
+    a: "Pressuring you to skip permits. This saves the contractor time and money, not you. Unpermitted basement finishing means no inspections to catch dangerous errors, problems at resale, and potential insurance issues. A contractor who won't pull permits isn't protecting your interests."
 draft: true
 ---
 

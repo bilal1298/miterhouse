@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Snake Repairs: A Homeowner's Guide"
-description: "A straightforward guide to plumbing snake repair: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "A $25–$40 hand drum auger handles most household clogs that plungers can't clear, saving $150–$350 per service call. Here's how to use one correctly and when it won't work."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-25
 hero_image: /images/posts/plumbing-snake-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
+  - q: "How do I find a reliable plumber when the snake isn't enough?"
+    a: "Ask neighbors who have had similar work done — plumbers who show up on time and price fairly get referrals. For anything involving the main sewer line, look for a plumber who offers camera inspection ($150–$300) before quoting repair work; one who quotes excavation without inspecting first is guessing at your expense."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most plumbing snake repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "A 25-foot hand drum auger ($25–$50) with a 1/4-inch cable handles sink, tub, and shower clogs. Buy a separate toilet auger ($15–$30) with a rubber boot for toilets — never use a drain snake in a toilet bowl, it will scratch the porcelain. Wear heavy work gloves when operating any cable snake."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "Snaking a sink takes 15–30 minutes including P-trap removal and reassembly. A toilet clog usually clears in 5–10 minutes with a closet auger. Main line work through a cleanout takes 30–60 minutes and requires a power snake rather than a hand crank. If you are snaking the same drain more than twice a year, the clog is a symptom of a bigger problem."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hiring a Remodel Kitchen Contractor: Red Flags and Tips"
-description: "Considering contractor to remodel kitchen? Here are the actual numbers, common pitfalls, and what most guides leave out."
+description: "How to vet a kitchen remodel contractor, structure payments to protect yourself, and spot the red flags that predict delays, overcharges, and poor workmanship."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-06-08
 hero_image: /images/posts/contractor-to-remodel-kitchen-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is hiring a contractor to remodel a kitchen worth the investment?"
-    a: "Most homeowners recoup 60-70% of contractor to remodel kitchen costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "If hiring a contractor, they supply all tools. Your job is to have a clear contract, material selections finalized, and a realistic budget with contingency."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How much should I pay a kitchen contractor upfront?"
+    a: "No more than 10% at contract signing. Progress payments should be tied to completed milestones — rough-in, cabinets, countertops — not calendar dates. Hold 15% until the punch list is fully complete."
+  - q: "How long does a kitchen remodel take with a contractor?"
+    a: "A mid-range remodel runs 8–12 weeks. Add 2–4 weeks for custom cabinets and at least 1–2 weeks for the inevitable material backorder or scheduling conflict with subcontractors."
+  - q: "What's the biggest red flag when hiring a kitchen contractor?"
+    a: "Asking for 30–50% upfront or providing a vague single-line quote. Both signal either poor financial management or an intent to cut corners on materials and scope."
 draft: false
 ---
 

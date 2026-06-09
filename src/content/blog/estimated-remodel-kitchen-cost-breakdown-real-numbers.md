@@ -12,12 +12,12 @@ date: 2026-11-03
 hero_image: /images/posts/estimated-remodel-kitchen-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How much does estimated cost to remodel kitchen cost on average?"
-    a: "A mid-range estimated cost to remodel kitchen project typically runs $5,000–$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most estimated cost to remodel kitchen projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What does a kitchen remodel cost on average in 2026?"
+    a: "The national average for a mid-range kitchen remodel is $35,000–$40,000, but the range is enormous. A cosmetic refresh keeping the existing layout runs $5,000–$15,000; a gut renovation with custom cabinets and layout changes can exceed $100,000. Cabinets alone typically consume 30–35% of the budget."
+  - q: "What's the single biggest way to save money on a kitchen remodel?"
+    a: "Keep the existing layout. Moving the sink requires $1,000–$3,000 in plumbing relocation. Moving the range means gas line rerouting. Every fixture you move adds labor and material costs — and those costs compound quickly in a small space."
+  - q: "What's the most common kitchen remodel planning mistake?"
+    a: "Not accounting for cabinet lead times. Stock cabinets ship in 1–2 weeks, but semi-custom takes 4–8 weeks and custom takes 8–16 weeks. If you order late, your countertop fabricator is stuck waiting — and the whole project timeline shifts by weeks."
 draft: true
 ---
 

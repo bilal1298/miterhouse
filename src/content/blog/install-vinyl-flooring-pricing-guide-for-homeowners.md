@@ -1,6 +1,6 @@
 ---
 title: "Install Vinyl Flooring Pricing Guide for Homeowners"
-description: "From subfloor prep to final trim — a practical guide to install vinyl flooring cost with real costs and pro tips. Practical tips from real projects."
+description: "Vinyl flooring costs $2–$10/sq ft installed — but the real variable is material type. Here's what each vinyl category actually costs and where pros charge more."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -16,9 +16,9 @@ faq:
   - q: "Can I install vinyl flooring over existing flooring?"
     a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most vinyl flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "For click-lock LVP — the most common DIY-friendly vinyl — you need a sharp utility knife, metal straightedge, tapping block, pull bar, 1/4-inch spacers, and a rubber mallet. An oscillating tool helps undercut door casings. No saw required for most straight cuts."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "A 200-square-foot room takes most first-timers 5 to 7 hours including prep. The first room is always slowest due to the learning curve on straight layout and door-frame cuts. By the second room, you'll work significantly faster."
 draft: true
 ---
 

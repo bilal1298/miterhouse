@@ -1,6 +1,6 @@
 ---
 title: "Hardwood Flooring Repair Cost Breakdown: Real Numbers"
-description: "Thinking about hardwood flooring repair cost? Here's what it costs, how long it takes, and whether you should DIY it. Practical tips from real projects."
+description: "Hardwood floor repairs range from $15 DIY scratch fixes to $5,000+ for professional refinishing. What each repair type costs and when replacement wins."
 author: daniel-ware
 category: flooring-tile
 tags:

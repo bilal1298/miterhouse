@@ -1,6 +1,6 @@
 ---
 title: "How to Shut Off Water Heater (Without Wrecking Anything)"
-description: "Know what you're getting into with how to shut off water heater. Costs, code requirements, and the honest DIY difficulty level."
+description: "Shutting off your water heater correctly takes under 5 minutes — but the order of operations matters. Gas and electric units have different shutdown sequences that protect against damage."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-07-01
 hero_image: /images/posts/how-to-shut-off-water-heater-without-wrecking-anything.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
+  - q: "When should I call a plumber instead of handling this myself?"
+    a: "Call a plumber if the cold water shutoff valve is stuck and won't close — forcing a corroded valve can break it and flood the area. Also call if the pilot won't relight after three attempts, if you smell gas, or if the leak is coming from the tank body itself, which means the unit needs full replacement."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "Shutting off a water heater is a basic homeowner skill anyone can learn in five minutes. The key is doing it in the right sequence — for gas units, turn off the thermostat or gas control before shutting off the water supply. For electric units, cut the breaker before draining to prevent running elements dry."
+  - q: "How long does the whole shutdown take?"
+    a: "The shutdown itself takes under 5 minutes once you know where your controls are. Restarting takes longer: electric heaters need to fill completely before turning on the breaker, and gas heaters require relighting the pilot — allow 15 to 30 minutes for a full restart."
 draft: true
 ---
 

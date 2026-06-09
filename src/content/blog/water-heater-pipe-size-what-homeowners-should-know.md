@@ -1,6 +1,6 @@
 ---
 title: "Water Heater Pipe Size: What Homeowners Should Know"
-description: "Know what you're getting into with water heater pipe size. Costs, code requirements, and the honest DIY difficulty level."
+description: "Most homes use 3/4-inch water heater pipes correctly. Tankless conversions, long runs, and old galvanized lines are three cases where sizing matters."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner working under a k
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro - it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first - rushing the setup phase causes most DIY failures."
+  - q: "Can I replace the water heater pipe connections myself?"
+    a: "Yes — the connections on top of the water heater are the most accessible plumbing joints in the house. If you are comfortable soldering copper or crimping PEX, replacing the first 3 feet of supply connections is a manageable DIY job at $30–$60 in materials. Gas pipe sizing is a different story — never attempt gas line work without a licensed plumber."
+  - q: "What's the most common pipe sizing mistake when replacing a water heater?"
+    a: "Converting to a tankless water heater without upsizing the gas supply line. Most tankless units demand 150,000–200,000 BTU/h, but existing gas lines are often sized for a 40,000–50,000 BTU/h tank unit. The new heater will fire, but it will short-cycle and underperform until the gas line is properly upsized."
 draft: true
 ---
 

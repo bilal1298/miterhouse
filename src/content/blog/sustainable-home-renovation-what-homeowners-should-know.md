@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Home Renovation: What Homeowners Should Know"
-description: "Considering sustainable home renovation? Here are the actual numbers, common pitfalls, and what most guides leave out. Practical tips from real projects."
+description: "Air sealing and insulation pay back in 1–3 years. Heat pumps cut bills 25–40%. Here's the priority order for sustainable renovation that actually delivers ROI."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshl
 faq:
   - q: "How much does sustainable home renovation cost on average?"
     a: "A mid-range sustainable home renovation project typically runs $5,000-$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner tackle sustainable home renovation upgrades?"
+    a: "LED lighting, smart thermostat installation, and adding insulation to an accessible attic are all beginner-friendly. Heat pump HVAC and heat pump water heaters should be installed by a licensed contractor — the efficiency gains are real but the equipment requires proper sizing and code-compliant venting."
+  - q: "What's the most common mistake in sustainable renovation?"
+    a: "Installing solar panels before reducing demand. A home spending 1,200 kWh/month needs a much bigger, more expensive array than one that uses 600 kWh after air sealing and HVAC upgrades. Reduce first, then size solar to the efficient home."
 draft: true
 ---
 

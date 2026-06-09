@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of color-coded material samples 
 faq:
   - q: "What's the biggest hidden cost in this project?"
     a: "Permit fees, unexpected structural issues, and temporary living adjustments often surprise homeowners. Budget 10–20% above your estimate for contingencies."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner tackle finish selection themselves?"
+    a: "Selecting finishes is more about research and samples than trade skills — anyone can do it. Getting a proper finish paint job or tile installation is harder. Paint is the most forgiving DIY finish; tile and countertop work benefit from professional installation."
+  - q: "What's the most common finish selection mistake?"
+    a: "Choosing trendy over timeless, especially for flooring and countertops. Zellige tile and ultra-glossy black hardware look striking in photos but can feel dated within five years. Neutral floors, quartz or granite countertops, and consistent metal tones hold value far longer."
 draft: true
 ---
 

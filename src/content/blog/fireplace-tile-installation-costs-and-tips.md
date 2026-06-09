@@ -1,6 +1,6 @@
 ---
 title: "Fireplace Tile Installation: Costs and Tips"
-description: "From subfloor prep to final trim — a practical guide to fireplace tile installation with real costs and pro tips. Practical tips from real projects."
+description: "Fireplace tile costs $800–$3,500 for a standard surround. Which tiles handle heat, what substrate prep is required, and the real DIY pitfalls."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -12,12 +12,12 @@ date: 2026-08-04
 hero_image: /images/posts/fireplace-tile-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the most durable option for fireplace tile installation?"
-    a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most fireplace tile installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What's the most durable tile for a fireplace surround?"
+    a: "Porcelain is the best all-around choice — it's denser and more heat-resistant than ceramic, handles temperature fluctuations well, and absorbs nearly no moisture. Natural stone looks premium but requires sealing and careful selection; avoid glass tile near active heat."
+  - q: "What tools do I need to tile a fireplace surround?"
+    a: "A wet tile saw with a diamond blade, a 1/4-inch notched trowel, tile spacers, a rubber grout float, and a level. For curved or hearth cuts, a jigsaw with a tile blade helps. Total tool investment runs $100–$200 if starting from scratch."
+  - q: "What's the most common fireplace tile mistake?"
+    a: "Using standard mastic adhesive instead of heat-rated thinset mortar. Mastic fails when the surround gets warm, causing tiles to detach months after installation. Always use a thinset rated for high-temperature applications near a fireplace."
 draft: true
 ---
 

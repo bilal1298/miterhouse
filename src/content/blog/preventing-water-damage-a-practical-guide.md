@@ -1,6 +1,6 @@
 ---
 title: "Preventing Water Damage: A Practical Guide"
-description: "A straightforward guide to preventing water damage: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Spend $300–$500 a year on targeted prevention and avoid the average $12,000–$15,000 water damage claim. This guide covers what actually works."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/preventing-water-damage-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner assessing water damage in a basement with a moisture meter pressed against a damp wall, dehumidifier running, and water stains visible on the lower portion of the drywall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
+    a: "Replacing washing machine hoses, testing shutoff valves, and cleaning gutters are straightforward DIY tasks. A whole-house water monitor like Flo by Moen ($200–$500) that auto-shuts the main is also DIY-installable. Call a plumber for a seized shutoff valve, failed PRV, or any active leak behind a wall."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "The monthly 10-minute walkthrough and quarterly sump pump test described in this article require zero special skills — just knowing where to look. Replacing rubber washing machine hoses with braided steel takes 15 minutes and $20 in parts, and is a good first plumbing task for beginners."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Failing to test shutoff valves annually is the biggest one. A valve that has not been operated in years often seizes open, which means you cannot stop water flow during an emergency. Test each valve by turning it off and confirming water stops — the 5 minutes you spend now is the difference between a wet floor and a destroyed ceiling."
 draft: true
 ---
 

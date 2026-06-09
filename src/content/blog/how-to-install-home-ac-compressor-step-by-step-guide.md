@@ -1,6 +1,6 @@
 ---
 title: "How to Install Home Ac Compressor: Step-by-Step Guide"
-description: "Honest picks for how to install home ac compressor — what's worth the money and what's marketing hype. Tested in real projects."
+description: "AC compressor replacement costs $1,800–$4,500 and requires EPA 608 certification. What the job involves, when repair beats replacement, and vet contractor tips."
 author: daniel-ware
 category: tools-materials
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a well-organized garage works
 faq:
   - q: "Is it worth buying premium tools?"
     a: "For tools you'll use often (drill, circular saw), buy mid-range or better. For specialty tools you'll use once or twice, rent or buy budget versions."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most AC compressor projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What can a homeowner do before the HVAC tech arrives for a compressor diagnosis?"
+    a: "Clean the condenser coils with a garden hose, check that the disconnect box hasn't been turned off, and replace the air filter. Dirty coils and restricted airflow cause symptoms identical to compressor failure but cost $0 to fix. Ruling these out first means you won't pay a diagnostic fee to hear what you could have checked yourself."
+  - q: "How long does an AC compressor replacement take?"
+    a: "Most compressor replacements take 4–8 hours of technician time spread across one day. Add 30–60 minutes for refrigerant recovery at the start and another 30–60 minutes for system evacuation before the recharge. You'll likely be without AC for a full day."
 draft: true
 ---
 Replacing a home AC compressor is one of the few HVAC jobs where the honest answer is: hire a licensed professional. The compressor handles refrigerant under high pressure, requires EPA 608 certification to legally handle, and a botched install can destroy a $1,500–$4,000 unit in minutes. That said, understanding the process helps you vet contractors, avoid overcharges, and know when a repair makes more sense than a full replacement.

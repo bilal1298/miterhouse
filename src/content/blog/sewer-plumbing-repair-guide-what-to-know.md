@@ -1,6 +1,6 @@
 ---
 title: "Sewer Plumbing Repair Guide: What to Know"
-description: "Know what you're getting into with sewer plumbing repair. Costs, code requirements, and the honest DIY difficulty level."
+description: "Sewer repair ranges from a $200 drain cleaning to a $15,000 full line replacement. A $150–$300 camera inspection tells you exactly which you're facing before anyone starts digging."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-06-19
 hero_image: /images/posts/sewer-plumbing-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most sewer plumbing repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I find a reliable plumber for sewer repair?"
+    a: "Ask each company if they offer camera inspection before quoting repair work — plumbers who refuse to inspect first are guessing at your expense. Get at least three quotes and share the camera video with each so they are all quoting on the same information. Ask specifically whether pipe lining or pipe bursting is an option; not all companies offer trenchless methods, and some default to excavation because that's what they do."
+  - q: "What does a sewer repair actually involve on my property?"
+    a: "Everything from your foundation to the street connection is your responsibility. Tree root intrusion and bellied pipe are the two most common causes in residential sewer lines. Root cutting costs $200–$600 but needs repeating every 1–3 years; pipe lining at $4,000–$8,000 permanently seals the issue. Bellied pipe always requires excavation — lining cannot fix a grading problem."
+  - q: "How long does sewer line repair take?"
+    a: "Hydro-jetting and camera inspection are same-day jobs. Pipe lining typically takes 1–2 days once the contractor is on site. Traditional excavation and pipe replacement runs 1–3 days for the repair itself, plus additional time for landscaping restoration, driveway or sidewalk repairs, and final inspection before the trench can be backfilled."
 draft: true
 ---
 

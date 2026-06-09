@@ -1,6 +1,6 @@
 ---
 title: "Concrete Countertop Installation Cost Breakdown: Real Numbers"
-description: "Real costs, realistic timelines, and practical steps for concrete countertop installation cost. Written by a homeowner who's been through it."
+description: "Concrete countertops cost $65–$135 per sq ft installed. Fully custom in any shape, color, or embedded material — but they need resealing every 1–3 years."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -13,12 +13,12 @@ date: 2026-11-19
 hero_image: /images/posts/concrete-countertop-installation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How much does concrete countertop installation cost cost on average?"
-    a: "A mid-range concrete countertop installation cost project typically runs $5,000–$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most concrete countertop installation cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "How much does concrete countertop installation cost on average?"
+    a: "Professional concrete countertop installation runs $65–$135 per square foot, putting a typical 40-square-foot kitchen at $2,600–$5,400. DIY drops that to $8–$15/sq ft in materials. The labor-intensive one-off fabrication is why concrete costs more per square foot than granite despite concrete mix being cheap."
+  - q: "Is a DIY concrete countertop realistic for a homeowner?"
+    a: "Yes, but it's a 3–5 day commitment for a kitchen's worth of counters plus a week of cure time. The materials are accessible, but getting the finish right — especially a polished finish without air bubbles or cracks — takes practice. Your first pour will likely have some character marks, which can be part of the appeal."
+  - q: "What's the biggest maintenance commitment with concrete countertops?"
+    a: "Resealing every 1–3 years and wiping spills promptly. Concrete stains from wine, coffee, and citrus if the sealer is worn. It can also develop hairline cracks near sink cutouts over time — these are cosmetic, not structural, but they're part of owning concrete rather than quartz."
 draft: true
 ---
 

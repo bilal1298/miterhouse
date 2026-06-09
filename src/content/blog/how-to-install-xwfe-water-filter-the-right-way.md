@@ -1,6 +1,6 @@
 ---
 title: "How to Install Xwfe Water Filter the Right Way"
-description: "A straightforward guide to how to install xwfe water filter: what you can handle yourself and when to pick up the phone."
+description: "Installing a GE XWFE water filter takes five minutes once you know the RFID chip trick. Here's the exact process and how to fix the most common problems."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner reading a how-to 
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most how to install xwfe water filter projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to install an XWFE filter?"
+    a: "None — this is a completely tool-free installation. You need the new filter, a towel for the small water drip when removing the old one, and a container to catch the first couple cups you flush through. The whole job is turning the filter and pressing a reset button."
+  - q: "Why does my fridge not recognize the new XWFE filter?"
+    a: "Almost always the RFID chip — either the aftermarket filter doesn't include one, or the chip isn't seated flat against the filter cap. Try removing the filter, pressing the chip firmly into place, and reinstalling. If your replacement lacks a chip entirely, you can carefully peel the chip from the old filter and transfer it to the new one."
 draft: true
 ---
 

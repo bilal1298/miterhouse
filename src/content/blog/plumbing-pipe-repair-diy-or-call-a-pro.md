@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Pipe Repair: DIY or Call a Pro?"
-description: "Should you DIY plumbing repair pipe or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "Plumbers charge $150–$350 per hour, but many common pipe fixes take 10 minutes and cost $2 in parts. Here's how to diagnose the problem and decide which side of that line you're on."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-06-16
 hero_image: /images/posts/plumbing-pipe-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most plumbing repair pipe projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I find a reliable plumber when I actually need one?"
+    a: "Build your contact list before an emergency. Ask neighbors, and ask at a local independent hardware store — not a big-box store, but the independent who knows the local trades. Get at least three written quotes for any job over $300, verify the license number with your state licensing board, and confirm they carry general liability insurance before any work starts."
+  - q: "What tools do I need for basic pipe repairs?"
+    a: "An adjustable wrench (10-inch), channel-lock pliers, a pipe wrench for stubborn threaded connections, Teflon tape, a hacksaw or tubing cutter, a flange plunger, and a 25-foot hand drain snake cover about 90% of DIY pipe work. For temporary pinhole fixes, keep an epoxy pipe repair kit and a pipe repair clamp on hand — both under $20 and invaluable in an emergency."
+  - q: "When does the cost math favor hiring a plumber over DIY?"
+    a: "When the pipe is behind a finished wall, under a slab, or on the main water or sewer line. For those situations, the professional's tools, speed, and insurance protection make them the better value even on tasks that look simple — the cost of water damage from a failed DIY repair far exceeds any typical plumber bill."
 draft: true
 ---
 

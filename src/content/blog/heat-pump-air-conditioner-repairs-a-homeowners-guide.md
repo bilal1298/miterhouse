@@ -11,12 +11,12 @@ date: 2026-07-25
 hero_image: /images/posts/heat-pump-air-conditioner-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of an HVAC technician servicing a home system with the furnace panel open, a multimeter checking connections, refrigerant gauges visible, and the homeowner watching from the doorway. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most heat pump air conditioner repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "When should I repair a heat pump vs. replace it?"
+    a: "The general rule: if a repair costs more than half the price of a new system and the unit is over 10 years old, replacement is usually the better investment. Current replacement costs run $4,500 to $9,000 for a standard system, with federal tax credits and utility rebates potentially reducing the effective cost by $2,000 to $8,000."
+  - q: "What heat pump maintenance can a homeowner do themselves?"
+    a: "Replacing the air filter monthly, keeping the outdoor unit clear of debris, pouring a cup of white vinegar into the condensate drain every few months, and cleaning the condenser fins with a garden hose. These simple habits prevent the majority of service calls."
+  - q: "How long does a heat pump repair typically take?"
+    a: "Most diagnostic and repair visits take 1–3 hours. Refrigerant leak repair takes longer because the system must be evacuated, pressure-tested, repaired, and recharged. A refrigerant recharge alone typically takes 2–4 hours and requires a licensed HVAC technician."
 draft: true
 ---
 

@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshl
 faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a beginner paint a bedroom themselves?"
+    a: "A bedroom is one of the most manageable first painting projects — simple geometry, limited square footage, no moisture complications. The technique that makes or breaks the result is cutting-in clean lines where wall meets trim. Practice on a closet wall first, and use a loaded 2.5-inch angled brush held at 45 degrees with one smooth stroke."
+  - q: "How long does painting a bedroom take?"
+    a: "Start early on Saturday — you can get the first coat done by lunch, let it dry through the afternoon, and apply the second coat by late afternoon. Sleep in a different room that night, and the bedroom is usable by Sunday morning. Total hands-on time for an average 12x14 room: 6 to 8 hours spread across the day including prep, two coats, and cleanup."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Roof Tile Inspection: Honest Advice for Your Home"
-description: "Thinking about roof tile inspection? Here's what it costs, how long it takes, and whether you should DIY it. Practical tips from real projects."
+description: "A professional roof tile inspection costs $150–$500 and catches problems before they become leaks. Here's what inspectors actually check, common findings, and how to evaluate your roof from the ground."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-28
 hero_image: /images/posts/roof-tile-inspection-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the most durable option for roof tile inspection?"
-    a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What's the most common problem found during a tile roof inspection?"
+    a: "Failed or deteriorating underlayment is the most consequential finding, especially on roofs over 20–25 years old. The tiles themselves rarely wear out — the waterproof underlayment beneath them does. Replacing underlayment requires stripping and resetting every tile, costing $1,500–$5,000, but catching it before interior water damage occurs is dramatically cheaper than the alternative."
+  - q: "Can I safely inspect my own tile roof?"
+    a: "You can do a meaningful ground-level inspection with binoculars — look for cracked, displaced, or missing tiles, and check gutters for tile fragments and mortar debris. Check the attic after rain for water stains or daylight. Do not walk on a tile roof without knowing exactly where to step; stepping in the wrong spot breaks tiles, and professionals use foam-padded shoes or walk boards for this reason."
+  - q: "How often should I schedule professional tile roof inspections?"
+    a: "Every 5 years for roofs under 10 years old, every 2–3 years for roofs aged 10–25 years, and annually once the roof is over 25 years old. Always schedule an inspection after a major storm regardless of roof age — hail and high wind displace tiles and crack ridge mortar in ways that are not visible from the ground."
 draft: true
 ---
 

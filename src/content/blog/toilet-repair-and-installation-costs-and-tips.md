@@ -12,12 +12,12 @@ date: 2026-11-04
 hero_image: /images/posts/toilet-repair-and-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner measuring cabinet dimensions in a kitchen with a tape measure and notepad, new cabinet samples on the counter, morning light through a window above the sink. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How much does toilet repair and installation cost on average?"
-    a: "A mid-range toilet repair and installation project typically runs $5,000–$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most toilet repair and installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "How much does toilet repair and installation actually cost?"
+    a: "A flapper replacement costs $5–$15 in parts and 5 minutes of your time. A full toilet replacement runs $250–$800 for a standard model including installation. The wide range you see online comes from lumping a $10 flapper repair with a $1,500 wall-hung unit — most homeowners fall in the $250–$500 range."
+  - q: "What tools do I need to install a toilet?"
+    a: "An adjustable wrench, putty knife, level, new wax ring or wax-free gasket, braided stainless supply line, and toilet shims. A full two-piece toilet weighs 50–80 pounds, so have a second person for the lift. One-piece units run 80–120 pounds."
+  - q: "What's the most common toilet installation mistake?"
+    a: "Not measuring the rough-in before buying the toilet. The standard is 12 inches from the wall to the drain center, but older homes sometimes have 10-inch or 14-inch rough-ins. A 12-inch toilet on a 10-inch rough-in won't fit the space — measure first, then shop."
 draft: true
 ---
 

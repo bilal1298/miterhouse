@@ -1,6 +1,6 @@
 ---
 title: "Underpinning Foundation Repairs: A Homeowner's Guide"
-description: "Considering underpinning foundation repair? Here's what it actually takes -- costs, permits, and the decisions that matter most."
+description: "Foundation underpinning costs $1,000–$3,000 per pier. Always hire a structural engineer first — they work for you, not the repair company."
 author: daniel-ware
 category: basement-attic
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a partially finished basement
 faq:
   - q: "What about moisture problems?"
     a: "Address any moisture issues before finishing. This means proper exterior grading, waterproofing, a sump pump if needed, and a good dehumidifier. Finishing over a wet problem guarantees mold."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most underpinning foundation repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can I do foundation underpinning as a DIY project?"
+    a: "No — this is one of the few home repairs where DIY is simply not an option. Push pier and helical pier installation requires hydraulic equipment and torque monitoring that is not rentable, and most jurisdictions require a licensed contractor with engineered plans. The structural risk of incorrect work is catastrophic and irreversible."
+  - q: "How long does a foundation underpinning project take from start to finish?"
+    a: "Most residential projects run 4–5 weeks total: 1–2 weeks for engineering and permits, 1 week for site prep and excavation, 1 week for pier installation and load transfer, then 1 week for backfill and site restoration. Wait 30–60 days after completion before patching interior drywall cracks."
 draft: true
 ---
 

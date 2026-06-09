@@ -16,9 +16,9 @@ faq:
   - q: "Do I need a permit to finish this space?"
     a: "Almost certainly yes. Finishing a basement or attic into livable space requires permits for framing, electrical, plumbing, and egress. Skipping permits creates problems at resale."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most insulation installation cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "Blown-in cellulose and fiberglass require a blowing machine — rental is available for free or low cost at some home centers when you buy insulation bags from them. Batt insulation needs only a utility knife, straightedge, stapler, and protective gear including an N95 respirator, safety glasses, and gloves."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Insulating before air sealing is the number-one efficiency mistake. Air leaks around recessed lights, top plates, and penetrations let conditioned air escape regardless of R-value. Air sealing bundled with insulation maximizes energy savings — and many contractors offer discounted rates when both are done together."
 draft: true
 ---
 

@@ -11,12 +11,12 @@ date: 2026-09-12
 hero_image: /images/posts/concrete-pier-foundation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Do I need a permit to finish this space?"
-    a: "Almost certainly yes. Finishing a basement or attic into livable space requires permits for framing, electrical, plumbing, and egress. Skipping permits creates problems at resale."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "When does a pier foundation make more sense than a slab?"
+    a: "Pier foundations win on difficult sites — slopes, expansive clay soils, fill dirt, or high water tables where a slab would crack or settle. In flat, stable soil, a simple slab or stem wall costs less per square foot ($5–$9 vs. $15–$40 for piers). Get a geotechnical report before committing to any foundation type."
+  - q: "Can a homeowner DIY concrete deck piers?"
+    a: "Yes, for shallow Sonotube piers under a deck — if your frost line is 4 feet or less, soil is not clay or rock, and the building department allows owner-built. Materials run $30–$80 per pier. Deeper piers, full house foundations, and any repair work on existing foundations are strictly professional jobs."
+  - q: "What most commonly goes wrong with DIY pier installation?"
+    a: "Two things: hitting water in the hole before you can pour (the hole floods), and the Sonotube floating up during the pour because it wasn't properly braced. Set temporary stakes alongside the tube and brace it firmly before you start pouring. Also allow a full 7-day minimum cure before loading."
 draft: true
 ---
 

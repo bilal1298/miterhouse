@@ -1,6 +1,6 @@
 ---
 title: "Concrete Foundation Installation Guide: DIY or Hire Out?"
-description: "Turn unused space into livable rooms. A real-world guide to concrete foundation installation with honest costs and timelines."
+description: "Concrete foundation costs $5–$40 per sq ft depending on type. Soil prep and compaction determine whether a slab lasts — or cracks within years."
 author: daniel-ware
 category: basement-attic
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-11
 hero_image: /images/posts/concrete-foundation-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Do I need a permit to finish this space?"
-    a: "Almost certainly yes. Finishing a basement or attic into livable space requires permits for framing, electrical, plumbing, and egress. Skipping permits creates problems at resale."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most concrete foundation installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Do I need a permit for concrete foundation work?"
+    a: "Yes, almost always. Any foundation supporting a habitable structure requires permits and an engineered design. For deck footings, many jurisdictions have prescriptive requirements that don't require individual engineering — but check with your building department before assuming. Unpermitted foundation work creates serious resale complications."
+  - q: "Can a homeowner pour their own concrete foundation?"
+    a: "Only for small projects: shed slabs under 200 sq ft, patio pads, and deck piers in non-clay soil above the frost line. A full house foundation, stem walls, or anything requiring engineered soil reports is strictly professional territory. The savings from DIY on a small slab are real — roughly 40–50% — but foundation errors are permanent and expensive to fix."
+  - q: "What's the most common foundation failure cause?"
+    a: "Inadequate soil compaction under the slab. Rushing through backfill in lifts larger than 6–8 inches, or skipping the plate compactor, allows settlement that causes cracking and structural movement years later. Concrete doesn't fail because the concrete is bad — it fails because what's underneath moves."
 draft: true
 ---
 

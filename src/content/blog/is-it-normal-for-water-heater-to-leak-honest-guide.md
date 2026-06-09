@@ -1,6 +1,6 @@
 ---
 title: "Is It Normal for Water Heater to Leak: Honest Guide"
-description: "Know what you're getting into with is it normal for water heater to leak. Costs, code requirements, and the honest DIY difficulty level."
+description: "Not all water around a heater means it's failing. A 10-minute inspection with a flashlight and dry towels distinguishes harmless condensation from the leaks that demand immediate action."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner working under a k
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner diagnose and fix a water heater leak?"
+    a: "Many water heater leaks — inlet/outlet connections, drain valve weeping, TPR valve issues — are manageable DIY fixes costing $0 to $30. The systematic check is simple: dry the tank completely, place dry paper towels at each potential leak point, wait 15 minutes, and trace any moisture upward to its source. The one exception is a leaking tank body, which requires replacement, not repair."
+  - q: "When does a water heater leak become an emergency?"
+    a: "Act immediately if water is leaking from the tank body itself, if the TPR valve is discharging continuously (indicating dangerous pressure or temperature), or if water is near electrical connections. Fitting drips and a weeping drain valve can wait a day or two — cap the drain valve with a brass hose cap and schedule a convenient repair."
 draft: true
 ---
 

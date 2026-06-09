@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshl
 faq:
   - q: "Do I need to prime before painting?"
     a: "Yes, if you're covering dark colors, stains, or new drywall. For repaints in similar colors on clean, intact surfaces, a quality paint-and-primer combo usually works fine."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner DIY ceiling painting?"
+    a: "Yes for standard 8–9 foot flat ceilings in good condition. Roll in one direction, maintain a wet edge, and work perpendicular to the primary light source. A first-timer should budget 4–5 hours per room versus 2–3 hours for someone experienced. The biggest pitfall is letting sections dry before blending — that creates visible lap marks."
+  - q: "What's the most common ceiling painting mistake to avoid?"
+    a: "Skipping stain-blocking primer over water stains or bare patches. Regular paint won't cover water stains — they bleed through. Use a shellac-based product like Zinsser BIN directly over any stain before applying ceiling paint, or the brown ring will reappear within weeks."
 draft: true
 ---
 

@@ -13,7 +13,7 @@ hero_image: /images/posts/installing-replacement-window-companies-what-to-know-f
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "What's the best time of year for window installation?"
-    a: "Spring and fall offer the best weather for window installation. Sealants cure properly in moderate temperatures, and your home stays comfortable during the brief time each opening is exposed. Many companies offer winter discounts of 10-15%."
+    a: "Schedule for moderate temperatures — sealants cure best between 40–80°F, and your home stays comfortable while each opening is briefly exposed. Winter bookings often come with 10–15% discounts since it's the slow season for most installers."
   - q: "How do replacement window installation companies handle permits?"
     a: "Most companies handle permit applications as part of their service when permits are required. Same-size replacement windows rarely need permits, but changing opening sizes or adding new windows typically does. Ask about this during the quoting process."
   - q: "How long does a full house window replacement take?"

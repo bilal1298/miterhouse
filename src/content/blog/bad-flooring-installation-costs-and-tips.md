@@ -1,6 +1,6 @@
 ---
 title: "Bad Flooring Installation: Costs and Tips"
-description: "From subfloor prep to final trim — a practical guide to bad flooring installation with real costs and pro tips. Practical tips from real projects."
+description: "A bad flooring installation costs $1,500–$8,000 to fix. Learn to spot hollow tiles, buckling laminate, and failed thinset before they get worse."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a professional installing flo
 faq:
   - q: "Can I install new flooring over a bad installation?"
     a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most bad flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I need to fix bad flooring?"
+    a: "For laminate and LVP repairs: a pull bar, tapping block, and utility knife. For tile repairs: a grout saw, cold chisel, and notched trowel. Subfloor prep may require a belt sander or floor grinder to level high spots before any new flooring goes down."
+  - q: "How long does a flooring tear-out and reinstall take?"
+    a: "A 200-square-foot laminate or LVP redo typically takes one weekend — demo on day one, reinstallation on day two. Tile is slower: demo, subfloor prep, setting, and grouting spread over 5–7 days including cure times between each stage."
 draft: true
 ---
 

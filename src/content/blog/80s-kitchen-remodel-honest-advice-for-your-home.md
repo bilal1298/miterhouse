@@ -1,6 +1,6 @@
 ---
 title: "80s Kitchen Remodel: Honest Advice for Your Home"
-description: "Considering 80s kitchen remodel? Here are the actual numbers, common pitfalls, and what most guides leave out. Practical tips from real projects."
+description: "Remodeling a 1980s kitchen costs $8,000–$80,000. Particle board cabinets, polybutylene pipes, and potential asbestos tiles make these remodels uniquely different."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-07
 hero_image: /images/posts/80s-kitchen-remodel-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is 80s kitchen remodel worth the investment?"
-    a: "Most homeowners recoup 60-70% of 80s kitchen remodel costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most 80s kitchen remodel projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is remodeling a 1980s kitchen worth the investment?"
+    a: "A cosmetic refresh ($6,000–$15,000) delivers roughly 75% of the visual impact of a full gut at a fraction of the cost. Full gut remodels recoup 60–70% at resale. Start with the phase-1 cosmetic update and reassess before committing to cabinet replacement."
+  - q: "Do 1980s kitchens have hazardous materials I need to worry about?"
+    a: "Homes built in 1980–1983 may have asbestos in 9x9-inch floor tiles. Test before removal — professional abatement costs $1,500 to $4,000. Check for polybutylene supply lines (gray plastic pipe) and replace them during the remodel if present."
+  - q: "How long does an 80s kitchen remodel take?"
+    a: "A cosmetic refresh takes 2–4 weeks for a professional crew. A mid-range remodel with new cabinets runs 4–8 weeks. A full gut with layout changes can stretch to 10–16 weeks, especially if you need electrical upgrades or a structural engineer for a load-bearing wall."
 draft: true
 ---
 

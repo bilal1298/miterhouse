@@ -1,6 +1,6 @@
 ---
 title: "Finding Good Deck Building Contractors Near You"
-description: "Everything you need for deck building service: materials, costs, permits, and lessons from actual backyard projects. Practical tips from real projects."
+description: "Good deck contractors charge $15–$35 per square foot for labor and are booked weeks out. How to find the real pros and spot the red flags early."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -11,12 +11,12 @@ date: 2026-10-30
 hero_image: /images/posts/finding-good-deck-building-contractors-near-you.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most deck building service projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What's the best time of year to hire a deck contractor?"
+    a: "Late fall through early winter is ideal — crews have more availability, and you may find better pricing as contractors look to fill their schedules. Spring and summer are peak season, meaning 4–8 week waits for quality builders and little room to negotiate on price."
+  - q: "What question reveals whether a deck contractor really knows their craft?"
+    a: "Ask how they handle the ledger board connection. A knowledgeable contractor immediately mentions lag screws or through-bolts, proper flashing, and removing siding at the attachment point. Vague answers about just nailing it to the house are a red flag — the ledger is the most structurally critical joint on an attached deck."
+  - q: "How long does it take a professional to build a deck?"
+    a: "A standard 16x20-foot deck takes most professional crews 3–7 business days depending on complexity, materials, and inspection timing. Composite decking takes slightly longer than pressure-treated due to different fastening systems. Built-ins like benches and pergolas add 1–3 more days."
 draft: true
 ---
 

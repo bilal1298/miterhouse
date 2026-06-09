@@ -1,6 +1,6 @@
 ---
 title: "24 Hour Water Heater Repair: DIY or Call a Pro?"
-description: "Should you DIY 24 hour water heater repair or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "A leaking tank, a dead pilot light, or no hot water at 2 AM — here's which water heater repairs you can handle yourself and when to call a plumber."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,12 +12,12 @@ date: 2026-06-07
 hero_image: /images/posts/24-hour-water-heater-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most 24 hour water heater repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can I replace a water heater element myself?"
+    a: "Yes. Turn off the breaker, drain the tank below the element, and swap it with an element wrench. The part costs $20–$40. A plumber charges $150–$300 for the same job."
+  - q: "How do I know if my water heater needs replacement instead of repair?"
+    a: "If the unit is over 10 years old and the repair costs more than $400, replacement is usually the better investment. Rust-colored hot water, leaks from the tank base, or multiple repairs within two years all point to replacement."
+  - q: "Is it safe to relight a gas water heater pilot light?"
+    a: "Yes, if you follow the instructions on the unit label. Turn the gas valve to pilot, hold the igniter for 30 seconds, then release. If the pilot won't stay lit after three tries, the thermocouple likely needs replacing."
 draft: false
 ---
 

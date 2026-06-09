@@ -1,6 +1,6 @@
 ---
 title: "How Much Does Pex Repipe Really Cost?"
-description: "Budget smarter for pex repipe cost. Real prices, trade-offs between DIY and pro, and where to save without regret. Practical tips from real projects."
+description: "A whole-house PEX repipe costs $4,000–$15,000 depending on home size and foundation type. Full breakdown: labor, materials, slab vs. crawlspace, and savings tips."
 author: daniel-ware
 category: budget-planning
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner working under a k
 faq:
   - q: "How can I reduce costs without cutting corners?"
     a: "Do your own demolition, source materials during sales, keep the existing layout to avoid plumbing/electrical moves, and save the pro budget for the work that matters most."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a homeowner DIY a whole-house PEX repipe?"
+    a: "Individual runs and fixture connections are within reach for experienced DIYers using a crimping tool and basic fittings. A whole-house repipe is a different scale — it involves working at the main water shutoff for extended periods, cutting into multiple walls, pressure testing, and passing a plumbing inspection. Most first-timers are better off doing their own drywall repair afterward to save $500–$2,500 instead."
+  - q: "How long does a whole-house PEX repipe take?"
+    a: "Most professional crews complete a standard 1,500–2,000 sq ft home in 2–4 working days. Slab foundation homes take longer due to tunneling or rerouting through the attic. You'll be without water for portions of days 1 and 2, and intermittently on subsequent days as fixtures are reconnected."
 draft: true
 ---
 

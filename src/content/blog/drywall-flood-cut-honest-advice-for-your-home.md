@@ -1,6 +1,6 @@
 ---
 title: "Drywall Flood Cut: Honest Advice for Your Home"
-description: "How to get pro-level results with drywall flood cut. Prep tips, product picks, and honest time estimates. Practical tips from real projects."
+description: "A flood cut removes drywall 24 inches above the water line to prevent hidden mold. Here's the exact process, drying timeline, and what it costs to do it right."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall s
 faq:
   - q: "Do I need to prime before painting?"
     a: "Yes, if you're covering dark colors, stains, or new drywall. For repaints in similar colors on clean, intact surfaces, a quality paint-and-primer combo usually works fine."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a homeowner do a flood cut themselves?"
+    a: "Yes, for clean water and a single room — it's basic demolition with careful drying. The critical requirement is getting wood framing below 15% moisture content before closing the wall. Skip that step and you'll have mold six months later."
+  - q: "What's the most dangerous flood cut mistake?"
+    a: "Sealing the wall cavity too soon. Even when surfaces look dry, framing can remain elevated in moisture for days. Use a moisture meter daily and wait until studs read below 15% before installing new drywall — patience here saves thousands in future remediation."
 draft: true
 ---
 

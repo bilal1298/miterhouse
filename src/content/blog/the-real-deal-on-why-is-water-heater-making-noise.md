@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Why is Water Heater Making Noise"
-description: "Should you DIY why is water heater making noise or call a pro? Real costs, skill requirements, and safety considerations."
+description: "Popping and rumbling mean sediment — a free 15-minute tank flush usually fixes it. Screeching points to a closed valve. Here's how to read every water heater noise."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a new tank water heater being
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro - it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first - rushing the setup phase causes most DIY failures."
+  - q: "Can I fix water heater noises myself?"
+    a: "Most common noises — popping, rumbling, and ticking — are DIY fixes. Flushing sediment costs nothing and takes 15 minutes. Tightening a loose electric element takes 5 minutes with an element wrench. Hissing from a gas heater during the first few minutes of a heating cycle is usually normal condensation."
+  - q: "When does a noisy water heater mean it needs replacing?"
+    a: "Noise alone is not a replacement signal, but combine it with the unit being over 12 years old, rusty hot water, or multiple simultaneous sounds, and replacement is the smarter call. A unit that still rumbles loudly after a full flush has sediment too hardened to remove — accelerated corrosion from that point forward shortens the remaining lifespan."
 draft: true
 ---
 

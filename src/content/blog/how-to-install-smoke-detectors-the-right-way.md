@@ -1,6 +1,6 @@
 ---
 title: "How to Install Smoke Detectors the Right Way"
-description: "A no-nonsense guide to how to install smoke detectors: what to buy, what to skip, and what actually matters for home projects."
+description: "Smoke detector installation takes 15 minutes per unit. Here's exactly where to place them, which type to buy, and why dual-sensor wireless models are worth the extra $10."
 author: daniel-ware
 category: tools-materials
 tags:
@@ -14,9 +14,9 @@ faq:
   - q: "What should I buy first on a limited budget?"
     a: "Start with a quality cordless drill/driver, a good tape measure, a level, safety glasses, and a utility knife. These five tools cover 80% of basic home projects."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most smoke detector installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "Most battery-operated smoke detector installations need only a drill with a 3/16-inch bit for drywall anchors, a screwdriver, and a step stool or ladder. If the room has a joist at a convenient spot, you can often skip the anchors entirely and drive two screws directly into the wood."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Installing the minimum number of detectors and calling it done. Code requirements are a floor, not a ceiling. The hallway detector outside bedrooms doesn't protect a living room on the other side of the house, and the basement is the most commonly forgotten location despite being one of the highest-risk areas."
 draft: true
 ---
 Installing smoke detectors correctly takes about 15 minutes per unit and could save your family's life. Most homes need 6–12 detectors depending on size and layout, and getting the placement right matters far more than buying the most expensive model. Here's the practical guide — what type to buy, exactly where to put them, and how to mount them properly.

@@ -1,6 +1,6 @@
 ---
 title: "Home Water Pump Repairs: A Homeowner's Guide"
-description: "A straightforward guide to home water pump repair: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Most well pump problems start with the pressure switch or tank, not the pump itself. How to diagnose common issues and which repairs are genuinely DIY-friendly."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner reading a how-to 
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most home water pump repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to diagnose a water pump problem?"
+    a: "A tire pressure gauge (to check the pressure tank's air charge), a non-contact voltage tester, and a multimeter. Most pump diagnostics are pressure readings and basic electrical checks — you don't need specialized plumbing tools for the diagnostic phase."
+  - q: "What's the first thing to check when you lose water pressure suddenly?"
+    a: "The circuit breaker. A tripped breaker is the single most common cause of sudden total water loss and takes 30 seconds to check. Reset it once — if it trips again immediately, there's an electrical fault that needs a licensed electrician. If it holds, you've solved it for free."
 draft: true
 ---
 

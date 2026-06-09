@@ -1,6 +1,6 @@
 ---
 title: "Window Deltona Replacement: Full Planning Guide"
-description: "A hands-on guide to window replacement deltona with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Deltona windows must be impact-rated or have approved shutters per Florida code. A 15-window project runs $8,000–$18,000 for impact glass."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

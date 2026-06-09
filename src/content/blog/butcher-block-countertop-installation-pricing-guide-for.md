@@ -13,12 +13,12 @@ date: 2026-11-09
 hero_image: /images/posts/butcher-block-countertop-installation-pricing-guide-for.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is butcher block countertop installation cost worth the investment?"
-    a: "Most homeowners recoup 60–70% of butcher block countertop installation cost costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most butcher block countertop installation cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is butcher block worth it compared to quartz or granite?"
+    a: "Butcher block costs $40–$100/sq ft installed vs. $55–$150 for quartz — comparable mid-range pricing but with one major advantage: it's refinishable. A stained or scratched quartz slab needs replacement; a butcher block slab gets sanded and re-oiled to new. For homeowners who want warmth and don't mind occasional maintenance, it's excellent value."
+  - q: "What tools do I need to DIY butcher block installation?"
+    a: "A circular saw with a 60–80 tooth blade, jigsaw for sink cutouts, bar clamps for corner joints, and a router if you want miter bolt channels for L-shaped runs. Finishing requires sandpaper in 120/150/220 grits and your chosen oil or Waterlox."
+  - q: "How long does butcher block installation take?"
+    a: "A single straight-run countertop can be installed in a half day once the material has acclimated for 48–72 hours. An L-shaped kitchen with a sink cutout takes a full day. The finish (mineral oil or Waterlox) requires 3–6 coats in the first month, with each coat applied a day apart."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Frost Fence Installation: Costs and Tips"
-description: "Planning frost fence installation? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Frost fence posts must go below your frost line, which drives the $15–$45/linear-foot cost. Here's the depth formula, concrete needs, and full budget breakdown."
 author: daniel-ware
 category: outdoor-landscaping
 tags:

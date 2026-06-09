@@ -1,6 +1,6 @@
 ---
 title: "Composite Roof Repair Guide: What to Know"
-description: "Everything you need for composite roof repair: materials, costs, permits, and lessons from actual backyard projects. Practical tips from real projects."
+description: "Composite roof repair costs $150–$3,000. Flashing failures cause most leaks, and DIY shingle replacement is realistic on moderate-pitch roofs."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-27
 hero_image: /images/posts/composite-roof-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a suburban home getting a new roof with a roofing crew stripping old shingles, new underlayment partially rolled out, bundles of architectural shingles staged on the roof, and a dumpster below. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most composite roof repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "When is the best time of year for composite roof repairs?"
+    a: "Late spring through early fall, when temperatures are above 40°F for shingle sealing and you're not working in summer heat. Roofing in freezing temperatures makes shingles brittle and sealant ineffective. Many contractors offer 10–15% off for scheduling in late fall when demand drops."
+  - q: "What tools do I need to replace missing composite shingles?"
+    a: "A flat pry bar, roofing nails, a hammer, and roofing cement. You also need matching replacement shingles — always save leftover shingles from the original installation for exactly this reason. The technique requires lifting the shingles above the damaged one carefully to avoid cracking them."
+  - q: "How do I know when repair becomes full replacement?"
+    a: "When repair costs exceed 30–40% of a full re-roof, or when the roof is within 5 years of its expected 20–30 year lifespan, replacement is usually the smarter investment. If you're calling a roofer every 1–2 years for different issues, the cumulative repair costs add up quickly against the cost of new shingles."
 draft: true
 ---
 

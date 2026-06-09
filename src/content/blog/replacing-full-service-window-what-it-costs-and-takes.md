@@ -1,6 +1,6 @@
 ---
 title: "Replacing Full Service Window: What It Costs and Takes"
-description: "Everything you need for full service window replacement: materials, costs, permits, and lessons from actual backyard projects."
+description: "Full-frame window replacement costs $400–$2,000+ per window installed and is necessary when frames are rotted, out of square, or you're changing window sizes."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/replacing-full-service-window-what-it-costs-and-takes.
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
+    a: "Spring and early fall are ideal — sealants cure properly in moderate temperatures (above 40°F), and scheduling in those windows avoids the summer backlog when most contractors are fully booked. For custom-sized windows with 3–6 week lead times, order in late winter for a spring installation. Winter installations are possible but cost more and require temporary weatherproofing during the open-frame period."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most full service window replacement projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "Full-frame window replacement is generally not a DIY project for primary windows — it requires structural header verification, proper sill pan flashing installation, and low-expansion foam technique that differs from what most guides show. If you are doing a small outbuilding window, you need a pry bar, reciprocating saw, level, drill, low-expansion foam, flashing tape, exterior caulk, and a helper. For a house, hire a licensed contractor and verify they carry liability insurance and an installation warranty."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "A crew of two completes 4–6 standard full-frame replacements per day. For a 15–20 window project, expect 3–5 days of installation work. The total project timeline is longer: 2–6 weeks from contract signing for windows to arrive (custom sizes run longer), then 3–5 installation days, then 1–2 days for final trim, caulking, and punch list. Budget 4–8 weeks from signed contract to finished project."
 draft: true
 ---
 

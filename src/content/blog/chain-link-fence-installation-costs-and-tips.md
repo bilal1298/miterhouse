@@ -1,6 +1,6 @@
 ---
 title: "Chain Link Fence Installation: Costs and Tips"
-description: "Planning installation chain link fence? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Chain link fence runs $15–$40 per linear foot installed, or $8–$18 DIY. Breakdown by height, gauge, gates, and terrain — plus the mistakes that make fences sag."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,12 +12,12 @@ date: 2026-06-09
 hero_image: /images/posts/chain-link-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most installation chain link fence projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How much does a chain link fence cost per foot?"
+    a: "$15–$40 per linear foot professionally installed, or $8–$18 per foot for materials alone if you DIY. A typical 200-foot residential fence runs $3,000–$8,000 installed."
+  - q: "What gauge chain link is best for a residential yard?"
+    a: "11.5 gauge galvanized is the standard residential choice, lasting 15–20 years. Use 9 gauge if you have large dogs that push against the fence or live near salt water where corrosion is accelerated."
+  - q: "Can I install a chain link fence myself?"
+    a: "Yes, with a helper and a rented auger. Budget a full weekend for 200 linear feet. The hardest parts are keeping posts perfectly plumb and getting the right mesh tension — too loose sags, too tight pulls posts inward."
 draft: false
 ---
 

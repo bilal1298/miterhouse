@@ -1,6 +1,6 @@
 ---
 title: "Window Company Replacement: Full Planning Guide"
-description: "A hands-on guide to window replacement company with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "A mid-grade window installed perfectly outperforms a premium window done poorly. Here's how to vet window companies and spot high-pressure sales tactics."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a replacement window being in
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most window replacement company projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "How do I compare window replacement quotes fairly?"
+    a: "Make sure each quote specifies the same things: window brand and model, glass package (double or triple-pane, Low-E coating, argon fill), installation method (insert vs. full-frame), whether trim work and haul-away are included, and the warranty terms for both product and labor. Cheap quotes often exclude items others include — compare total scope, not just the number."
+  - q: "What's the biggest red flag when choosing a window company?"
+    a: "Same-day pricing pressure — 'this price is only good today.' Legitimate window companies do not change their quote because you want to sleep on it. If the discount disappears when you ask to think it over, the original price was inflated and the 'discount' was manufactured. Walk away and compare against companies that give you time."
 draft: true
 ---
 

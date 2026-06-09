@@ -1,6 +1,6 @@
 ---
 title: "Replace Concrete Slab Cost Breakdown: Real Numbers"
-description: "How much does cost to replace concrete slab really cost? Line-by-line budget with labor, materials, and hidden expenses."
+description: "Concrete slab replacement costs $6–$16 per square foot, or $2,400–$6,400 for a typical 400 sq ft area. Here's the full line-by-line breakdown and when repair is enough."
 author: daniel-ware
 category: budget-planning
 tags:
@@ -11,12 +11,12 @@ date: 2026-08-16
 hero_image: /images/posts/replace-concrete-slab-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the biggest hidden cost in this project?"
-    a: "Permit fees, unexpected structural issues, and temporary living adjustments often surprise homeowners. Budget 10-20% above your estimate for contingencies."
-  - q: "What tools do I need for this project?"
-    a: "Most concrete slab replacement projects require a sledgehammer or jackhammer for demolition, forms and stakes for the new pour, a concrete mixer or ready-mix delivery, screeds, floats, and edging tools."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What's the biggest hidden cost in slab replacement?"
+    a: "Disposal fees and subgrade preparation consistently surprise homeowners. Concrete is heavy — roughly 150 pounds per cubic foot — and haulers charge by weight or volume. A single load runs $300–$800. Equally important: the gravel base and compaction that prevent the new slab from settling like the old one. Skipping or shortcutting subgrade prep replicates the failure within a few years."
+  - q: "Can I DIY a concrete slab replacement?"
+    a: "Small slabs under 100 square feet using bagged concrete mix are feasible for someone comfortable with physical labor. Anything over 200 square feet requires ready-mix delivery coordination and a finishing window of 60–90 minutes — which is unforgiving for a first-timer. You can save money by handling demolition and form-building yourself before the pour crew arrives."
+  - q: "What's the most common mistake that leads to early slab failure?"
+    a: "Skipping control joints or placing them too far apart. For a 4-inch slab, joints should be cut every 8–12 feet. Without them, concrete shrinks into random, ugly cracks rather than planned straight lines. The second most common mistake is inadequate compaction of the subgrade — a $400 plate compactor rental prevents thousands in slab repairs."
 draft: true
 ---
 

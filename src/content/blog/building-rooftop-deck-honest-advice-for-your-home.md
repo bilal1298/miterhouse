@@ -1,6 +1,6 @@
 ---
 title: "Building Rooftop Deck: Honest Advice for Your Home"
-description: "A hands-on guide to building rooftop deck with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Rooftop deck costs run $25,000–$75,000. A structural engineer is non-negotiable — standard roof framing holds 20 psf but a deck requires 40 psf live load."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner building a pressu
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most building rooftop deck projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first -- rushing the setup phase causes most DIY failures."
+  - q: "What parts of a rooftop deck can a homeowner DIY?"
+    a: "Very little. Structural assessment, waterproof membrane installation, stair access, and railing systems all require professional expertise. Once the waterproofing is professionally installed, a homeowner can install a pedestal paver system on top — some manufacturers support this approach."
+  - q: "What's the most common mistake in rooftop deck projects?"
+    a: "Skipping the structural engineer assessment. Standard residential roof framing is designed for 20 psf live load; a deck requires 40 psf. The gap between what exists and what's required often means reinforcement costing $3,000–$15,000 — better to find that out before spending money on design and materials."
 draft: true
 ---
 

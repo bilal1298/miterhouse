@@ -1,6 +1,6 @@
 ---
 title: "Installing Pvc Fence: What to Know First"
-description: "A hands-on guide to pvc fence installation with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "PVC fence installation costs $15–$35/ft for materials plus $10–$25/ft for labor. Steel post inserts and thermal expansion gaps are the details most DIYers get wrong."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -15,9 +15,9 @@ faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most pvc fence installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "You'll need a post hole digger or auger, level, string line, circular saw with a 60+ tooth fine-tooth blade for cutting PVC, concrete mixer or mixing hose, and a drill. Steel post inserts require a shovel for deep setting in the hole before pouring concrete."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Skipping steel post inserts on privacy fences taller than 5 feet. A hollow PVC post cannot withstand wind loads long-term — it will flex, crack, or lean. Installing galvanized steel post inserts adds only $8–$15 per post and is the difference between a fence that lasts 25 years and one that starts leaning after three."
 draft: true
 ---
 

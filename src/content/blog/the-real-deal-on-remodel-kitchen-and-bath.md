@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Remodel Kitchen and Bath"
-description: "A no-fluff guide to remodel kitchen and bath with real material costs, labor estimates, and the mistakes to skip. Practical tips from real projects."
+description: "Remodeling kitchen and bath together saves 10–20% on contractor costs. Here's how to sequence the work, split a $50K budget, and avoid scope creep."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-11-06
 hero_image: /images/posts/the-real-deal-on-remodel-kitchen-and-bath.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is remodel kitchen and bath worth the investment?"
-    a: "Most homeowners recoup 60–70% of remodel kitchen and bath costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most remodel kitchen and bath projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is combining kitchen and bath in one project actually worth it?"
+    a: "Yes, if your home is over 20 years old and both rooms need work. You save on contractor mobilization, plumbing visits, and dumpster rental — typically $1,500–$3,000 in combined project savings — while compressing the disruption to one period instead of two."
+  - q: "What do you need to handle before the kitchen is out of commission?"
+    a: "Set up a temporary kitchen station with a microwave, coffee maker, and mini-fridge in the dining room or living room before demo day. A standard kitchen renovation takes 3–5 weeks, so plan your grocery and takeout budget accordingly."
+  - q: "How long does a combined kitchen and bath remodel take?"
+    a: "Most contractors complete the bathroom in 1–2 weeks, then move to the kitchen for 3–5 weeks. Total project timeline is 5–8 weeks for a mid-range scope. Add 2–3 weeks if the home is over 30 years old — hidden plumbing and electrical surprises are common."
 draft: true
 ---
 

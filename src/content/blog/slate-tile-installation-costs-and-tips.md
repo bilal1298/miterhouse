@@ -1,6 +1,6 @@
 ---
 title: "Slate Tile Installation: Costs and Tips"
-description: "From subfloor prep to final trim — a practical guide to installing slate tile with real costs and pro tips. Practical tips from real projects."
+description: "Slate tile installation costs $10–$30 per square foot fully installed. The natural thickness variation that gives slate its character also makes it harder to install than ceramic — here's what that means in practice."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -12,12 +12,12 @@ date: 2026-08-07
 hero_image: /images/posts/slate-tile-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the most durable option for installing slate tile?"
-    a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most installing slate tile projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What's the most durable type of slate to buy?"
+    a: "Vermont and Pennsylvania slate ($8–$15/sq ft) is the most reliable domestic option — it has been used on American floors and roofs for over 200 years. Brazilian slate is a solid mid-tier choice. Indian slate is the cheapest but quality varies; test pieces by soaking in water for 24 hours. If the tile softens, flakes, or absorbs heavily, find a different lot. Good slate absorbs very little water."
+  - q: "What tools do I need for slate tile installation?"
+    a: "A wet saw with a continuous-rim diamond blade (not segmented — segmented chips slate edges), a notched trowel for white thinset (gray thinset can telegraph through lighter-colored slates), tile leveling clips for larger formats, a rubber mallet, a grout float, and a penetrating stone sealer. Budget for significantly more thinset than ceramic tile would require because each slate tile needs to be individually back-buttered."
+  - q: "What's the most common mistake that ruins a slate installation?"
+    a: "Not sealing the slate surface before grouting. Grout stains soak into unsealed clefted slate and are nearly impossible to remove completely. Apply a coat of penetrating sealer before grouting, let it dry, and the surface releases grout residue without staining. Skipping this single step ruins more slate installations than any other error."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Turn on Gas Water Heater: Honest Advice for Your Home"
-description: "A straightforward guide to turn on gas water heater: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Lighting a gas water heater takes 10 minutes and no tools. Standing pilot and electronic ignition covered, plus what to do when it won't stay lit."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-10-04
 hero_image: /images/posts/turn-on-gas-water-heater-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Why does my gas water heater pilot keep going out after I release the knob?"
+    a: "The most likely cause is a failed thermocouple — the small copper sensor that sits in the pilot flame and tells the gas valve to stay open. A replacement thermocouple costs $10–$20 and takes about 15 minutes to swap out with a 7/16-inch wrench. Try holding the pilot button for the full 60 seconds first, since releasing too soon is the other common cause."
+  - q: "How long does a gas water heater take to heat up after relighting?"
+    a: "A standard 40-gallon tank takes 30–40 minutes to heat from cold after the burner fires. A 50-gallon tank takes 40–50 minutes. If the house has been vacant and the water is fully cold, run a hot tap for 1 minute first to flush stale water from the lines."
+  - q: "When should I call a pro instead of relighting the water heater myself?"
+    a: "Call a licensed plumber or HVAC tech if you smell gas and can't identify the source, if the vent pipe is disconnected or crushed, if you see scorch marks or melted components, or if this is a brand-new installation that's never been tested by a professional."
 draft: true
 ---
 

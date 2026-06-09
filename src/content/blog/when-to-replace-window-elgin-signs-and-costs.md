@@ -1,6 +1,6 @@
 ---
 title: "When to Replace Window Elgin: Signs and Costs"
-description: "Planning window replacement elgin? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Elgin window replacement costs $400–$1,600 installed. Historic homes near downtown face commission requirements — standard vinyl often won't get approved."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a replacement window being in
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most window replacement elgin projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What window frame material works best for Elgin's climate?"
+    a: "Fiberglass handles the Fox River valley's temperature swings — ranging 130+ degrees F between winter lows and summer highs — better than vinyl, which can become brittle in extreme cold and warp in direct summer sun. Fiberglass costs 30–50% more but holds its dimensional tolerances across the full temperature range, which also preserves seal integrity longer."
+  - q: "What's the most common mistake Elgin homeowners make with window replacement?"
+    a: "Buying insert replacement windows for older east-side homes where the original frames have absorbed decades of freeze-thaw moisture. The frames may look acceptable on the surface but harbor hidden rot. Spending $150–$300 more per window for full-frame replacement in these homes is nearly always the right call — you see what you're working with before the new unit goes in."
 draft: true
 ---
 

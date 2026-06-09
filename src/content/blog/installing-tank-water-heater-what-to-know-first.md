@@ -1,6 +1,6 @@
 ---
 title: "Installing Tank Water Heater: What to Know First"
-description: "A straightforward guide to tank water heater install: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Tank water heater installation costs $300–$800 labor for a straight swap, more if code updates are needed. Here's what's DIY-safe and where gas connections make professional help non-negotiable."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,12 +12,12 @@ date: 2026-06-30
 hero_image: /images/posts/installing-tank-water-heater-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most tank water heater install projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What should I check when evaluating a water heater installation quote?"
+    a: "Ask whether the quote includes removal and disposal of the old unit, permit and inspection fees, and any code updates the current installation may need (expansion tank, seismic straps, updated TPR discharge pipe). A basic swap quote that excludes these items can jump $300–$700 once the plumber is on-site and identifies the required work."
+  - q: "What tools do I need for a water heater swap?"
+    a: "You'll need a pipe wrench, garden hose for draining, channel-lock pliers for supply line connections, a non-contact voltage tester, and a flashlight. For gas units, soapy water in a spray bottle checks connections for leaks after installation. A hand truck or dolly is essential — a full 50-gallon tank weighs about 150 pounds empty."
+  - q: "How long does a water heater installation take?"
+    a: "A straight same-size electric swap typically takes 2 to 3 hours for a capable DIYer. Gas units take longer because of the flue reconnection and pilot lighting procedure. A professional plumber handles a straightforward swap in 1 to 2 hours. Add time for draining the old unit — that alone takes 20 to 45 minutes for a full tank."
 draft: true
 ---
 

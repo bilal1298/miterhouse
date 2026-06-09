@@ -1,6 +1,6 @@
 ---
 title: "Fair Carpets Cost: What to Expect in 2026"
-description: "Honest cost breakdown for fair price carpets. Real numbers from actual projects — not contractor marketing fluff. Practical tips from real projects."
+description: "Carpet costs $3–$11 per square foot installed in 2026. Learn what separates fair pricing from markups, and why padding quality matters more than most guides admit."
 author: daniel-ware
 category: budget-planning
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a room with new carpet being 
 faq:
   - q: "What's the biggest hidden cost in this project?"
     a: "Padding quality and furniture moving fees are the two most overlooked expenses. Cheap padding under good carpet wears out faster than good padding under cheap carpet."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner install carpet themselves?"
+    a: "Basic carpet installation in a rectangular room is manageable with a knee kicker and carpet stretcher rental, but stairs and pattern matching are genuinely tricky. Most first-timers do one bedroom before deciding whether to DIY the rest or hire out."
+  - q: "What's the most common carpet buying mistake?"
+    a: "Letting the salesperson talk you into cheap padding to offset the carpet price. Padding under 8-pound rebond density will cause good carpet to mat prematurely. Always specify the padding grade separately from the carpet quote."
 draft: true
 ---
 

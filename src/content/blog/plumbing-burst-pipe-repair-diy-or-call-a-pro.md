@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Burst Pipe Repair: DIY or Call a Pro?"
-description: "Should you DIY plumbing burst pipe repair or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "A burst pipe dumps 4–8 gallons per minute into your home. Here's which repairs — PVC cuts, SharkBite fittings, clamps — you can do for under $30 vs. when to call a pro."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/plumbing-burst-pipe-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
+    a: "An accessible burst in PVC, copper with a SharkBite coupling, or a pipe repair clamp fix is solidly DIY territory — total cost under $30. Anything involving the main water line, a slab leak, or pipes inside finished walls is worth the $200–$600 plumber fee; the cost of getting those wrong in water damage and mold remediation far exceeds the repair bill."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most plumbing burst pipe repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "For a SharkBite repair: a pipe cutter or hacksaw, a deburring tool, and the fitting itself ($8–$15). For a soldered copper repair: a pipe cutter, propane torch, flux, and solder. For a PVC section replacement: a pipe cutter or hacksaw, PVC primer, and cement. All of these plus a pipe repair clamp as a backup should be part of your home emergency kit."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Not shutting off the water fast enough. Know where every shutoff valve is before you need it — the main at the meter, and individual valves under each sink and behind each toilet. Practicing these valve locations while everything is fine saves you from searching during a flood."
 draft: true
 ---
 

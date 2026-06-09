@@ -1,6 +1,6 @@
 ---
 title: "Modern Home Improvements: What Homeowners Should Know"
-description: "Budget smarter for modern home improvements. Real prices, trade-offs between DIY and pro, and where to save without regret."
+description: "Modern home improvements that actually pay off solve functional problems and reduce ongoing costs — not just look good in photos. Here's where to spend and what to skip in 2026."
 author: daniel-ware
 category: budget-planning
 tags:
@@ -11,12 +11,12 @@ date: 2026-08-15
 hero_image: /images/posts/modern-home-improvements-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of color-coded material samples arranged on a table including tile samples, paint swatches, flooring pieces, and hardware options, with price tags visible on each. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How can I reduce costs without cutting corners?"
-    a: "Do your own demolition, source materials during sales, keep the existing layout to avoid plumbing/electrical moves, and save the pro budget for the work that matters most."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How can I prioritize when my budget is limited?"
+    a: "Address water intrusion, insulation, and failing HVAC first — these prevent damage and reduce ongoing costs. Kitchen and bathroom updates are Tier 2 because they affect daily quality of life. Outdoor living spaces, smart home tech, and cosmetic landscaping are Tier 3. The boring-but-effective work should always come before the Instagram-worthy projects."
+  - q: "Which modern improvements have the best return on investment?"
+    a: "Attic insulation has a 2–4-year payback through energy savings. Garage door replacement recovers over 100% of its cost at resale per the Cost vs. Value Report. A $150–$300 smart thermostat pays for itself in under two years. In contrast, a high-end kitchen remodel only recovers about 50% — it improves your daily life, but not proportionally to the cost."
+  - q: "What modern improvements are actually worth skipping?"
+    a: "Swimming pools add less value than they cost to install and maintain in most markets. Premium appliance brands (a $12,000 range) return no more resale value than mid-range stainless. Smart window blinds at $200–$500 per window solve a problem most people do not have. Spend that money on insulation, water management, or a heat pump instead."
 draft: true
 ---
 

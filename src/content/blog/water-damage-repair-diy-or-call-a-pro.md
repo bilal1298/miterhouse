@@ -1,6 +1,6 @@
 ---
 title: "Water Damage Repair: DIY or Call a Pro?"
-description: "Should you DIY water damage repair service or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "Clean water damage is DIY-friendly at $50–$150 per wall section. Category 3 sewage water is always a pro job. Here's how to tell which situation you're in."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-15
 hero_image: /images/posts/water-damage-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner assessing water damage in a basement with a moisture meter pressed against a damp wall, dehumidifier running, and water stains visible on the lower portion of the drywall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most water damage repair service projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What water damage can I safely DIY?"
+    a: "Category 1 clean water damage — burst supply lines, faucet leaks, appliance overflows with no sewage — is DIY-appropriate for drywall replacement, carpet removal, and repainting. Anything involving sewage (Category 3), structural framing damage, or mold exceeding 10 square feet needs professional remediation."
+  - q: "What tools do I need for DIY water damage repair?"
+    a: "A pin-type moisture meter ($25–$40) is the most important — it tells you when materials are actually dry, not just surface-dry. You also need a quality dehumidifier (consider renting a commercial unit at $75–$150/day for large areas), fans, a shop vacuum, stain-blocking primer, and standard drywall repair tools."
+  - q: "What's the biggest DIY mistake in water damage repair?"
+    a: "Closing up walls and installing new flooring before everything reads dry on the moisture meter. Drywall below 1 percent and wood framing below 15 percent are the targets. People who skip verification and patch too soon end up with mold behind the new drywall within weeks — a far more expensive problem to fix the second time."
 draft: true
 ---
 

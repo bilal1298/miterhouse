@@ -11,12 +11,12 @@ date: 2026-09-09
 hero_image: /images/posts/electric-boiler-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of an electrician installing a new outlet in a residential wall with exposed wiring visible in the open junction box, wire strippers and a voltage tester on a nearby step ladder. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most electric boiler repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I know whether to call a plumber or an electrician for boiler problems?"
+    a: "Electric boiler repair sits at the intersection of both trades — look specifically for an HVAC technician who specializes in hydronic heating, or a plumber with electrical experience. Ask directly whether they've worked on electric boilers before, since the diagnostic approach differs significantly from gas-fired systems."
+  - q: "What can a homeowner safely troubleshoot on an electric boiler?"
+    a: "Check the room thermostat, inspect the circuit breaker for a trip, press the high-limit reset button, verify system pressure is in the 12–20 PSI cold range, and bleed air from cold radiators with a bleed key. These steps resolve a surprising number of 'no heat' calls without spending $200–$500 on an emergency service visit."
+  - q: "What's the most common electric boiler failure and what does it cost?"
+    a: "Heating element failure is the most frequent repair, usually caused by scale buildup from hard water. Replacement runs $200–$600 installed — $30–$150 for the element plus $150–$400 in labor for draining the system, swapping the element, refilling, and bleeding. Hard water areas see element failure 2–3x more often than soft water areas."
 draft: true
 ---
 

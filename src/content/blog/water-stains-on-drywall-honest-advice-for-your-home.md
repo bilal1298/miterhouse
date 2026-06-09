@@ -1,6 +1,6 @@
 ---
 title: "Water Stains on Drywall: Honest Advice for Your Home"
-description: "A practical guide to water stains on drywall — from surface prep to final coat. Real techniques that work. Practical tips from real projects."
+description: "Regular paint won't cover water stains — you need shellac-based primer first. But before you prime, find and fix the leak or the stain will be back within weeks."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshl
 faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a beginner cover water stains on drywall?"
+    a: "Yes — if the drywall is structurally sound (firm when pressed, no mold), a coat of shellac-based primer like Zinsser BIN followed by two coats of ceiling or wall paint handles most stains. The common beginner mistake is using regular latex primer, which will let tannins and minerals bleed through within days."
+  - q: "How long does drywall need to dry before priming a water stain?"
+    a: "Until a moisture meter reads below 1 percent for drywall — surface-dry is not dry enough. Depending on ventilation, a fan blowing into the area, and a dehumidifier, this typically takes 3–5 days for moderate damage. Priming over damp drywall traps moisture and accelerates mold growth behind the paint."
 draft: true
 ---
 

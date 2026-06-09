@@ -1,6 +1,6 @@
 ---
 title: "Frozen Tankless Water Heater: A Practical Guide"
-description: "Know what you're getting into with frozen tankless water heater. Costs, code requirements, and the honest DIY difficulty level."
+description: "A frozen tankless water heater can crack the heat exchanger — a $700–$2,000 repair. How to thaw it safely, prevent freeze damage, and know when to replace."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-07-02
 hero_image: /images/posts/frozen-tankless-water-heater-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Does homeowner's insurance cover a frozen tankless water heater?"
+    a: "Coverage depends on whether the damage qualifies as 'sudden and accidental.' Document the ambient temperature at the time, any power outage records, and get a technician's written assessment of the cause. Freeze damage from a power outage that disabled the unit's built-in protection is a stronger claim than damage from an installation that lacked recommended freeze protection for your climate."
+  - q: "Can a homeowner thaw a frozen tankless water heater themselves?"
+    a: "Yes — if there's no visible damage, aim a space heater or heat lamp at the unit (not touching it) to raise the ambient temperature slowly. Never use an open flame near a gas unit. Once thawed, run it for 10–15 minutes and check all connections for leaks before declaring success."
+  - q: "How long does it take a frozen tankless water heater to recover?"
+    a: "The thaw itself takes several hours of sustained heat above freezing. If the heat exchanger is only temporarily frozen with no cracks, the unit functions normally once warmed. If internal damage occurred, error codes appear immediately on startup — that's the signal to call a technician rather than keep running it."
 draft: true
 ---
 

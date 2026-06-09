@@ -1,6 +1,6 @@
 ---
 title: "Water Damage Ceiling Tiles: Honest Advice for Your Home"
-description: "A straightforward guide to water damage ceiling tiles: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Replacing water-damaged ceiling tiles is easy — but doing it without fixing the leak wastes your money. Here's how to find the source and repair right."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a professional installing flo
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can a beginner replace water-damaged ceiling tiles?"
+    a: "Drop ceiling tile replacement is one of the easiest home repairs — push up and angle the tile through the grid, slide in the new one. The harder part is finding matching tiles for older installations, since new tiles next to old ones look noticeably different in color. Replacing the surrounding tiles in the affected section produces a cleaner result."
+  - q: "What's the biggest mistake people make with water-damaged ceiling tiles?"
+    a: "Installing new tiles before the structure above is fully dry — and before fixing the source. New mineral fiber tiles absorb moisture just as readily as the old ones, so you will see new staining within weeks. Use a moisture meter to confirm the framing reads below 15 percent before putting any tile back."
 draft: true
 ---
 

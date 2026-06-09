@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a professional installing flo
 faq:
   - q: "Can I install low cost flooring over existing flooring?"
     a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most low cost flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I need for budget flooring installation?"
+    a: "Peel-and-stick vinyl needs only a utility knife and straightedge. Click-lock laminate and LVP add a tapping block, pull bar, and spacers — no saw needed for most straight cuts. Sheet vinyl is the most tool-intensive, requiring a floor roller and sharp knife for the perimeter cuts around toilets and cabinets."
+  - q: "How long does a budget flooring project take?"
+    a: "A 200-square-foot room with click-lock LVP or laminate is a realistic weekend project. Friday evening for prep and old carpet removal, Saturday morning for subfloor fixes (leveling compound needs 4–6 hours to cure), Saturday afternoon and Sunday morning for installation, Sunday afternoon for trim and transitions."
 draft: true
 ---
 

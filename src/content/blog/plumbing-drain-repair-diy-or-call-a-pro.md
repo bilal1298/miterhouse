@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Drain Repair: DIY or Call a Pro?"
-description: "Should you DIY plumbing drain repair or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "Most drain repairs are DIY-friendly if you diagnose correctly first. One slow drain is a trap fix; all drains backing up means a main sewer problem. Here's how to tell the difference and what each repair costs."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-23
 hero_image: /images/posts/plumbing-drain-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most plumbing drain repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What drain cleaning chemicals are safe to use?"
+    a: "Enzymatic cleaners are safe for regular maintenance on slow drains — they break down organic buildup overnight without damaging pipes. Avoid lye-based or sulfuric acid drain openers for regular use; they work fast but corrode metal drain components over time. A hand snake is almost always faster and safer than harsh chemicals for an actual clog."
+  - q: "What tools do I need for drain repair?"
+    a: "An $80 to $120 toolkit covers most drain problems: a flange plunger ($8–$12), 25-foot hand snake ($25–$40), channel-lock pliers ($15–$25), and a pipe wrench for threaded cleanout plugs. For branch line clogs, a 50-foot hand snake extends your reach. PVC joint repairs also need a pipe cutter, primer, and PVC cement."
+  - q: "How do I know if a drain problem is DIY or professional territory?"
+    a: "A single slow drain is almost always a DIY fix in the trap or first 5 feet of pipe. Multiple slow drains on the same floor point to a branch line — still potentially DIY with a snake from a cleanout. When every drain in the house is slow or backing up, that's the main sewer line, which requires professional equipment and camera inspection to diagnose properly."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Deck Building Cost: What to Expect in 2026"
-description: "A hands-on guide to deck building cost calculator with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Deck building costs $15–$45 per sq ft professionally installed in 2026. Cost breakdown for pressure-treated, composite, and hardwood decks with regional variations."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner building a pressu
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most deck building cost calculator projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What hidden costs do deck projects commonly miss?"
+    a: "Grading and drainage ($500–$2,000 if water pools where footings go), old deck removal ($3–$8/sq ft), landscape repair after staging, and electrical for lighting or outlets ($500–$2,500). These can add $5,000–$10,000 to a project that was quoted without them."
+  - q: "What's the most common mistake that drives up deck costs?"
+    a: "Choosing composite decking and railing without realizing railings account for 20–30% of the total cost. Composite railing runs $25–$60 per linear foot versus $15–$30 for wood. On a 300-square-foot deck with 52 linear feet of railing, that upgrade alone adds $500–$1,500 to the budget."
 draft: true
 ---
 

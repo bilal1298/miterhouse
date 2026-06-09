@@ -1,6 +1,6 @@
 ---
 title: "Master Plumbing Repair: DIY or Call a Pro?"
-description: "Should you DIY master repair plumbing or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "Master plumbing repairs — main lines, sewer, water heater — cost $500 to $5,000+. Here's the honest breakdown of what homeowners can safely tackle and what requires a licensed plumber."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-11-12
 hero_image: /images/posts/master-plumbing-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most master repair plumbing projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I know if a plumbing problem is an emergency?"
+    a: "Shut off the main water valve and schedule a normal appointment for: main water line leaks, sewer backups that have stabilized, and water heater leaks where you've turned off the supply and fuel source. Genuine emergencies that warrant after-hours rates are active flooding from a burst pipe, sewage actively backing up through multiple drains, and any situation where you cannot stop water flow."
+  - q: "What master plumbing tasks can a homeowner actually handle?"
+    a: "Replacing shut-off valves under sinks and toilets, clearing a main drain with a rental 50-foot power snake through a cleanout, replacing a sump pump in an existing pit, and repairing accessible PVC pipe sections with SharkBite fittings are all within reach of a prepared homeowner. The limit is a permit requirement — if the work requires a permit, most jurisdictions require a licensed plumber to pull it."
+  - q: "How do I find and evaluate a reliable plumber for major work?"
+    a: "Verify the license number through your state's plumber licensing database — not just a verbal confirmation. Confirm they carry general liability and workers' compensation insurance (ask for the certificate). For sewer or repipe work specifically, look for plumbers who specialize in those services, not general handymen. A good plumber diagnoses before quoting — a camera inspection before recommending a sewer repair is the standard."
 draft: true
 ---
 

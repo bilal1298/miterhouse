@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Stack Repairs: A Homeowner's Guide"
-description: "A straightforward guide to plumbing stack repair: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Plumbing stack problems show up in multiple fixtures simultaneously — gurgling, slow drains, sewer smell. Here's how to diagnose the cause and what repair costs to expect for PVC versus aging cast iron."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner working under a k
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most plumbing stack repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need for accessible stack repairs?"
+    a: "Clearing a blocked roof vent needs a garden hose or hand snake. Replacing an accessible PVC or ABS section requires a reciprocating saw, rubber fernco couplings with stainless clamps ($8–$15 each), and basic pipe cutting tools. Cast iron repairs require snap cutters and specialized heavy-blade reciprocating saws — that's professional equipment."
+  - q: "What's the most important step before spending money on stack repairs?"
+    a: "Get a camera inspection first ($150–$500). The symptoms — gurgling, sewer smell, slow drains in multiple fixtures — could trace back to a blocked vent cap, a cracked joint, or a section of deteriorated cast iron. The camera tells you which it is, and the repair for each varies from a $0 fix to a $4,000 professional job. Guessing wrong is expensive."
 draft: true
 ---
 

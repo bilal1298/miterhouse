@@ -1,6 +1,6 @@
 ---
 title: "Drywall Repair: DIY or Call a Pro?"
-description: "How to get pro-level results with drywall repair service. Prep tips, product picks, and honest time estimates. Practical tips from real projects."
+description: "Drywall repair costs $150–$600 hired out or $25–$100 DIY. Nail pops and small holes are DIY; ceiling work and texture matching are pro jobs."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall s
 faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most drywall repair service projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I need for DIY drywall repair?"
+    a: "A 3-inch putty knife, 6-inch and 10-inch taping knives, lightweight spackle and all-purpose joint compound, self-adhesive mesh patches, paper drywall tape, 150-grit sanding sponge, and PVA primer. The full kit costs $60–$85 and handles years of normal homeowner repairs."
+  - q: "How long does DIY drywall repair take?"
+    a: "Small repairs — nail holes, doorknob patches — take 20 minutes of active work spread over two days for drying between coats. A medium patch (4–6 inches) takes 30–60 minutes of active work over 3–4 days. The drying time between thin coats is unavoidable; rushing with thick coats causes cracking and re-dos."
 draft: true
 ---
 

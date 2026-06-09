@@ -1,6 +1,6 @@
 ---
 title: "Trenchless Plumbing Repairs: A Homeowner's Guide"
-description: "A straightforward guide to trenchless plumbing repair: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Trenchless sewer repair costs $4,000–$15,000 for a 60-foot run — comparable to excavation before you factor in the $2,000–$10,000 landscape restoration you avoid."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-24
 hero_image: /images/posts/trenchless-plumbing-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most trenchless plumbing repair projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Should I DIY trenchless plumbing repair?"
+    a: "No — this is not a DIY project. CIPP lining and pipe bursting require specialized equipment (UV curing rigs, hydraulic bursting heads) that is not available for homeowner rental, plus NASSCO-certified training. What you can DIY is the detective work: recognizing symptoms like multiple slow drains, gurgling toilets, or sewage odors that tell you it's time to call."
+  - q: "What happens during the camera inspection before trenchless repair?"
+    a: "The plumber feeds a sewer camera through a cleanout and records the entire line, noting damage locations, joint offsets, root intrusion, and any collapsed sections. That footage is what tells you whether trenchless is viable — a completely collapsed pipe with no continuous path cannot be lined or burst. The inspection costs $150–$400 and is worth every dollar."
+  - q: "How long does trenchless sewer repair take?"
+    a: "Most residential trenchless jobs complete in 1–2 days: one day for cleaning, liner prep, and installation, and another for curing and final camera inspection. That compares favorably to traditional excavation, which typically runs 3–5 days or more."
 draft: true
 ---
 

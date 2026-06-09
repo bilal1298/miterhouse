@@ -1,6 +1,6 @@
 ---
 title: "Replace Granite Countertop Cost: What to Expect in 2026"
-description: "A no-fluff guide to cost to replace granite countertop with real material costs, labor estimates, and the mistakes to skip."
+description: "Replacing granite countertops costs $2,500–$8,000 for most kitchens in 2026, including the removal step that new installs skip. Here's what drives the number and what hides under old slabs."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -12,12 +12,12 @@ date: 2026-08-30
 hero_image: /images/posts/replace-granite-countertop-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of bathroom fixtures laid out on a clean countertop including a brushed nickel faucet, handles, a towel bar, and mounting hardware, with installation instructions visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How much does cost to replace granite countertop cost on average?"
-    a: "A mid-range cost to replace granite countertop project typically runs $5,000-$15,000 depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most cost to replace granite countertop projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+  - q: "How much does replacing a granite countertop cost on average?"
+    a: "Budget $3,500–$7,000 for a standard granite-to-granite kitchen replacement in 2026. The removal phase adds $300–$800 that a fresh installation skips. Set aside another 15% for surprises — cabinet water damage, backsplash repairs, and plumbing reconnection costs are nearly universal on older kitchens."
+  - q: "Can I reuse my existing sink during replacement?"
+    a: "Often yes — if your sink is in good shape and the new countertop cutout dimensions match, reusing it saves $200–$600. Confirm this during templating, not on installation day. The plumber still needs to disconnect and reconnect ($150–$250), but you skip the sink purchase entirely."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Choosing your new slab from a small sample chip rather than visiting the slab yard. Granite has significant natural variation — two slabs of the same name can look completely different. Visit in person, see the actual slab you are buying in full daylight, and have the fabricator mark the sections to be cut before you leave."
 draft: true
 ---
 

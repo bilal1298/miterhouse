@@ -1,6 +1,6 @@
 ---
 title: "Deck Building Calculator: What Homeowners Should Know"
-description: "Everything you need for deck building calculator: materials, costs, permits, and lessons from actual backyard projects. Practical tips from real projects."
+description: "Most deck calculators underestimate real costs by 15–30%. A 16x20 pressure-treated deck runs $3,655 in materials alone. Here's the math to do it yourself accurately."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner building a pressu
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most deck building calculator projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What do online deck calculators most commonly underestimate?"
+    a: "Hardware is the biggest gap — calculators often estimate $50–$100 for fasteners and connectors, but a 16x20 deck realistically needs $390 in joist hangers, post bases, carriage bolts, and structural screws alone. Railings are the other surprise: composite railing at $25–$60/linear foot can double the material cost compared to a basic wood deck."
+  - q: "How do I use my own material calculations to evaluate contractor quotes?"
+    a: "Run the numbers yourself before getting bids. When one quote is 30% lower than the others, your calculation tells you whether the low bidder is cutting scope or just more efficient. Ask for itemized quotes and compare joist counts, post counts, and hardware quantities against your own math. Significant discrepancies are worth questioning before you sign."
 draft: true
 ---
 

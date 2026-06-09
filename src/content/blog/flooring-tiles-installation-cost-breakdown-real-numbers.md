@@ -1,6 +1,6 @@
 ---
 title: "Flooring Tiles Installation Cost Breakdown: Real Numbers"
-description: "Step-by-step guide to flooring tiles installation cost: material options, installation tips, and honest cost expectations."
+description: "Floor tile installation costs $5–$25 per square foot installed. Here's what drives that range — materials, subfloor prep, and the hidden costs most guides skip."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -15,10 +15,10 @@ hero_image_prompt: "A photorealistic photograph of a professional installing flo
 faq:
   - q: "What's the most durable option for flooring tiles installation cost?"
     a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most flooring tiles installation cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to install floor tile myself?"
+    a: "At minimum: a wet tile saw ($100–$300 to buy or $50–$80/day to rent), notched trowels, a mixing drill, grout float, tile spacers, and a level. Budget $100–$300 for tools if starting from scratch."
+  - q: "What's the most common DIY tile mistake?"
+    a: "Lippage — tiles sitting at different heights — caused by insufficient thinset coverage or a subfloor that wasn't flat before installation. The fix is always in the prep: a flat subfloor and full-coverage thinset prevent the problem entirely."
 draft: true
 ---
 

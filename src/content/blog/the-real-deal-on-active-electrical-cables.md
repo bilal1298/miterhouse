@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Active Electrical Cables"
-description: "A straightforward guide to active electrical cables: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "Never assume a cable is dead based on appearance. A $15–$30 non-contact voltage tester is the most important electrical safety tool in your house — here's why and how to use it."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/the-real-deal-on-active-electrical-cables.webp
 hero_image_prompt: "A photorealistic photograph of an electrician installing a new outlet in a residential wall with exposed wiring visible in the open junction box, wire strippers and a voltage tester on a nearby step ladder. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro -- it's a safety and code issue."
+    a: "Replacing a light switch or outlet on a de-energized, tested circuit is within reach for a careful homeowner. But anything involving the breaker panel, adding new circuits, working with aluminum wiring (1965–1973 homes), troubleshooting unexplained electrical issues, or repairing a cable you accidentally drilled into requires a licensed electrician. The diagnostic charge for most residential electrical issues runs $150–$300 — a small cost compared to the alternatives."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "Identifying and safely working around active cables — which is what this guide covers — requires two tools (a non-contact voltage tester and a digital multimeter) and a disciplined habit of testing before touching. The technique is learnable. The mindset is the harder part: you must treat every cable as live until you have personally confirmed it is dead with a working tester. Never assume a cable is dead because it looks disconnected, because the switch is off, or because someone tells you they shut it off."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first -- rushing the setup phase causes most DIY failures."
+    a: "Assuming a cable is dead without testing it. Cables that look abandoned — disconnected wires, capped with tape, running to a covered outlet — can still be energized through a splice hidden in a wall or basement. Buy a Klein, Fluke, or Milwaukee non-contact voltage tester ($15–$30), test it on a known live outlet to confirm it works, and run it along every cable before you touch anything. This single habit prevents the vast majority of electrical accidents."
 draft: true
 ---
 

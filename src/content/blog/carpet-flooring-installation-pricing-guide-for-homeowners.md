@@ -1,6 +1,6 @@
 ---
 title: "Carpet Flooring Installation Pricing Guide for Homeowners"
-description: "From subfloor prep to final trim — a practical guide to carpet flooring installation cost with real costs and pro tips. Practical tips from real projects."
+description: "Carpet installation costs $3.50–$11 per sq ft fully installed. Padding quality matters as much as the carpet — cheap pad voids warranties and wears flat in a year."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a room with new carpet being 
 faq:
   - q: "Can I install carpet over existing flooring?"
     a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most carpet flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What tools do I need to DIY carpet installation?"
+    a: "A power stretcher (not just a knee kicker — under-stretched carpet ripples within months), a wall trimmer, tack strips, a seam iron and tape if joining rolls, and a sharp utility knife. Rent the power stretcher for $30–$50/day rather than buying one for a one-time job."
+  - q: "How long does carpet installation take for a typical bedroom?"
+    a: "A professional installs a standard 12x12 bedroom in 2–3 hours including furniture moving. A first-time DIYer should plan a full day for the same room — tack strips, padding, cutting, and stretching take longer than they look on video. Rooms with stairs or complex shapes are substantially slower."
 draft: true
 ---
 

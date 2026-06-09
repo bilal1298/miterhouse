@@ -1,6 +1,6 @@
 ---
 title: "Water Heater Constantly Running: A DIYer's Honest Take"
-description: "A straightforward guide to water heater constantly running: what you can handle yourself and when to pick up the phone. Practical tips from real projects."
+description: "A water heater running constantly wastes $20–$60/month. Sediment, a broken dip tube, or a hidden leak are the most likely causes — here's how to find out."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -11,12 +11,12 @@ date: 2026-07-03
 hero_image: /images/posts/water-heater-constantly-running-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What should I check first if my water heater keeps running?"
+    a: "Start with the free fixes: check the thermostat setting (120 degrees is the target), then flush the tank for sediment. If those don't resolve it, check the TPR valve discharge pipe for a drip and inspect toilets for cross-connections. Those four checks cost nothing and resolve the majority of constantly-running complaints."
+  - q: "Can a broken dip tube cause a water heater to run constantly?"
+    a: "Yes — a deteriorated dip tube routes cold incoming water to the top of the tank instead of the bottom, mixing it with hot water and causing the heater to chase a temperature it can never reach. Small white or blue plastic fragments in your faucet aerators are the tell. The dip tube costs $10–$30 and is a DIY repair on most models."
+  - q: "How do I find a reliable plumber for water heater issues?"
+    a: "Ask neighbors for referrals, check Google reviews filtered to the last 12 months, verify the license with your state plumbing board, and get at least two written quotes that itemize the specific repair — not just a total number."
 draft: true
 ---
 

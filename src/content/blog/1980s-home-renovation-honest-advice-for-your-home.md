@@ -1,6 +1,6 @@
 ---
 title: "1980s Home Renovation: Honest Advice for Your Home"
-description: "Real costs, realistic timelines, and practical steps for 1980s home renovation. Written by a homeowner who's been through it."
+description: "Renovating a 1980s home means tackling polybutylene pipes, aluminum wiring, and popcorn ceilings on a budget. Here's what to prioritize and what to leave alone."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-06-06
 hero_image: /images/posts/1980s-home-renovation-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner measuring cabinet dimensions in a kitchen with a tape measure and notepad, new cabinet samples on the counter, morning light through a window above the sink. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is 1980s home renovation worth the investment?"
-    a: "Most homeowners recoup 60–70% of 1980s home renovation costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "What's the biggest hidden cost in a 1980s home renovation?"
+    a: "Polybutylene plumbing replacement. Found in many homes built 1978–1995, PB pipe fails without warning and costs $4,000–$8,000 to repipe with PEX. Insurance companies in some states won't cover homes with PB pipe."
+  - q: "Do 1980s homes have asbestos?"
+    a: "Possibly. Popcorn ceilings applied before 1990 may contain asbestos. Test before disturbing — a home test kit costs $25–$40, or hire a certified lab for $200–$400. Professional abatement runs $3–$7 per square foot."
+  - q: "Should I upgrade the electrical panel in a 1980s home?"
+    a: "If you have a 100-amp panel and plan to add an EV charger, induction cooktop, or whole-home AC, yes. A 200-amp upgrade runs $1,500–$3,000 and prevents tripping issues with modern electrical loads."
 draft: false
 ---
 

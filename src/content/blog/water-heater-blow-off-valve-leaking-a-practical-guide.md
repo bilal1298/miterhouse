@@ -1,6 +1,6 @@
 ---
 title: "Water Heater Blow Off Valve Leaking: A Practical Guide"
-description: "Know what you're getting into with water heater blow off valve leaking. Costs, code requirements, and the honest DIY difficulty level."
+description: "A leaking T&P valve is protecting your tank or has failed. A $10–$20 replacement takes 20 minutes — but first diagnose why it's leaking."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a homeowner working under a k
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Can I replace the T&P valve myself?"
+    a: "Yes — it is standard 3/4-inch NPT threads, and the replacement takes about 20 minutes with a pipe wrench. Drain 2–3 gallons to drop the water level below the valve, wrap new threads with 6–8 turns of Teflon tape, and reinstall. Match the pressure rating on your old valve. The discharge pipe must be reconnected before you restore water and power."
+  - q: "What's the most dangerous thing people do with a leaking T&P valve?"
+    a: "Cap it, plug it, or install a valve on the discharge pipe to stop the dripping. The T&P valve is the only pressure safety device on the tank. Blocking it creates a potential tank rupture under pressure — a genuinely catastrophic failure. If the valve leaks, diagnose and fix the root cause (high pressure, thermal expansion, failed valve) rather than silencing it."
 draft: true
 ---
 

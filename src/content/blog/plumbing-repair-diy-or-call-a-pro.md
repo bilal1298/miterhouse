@@ -1,6 +1,6 @@
 ---
 title: "Plumbing Repair: DIY or Call a Pro?"
-description: "Should you DIY service and repair plumbing or call a pro? Real costs, skill requirements, and safety considerations. Practical tips from real projects."
+description: "Half of all plumbing service calls cover repairs you could do yourself in under an hour for $20 in parts. Here's the decision framework that tells you which half you're facing."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/plumbing-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
-    a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro — it's a safety and code issue."
+    a: "Running toilet, dripping faucet, clogged drain, supply valve replacement — all DIY. A plumber charges $125–$250 for a running toilet fix that a $12–$20 kit handles in 20 minutes. Sewer line problems, gas lines, hidden leaks, and repiping are professional work — the tools alone (camera inspection, hydro-jetting) are not consumer-accessible."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most service and repair plumbing projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "The core DIY plumbing toolkit: two adjustable wrenches, channel-lock pliers, a basin wrench, a flange plunger, a 25-foot hand drain snake, Teflon tape, and a universal toilet repair kit. Total investment is $100–$150 and covers about 90% of common household plumbing repairs."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Using chemical drain cleaners before a snake. If the chemicals fail, you are now snaking a drain full of caustic fluid — a safety hazard that makes the job worse. Go straight to the $25 hand snake; it handles most household clogs faster and without the risk."
 draft: true
 ---
 

@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of an electrician installing a n
 faq:
   - q: "Should I DIY this or hire a licensed professional?"
     a: "Basic tasks like replacing a faucet or outlet cover are DIY-friendly. Anything involving main lines, gas, load-bearing walls, or your electrical panel should go to a licensed pro -- it's a safety and code issue."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first -- rushing the setup phase causes most DIY failures."
+  - q: "Can a homeowner find the source of an electrical burning smell themselves?"
+    a: "Often yes -- unplugging appliances one by one eliminates the most common cause. If the smell persists after unplugging everything, or if it's strongest near the breaker panel, that's a same-day electrician call. Don't wait overnight on an unresolved electrical smell."
+  - q: "What's the most dangerous mistake when dealing with an electrical burning smell?"
+    a: "Dismissing a faint or intermittent burning smell as probably nothing. Loose connections can smolder for weeks before igniting -- and they cause roughly 24,000 residential fires annually. If you can't trace it to a specific unplugged appliance within an hour, call an electrician."
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Patio Enclosure Builders: Honest Advice for Your Home"
-description: "A hands-on guide to patio enclosure builders with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Patio enclosure builders charge $8,000–$50,000+ depending on whether you want a screen room or a full four-season sunroom. Here's how to tell them apart and hire right."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/patio-enclosure-builders-honest-advice-for-your-home.w
 hero_image_prompt: "A photorealistic photograph of a patio being laid with concrete pavers in a suburban backyard, with a herringbone pattern taking shape on a compacted gravel base, a plate compactor nearby, and polymeric sand being swept into joints. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
+    a: "Fall or early winter is ideal for getting quotes — sunroom-specific companies slow down after summer and are more willing to negotiate. Avoid scheduling the actual installation during late fall in cold climates, as sealants and HVAC connections need moderate temperatures to perform correctly."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most patio enclosure builders projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "A DIY screen room kit (like Screen Tight) requires basic aluminum framing assembly tools: a miter saw or chop saw for cutting aluminum, a cordless drill, a tape measure, and a screen installation tool to press screen into the frame channel. Four-season rooms are not DIY — they require licensed trades."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "A screen room typically takes 2 to 5 days for a professional crew. A three-season room takes 1 to 3 weeks. A four-season sunroom runs 4 to 12 weeks, including permit approval time. Add 2 to 8 weeks of permit processing before any work begins for anything beyond a simple screen room."
 draft: true
 ---
 

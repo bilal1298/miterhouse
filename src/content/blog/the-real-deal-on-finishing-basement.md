@@ -1,6 +1,6 @@
 ---
 title: "The Real Deal on Finishing Basement"
-description: "Practical guide to finishing basement: real costs per square foot, timelines, and the gotchas nobody warns about. Practical tips from real projects."
+description: "Finishing a basement costs $25–$50/sq ft DIY versus $100–$200/sq ft for a room addition. The value is real — but moisture and radon testing come before a single stud goes up."
 author: daniel-ware
 category: basement-attic
 tags:
@@ -12,11 +12,11 @@ hero_image: /images/posts/the-real-deal-on-finishing-basement.webp
 hero_image_prompt: "A photorealistic photograph of a basement being finished with metal stud framing going up, fiberglass insulation batts between some studs, recessed lighting cans visible in the ceiling joists above, and a level leaning against the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
   - q: "What about moisture problems?"
-    a: "Address any moisture issues before finishing. This means proper exterior grading, waterproofing, a sump pump if needed, and a good dehumidifier. Finishing over a wet problem guarantees mold."
+    a: "Tape 2-foot squares of polyethylene to the floor and walls and check after 72 hours — moisture droplets under the plastic mean vapor is migrating through the concrete. Also run a digital hygrometer for two weeks; sustained readings above 55–60% need addressing before you frame anything. The fixes range from improving exterior grading and sealing cracks (cheap) to a full interior waterproofing system with a sump pump ($3,000–$8,000). Get this resolved first. Finishing over active moisture guarantees mold inside your walls within a few years."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "Most of the individual tasks are learnable: framing, insulation, hanging drywall, and flooring are all within reach of a patient first-timer. The electrical rough-in is where most people draw the line — either learn it from a quality reference and have it inspected, or hire that portion out. The project sequence is strict (see the work order in this guide), and the penalty for skipping steps — particularly moisture assessment and permits — is expensive. If you follow the sequence and do not rush, a capable DIYer can finish a basement successfully."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "An 8-phase sequence is outlined in this guide: from moisture and radon assessment through final inspections. Working weekends and evenings, a DIYer tackling a 500–700 sq ft basement typically takes 3–5 months. The permit and inspection timeline varies by municipality — framing, electrical rough-in, plumbing rough-in, and HVAC each need separate inspections before walls close. A contractor doing the same scope professionally takes 4–8 weeks."
 draft: true
 ---
 

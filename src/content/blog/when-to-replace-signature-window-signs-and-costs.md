@@ -1,6 +1,6 @@
 ---
 title: "When to Replace Signature Window: Signs and Costs"
-description: "Planning signature window replacement? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Replacing a signature window costs $800–$3,500. Arched tops and bay windows need custom orders with 4–8 week lead times — here's when repair makes more sense."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a replacement window being in
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most signature window replacement projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Is fiberglass worth the premium for signature window replacements?"
+    a: "Yes, for larger units. Fiberglass is strong enough to span large picture windows without deflecting, handles temperature extremes without noticeable expansion or contraction, and can be painted any color — important when the window is a visual centerpiece. For arched or specialty shapes, fiberglass holds its geometry better than vinyl over time."
+  - q: "What's the most common mistake when replacing a signature window?"
+    a: "Not inspecting the rough opening and surrounding wall before the new unit goes in. Signature windows are heavy, the headers above them bear significant load, and water infiltration from a failing old window often saturates the framing. Discovering rot or structural damage after the replacement window arrives adds $100–$500 and a scheduling delay to the project."
 draft: true
 ---
 

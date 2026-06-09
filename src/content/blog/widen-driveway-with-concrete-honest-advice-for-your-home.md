@@ -1,6 +1,6 @@
 ---
 title: "Widen Driveway with Concrete: Honest Advice for Your Home"
-description: "Planning widen driveway with concrete? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Widening a driveway 3x40 feet costs $2,000–$4,500 installed or $450–$850 DIY. Call 811 before you dig — utilities are common in that strip."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-15
 hero_image: /images/posts/widen-driveway-with-concrete-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a concrete driveway being poured in front of a suburban home, with workers smoothing wet concrete with a bull float, forms along the edges, and a concrete truck parked in the street. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "When's the best time of year to widen a driveway?"
+    a: "Spring and fall are ideal — temperatures between 50 and 85 degrees let concrete cure properly. Avoid summer heat waves (concrete sets too fast, making finishing difficult) and any threat of freezing temperatures within the first 7 days after the pour."
+  - q: "Can a beginner pour a concrete driveway extension?"
+    a: "A 1.5-cubic-yard pour for a 3x40-foot extension is within reach for a motivated beginner with a helper. The key skills are getting the gravel sub-base flat and compacted, setting forms at the right grade, and moving quickly once the concrete is placed — you have 60–90 minutes before it's unworkable. Order a short-load delivery rather than hand-mixing 60 bags."
+  - q: "How long before I can drive on the new concrete?"
+    a: "Keep vehicles off for at least 7–10 days. Avoid heavy vehicles (pickup trucks with loads, delivery trucks) for the full 28-day curing period. New concrete reaches about 70% of its final strength in 7 days but continues curing for a month."
 draft: true
 ---
 

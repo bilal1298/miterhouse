@@ -1,6 +1,6 @@
 ---
 title: "Federal Way Kitchen Remodel: What Homeowners Should Know"
-description: "A no-fluff guide to federal way kitchen remodel with real material costs, labor estimates, and the mistakes to skip. Practical tips from real projects."
+description: "A Federal Way kitchen remodel costs $25,000–$75,000 in 2026. King County permits, older home surprises, and contractor tips specific to this Seattle-area market."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-09-05
 hero_image: /images/posts/federal-way-kitchen-remodel-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is federal way kitchen remodel worth the investment?"
-    a: "Most homeowners recoup 60-70% of federal way kitchen remodel costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most federal way kitchen remodel projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is a kitchen remodel worth it in Federal Way's market?"
+    a: "Homes in the $400,000–$600,000 range benefit most from mid-range updates. A $30,000–$45,000 remodel typically returns 60–70% at resale in this bracket, plus years of daily improvement — which is where the real value lives."
+  - q: "What hidden costs should Federal Way homeowners expect?"
+    a: "Asbestos testing ($200–$500) and possible abatement in pre-1980 homes, electrical panel upgrades from 100-amp to 200-amp ($1,500–$3,000), and subfloor damage around the sink and dishwasher area. Budget a 15–20% contingency specifically for these."
+  - q: "How long does a mid-range Federal Way kitchen remodel take?"
+    a: "Six to ten weeks from demo to punch list, assuming permits are in hand. The biggest timeline killer is the countertop template-to-install gap — fabricators need 5–10 business days after templating, and they can't template until cabinets are fully installed and level."
 draft: true
 ---
 

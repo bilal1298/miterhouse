@@ -11,12 +11,12 @@ date: 2026-07-17
 hero_image: /images/posts/finding-good-water-damage-remediation-contractors-near-you.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner assessing water damage in a basement with a moisture meter pressed against a damp wall, dehumidifier running, and water stains visible on the lower portion of the drywall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How do I find a reliable plumber or electrician?"
-    a: "Ask neighbors for referrals, check reviews on multiple platforms, verify their license and insurance, and always get at least three written quotes before deciding."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I find a reliable water damage remediation company?"
+    a: "Ask your insurance company for their preferred vendor list, and independently search the IICRC directory for certified firms in your area. Your plumber is also a good referral source — they respond to water emergencies regularly and know which companies do quality drying work."
+  - q: "Can a homeowner handle water damage cleanup themselves?"
+    a: "Small, clean-water incidents dried within 24–48 hours are DIY-manageable with a rental dehumidifier and fans. Contaminated water (sewage or river flooding), any mold growth, or damage covering multiple rooms requires professional remediation — the health risks and documentation requirements make DIY a bad bet."
+  - q: "How long does water damage remediation take?"
+    a: "Structural drying alone takes 3–7 days of continuous dehumidification. The full remediation process — extraction, drying, demolition of damaged materials, antimicrobial treatment — typically runs 5–10 days. Reconstruction is a separate phase that follows after the space is certified dry."
 draft: true
 ---
 

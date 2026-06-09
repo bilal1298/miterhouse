@@ -1,6 +1,6 @@
 ---
 title: "Sprinkler Valve Repair Cost: What to Expect in 2026"
-description: "A hands-on guide to sprinkler valve repair cost with actual project costs, timelines, and what to watch out for. Practical tips from real projects."
+description: "Sprinkler valve repair costs $75–$250 DIY or $150–$400 with a tech. A solenoid swap takes 15 minutes at $15–$30 — here's when that fixes it and when it won't."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a lawn irrigation system bein
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most sprinkler valve repair cost projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools do I need to repair a sprinkler valve?"
+    a: "A standard screwdriver and pliers handle solenoid and diaphragm swaps — no special tools required. Full valve replacement (when the body is cracked) requires PVC primer and cement, a pipe cutter, and about 2 hours cure time before pressurizing."
+  - q: "What's the most common mistake when repairing sprinkler valves?"
+    a: "Replacing the solenoid when the real problem is debris under the diaphragm — or replacing the diaphragm when the actual fault is corroded wire nuts between the controller and the valve. Test the solenoid first, then open the valve bonnet to inspect the diaphragm, and only then trace the wiring."
 draft: true
 ---
 

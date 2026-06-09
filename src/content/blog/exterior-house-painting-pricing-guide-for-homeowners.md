@@ -1,6 +1,6 @@
 ---
 title: "Exterior House Painting Pricing Guide for Homeowners"
-description: "A practical guide to exterior house painting cost — from surface prep to final coat. Real techniques that work. Practical tips from real projects."
+description: "Exterior painting costs $3,000–$14,000 for most homes. Here's what drives the price — siding type, prep work, paint quality — and where contractors cut corners."
 author: daniel-ware
 category: painting-walls
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of the exterior of a two-story s
 faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a beginner paint their own home exterior?"
+    a: "Single-story homes with decent existing paint and a week to dedicate are realistic DIY candidates. Two-story homes with failing paint require scaffolding and extensive scraping — most solo DIYers underestimate how much of the project is prep, not painting."
+  - q: "How long does a DIY exterior paint job take?"
+    a: "A solo DIYer should budget 40–60 hours for a standard single-story house — mostly prep work like washing, scraping, caulking, and priming. A professional crew of three finishes the same house in two to three days. Spreading the project over weekends means two to four weeks of elapsed time."
 draft: true
 ---
 

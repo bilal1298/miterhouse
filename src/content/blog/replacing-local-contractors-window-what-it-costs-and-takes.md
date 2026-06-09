@@ -1,6 +1,6 @@
 ---
 title: "Replacing Local Contractors Window: What It Costs and Takes"
-description: "Everything you need for local contractors for window replacement: materials, costs, permits, and lessons from actual backyard projects."
+description: "Local window contractors typically save you $3,000–$8,000 on a 15-window project compared to national chains. Here's how to find reliable ones and vet them properly."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -11,12 +11,12 @@ date: 2026-10-01
 hero_image: /images/posts/replacing-local-contractors-window-what-it-costs-and-takes.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Do I need a permit for this project?"
-    a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most local contractors for window replacement projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "Do I need a permit when using a local contractor?"
+    a: "Yes, and your local contractor should pull it without being asked. Full-frame replacements and size changes almost always require permits. The permit protects you — it ensures an inspector verifies the installation meets energy code, proper flashing details, and egress sizing in bedrooms. If a local contractor suggests skipping the permit to save money, find a different contractor."
+  - q: "How do I verify a local contractor is legitimate?"
+    a: "Verify their state contractor license through your state licensing board's online lookup. Call the insurance carrier on their Certificate of Insurance to confirm the policy is active — not just that a certificate was issued. Ask for references from projects in the last 12 months, not career highlights. Drive by past installations if possible and check exterior caulk lines and trim fit."
+  - q: "What's the most common mistake when comparing local bids?"
+    a: "Comparing total prices without comparing scope. Build a spreadsheet with every window's brand, U-factor, SHGC, installation type, and labor warranty side by side. The cheapest bid often excludes items the middle bid includes — like proper flashing, interior trim restoration, or permit fees. A $1,500 difference often disappears once you add what the low bid excluded."
 draft: true
 ---
 

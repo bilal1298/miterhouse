@@ -1,6 +1,6 @@
 ---
 title: "Install Hardwood Flooring Cost: What to Expect in 2026"
-description: "From subfloor prep to final trim — a practical guide to install hardwood flooring cost with real costs and pro tips. Practical tips from real projects."
+description: "Hardwood flooring costs $6–$18/sq ft installed in 2026. Here's what drives the price range — species, installation method, and subfloor prep requirements."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -16,9 +16,9 @@ faq:
   - q: "What's the most durable option for hardwood flooring?"
     a: "Porcelain tile and luxury vinyl plank top the durability charts for most rooms. The right choice depends on your room's moisture exposure, traffic level, and subfloor condition."
   - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most hardwood flooring installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
+    a: "Nail-down solid hardwood requires a pneumatic floor nailer (rent for $50–$80/day), miter saw, moisture meter, and tapping block. Click-lock engineered hardwood needs only a utility knife, pull bar, tapping block, and spacers — no specialized tools required."
   - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+    a: "Skipping moisture testing is the hardwood installer's most expensive mistake. The NWFA requires the subfloor and hardwood moisture content to be within 2–4 percentage points of each other. Ignoring this causes cupping, buckling, and gaps — and the warranty won't cover it."
 draft: true
 ---
 

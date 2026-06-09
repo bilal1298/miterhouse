@@ -1,6 +1,6 @@
 ---
 title: "Hiring a Deck Building Contractor: Red Flags and Tips"
-description: "Everything you need for deck building contractor: materials, costs, permits, and lessons from actual backyard projects. Practical tips from real projects."
+description: "How to evaluate a deck contractor before signing — license verification, insurance checks, contract must-haves, and the warning signs of a bad build."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -11,12 +11,12 @@ date: 2026-06-09
 hero_image: /images/posts/hiring-a-deck-building-contractor-what-to-look-for.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year for this project?"
-    a: "Spring and fall offer the best weather for most outdoor projects. Avoid extreme heat, freezing temperatures, and the rainy season in your area. Many contractors offer off-season discounts."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most deck building contractor projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "How do I verify a deck contractor's license?"
+    a: "Search your state's contractor licensing board website and confirm the license number, active status, and expiration date. If your state doesn't require licensing, check for local business licenses and trade registrations."
+  - q: "What should a deck contractor quote include?"
+    a: "An itemized breakdown: materials by category (decking, framing, hardware, railing), labor as a separate line, permit fees, demolition, site prep, and cleanup. A single-line quote like 'Build deck: $15,000' isn't enough to compare bids."
+  - q: "How much should I hold back until the deck is finished?"
+    a: "10–15% of the total cost. Release it only after the final building inspection passes and every punch list item is complete. This is your leverage for getting details right."
 draft: false
 ---
 

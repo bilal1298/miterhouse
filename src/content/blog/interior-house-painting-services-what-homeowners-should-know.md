@@ -14,9 +14,9 @@ faq:
   - q: "How many coats of paint do I actually need?"
     a: "Two coats is the standard for good coverage and durability. One coat rarely looks right, and three is only needed over dark colors or with very light-colored paint."
   - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
+    a: "Bedrooms and living rooms with smooth walls in good condition are very manageable for a first-timer. The challenging parts are stairwells (dangerous ladder work), trim cutting-in (takes 50 linear feet of practice to get a clean edge), and ceilings (physical, and lap marks show easily). Start with a flat-walled bedroom to build your technique."
   - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+    a: "A professional crew of two paints a standard bedroom in 4 to 6 hours. Plan on 8 to 12 hours as a homeowner doing the same room with full prep, two coats, and cleanup. A whole house takes a pro crew a week — budget 3 to 6 weekends if you're doing it yourself."
 draft: true
 ---
 

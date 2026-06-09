@@ -1,6 +1,6 @@
 ---
 title: "Wrought Iron Fence Installation: Costs and Tips"
-description: "Planning wrought iron fence installation? Real costs, material comparisons, and the steps most DIY guides skip. Practical tips from real projects."
+description: "Wrought iron fence costs $30–$100 per linear foot installed. Most residential 'wrought iron' is ornamental steel — here's what that means for price and upkeep."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -14,10 +14,10 @@ hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being b
 faq:
   - q: "Do I need a permit for this project?"
     a: "Permit requirements vary by municipality. Generally, structures over a certain height or size, anything near property lines, and electrical/plumbing work require permits. Call your local building department to check."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most wrought iron fence installation projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What tools are needed for wrought iron fence installation?"
+    a: "Post-hole digger, level, string line, concrete mixing tools, and an angle grinder with a metal cutoff wheel for any panel trimming. Panels weigh 50–80 pounds each, so a helper is not optional. Every cut edge must be re-primed and painted immediately to prevent rust — an overlooked cut becomes a rust problem within one season."
+  - q: "What's the most common mistake with wrought iron fencing?"
+    a: "Getting the posts even a half-inch out of alignment. With wood fencing you can fudge gaps with a board width, but ornamental steel panels have fixed dimensions — if two posts are not exactly parallel at panel-width spacing, the brackets won't line up. Setting corner and end posts first, then running a string line and setting all interior posts to that string, is the approach that prevents this."
 draft: true
 ---
 

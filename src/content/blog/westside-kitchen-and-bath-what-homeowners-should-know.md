@@ -1,6 +1,6 @@
 ---
 title: "Westside Kitchen and Bath: What Homeowners Should Know"
-description: "Real costs, realistic timelines, and practical steps for westside kitchen and bath. Written by a homeowner who's been through it."
+description: "A combined kitchen and bath remodel costs $15,000–$50,000, with kitchens taking 60–70% of the budget. Here's how to sequence it and avoid scope creep."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -13,10 +13,10 @@ hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with
 faq:
   - q: "How much does a westside kitchen and bath remodel cost on average?"
     a: "A mid-range kitchen and bath remodel typically runs $15,000-$40,000 combined, depending on materials and whether you hire a contractor. Get three local quotes for the best estimate."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "What's the most common mistake to avoid?"
-    a: "Skipping proper preparation is the number-one mistake. Whether it's surface prep, measuring twice, or reading the full instructions first — rushing the setup phase causes most DIY failures."
+  - q: "What parts of a kitchen and bath remodel can a beginner handle?"
+    a: "Demolition is the most beginner-friendly task — and between two rooms, DIY demo saves $1,000–$2,500 in labor. Painting, hardware installation, and appliance swaps are also realistic for careful first-timers. Tile work, plumbing, and electrical rough-in require trades or significant skill to get right."
+  - q: "What's the most common mistake in combined kitchen and bath projects?"
+    a: "Scope creep — starting with a surface refresh and gradually escalating as you discover problems or fall in love with upgrade options mid-project. Set a firm budget ceiling before demolition starts, build in 10–15% contingency, and require any additions to be priced in writing before the contractor proceeds. Every mid-project change costs money and delays the timeline."
 draft: true
 ---
 

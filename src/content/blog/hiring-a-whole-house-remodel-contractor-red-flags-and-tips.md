@@ -1,6 +1,6 @@
 ---
 title: "Hiring a Whole House Remodel Contractor: Red Flags and Tips"
-description: "A no-fluff guide to whole house remodel contractors with real material costs, labor estimates, and the mistakes to skip."
+description: "Whole house remodels cost $100–$300 per square foot with a GC. How to vet candidates, structure the contract, and spot the red flags before signing."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -11,12 +11,12 @@ date: 2026-08-13
 hero_image: /images/posts/hiring-a-whole-house-remodel-contractor-red-flags-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of bathroom fixtures laid out on a clean countertop including a brushed nickel faucet, handles, a towel bar, and mounting hardware, with installation instructions visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Is whole house remodel contractors worth the investment?"
-    a: "Most homeowners recoup 60–70% of whole house remodel contractors costs at resale, and the daily comfort improvement is significant. Focus on quality basics over luxury upgrades for the best return."
-  - q: "What tools do I need for this project?"
-    a: "The exact tools depend on your approach, but most whole house remodel contractors projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Is a whole house remodel worth the investment?"
+    a: "If you're staying 10+ years and the home matches your needs after renovation, yes. If you're planning to sell within 3–5 years, a full gut renovation rarely returns its full cost. In that scenario, renovate existing spaces selectively — kitchens, bathrooms, and cosmetic upgrades deliver better dollar-for-dollar returns than structural changes."
+  - q: "How do I verify a whole house remodel contractor's financial stability?"
+    a: "Ask for a bank or financial reference, how many simultaneous projects they run, and whether they have a materials credit line. A contractor running 6+ residential projects at once is spread thin. Financial instability mid-project means subcontractors go unpaid and work stops — on your house."
+  - q: "How long does a whole house remodel typically take?"
+    a: "A cosmetic whole-house refresh takes 2–4 months. A moderate remodel touching kitchens, bathrooms, and flooring takes 4–8 months. A full gut renovation with structural changes runs 8–14 months. Add 20% to any estimate as a realistic contingency — no whole house remodel in history has finished early."
 draft: true
 ---
 

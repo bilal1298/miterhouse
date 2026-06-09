@@ -1,6 +1,6 @@
 ---
 title: "Cracked Roof Tile: A Practical Guide"
-description: "From subfloor prep to final trim — a practical guide to cracked roof tile with real costs and pro tips. Practical tips from real projects."
+description: "A cracked roof tile costs $50–$150 to repair professionally. Ignore it and water damages underlayment and decking — a $2,000–$5,000 problem from a $50 fix."
 author: daniel-ware
 category: flooring-tile
 tags:
@@ -12,12 +12,12 @@ date: 2026-07-28
 hero_image: /images/posts/cracked-roof-tile-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "Can I install cracked roof tile over existing flooring?"
-    a: "Some flooring goes directly over existing surfaces (LVP, laminate), while others need bare subfloor (tile, hardwood). Check your specific product requirements and subfloor condition first."
-  - q: "Can a beginner handle this project?"
-    a: "With proper research, the right tools, and realistic expectations about timeline, many first-timers succeed. Start with a small area to build confidence before tackling the main project."
-  - q: "How long should I expect this project to take?"
-    a: "A focused DIYer working weekends should budget 2–3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
+  - q: "Can a homeowner replace a cracked roof tile themselves?"
+    a: "Yes, on a moderate-pitch roof (under 6/12 pitch) if you have matching replacement tiles. The process involves propping up the overlapping tiles with wooden wedges, sliding the cracked tile out, and sliding the replacement in. The hardest part is sourcing a matching tile — always keep spares from the original installation."
+  - q: "What's the difference between a hairline crack and a through-crack?"
+    a: "A hairline surface crack that doesn't go through the full tile thickness is cosmetic on glazed clay and low urgency. A through-crack allows direct water access to the underlayment and needs repair or replacement promptly. Test by looking for daylight through the crack or running a hose above it and checking the attic for drips."
+  - q: "Why do roofers charge so much just to replace one tile?"
+    a: "Most roofers have a minimum service charge of $150–$300 regardless of job size. The cost of mobilizing, safety setup, and driving to your home is the same whether they replace 1 tile or 10. Bundling multiple small repairs into one service call — or fixing the single tile yourself — is the cost-effective approach."
 draft: true
 ---
 
