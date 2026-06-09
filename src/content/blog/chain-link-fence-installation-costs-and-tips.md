@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-08
+date: 2026-06-09
 hero_image: /images/posts/chain-link-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "The exact tools depend on your approach, but most installation chain link fence projects need basic measuring and marking tools, safety gear, and the category-specific tools covered in the article above."
   - q: "How long should I expect this project to take?"
     a: "A focused DIYer working weekends should budget 2-3x the time a pro would take. Factor in supply runs, learning curves, and the inevitable re-dos. Better to plan generously than rush."
-draft: true
+draft: false
 ---
 
 A professionally installed chain link fence costs between $15 and $40 per linear foot, putting a typical 200-foot residential perimeter fence in the $3,000 to $8,000 range. Going the DIY route cuts that roughly in half — $8 to $18 per linear foot for materials — but you will need a full weekend, a helper, and a few rented tools to get it done right.
