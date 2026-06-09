@@ -122,7 +122,7 @@ Adapter fittings are available for connecting different sizes (e.g., 1/2-inch co
 
 **Mixing materials.** Brass compression fittings on copper tube work well because the metals are compatible. Brass fittings on galvanized steel pipe create galvanic corrosion that leads to failure. If you are connecting dissimilar metals, use a dielectric union or transition fitting, not a compression fitting.
 
-For related plumbing projects around the house, our [kitchen renovation services](/blog/the-real-deal-on-kitchen-renovation-services/) and [sustainable home renovation](/blog/sustainable-home-renovation-what-homeowners-should-know/) guides cover plumbing upgrade decisions within larger renovation contexts.
+For related plumbing projects around the house, our [kitchen renovation services](/blog/kitchen-remodel-services-a-practical-guide/) and [sustainable home renovation](/blog/sustainable-home-renovation-what-homeowners-should-know/) guides cover plumbing upgrade decisions within larger renovation contexts.
 
 ## Compression Fittings vs. Other Connection Methods
 

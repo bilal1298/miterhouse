@@ -135,7 +135,7 @@ Vinyl flooring is not recyclable through standard municipal programs. Disposal o
 - **Landfill drop-off** ($30 to $80 per load at most transfer stations)
 - **Asbestos-containing material** requires disposal at a certified facility, which the abatement contractor handles as part of their service
 
-Most [new flooring installers](/blog/installing-vinyl-flooring-cost-what-to-expect-in-2026/) will remove the old vinyl as part of their quote — often at a lower cost than hiring a separate removal crew, since they are already on-site with the tools and [vehicle for hauling debris](/blog/installation-vinyl-flooring-cost-what-to-expect-in-2026/).
+Most [new flooring installers](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/) will remove the old vinyl as part of their quote — often at a lower cost than hiring a separate removal crew, since they are already on-site with the tools and [vehicle for hauling debris](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/).
 
 Check the [IRC building code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) for your area's specific requirements regarding subfloor condition after removal — the code specifies flatness tolerances and moisture levels that must be met before new flooring is installed. The [NWFA standards](https://www.nwfa.org/) also provide detailed subfloor preparation guidelines applicable to any flooring type.
 

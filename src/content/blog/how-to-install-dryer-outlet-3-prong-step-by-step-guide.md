@@ -173,4 +173,4 @@ The [UL safety standards](https://www.ul.com/) and the NEC both moved to 4-prong
 
 The DIY savings are real, but the project involves 240V wiring where mistakes have serious consequences. If you are comfortable with electrical work, have the right tools, and follow every safety step, replacing an existing outlet is a reasonable DIY project. Running a new circuit from the panel is more complex and involves working in or near a live panel — many experienced DIYers draw the line there, and there is no shame in that.
 
-A [licensed electrician](/blog/heat-pump-ac-repair-guide-what-to-know/) brings code knowledge, liability insurance, and the ability to pull a permit and have the work inspected. For a project that directly affects the safety of your home's electrical system, the professional markup buys genuine peace of mind.
+A [licensed electrician](/blog/heat-pump-air-conditioner-repairs-a-homeowners-guide/) brings code knowledge, liability insurance, and the ability to pull a permit and have the work inspected. For a project that directly affects the safety of your home's electrical system, the professional markup buys genuine peace of mind.

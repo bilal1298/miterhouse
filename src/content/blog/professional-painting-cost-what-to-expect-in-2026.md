@@ -97,7 +97,7 @@ Getting three quotes is the minimum. Five is better for a large project. But the
 
 **Bundle rooms.** Painting three rooms is proportionally cheaper than painting one room three separate times. The setup, cleanup, and mobilization costs are spread across more work. If you are considering multiple rooms, get a single quote for all of them.
 
-For context on how professional costs compare to doing it yourself, our guides on [room painting costs](/blog/painting-room-pricing-guide-for-homeowners/) and [interior painting costs](/blog/interior-home-painting-pricing-guide-for-homeowners/) break down the DIY math. And if you are considering the exterior, see our [exterior painting pricing guide](/blog/exterior-house-painting-pricing-guide-for-homeowners/) for a full breakdown.
+For context on how professional costs compare to doing it yourself, our guides on [room painting costs](/blog/painting-rooms-pricing-guide-for-homeowners/) and [interior painting costs](/blog/interior-house-painting-services-what-homeowners-should-know/) break down the DIY math. And if you are considering the exterior, see our [exterior painting pricing guide](/blog/exterior-house-painting-pricing-guide-for-homeowners/) for a full breakdown.
 
 ## What to Expect During the Project
 

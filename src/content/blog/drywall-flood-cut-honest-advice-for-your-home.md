@@ -105,7 +105,7 @@ With the wall cavities exposed, inspect every stud, bottom plate, and any blocki
 
 Treat exposed framing with a borate-based antimicrobial solution. Products like Bora-Care or Tim-Bor penetrate the wood and provide long-term mold and rot prevention. Follow the product's mixing and application instructions.
 
-If the bottom plate (the horizontal 2x4 at the floor level) is severely deteriorated, it needs replacement. This is structural work — if you are not comfortable with it, this is where [a drywall specialist](/blog/drywall-specialist-repair-guide-what-to-know/) or a general contractor earns their fee.
+If the bottom plate (the horizontal 2x4 at the floor level) is severely deteriorated, it needs replacement. This is structural work — if you are not comfortable with it, this is where [a drywall specialist](/blog/drywall-professional-repairs-a-homeowners-guide/) or a general contractor earns their fee.
 
 ### Step 6: Dry Everything
 
@@ -146,7 +146,7 @@ For detailed guidance on taping and finishing techniques, our [drywall repair gu
 - Drywall replacement and finishing: $6 to $12 per linear foot
 - Total for a typical room (50 linear feet of wall): $1,000 to $3,500
 
-Insurance coverage applies if the flooding was from a covered event. Document everything before, during, and after the work. Your adjuster will want photos of the [water damage](/blog/the-real-deal-on-water-stained-drywall/), the exposed cavities, and the completed repair.
+Insurance coverage applies if the flooding was from a covered event. Document everything before, during, and after the work. Your adjuster will want photos of the [water damage](/blog/water-stains-on-drywall-honest-advice-for-your-home/), the exposed cavities, and the completed repair.
 
 ## Common Mistakes to Avoid
 
@@ -170,6 +170,6 @@ A straightforward flood cut in a single room is a manageable DIY project if you 
 - [Extensive damage across multiple rooms](/blog/drywall-arlington-repair-guide-what-to-know/)
 - Insurance claim requiring certified documentation
 
-Water damage restoration companies handle [the full process](/blog/drywall-flood-cut-honest-advice-for-your-home/) from demolition through rebuild and can provide the documentation your insurance company requires. The [EPA's renovation guidelines](https://www.epa.gov/lead/renovation-repair-and-painting-program) apply if your home was built before 1978 and the work will disturb painted surfaces.
+Water damage restoration companies handle the full process from demolition through rebuild and can provide the documentation your insurance company requires. The [EPA's renovation guidelines](https://www.epa.gov/lead/renovation-repair-and-painting-program) apply if your home was built before 1978 and the work will disturb painted surfaces.
 
 A flood cut done right protects your home for decades. Done poorly or skipped entirely, it sets the stage for hidden mold, deteriorating framing, and a much more expensive problem down the road.

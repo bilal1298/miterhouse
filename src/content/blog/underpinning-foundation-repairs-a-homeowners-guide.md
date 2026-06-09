@@ -146,7 +146,7 @@ No. Foundation underpinning is not a DIY project under any circumstances. The re
 
 **Liability.** If you sell the home, foundation repairs performed without permits, engineering, and licensed contractors are a disclosure nightmare. A buyer's inspector will identify non-permitted structural work, and their lender may refuse to finance the purchase.
 
-What you can do yourself is the detective work: monitoring cracks, photographing changes, checking drainage and grading, and cleaning gutters and maintaining downspout extensions. These [water management tasks](/blog/blown-insulation-per-square-foot-cost-breakdown-real-numbers/) — while not structural repairs themselves — directly protect your foundation from the water-related causes of failure.
+What you can do yourself is the detective work: monitoring cracks, photographing changes, checking drainage and grading, and cleaning gutters and maintaining downspout extensions. These [water management tasks](/blog/blown-in-insulation-per-square-foot-cost-what-to-expect-in-2026/) — while not structural repairs themselves — directly protect your foundation from the water-related causes of failure.
 
 ## Finding the Right Foundation Contractor
 

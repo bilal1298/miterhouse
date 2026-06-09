@@ -24,7 +24,7 @@ draft: true
 
 The average cost of cabinet painting runs $3,000 to $7,000 for a professional job on a standard kitchen, or $200 to $500 in materials if you tackle it yourself. Bathroom vanity cabinets are considerably less — $300 to $800 professionally, $50 to $150 DIY — since you are dealing with far fewer doors and a smaller footprint.
 
-Cabinet painting is arguably the highest-impact, lowest-cost kitchen update you can do. Before you commit to a [full kitchen overhaul](/blog/80s-kitchen-remodel-a-practical-guide/), a fresh coat on the cabinets may be all you need.
+Cabinet painting is arguably the highest-impact, lowest-cost kitchen update you can do. Before you commit to a [full kitchen overhaul](/blog/80s-kitchen-remodel-honest-advice-for-your-home/), a fresh coat on the cabinets may be all you need.
 
 ## What Determines the Price
 
@@ -149,7 +149,7 @@ During the painting process, your kitchen is functional but unpleasant — no do
 
 ## Bathroom Cabinet Painting
 
-Bathroom vanities are simpler because they are smaller — typically 2 to 6 doors and 2 to 4 drawers. But [bathroom environments](/blog/hiring-a-general-kitchen-remodel-contractor-red-flags-and-tips/) add a challenge: moisture.
+Bathroom vanities are simpler because they are smaller — typically 2 to 6 doors and 2 to 4 drawers. But bathroom environments add a challenge: moisture.
 
 For bathroom cabinets:
 - Use a moisture-resistant primer

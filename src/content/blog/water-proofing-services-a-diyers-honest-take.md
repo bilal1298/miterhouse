@@ -158,7 +158,7 @@ Beyond the waterproofing work itself, budget for these common extras:
 
 **Interior finishing:** If basement walls were finished (drywall, paneling) and had to be removed for waterproofing access, reinstalling that finish is an additional cost.
 
-For related water damage topics, our guides on [finding water damage remediation contractors](/blog/finding-good-water-damage-remediation-contractors-near-you/), [flooded home repair](/blog/flooded-home-repair-diy-or-call-a-pro/), [water-damaged ceiling tiles](/blog/water-damage-ceiling-tiles-honest-advice-for-your-home/), and [water-damaged cabinets](/blog/the-real-deal-on-water-damaged-cabinets/) cover specific repair scenarios you may face alongside waterproofing.
+For related water damage topics, our guides on [finding water damage remediation contractors](/blog/finding-good-water-damage-remediation-contractors-near-you/), [flooded home repair](/blog/water-damage-repair-diy-or-call-a-pro/), [water-damaged ceiling tiles](/blog/water-damage-ceiling-tiles-honest-advice-for-your-home/), and [water-damaged cabinets](/blog/the-real-deal-on-water-damaged-cabinets/) cover specific repair scenarios you may face alongside waterproofing.
 
 ## The Bottom Line on Waterproofing ROI
 

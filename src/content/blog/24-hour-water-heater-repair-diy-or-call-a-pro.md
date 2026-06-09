@@ -33,7 +33,7 @@ Before you pick up the phone or grab a wrench, figure out what you are actually 
 
 **Water is lukewarm but not hot.** This usually points to a failing thermostat or heating element. On electric units, elements run $8 to $25 each. On gas units, a faulty thermocouple costs $10 to $30 for the part.
 
-**Strange noises.** Popping, rumbling, or banging usually means sediment buildup in the tank. A [flush of the tank](/blog/how-often-to-flush-hot-water-heater-a-diyers-honest-take/) can resolve this, and it is something any homeowner can do with a garden hose.
+**Strange noises.** Popping, rumbling, or banging usually means sediment buildup in the tank. A [flush of the tank](/blog/how-often-should-i-flush-my-water-heater-honest-guide/) can resolve this, and it is something any homeowner can do with a garden hose.
 
 **Leaking from the base.** This is the one that genuinely warrants a call. A leaking tank usually means internal corrosion, and that means replacement, not repair.
 
@@ -56,7 +56,7 @@ There is a clear line between repairs a competent homeowner can handle and those
 - **Gas line connections or modifications.** Gas leaks can cause explosions. This is not the place to learn on the job. If you [smell gas near your water heater](/blog/water-heater-smells-like-gas-but-no-leak-honest-guide/), shut off the gas supply and ventilate the area immediately.
 - **Electrical panel work.** If the problem traces back to your service panel, hire a licensed electrician. The [National Fire Protection Association](https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70) publishes the electrical code for a reason.
 - **Full unit replacement.** A tank water heater weighs 100 to 150 pounds empty. Installation involves gas or electrical connections, water supply lines, venting (for gas), and potentially updating the drain pan and earthquake straps. Permit requirements vary by jurisdiction.
-- **Anything involving the T&P relief valve discharge pipe.** This is a safety device. Improper installation can lead to scalding or worse. If your [pop-off valve is leaking](/blog/pop-off-valve-water-heater-leaking-honest-advice-for-your-home/), a pro can diagnose whether it is the valve or excess pressure in the system.
+- **Anything involving the T&P relief valve discharge pipe.** This is a safety device. Improper installation can lead to scalding or worse. If your [pop-off valve is leaking](/blog/water-heater-blow-off-valve-leaking-a-practical-guide/), a pro can diagnose whether it is the valve or excess pressure in the system.
 
 ## What 24-Hour Emergency Service Actually Costs
 

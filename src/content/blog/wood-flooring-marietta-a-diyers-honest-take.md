@@ -42,7 +42,7 @@ Bring your flooring materials into the house at least 5 to 7 days before install
 
 Skipping acclimation in a Marietta home during summer means the wood arrives expanded from the humid warehouse or truck. Install it swollen, and it will shrink as your air conditioning dehumidifies the house, leaving visible gaps. Install it without acclimation in winter, and boards that were delivered dry will swell in spring and buckle.
 
-For more on installation costs for different wood flooring types, see our [laminate hardwood flooring pricing guide](/blog/laminate-hardwood-flooring-installation-pricing-guide-for/).
+For more on installation costs for different wood flooring types, see our [laminate hardwood flooring pricing guide](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/).
 
 ## Subfloor Conditions in Marietta Homes
 
@@ -113,7 +113,7 @@ Get quotes from at least three installers. Ask specifically about:
 - Transition strips at doorways
 - Removal and disposal of old flooring (typically $1 to $2 per square foot extra)
 
-For a comparison of what laminate options cost elsewhere, our [laminate flooring cost breakdown](/blog/laminate-hardwood-flooring-installed-cost-what-to-expect-in-2026/) puts the numbers in broader context.
+For a comparison of what laminate options cost elsewhere, our [laminate flooring cost breakdown](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/) puts the numbers in broader context.
 
 ## Timing Your Project
 

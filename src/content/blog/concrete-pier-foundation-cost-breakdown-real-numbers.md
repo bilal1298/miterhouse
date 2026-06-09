@@ -144,7 +144,7 @@ What to watch for:
 - **Grade beam cracks** — hairline cracks are normal; cracks wider than 1/4 inch or showing displacement need evaluation
 - **Drainage changes** — any new construction or landscaping that redirects water toward or away from your piers changes the soil moisture balance
 
-If your [insulation needs upgrading](/blog/how-much-does-blow-in-insulation-per-square-foot-really-cost/) in an area supported by piers, the open space beneath a pier-and-beam home makes access straightforward — one of the practical benefits of this foundation type.
+If your [insulation needs upgrading](/blog/blown-in-insulation-per-square-foot-cost-what-to-expect-in-2026/) in an area supported by piers, the open space beneath a pier-and-beam home makes access straightforward — one of the practical benefits of this foundation type.
 
 ## Getting Accurate Quotes
 

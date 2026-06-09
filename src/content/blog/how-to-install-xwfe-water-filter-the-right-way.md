@@ -110,7 +110,7 @@ A genuine GE XWFE filter runs in the range of $40 to $55 per cartridge. Aftermar
 
 If you go aftermarket, look for NSF 42 and NSF 53 certification — these standards cover chlorine reduction and contaminant removal, respectively. A filter without these certifications may reduce taste and odor but might not actually remove the contaminants you care about.
 
-For general plumbing questions or if you run into issues with supply lines during this process, our [plumbing services guide](/blog/plumbing-services-repairs-a-homeowners-guide/) covers what to expect. And if you notice any water dripping from unexpected places while working near the fridge, check out our post on [water leak diagnosis](/blog/the-real-deal-on-water-leaking-from-ac-vent-in-ceiling/) for troubleshooting steps.
+For general plumbing questions or if you run into issues with supply lines during this process, our [plumbing services guide](/blog/plumbing-repair-diy-or-call-a-pro/) covers what to expect. And if you notice any water dripping from unexpected places while working near the fridge, check out our post on [water leak diagnosis](/blog/the-real-deal-on-water-leaking-from-ac-vent-in-ceiling/) for troubleshooting steps.
 
 ## Safety Considerations
 

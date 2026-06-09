@@ -133,7 +133,7 @@ For a typical DIY-friendly water damage repair (clean water, limited area, caugh
 
 This timeline assumes everything goes smoothly. Complications — hidden mold, structural concerns, subfloor damage — extend it significantly.
 
-For help with specific related issues, our guide on [water heater leaks](/blog/is-it-normal-for-water-heater-to-leak-honest-guide/) covers one of the most common sources of household water damage, and our [water heater troubleshooting guide](/blog/the-real-deal-on-water-heater-keeps-running/) can help you spot problems before they cause a flood.
+For help with specific related issues, our guide on [water heater leaks](/blog/is-it-normal-for-water-heater-to-leak-honest-guide/) covers one of the most common sources of household water damage, and our [water heater troubleshooting guide](/blog/water-heater-constantly-running-a-diyers-honest-take/) can help you spot problems before they cause a flood.
 
 The [EPA's WaterSense program](https://www.epa.gov/watersense) has resources on water efficiency that can help prevent future damage from plumbing failures, and understanding your home's plumbing basics reduces response time when problems occur.
 

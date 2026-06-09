@@ -131,7 +131,7 @@ Call a licensed plumber or HVAC technician in these cases:
 - **The water heater is newly installed.** First-time gas hookup should be inspected by a professional to verify the gas connection, venting, and code compliance per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/).
 - **The vent pipe is damaged, disconnected, or improperly routed.** Backdrafting is a carbon monoxide hazard.
 - **You see scorch marks or melted components.** These indicate past unsafe combustion events that need professional evaluation.
-- **The water heater is making banging, popping, or rumbling sounds.** Sediment buildup at the bottom of the tank can trap gas bubbles that pop violently — this tank needs flushing or replacement. See our guide on [water heater running constantly](/blog/the-real-deal-on-water-heater-keeps-running/).
+- **The water heater is making banging, popping, or rumbling sounds.** Sediment buildup at the bottom of the tank can trap gas bubbles that pop violently — this tank needs flushing or replacement. See our guide on [water heater running constantly](/blog/water-heater-constantly-running-a-diyers-honest-take/).
 
 ## Seasonal Startup Tips
 

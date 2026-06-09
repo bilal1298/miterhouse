@@ -137,7 +137,7 @@ Here are the most common reasons homeowners add 240V circuits, with specific req
 
 **Workshop equipment:** 20A-50A depending on the equipment. A table saw, welder, or air compressor may each need a dedicated 240V circuit.
 
-For help deciding which projects are DIY-appropriate versus professional-only, our guide on [kitchen renovation services](/blog/the-real-deal-on-kitchen-renovation-services/) covers similar scope-of-work decisions in a kitchen context.
+For help deciding which projects are DIY-appropriate versus professional-only, our guide on [kitchen renovation services](/blog/kitchen-remodel-services-a-practical-guide/) covers similar scope-of-work decisions in a kitchen context.
 
 ## The Bottom Line
 

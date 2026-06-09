@@ -113,11 +113,11 @@ If the drywall failed the firmness test, here is the replacement process.
 1. Cut out the damaged section. Go past the visible damage by at least 6 inches on each side. Use the moisture meter to confirm you are cutting into dry drywall.
 2. Inspect the framing behind it. Look for mold, rot, or ongoing moisture. This is your one chance to see what is happening inside the wall. If framing is compromised, that needs attention before the new drywall goes up.
 3. Let the cavity dry completely if any moisture remains. A fan blowing into the open cavity speeds this up.
-4. Install the new drywall piece, tape the seams, and apply compound in layers. For detailed patching instructions, see our [drywall repair guide](/blog/drywall-contractors-repair-guide-what-to-know/).
+4. Install the new drywall piece, tape the seams, and apply compound in layers. For detailed patching instructions, see our [drywall repair guide](/blog/drywall-repair-diy-or-call-a-pro/).
 5. Prime the entire repaired area (not just the seams) with stain-blocking primer.
 6. Paint to match.
 
-For larger sections of [water-damaged drywall](/blog/the-real-deal-on-water-stained-drywall/), especially on ceilings, hiring a [drywall professional](/blog/drywall-professionals-repairs-a-homeowners-guide/) is worth considering. Overhead drywall work is physically demanding and getting seams smooth requires practice.
+For larger sections of water-damaged drywall, especially on ceilings, hiring a [drywall professional](/blog/drywall-professional-repairs-a-homeowners-guide/) is worth considering. Overhead drywall work is physically demanding and getting seams smooth requires practice.
 
 ## Mold Considerations
 
@@ -161,6 +161,6 @@ A $25 moisture meter and 30 minutes of inspection twice a year will catch proble
 
 ## What It All Costs
 
-For a straightforward stain that just needs priming and painting over solid drywall, you are looking at $15 to $40 in materials. If [a specialist is needed](/blog/drywall-specialist-repair-guide-what-to-know/) for drywall replacement, expect $200 to $800 depending on the extent of damage. Add the cost of fixing the water source on top of that — which ranges from $0 (reapplying exterior caulk) to several thousand (replumbing or roof repair).
+For a straightforward stain that just needs priming and painting over solid drywall, you are looking at $15 to $40 in materials. If [a specialist is needed](/blog/drywall-professional-repairs-a-homeowners-guide/) for drywall replacement, expect $200 to $800 depending on the extent of damage. Add the cost of fixing the water source on top of that — which ranges from $0 (reapplying exterior caulk) to several thousand (replumbing or roof repair).
 
 The stain itself is cheap to fix. The lesson every homeowner learns the hard way is that the stain is just the messenger.

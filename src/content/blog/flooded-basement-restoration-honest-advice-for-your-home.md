@@ -108,7 +108,7 @@ The cost to rebuild depends on what was damaged and the finish level you want. I
 
 **Total typical restoration of a finished basement:** $7,000 to $22,000
 
-For a previously unfinished basement, cleanup costs are lower but you still face the expense of waterproofing and rebuilding. See our [basement finishing pricing](/blog/basement-finishing-prices-honest-advice-for-your-home/) guide for new finishing costs.
+For a previously unfinished basement, cleanup costs are lower but you still face the expense of waterproofing and rebuilding. See our [basement finishing pricing](/blog/cost-to-finish-a-basement/) guide for new finishing costs.
 
 ## Insurance and Documentation
 
@@ -146,6 +146,6 @@ Once you have restored the basement, invest in prevention:
 
 **Interior French drain system.** For basements with chronic hydrostatic pressure issues, an interior French drain with a sump pump is the definitive solution. Cost: $5,000 to $12,000 for a full perimeter system.
 
-For additional context, see our guides on [hiring a basement finishing contractor](/blog/hiring-a-basement-finishing-contractor-red-flags-and-tips/), the [basement finishing pricing guide](/blog/basement-finishing-pricing-guide-for-homeowners/), and the [real deal on finishing basements](/blog/the-real-deal-on-finishing-basement/). Check [FEMA](https://www.fema.gov/) flood maps for your area and review [EPA radon guidelines](https://www.epa.gov/radon) before rebuilding, and factor in [DOE insulation recommendations](https://www.energy.gov/energysaver/insulation) for below-grade spaces.
+For additional context, see our guides on [hiring a basement finishing contractor](/blog/hiring-a-basement-finishing-contractor-red-flags-and-tips/), the [basement finishing pricing guide](/blog/cost-to-finish-a-basement/), and the [real deal on finishing basements](/blog/the-real-deal-on-finishing-basement/). Check [FEMA](https://www.fema.gov/) flood maps for your area and review [EPA radon guidelines](https://www.epa.gov/radon) before rebuilding, and factor in [DOE insulation recommendations](https://www.energy.gov/energysaver/insulation) for below-grade spaces.
 
 A flooded basement feels like a disaster, and in the moment, it is. But with prompt action, proper drying, and smart rebuilding choices, you can restore the space and make it more resilient than it was before the flood.

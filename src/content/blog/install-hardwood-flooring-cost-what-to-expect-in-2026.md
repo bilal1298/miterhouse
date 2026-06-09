@@ -111,7 +111,7 @@ I'll be straightforward: solid hardwood nail-down installation is not a beginner
 
 ## Hardwood vs. Engineered vs. LVP: Where to Spend
 
-For [LVP installation costs](/blog/how-much-does-lvp-flooring-install-really-cost/), you're looking at $3.50 to $8 per square foot installed. For hardwood, $6 to $18. The question is when the premium is worth paying.
+For [LVP installation costs](/blog/lvp-flooring-installation-pricing-guide-for-homeowners/), you're looking at $3.50 to $8 per square foot installed. For hardwood, $6 to $18. The question is when the premium is worth paying.
 
 **Choose solid hardwood when:**
 - You're in your permanent home and want 50+ year flooring
@@ -141,4 +141,4 @@ For [LVP installation costs](/blog/how-much-does-lvp-flooring-install-really-cos
 
 **Negotiate installation labor.** Hardwood installation is specialized labor, and experienced installers have backlogs. During slower months (January–March), they're more willing to negotiate. Getting three competitive quotes establishes the real market rate in your area.
 
-For homeowners comparing this against [vinyl flooring costs](/blog/how-much-does-lay-vinyl-flooring-really-cost/) or [ceramic tile costs](/blog/ceramic-flooring-installation-cost-what-to-expect-in-2026/), the hardwood premium reflects both its real-material quality and its proven resale value — but the alternatives are narrowing the performance gap while remaining significantly more affordable.
+For homeowners comparing this against [vinyl flooring costs](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/) or [ceramic tile costs](/blog/ceramic-flooring-installation-cost-what-to-expect-in-2026/), the hardwood premium reflects both its real-material quality and its proven resale value — but the alternatives are narrowing the performance gap while remaining significantly more affordable.

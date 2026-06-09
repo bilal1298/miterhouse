@@ -50,7 +50,7 @@ A mid-range kitchen remodel ($15,000-$35,000) for a standard 10x12 kitchen break
 
 Cabinets dominate the budget. Stock cabinets from home centers ($80-$200 per linear foot installed) save thousands over semi-custom ($150-$400/LF) and custom ($500-$1,200/LF). For most kitchens, stock cabinets with soft-close hinges and full-extension drawers are perfectly functional and look good.
 
-If the existing cabinet boxes are solid, refacing (new doors and drawer fronts) or even just [painting the cabinets](/blog/painting-kitchen-cabinets-cost-what-to-expect-in-2026/) saves 50 to 75 percent of the cabinet budget.
+If the existing cabinet boxes are solid, refacing (new doors and drawer fronts) or even just [painting the cabinets](/blog/cabinet-painting-pricing-guide-for-homeowners/) saves 50 to 75 percent of the cabinet budget.
 
 ## Bathroom Renovation: Where the Budget Goes
 

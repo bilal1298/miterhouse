@@ -120,7 +120,7 @@ Some homeowners apply an enhancing sealer that deepens the color of the slate. T
 
 **Cutting with the wrong blade.** Slate cuts cleanly with a continuous-rim diamond blade on a wet saw. Segmented blades (designed for concrete) chip the edges of slate.
 
-For insights on how wood flooring repair compares in complexity, our [wood flooring repair cost guide](/blog/how-much-does-wood-flooring-repair-really-cost/) covers a different material but a similar decision-making process.
+For insights on how wood flooring repair compares in complexity, our [wood flooring repair cost guide](/blog/hardwood-flooring-repair-cost-breakdown-real-numbers/) covers a different material but a similar decision-making process.
 
 ## DIY vs. Professional
 
@@ -152,4 +152,4 @@ Slate floors last essentially forever with proper care. The stone itself will ou
 
 A well-installed, well-maintained slate floor adds genuine value to a home and becomes more attractive as it ages. It is one of the few flooring choices where "character" actually improves over time rather than being a euphemism for wear.
 
-For another perspective on slate tile installation considerations, see our companion guide on [slate tile installation essentials](/blog/installing-slate-tile-what-to-know-first/).
+For another perspective on slate tile installation considerations, see our companion guide on slate tile installation essentials.

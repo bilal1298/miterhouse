@@ -136,6 +136,6 @@ Most drain clogs are entirely preventable:
 - **Toilets:** Only flush toilet paper and human waste. "Flushable" wipes are not flushable regardless of what the packaging says — they cause more main line blockages than anything else.
 - **Main sewer line:** If you have trees near your sewer line, consider annual root treatment. Copper sulfate flushed down the toilet ($10 for a year's supply) kills roots inside the pipe without harming the tree.
 
-For related plumbing advice, check out our guides on [24-hour plumbing emergencies](/blog/24-hour-plumbing-repair-diy-or-call-a-pro/) and [plumbing repair services](/blog/plumbing-services-repairs-a-homeowners-guide/) for the full picture on managing your home's plumbing system.
+For related plumbing advice, check out our guides on [24-hour plumbing emergencies](/blog/24-hour-plumbing-repair-diy-or-call-a-pro/) and [plumbing repair services](/blog/plumbing-repair-diy-or-call-a-pro/) for the full picture on managing your home's plumbing system.
 
 The bottom line on drain repair: start simple, work methodically through the diagnosis, and do not skip straight to calling a plumber until you have confirmed the problem is beyond your reach. Most drain issues are closer to the fixture than you think.

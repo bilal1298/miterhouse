@@ -75,7 +75,7 @@ Every plumbing emergency starts the same way. Stop the water.
 2. Shut off the cold water inlet valve at the top of the heater
 3. If the tank is actively flooding, connect a hose to the drain valve at the bottom and route it outside or to a floor drain
 
-**Can this wait until morning?** If you have stopped the leak and turned off the fuel, yes. You will just be without hot water. See our detailed guide on [water tank heater installation](/blog/installing-water-tank-heater-what-to-know-first/) for replacement options.
+**Can this wait until morning?** If you have stopped the leak and turned off the fuel, yes. You will just be without hot water. See our detailed guide on [water tank heater installation](/blog/installing-tank-water-heater-what-to-know-first/) for replacement options.
 
 **Cost for repair:** $150 to $400 for valve or element repairs. $800 to $2,500 for full replacement including installation.
 
@@ -146,6 +146,6 @@ Once the immediate crisis is handled, document everything for insurance purposes
 
 Contact your homeowner's insurance company within 24 hours if there is significant water damage. Most policies cover sudden and accidental water damage from burst pipes but do not cover gradual leaks or [sewer backups](/blog/plumbing-pipe-repair-diy-or-call-a-pro/) unless you have specific endorsements.
 
-For plumbing emergencies that involve your home's [water supply lines](/blog/plumbing-pipes-repairs-a-homeowners-guide/) or that comply with [building codes](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/), always verify the permanent repair is done to code. Emergency patches are temporary. Schedule a proper repair and, if applicable, get the required permits and inspections.
+For plumbing emergencies that involve your home's [water supply lines](/blog/plumbing-pipe-repair-diy-or-call-a-pro/) or that comply with [building codes](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/), always verify the permanent repair is done to code. Emergency patches are temporary. Schedule a proper repair and, if applicable, get the required permits and inspections.
 
 The best emergency plan is one you hope you never need. But when that pipe does burst at 2 a.m., you will be glad you knew exactly where the shutoff was and had the right supplies on hand.

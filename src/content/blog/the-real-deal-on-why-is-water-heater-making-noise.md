@@ -34,7 +34,7 @@ Minerals in your water supply (calcium, magnesium, and lime) settle to the botto
 
 **The fix:** Flush the tank. Connect a garden hose to the drain valve at the bottom, route it to a floor drain or outside, and open the valve. Let it run until the water comes out clear. This takes 15 to 30 minutes and costs nothing.
 
-For detailed flushing instructions, see our guide on [how often to flush a hot water heater](/blog/how-often-to-flush-hot-water-heater-a-diyers-honest-take/). The short version: do this once a year, and you will likely never hear popping again.
+For detailed flushing instructions, see our guide on [how often to flush a hot water heater](/blog/how-often-should-i-flush-my-water-heater-honest-guide/). The short version: do this once a year, and you will likely never hear popping again.
 
 If the sediment has been building for many years, a simple flush may not clear it all. In severe cases, you may need to remove the drain valve entirely and use a long brush or shop vac to break up the hardened mineral deposits. That is still a DIY job, but it is messier and takes 1 to 2 hours.
 
@@ -70,7 +70,7 @@ Water hammer occurs when fast-closing valves (like single-lever faucets, dishwas
 
 For whole-house solutions, a thermal expansion tank on the cold water inlet (if your system does not already have one) helps absorb pressure fluctuations. These cost $30 to $50 and are code-required in many jurisdictions for closed-loop systems.
 
-If your [pop-off valve is leaking](/blog/pop-off-valve-water-heater-leaking-honest-advice-for-your-home/) in conjunction with water hammer, the two issues are likely connected. Address the water hammer first.
+If your [pop-off valve is leaking](/blog/water-heater-blow-off-valve-leaking-a-practical-guide/) in conjunction with water hammer, the two issues are likely connected. Address the water hammer first.
 
 ## Hissing or Sizzling
 

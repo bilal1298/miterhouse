@@ -107,7 +107,7 @@ Before signing, verify these items are in the contract:
 
 The lien waiver point is important. If your contractor does not pay their lumber supplier, the supplier can place a mechanic's lien on your property -- even if you paid the contractor in full. Collecting lien waivers from the contractor's suppliers protects you.
 
-For context on what reasonable deck costs look like, our [deck building cost guide](/blog/building-deck-pricing-guide-for-homeowners/) breaks down material and labor costs by region. If you are weighing DIY against hiring out, the [complete deck building guide](/blog/building-a-deck-guide-a-practical-guide/) covers the full scope of work so you can evaluate what you are comfortable taking on. The [deck layout guide](/blog/the-real-deal-on-deck-building-layout/) helps you define your project clearly before requesting bids.
+For context on what reasonable deck costs look like, our [deck building cost guide](/blog/building-a-deck-guide-a-practical-guide/) breaks down material and labor costs by region. If you are weighing DIY against hiring out, the [complete deck building guide](/blog/building-a-deck-guide-a-practical-guide/) covers the full scope of work so you can evaluate what you are comfortable taking on. The [deck layout guide](/blog/the-real-deal-on-custom-deck-building/) helps you define your project clearly before requesting bids.
 
 ## During the Build: What to Watch For
 

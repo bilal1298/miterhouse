@@ -144,7 +144,7 @@ Reconstruction typically includes:
 - New flooring installation
 - Cabinet repair or replacement if affected
 
-For related repair guidance, see our guides on [water heater repair](/blog/water-heater-plano-repair-diy-or-call-a-pro/) and [water heater troubleshooting](/blog/the-real-deal-on-water-heater-keeps-running/), as water heater failures are one of the most common causes of residential water damage.
+For related repair guidance, see our guides on [water heater repair](/blog/water-heater-plano-repair-diy-or-call-a-pro/) and [water heater troubleshooting](/blog/water-heater-constantly-running-a-diyers-honest-take/), as water heater failures are one of the most common causes of residential water damage.
 
 Workplace safety rules from [OSHA](https://www.osha.gov/) apply to remediation contractors working in your home, and the [UL](https://www.ul.com/) certifies the safety of equipment used in water damage restoration. The [NFPA 70 electrical code](https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70) has specific requirements for electrical systems after water exposure.
 

@@ -98,7 +98,7 @@ Check the anode rod every 3 to 5 years by removing it from the top of the heater
 
 If your heater is over 8 years old and has never been flushed, proceed with caution. Years of sediment buildup can be so thick that it blocks the drain valve entirely. Aggressive flushing at this point can also dislodge chunks of sediment that damage the drain valve or clog pipes.
 
-For neglected heaters, a [professional plumber](/blog/home-plumbing-repairs-a-homeowners-guide/) can perform a more thorough cleaning using a deliming solution and a shop vacuum to extract sediment through the drain valve opening. This costs $100 to $250 but can salvage a heater that is otherwise heading for early failure.
+For neglected heaters, a [professional plumber](/blog/emergency-plumbing-repairs-a-homeowners-guide/) can perform a more thorough cleaning using a deliming solution and a shop vacuum to extract sediment through the drain valve opening. This costs $100 to $250 but can salvage a heater that is otherwise heading for early failure.
 
 Per [NFPA electrical safety codes](https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70), always ensure your water heater's electrical connections are properly grounded and that you follow the manufacturer's shutdown procedure before performing any maintenance. If you encounter any electrical issues during the process, stop and call a licensed professional.
 

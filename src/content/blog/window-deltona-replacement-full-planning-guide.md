@@ -135,9 +135,9 @@ In Volusia County, the typical process for permitted window replacement:
 
 **The inspection matters.** An inspector will verify that the installed products match the permitted products, that the installation method meets code, and that all openings are properly protected. Do not skip the inspection — an unpermitted window replacement can cause problems when you sell the home or file an insurance claim.
 
-Many of the [window replacement contractors](/blog/replacing-window-contractors-what-it-costs-and-takes/) we have discussed in other guides operate in Florida, but make sure any company you hire understands the specific Florida Building Code requirements, which are stricter than the [IRC base code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) used in most states.
+Many of the [window replacement contractors](/blog/window-company-replacement-full-planning-guide/) we have discussed in other guides operate in Florida, but make sure any company you hire understands the specific Florida Building Code requirements, which are stricter than the [IRC base code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) used in most states.
 
-For a broader look at how to evaluate window companies, see our [window company planning guide](/blog/window-companies-replacement-full-planning-guide/).
+For a broader look at how to evaluate window companies, see our [window company planning guide](/blog/window-company-replacement-full-planning-guide/).
 
 ## Storm Preparation With New Impact Windows
 

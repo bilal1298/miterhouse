@@ -133,7 +133,7 @@ Deck construction costs vary by region due to labor rates, material availability
 
 **Mountain West:** Variable. Material delivery costs can be significant in remote areas. Snow load requirements may dictate heavier framing.
 
-For information on how to evaluate contractors in your area, our [deck building contractor guide](/blog/hiring-a-deck-building-contractor-red-flags-and-tips/) covers the vetting process.
+For information on how to evaluate contractors in your area, our [deck building contractor guide](/blog/finding-good-deck-building-contractors-near-you/) covers the vetting process.
 
 ## Hidden Costs to Budget For
 
@@ -194,4 +194,4 @@ For broader context on ROI for home improvement projects, the [EPA WaterSense](h
 
 **Permit timing:** Apply for your permit 4 to 6 weeks before your target start date. Spring is the busiest season for building departments, so application review may take longer than usual during that period.
 
-For related permit information, our [deck building permit requirements guide](/blog/the-real-deal-on-deck-building-permit-requirements/) covers the permit process in detail.
+For related permit information, our [deck building permit requirements guide](/blog/deck-building-permit-cost-breakdown-real-numbers/) covers the permit process in detail.

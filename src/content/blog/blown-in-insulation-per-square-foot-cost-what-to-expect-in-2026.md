@@ -135,4 +135,4 @@ If your HVAC ducts run through the attic, inspect them for leaks and insulation 
 
 The [Energy Star program](https://www.energystar.gov/) provides detailed guidance on attic insulation best practices, including ventilation and air sealing requirements. The [EPA's radon information](https://www.epa.gov/radon) is relevant for any project that changes your home's air sealing — tighter homes may need radon mitigation.
 
-For broader project context, our [finishing basement guide](/blog/the-real-deal-on-finishing-basement/) covers insulation as part of a larger renovation, and the [basement finishing costs breakdown](/blog/basement-finishing-costs-what-homeowners-should-know/) helps you budget for multi-area insulation projects.
+For broader project context, our [finishing basement guide](/blog/the-real-deal-on-finishing-basement/) covers insulation as part of a larger renovation, and the [basement finishing costs breakdown](/blog/cost-to-finish-a-basement/) helps you budget for multi-area insulation projects.

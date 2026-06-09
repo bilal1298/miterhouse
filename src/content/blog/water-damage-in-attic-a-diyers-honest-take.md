@@ -124,7 +124,7 @@ Condensation-related attic damage is tricky because there is no obvious leak. Th
 
 2. **Improving ventilation above.** The attic needs a continuous airflow path from soffit vents at the eaves up to a ridge vent or gable vents at the peak. Check that insulation is not blocking soffit vents -- install baffles between rafters at the eaves to maintain the air channel.
 
-If your water damage turns out to be related to broader home flooding, our [flood repair guide](/blog/flooded-home-repair-diy-or-call-a-pro/) covers the full scope. For damage that has reached ceilings in rooms below, see our piece on [water-damaged ceiling tiles](/blog/water-damage-ceiling-tiles-honest-advice-for-your-home/). And if you are dealing with water issues in multiple areas, a whole-house approach through a [waterproofing service](/blog/water-proofing-services-a-diyers-honest-take/) might make more sense than fixing problems individually.
+If your water damage turns out to be related to broader home flooding, our [flood repair guide](/blog/water-damage-repair-diy-or-call-a-pro/) covers the full scope. For damage that has reached ceilings in rooms below, see our piece on [water-damaged ceiling tiles](/blog/water-damage-ceiling-tiles-honest-advice-for-your-home/). And if you are dealing with water issues in multiple areas, a whole-house approach through a [waterproofing service](/blog/water-proofing-services-a-diyers-honest-take/) might make more sense than fixing problems individually.
 
 ## Prevention: The Cheapest Fix
 

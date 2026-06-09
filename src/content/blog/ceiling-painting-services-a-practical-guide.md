@@ -122,7 +122,7 @@ Get at least three quotes and make sure each quote includes the same scope of wo
 
 A good painter will walk the rooms with you and point out issues you might not have noticed -- cracks, stains, texture damage. If someone quotes over the phone without seeing the space, that is a red flag.
 
-If you are already planning a broader interior repaint, bundling ceiling work with [wall painting](/blog/how-much-does-painting-house-interior-really-cost/) usually gets you a better per-room rate. The labor cost for [painting projects](/blog/painting-pricing-guide-for-homeowners/) drops when a crew is already set up in your home.
+If you are already planning a broader interior repaint, bundling ceiling work with [wall painting](/blog/interior-house-painting-services-what-homeowners-should-know/) usually gets you a better per-room rate. The labor cost for [painting projects](/blog/professional-painting-cost-what-to-expect-in-2026/) drops when a crew is already set up in your home.
 
 ## Prep Steps That Make or Break the Job
 
@@ -136,7 +136,7 @@ Whether you hire out or DIY, the prep phase determines 90% of the outcome.
 
 **Remove light fixtures when possible.** Taping around a light fixture and cutting in with a brush takes time and still looks sloppy. Removing the fixture, painting freely, and reinstalling takes less time and looks cleaner. Just turn off the breaker first.
 
-Understanding the [labor costs](/blog/labor-painting-cost-breakdown-real-numbers/) behind professional painting helps you evaluate whether quotes you receive are fair. And if your project extends to exterior work, the cost structure changes significantly -- check our [exterior painting cost guide](/blog/painting-exterior-cost-breakdown-real-numbers/) for those numbers.
+Understanding the [labor costs](/blog/labor-painting-cost-breakdown-real-numbers/) behind professional painting helps you evaluate whether quotes you receive are fair. And if your project extends to exterior work, the cost structure changes significantly -- check our [exterior painting cost guide](/blog/exterior-house-painting-pricing-guide-for-homeowners/) for those numbers.
 
 ## Final Thoughts
 

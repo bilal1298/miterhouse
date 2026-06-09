@@ -150,7 +150,7 @@ Once you have addressed the mold and the moisture source, prevention is about ma
 
 **Control humidity.** Keep indoor relative humidity between 30% and 50%. Use dehumidifiers in basements, crawl spaces, and any area that tends toward dampness. A hygrometer ($10 to $20) lets you monitor levels.
 
-**Improve ventilation.** Run bathroom exhaust fans during and for 30 minutes after showers. Make sure dryer vents, bath fans, and kitchen hoods vent to the outside — not into the attic or crawl space. Ensure your [attic insulation](/blog/how-much-does-attic-insulation-replacement-really-cost/) is properly installed without blocking soffit vents.
+**Improve ventilation.** Run bathroom exhaust fans during and for 30 minutes after showers. Make sure dryer vents, bath fans, and kitchen hoods vent to the outside — not into the attic or crawl space. Ensure your [attic insulation](/blog/attic-insulation-cost-what-to-expect-in-2026/) is properly installed without blocking soffit vents.
 
 **Address condensation promptly.** Condensation on windows, pipes, or walls indicates too much humidity or too little insulation. Insulate cold water pipes, improve air circulation, and consider upgrading windows.
 

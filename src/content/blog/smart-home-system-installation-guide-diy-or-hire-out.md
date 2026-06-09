@@ -179,7 +179,7 @@ Smart home technology evolves quickly. Three principles protect your investment:
 
 3. **Start with high-impact, low-cost devices.** A $200 thermostat and $50 water leak sensor deliver more practical value than a $2,000 automated lighting system. Scale up based on what you actually use, not what looks impressive.
 
-Our [how to install compression fitting](/blog/how-to-install-compression-fitting-the-right-way/) guide covers a similarly practical approach to plumbing work, and our [flooded home repair](/blog/flooded-home-repair-diy-or-call-a-pro/) piece explains why water leak detectors should be high on your smart home priority list.
+Our [how to install compression fitting](/blog/how-to-install-compression-fitting-the-right-way/) guide covers a similarly practical approach to plumbing work, and our [flooded home repair](/blog/water-damage-repair-diy-or-call-a-pro/) piece explains why water leak detectors should be high on your smart home priority list.
 
 ## The Bottom Line
 

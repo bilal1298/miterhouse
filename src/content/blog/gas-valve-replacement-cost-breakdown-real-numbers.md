@@ -125,7 +125,7 @@ Here are realistic total costs for the most common gas valve replacement jobs:
 | Permit | $75 - $150 |
 | **Total** | **$505 - $1,000** |
 
-If you are bundling gas valve work with a larger [remodel project](/blog/how-much-does-concrete-slab-replacement-really-cost/), you can often negotiate a lower labor rate since the plumber is already on site.
+If you are bundling gas valve work with a larger [remodel project](/blog/replace-concrete-slab-cost-breakdown-real-numbers/), you can often negotiate a lower labor rate since the plumber is already on site.
 
 ## Emergency Situations
 

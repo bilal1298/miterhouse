@@ -94,7 +94,7 @@ Even within the master plumbing category, there are tasks a prepared homeowner c
 
 **Installing a sump pump.** If you have an existing sump pit, replacing the pump is a plug-and-play job. Remove the old pump, drop in the new one, connect the discharge line, and plug it in. A quality sump pump costs $150-$400. Test it by pouring water into the pit until the float triggers.
 
-For broader plumbing context, our guides on [plumbing company repair services](/blog/plumbing-company-repair-guide-what-to-know/) and [water leak repair](/blog/plumbing-water-leak-repair-guide-what-to-know/) cover specific scenarios. If you are dealing with a clogged drain specifically, the [drain snaking guide](/blog/plumbing-snake-repairs-a-homeowners-guide/) goes deeper on technique. Water pump issues are covered in our [home water pump repair guide](/blog/home-water-pump-repairs-a-homeowners-guide/).
+For broader plumbing context, our guides on [plumbing company repair services](/blog/plumbing-repair-diy-or-call-a-pro/) and [water leak repair](/blog/plumbing-water-leak-repair-guide-what-to-know/) cover specific scenarios. If you are dealing with a clogged drain specifically, the [drain snaking guide](/blog/plumbing-snake-repairs-a-homeowners-guide/) goes deeper on technique. Water pump issues are covered in our [home water pump repair guide](/blog/home-water-pump-repairs-a-homeowners-guide/).
 
 ## When You Absolutely Need a Licensed Plumber
 

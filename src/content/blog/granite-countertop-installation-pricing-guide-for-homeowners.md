@@ -61,7 +61,7 @@ The fabricator cuts, polishes edges, and creates cutouts at their shop. You have
 
 Two or three installers show up with your slabs on an A-frame truck. Installation of a typical kitchen takes 2 to 4 hours. They set the slabs on silicone adhesive, make seams with color-matched epoxy, and install undermount sink clips if applicable.
 
-After installation, they apply a sealant. You should plan to [reseal granite annually](/blog/painting-kitchen-cabinets-cost-what-to-expect-in-2026/) — it takes about 15 minutes and costs under $15 for the sealer.
+After installation, they apply a sealant. You should plan to reseal granite annually — it takes about 15 minutes and costs under $15 for the sealer.
 
 ## Where Homeowners Waste Money
 
@@ -89,7 +89,7 @@ Here is how granite stacks up against the main alternatives in 2026:
 
 Granite remains a strong middle-ground choice: it costs less than quartz at comparable quality levels, handles heat better (you can set a hot pan directly on it), and holds up well over decades with minimal care.
 
-If maintenance concerns are your top priority, [quartz is worth considering](/blog/the-real-deal-on-kitchen-renovation-services/) since it never needs sealing. But granite's natural variation and depth of color are hard to replicate in engineered stone.
+If maintenance concerns are your top priority, [quartz is worth considering](/blog/kitchen-remodel-services-a-practical-guide/) since it never needs sealing. But granite's natural variation and depth of color are hard to replicate in engineered stone.
 
 ## How to Get Accurate Quotes
 

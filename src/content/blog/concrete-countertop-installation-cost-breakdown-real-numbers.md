@@ -100,7 +100,7 @@ Here is how concrete stacks up against the main alternatives.
 
 Concrete sits in the mid-to-upper price range but offers something no other material matches: complete design freedom. You choose the color, texture, edge profile, embedded objects (stones, glass, metal), integral drain boards, and shaped features. No other countertop material can be cast into whatever shape your kitchen demands.
 
-For comparison pricing on alternatives, see our guides on [laminate countertop costs](/blog/how-much-does-laminate-countertop-installation-really-cost/) and [butcher block installation pricing](/blog/butcher-block-countertop-installation-pricing-guide-for/).
+For comparison pricing on alternatives, see our guides on [laminate countertop costs](/blog/laminate-countertop-replacement-cost-breakdown-real-numbers/) and [butcher block installation pricing](/blog/butcher-block-countertop-installation-pricing-guide-for/).
 
 ## What Affects the Price Most
 
@@ -129,4 +129,4 @@ Concrete countertop work is a specialty — not every countertop company or conc
 
 Get three quotes and verify each includes: template, fabrication, delivery, installation, and sealing. Some fabricators quote fabrication only and charge separately for installation — make sure you are comparing equivalent scopes.
 
-For a broader view of countertop pricing across all materials, check our [countertop pricing guide](/blog/countertop-pricing-guide-for-homeowners/) and [general countertop cost estimator](/blog/how-much-does-countertop-really-cost/).
+For a broader view of countertop pricing across all materials, check our [countertop pricing guide](/blog/countertop-pricing-guide-for-homeowners/) and [general countertop cost estimator](/blog/countertop-pricing-guide-for-homeowners/).

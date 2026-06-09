@@ -60,7 +60,7 @@ The patch itself is usually the cheap part. What gets expensive is everything ar
 
 **Paint matching** is the second gotcha. Ceiling paint yellows over time, and even if you know the original color, a fresh patch against a ten-year-old ceiling will stand out. You may need to repaint the entire ceiling, adding $50 to $150 in materials or $200 to $500 for a pro.
 
-**Cause remediation** matters if water caused the damage. Patching a water-stained ceiling without fixing the source — a leaky pipe, [failed roof flashing](/blog/drywall-repairs-a-homeowners-guide/), or condensation from poor attic ventilation — means you will be doing this repair again in six months. Budget for the root cause fix separately.
+**Cause remediation** matters if water caused the damage. Patching a water-stained ceiling without fixing the source — a leaky pipe, [failed roof flashing](/blog/drywall-repair-diy-or-call-a-pro/), or condensation from poor attic ventilation — means you will be doing this repair again in six months. Budget for the root cause fix separately.
 
 ## DIY vs. Hiring a Drywall Pro
 
@@ -128,13 +128,13 @@ The trickiest part is step 5 and 6 — building up thin coats and sanding betwee
 
 **Rent a drywall stilts pair for large areas.** Rental runs about $25 to $35 per day and saves your back and shoulders compared to working from a ladder. It sounds intimidating, but after 10 minutes of practice, most people get comfortable.
 
-**Do the demo and prep yourself, hire the finishing.** If you can cut out the damaged section and clean things up, a [drywall contractor](/blog/drywall-contractors-repair-guide-what-to-know/) can come in and do just the taping, mudding, and texturing. This can cut labor costs by 30% to 40%.
+**Do the demo and prep yourself, hire the finishing.** If you can cut out the damaged section and clean things up, a [drywall contractor](/blog/drywall-repair-diy-or-call-a-pro/) can come in and do just the taping, mudding, and texturing. This can cut labor costs by 30% to 40%.
 
-**Time it with other projects.** If you are already [having drywall work done elsewhere](/blog/drywall-specialist-repair-guide-what-to-know/) in the house, adding a ceiling patch to the scope costs much less than a standalone service call.
+**Time it with other projects.** If you are already [having drywall work done elsewhere](/blog/drywall-professional-repairs-a-homeowners-guide/) in the house, adding a ceiling patch to the scope costs much less than a standalone service call.
 
 ## When to Walk Away From DIY
 
-Call a [professional drywall specialist](/blog/drywall-professionals-repairs-a-homeowners-guide/) if:
+Call a [professional drywall specialist](/blog/drywall-professional-repairs-a-homeowners-guide/) if:
 
 - The damage spans more than a few square feet of ceiling
 - Drywall is sagging away from the joists (possible structural issue)

@@ -151,7 +151,7 @@ Fence quotes are negotiable. Most companies have 10 to 20 percent margin built i
 
 **Do not negotiate quality.** Pushing for a lower price by accepting thinner posts, wider spacing, or cheaper materials is false economy. Those shortcuts show up within 3 to 5 years as leaning posts, sagging panels, and premature rot.
 
-For comparisons with electronic containment systems that cost significantly less, see our [pet fence installation guide](/blog/pet-fence-installation-cost-what-to-expect-in-2026/) and [dog fence cost breakdown](/blog/dog-fence-installation-cost-breakdown-real-numbers/). If you are evaluating different fence company approaches, our [fence company guide](/blog/fence-company-installation-guide-diy-or-hire-out/) and [fence company vetting guide](/blog/installing-fence-companies-what-to-know-first/) cover the hiring process in depth.
+For comparisons with electronic containment systems that cost significantly less, see our [pet fence installation guide](/blog/electric-fence-installation-cost-what-to-expect-in-2026/) and [dog fence cost breakdown](/blog/invisible-fence-installation-pricing-guide-for-homeowners/). If you are evaluating different fence company approaches, our [fence company guide](/blog/residential-fence-installation-guide-diy-or-hire-out/) and fence company vetting guide cover the hiring process in depth.
 
 ## After Choosing a Contractor
 

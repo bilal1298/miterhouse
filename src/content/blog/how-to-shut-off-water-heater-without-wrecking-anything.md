@@ -56,7 +56,7 @@ This step is mandatory for maintenance work, leak situations, or anytime you are
 
 The cold water supply valve is on the pipe entering the top of the heater (typically on the right when facing the unit, marked with a blue handle or tag). Turn it clockwise to close.
 
-If you cannot find the dedicated valve or it is stuck, shut off the main water supply to the house instead. A stuck water heater shutoff valve is common on older installations — do not force it, as the valve can break and flood the area. Plan to replace it during your next [plumbing maintenance visit](/blog/home-plumbing-repairs-a-homeowners-guide/).
+If you cannot find the dedicated valve or it is stuck, shut off the main water supply to the house instead. A stuck water heater shutoff valve is common on older installations — do not force it, as the valve can break and flood the area. Plan to replace it during your next [plumbing maintenance visit](/blog/emergency-plumbing-repairs-a-homeowners-guide/).
 
 ### Step 4 (Emergency Only): Drain the Tank
 

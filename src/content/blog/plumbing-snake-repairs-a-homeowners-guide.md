@@ -86,7 +86,7 @@ This is where a hand snake reaches its limits and a power snake becomes necessar
 
 4. **Work the cable back and forth.** When you hit resistance, let the spinning cable work through it. Pull back a foot, then push forward again. Repeat until the cable moves freely.
 
-For main line issues that keep coming back, you may want to explore [trenchless repair options](/blog/trenchless-plumbing-repairs-a-homeowners-guide/) or consult a [plumbing company](/blog/plumbing-company-repair-guide-what-to-know/) for a camera inspection.
+For main line issues that keep coming back, you may want to explore [trenchless repair options](/blog/trenchless-plumbing-repairs-a-homeowners-guide/) or consult a [plumbing company](/blog/plumbing-repair-diy-or-call-a-pro/) for a camera inspection.
 
 ## Common Mistakes That Damage Pipes
 

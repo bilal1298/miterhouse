@@ -118,6 +118,6 @@ Homes built before 1978 should be checked for [lead paint](https://www.epa.gov/l
 
 ## Related Interior Repairs
 
-If a cracked roof tile has already allowed water damage to interior finishes, you may be facing flooring and ceiling repairs. Our [hardwood flooring repair cost guide](/blog/hardwood-flooring-repair-cost-breakdown-real-numbers/) covers what to expect for water-damaged hardwood, and the [laminate flooring installation cost guide](/blog/laminate-hardwood-flooring-installed-cost-what-to-expect-in-2026/) breaks down replacement costs if the damage is too extensive to repair.
+If a cracked roof tile has already allowed water damage to interior finishes, you may be facing flooring and ceiling repairs. Our [hardwood flooring repair cost guide](/blog/hardwood-flooring-repair-cost-breakdown-real-numbers/) covers what to expect for water-damaged hardwood, and the [laminate flooring installation cost guide](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/) breaks down replacement costs if the damage is too extensive to repair.
 
-For homes where the water damage has reached the subfloor level, understanding [hardwood installation costs per square foot](/blog/hardwood-flooring-installation-per-square-foot-cost/) helps budget for the full restoration.
+For homes where the water damage has reached the subfloor level, understanding [hardwood installation costs per square foot](/blog/install-hardwood-flooring-cost-what-to-expect-in-2026/) helps budget for the full restoration.

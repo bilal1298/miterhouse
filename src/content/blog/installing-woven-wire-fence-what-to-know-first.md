@@ -120,4 +120,4 @@ The weakest point long-term is always the bottom wire where it contacts soil. If
 
 Woven wire is the right choice for large-area enclosures, livestock management, garden protection, and rural property boundaries where appearance is secondary to function. It is a poor choice for front-yard residential applications (code may prohibit it, and aesthetics suffer), pool enclosures (most codes require specific pool barrier fencing), or high-security applications.
 
-For those uses, consider [chain link](/blog/professional-chain-link-fence-installation-costs-and-tips/) or other purpose-built options.
+For those uses, consider [chain link](/blog/chain-link-fence-installation-costs-and-tips/) or other purpose-built options.

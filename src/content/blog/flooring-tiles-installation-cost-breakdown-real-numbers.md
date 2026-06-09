@@ -111,7 +111,7 @@ Kitchen tile endures dropped pots, standing water from spills, and heavy foot tr
 
 These areas need slip-resistant tile. Look for a dynamic coefficient of friction (DCOF) rating of 0.42 or higher. Textured surfaces, matte finishes, and smaller format tiles with more grout lines all improve wet traction.
 
-For a related cost comparison with hardwood alternatives in these rooms, our [laminate hardwood flooring pricing guide](/blog/install-ceramic-flooring-pricing-guide-for-homeowners/) helps weigh the trade-offs.
+For a related cost comparison with hardwood alternatives in these rooms, our [laminate hardwood flooring pricing guide](/blog/ceramic-flooring-installation-cost-what-to-expect-in-2026/) helps weigh the trade-offs.
 
 ## DIY Savings Potential
 
@@ -145,4 +145,4 @@ Ceramic and porcelain tile last 25 to 75 years with basic maintenance. Grout nee
 
 The installed cost per year of use makes quality tile one of the most economical flooring choices over time. A $2,500 tile floor that lasts 40 years costs $62 per year. A $1,500 laminate floor that lasts 10 years costs $150 per year.
 
-For a detailed look at what the installation process involves, our [ceramic flooring installation guide](/blog/install-ceramic-flooring-pricing-guide-for-homeowners/) walks through the work step by step.
+For a detailed look at what the installation process involves, our [ceramic flooring installation guide](/blog/ceramic-flooring-installation-cost-what-to-expect-in-2026/) walks through the work step by step.

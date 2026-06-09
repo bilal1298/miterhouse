@@ -100,7 +100,7 @@ The [International Code Council](https://www.iccsafe.org/products-and-services/i
 
 The [National Wood Flooring Association (NWFA)](https://www.nwfa.org/) is a resource for interior flooring, and while it does not cover roofing, the parallel inspection mindset applies — periodic professional evaluation catches problems early.
 
-For related projects, if your tile inspection reveals issues that have already caused interior damage, our [hardwood flooring repair guide](/blog/hardwood-flooring-repair-cost-breakdown-real-numbers/) covers what to do about water-damaged interior floors. Understanding [laminate flooring installation costs](/blog/laminate-hardwood-flooring-installation-pricing-guide-for/) also helps when replacing water-damaged flooring after a roof leak.
+For related projects, if your tile inspection reveals issues that have already caused interior damage, our [hardwood flooring repair guide](/blog/hardwood-flooring-repair-cost-breakdown-real-numbers/) covers what to do about water-damaged interior floors. Understanding [laminate flooring installation costs](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/) also helps when replacing water-damaged flooring after a roof leak.
 
 ## Budgeting for Tile Roof Maintenance
 

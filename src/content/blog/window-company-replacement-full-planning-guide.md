@@ -143,6 +143,6 @@ Once you sign a contract, expect 4 to 8 weeks for window manufacturing (custom s
 
 Schedule installation during mild weather if possible. The windows are open to the elements briefly during the swap, and extreme cold or rain makes the process more difficult and messy.
 
-For related home improvement projects, see our guides on [basement finishing costs](/blog/basement-finishing-costs-what-homeowners-should-know/) and [hiring basement contractors](/blog/hiring-basement-finishing-pros-what-to-look-for/). A window replacement often pairs well with other exterior projects like siding or trim work, and bundling can sometimes yield better contractor pricing.
+For related home improvement projects, see our guides on [basement finishing costs](/blog/cost-to-finish-a-basement/) and [hiring basement contractors](/blog/hiring-a-basement-finishing-contractor-red-flags-and-tips/). A window replacement often pairs well with other exterior projects like siding or trim work, and bundling can sometimes yield better contractor pricing.
 
 Choose a window company the same way you would choose any contractor: verify credentials, compare detailed quotes, check references, and trust your instincts about the people who will be working in your home.

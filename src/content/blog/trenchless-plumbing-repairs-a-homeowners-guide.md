@@ -105,7 +105,7 @@ Not every plumber offers trenchless services — it requires specialized equipme
 
 Get three written estimates. The proposals should specify the method being used, the materials (liner brand/thickness for CIPP, pipe material/diameter for bursting), the warranty, and whether the camera inspection footage is included.
 
-For guidance on vetting plumbing companies generally, check our [plumbing services guide](/blog/plumbing-services-repairs-a-homeowners-guide/). If your situation is urgent — sewage backing up into the house — our piece on [24-hour plumbing repair](/blog/24-hour-plumbing-repair-diy-or-call-a-pro/) covers emergency next steps.
+For guidance on vetting plumbing companies generally, check our [plumbing services guide](/blog/plumbing-repair-diy-or-call-a-pro/). If your situation is urgent — sewage backing up into the house — our piece on [24-hour plumbing repair](/blog/24-hour-plumbing-repair-diy-or-call-a-pro/) covers emergency next steps.
 
 ## Permits and Code Compliance
 

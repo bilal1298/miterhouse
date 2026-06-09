@@ -106,7 +106,7 @@ If you are installing yourself, the process follows a logical sequence.
 Electric fence installation is one of the more DIY-friendly fence types, but some situations justify professional help:
 
 - **Complex terrain** with significant slopes, creek crossings, or rocky ground.
-- **Integration with existing conventional fencing** where you want to add a hot wire to an existing [chain link](/blog/professional-chain-link-fence-installation-costs-and-tips/) or [woven wire](/blog/installing-woven-wire-fence-what-to-know-first/) fence.
+- **Integration with existing conventional fencing** where you want to add a hot wire to an existing [chain link](/blog/chain-link-fence-installation-costs-and-tips/) or [woven wire](/blog/installing-woven-wire-fence-what-to-know-first/) fence.
 - **Large acreage** where proper planning of energizer placement, grounding, and wire routing prevents voltage drop issues.
 - **Local code compliance** — some municipalities restrict electric fencing in residential areas or require specific signage, setbacks, and ground-fault interrupters on the energizer.
 

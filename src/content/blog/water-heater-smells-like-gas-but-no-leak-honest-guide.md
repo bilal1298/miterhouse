@@ -50,7 +50,7 @@ On older water heaters with standing pilot lights, the most common cause of a ga
 4. Hold the pilot button for 30–60 seconds after the flame lights to heat the thermocouple
 5. Release and turn the valve to "on"
 
-If the pilot will not stay lit after multiple attempts, the thermocouple is likely failed — a $10–$20 part that you can replace yourself or have a plumber do for $100–$200. Learn more about general water heater troubleshooting in our guide on [water heaters that keep running](/blog/the-real-deal-on-water-heater-keeps-running/).
+If the pilot will not stay lit after multiple attempts, the thermocouple is likely failed — a $10–$20 part that you can replace yourself or have a plumber do for $100–$200. Learn more about general water heater troubleshooting in our guide on [water heaters that keep running](/blog/water-heater-constantly-running-a-diyers-honest-take/).
 
 ### Dirty or Clogged Burner
 

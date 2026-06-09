@@ -60,7 +60,7 @@ This is where most 80s kitchen remodels land. You are replacing the major surfac
 
 **New cabinets ($8,000 to $20,000).** Semi-custom cabinets in shaker style, painted white or a soft gray, with soft-close hinges and full-extension drawer slides. The 80s oak cabinets go to the curb.
 
-**New countertops ($3,000 to $8,000).** [Quartz is the default mid-range choice](/blog/how-much-does-quartz-countertop-installed-really-cost/) for good reason: zero maintenance, consistent appearance, and durable enough for decades of daily use.
+**New countertops ($3,000 to $8,000).** [Quartz is the default mid-range choice](/blog/quartz-countertop-installation-pricing-guide-for-homeowners/) for good reason: zero maintenance, consistent appearance, and durable enough for decades of daily use.
 
 **New flooring ($2,000 to $5,000).** The 80s kitchen floor is likely sheet vinyl, ceramic tile in a neutral tone, or possibly linoleum. Luxury vinyl plank (LVP) is the practical replacement: waterproof, durable, and installs over most existing substrates.
 

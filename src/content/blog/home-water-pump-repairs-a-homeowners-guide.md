@@ -118,7 +118,7 @@ Certain repairs are outside DIY territory:
 - **Declining well yield** — this requires a well service company to evaluate. Solutions range from hydro-fracturing the well ($2,000 to $4,000) to drilling a new one ($5,000 to $15,000+).
 - **Water quality issues** — if your water suddenly changes color, taste, or odor, get it tested before making any repairs. A compromised well casing or contaminated aquifer is a health issue that needs professional assessment.
 
-For finding a good plumber or well service company, our [plumbing company guide](/blog/plumbing-company-repair-guide-what-to-know/) covers what to look for. If the pump issue is causing water damage, see our [water leak repair guide](/blog/plumbing-water-leak-repair-guide-what-to-know/).
+For finding a good plumber or well service company, our [plumbing company guide](/blog/plumbing-repair-diy-or-call-a-pro/) covers what to look for. If the pump issue is causing water damage, see our [water leak repair guide](/blog/plumbing-water-leak-repair-guide-what-to-know/).
 
 ## Extending Your Pump's Life
 

@@ -121,7 +121,7 @@ If you decide to hire out, get three quotes and compare them carefully. A good q
 
 Red flags in quotes: vague descriptions ("paint room"), no mention of prep work, quoting without seeing the room, or prices dramatically below the market range (they are cutting corners on paint quality or prep).
 
-If you are considering painting multiple rooms, the per-room cost drops significantly with a larger project. Check our [interior painting cost guide](/blog/how-much-does-painting-house-interior-really-cost/) for whole-house pricing, and our [general painting pricing breakdown](/blog/painting-pricing-guide-for-homeowners/) for a broader look at how [labor costs](/blog/labor-painting-cost-breakdown-real-numbers/) factor in.
+If you are considering painting multiple rooms, the per-room cost drops significantly with a larger project. Check our [interior painting cost guide](/blog/interior-house-painting-services-what-homeowners-should-know/) for whole-house pricing, and our [general painting pricing breakdown](/blog/professional-painting-cost-what-to-expect-in-2026/) for a broader look at how [labor costs](/blog/labor-painting-cost-breakdown-real-numbers/) factor in.
 
 ## Accent Walls and Two-Tone Bedrooms
 

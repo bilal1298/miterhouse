@@ -122,7 +122,7 @@ If you do need to change pipe sizes, here is what the project typically costs:
 
 For the water connections at the heater itself, this is a manageable DIY project if you are comfortable with soldering copper or crimping PEX. The connections on top of the heater are the most accessible plumbing joints in the house.
 
-For more context on water heater issues and related repairs, check our guides on [blow-off valve leaking](/blog/water-heater-blow-off-valve-leaking-a-practical-guide/) and [pop-off valve problems](/blog/pop-off-valve-water-heater-leaking-honest-advice-for-your-home/). If your system is older and showing multiple issues, our [24-hour water heater repair guide](/blog/24-hour-water-heater-repair-guide-what-to-know/) covers the full diagnostic process.
+For more context on water heater issues and related repairs, check our guides on [blow-off valve leaking](/blog/water-heater-blow-off-valve-leaking-a-practical-guide/) and [pop-off valve problems](/blog/water-heater-blow-off-valve-leaking-a-practical-guide/). If your system is older and showing multiple issues, our [24-hour water heater repair guide](/blog/24-hour-water-heater-repair-diy-or-call-a-pro/) covers the full diagnostic process.
 
 ## The Practical Takeaway
 

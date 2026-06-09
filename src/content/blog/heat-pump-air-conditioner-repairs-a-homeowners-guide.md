@@ -120,7 +120,7 @@ Federal tax credits and utility rebates can reduce the effective cost of a new h
 
 ## Protecting Your Home from Related Damage
 
-A malfunctioning heat pump can cause secondary damage if ignored. Refrigerant leaks can lead to frozen coils, which thaw and create [water damage](/blog/water-damage-prevention-honest-advice-for-your-home/). A failed condensate drain can flood areas around the air handler. Ice buildup on outdoor units in winter can damage the coils and surrounding structures.
+A malfunctioning heat pump can cause secondary damage if ignored. Refrigerant leaks can lead to frozen coils, which thaw and create [water damage](/blog/preventing-water-damage-a-practical-guide/). A failed condensate drain can flood areas around the air handler. Ice buildup on outdoor units in winter can damage the coils and surrounding structures.
 
 If you discover water damage from a heat pump failure, act quickly. Our [preventing water damage guide](/blog/preventing-water-damage-a-practical-guide/) covers immediate steps. For serious incidents, [finding water damage remediation contractors](/blog/finding-good-water-damage-remediation-contractors-near-you/) explains how to get qualified help.
 

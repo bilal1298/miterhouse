@@ -59,7 +59,7 @@ Cabinets account for the largest single expense in most kitchen remodels — rou
 
 ### 4. Countertop Services
 
-**Cost:** $1,500 to $8,000+ depending on material and kitchen size. See our detailed guides on [quartz countertop costs](/blog/how-much-does-quartz-countertop-installed-really-cost/) and [kitchen countertop installation pricing](/blog/kitchen-countertop-install-cost-what-to-expect-in-2026/).
+**Cost:** $1,500 to $8,000+ depending on material and kitchen size. See our detailed guides on [quartz countertop costs](/blog/quartz-countertop-installation-pricing-guide-for-homeowners/) and [kitchen countertop installation pricing](/blog/kitchen-countertop-installation-pricing-guide-for-homeowners/).
 
 **Timeline:** 3 to 6 weeks from template to installation for stone countertops.
 

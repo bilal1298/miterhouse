@@ -162,7 +162,7 @@ Even if you hire a professional, running your own material calculation has value
 
 Ask each contractor for an itemized quote. Compare their material quantities against your calculations. Significant discrepancies in joist count, post count, or hardware are worth questioning before signing.
 
-For a deep dive into the contractor hiring process for deck projects, our [deck building contractor guide](/blog/hiring-a-deck-building-contractor-red-flags-and-tips/) covers what to look for and what to avoid.
+For a deep dive into the contractor hiring process for deck projects, our [deck building contractor guide](/blog/finding-good-deck-building-contractors-near-you/) covers what to look for and what to avoid.
 
 ## Timing and Seasonal Pricing
 

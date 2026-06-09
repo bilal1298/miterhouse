@@ -116,7 +116,7 @@ Some leaks are strictly professional territory:
 - **Leaks inside finished walls** — accessing and repairing without excessive demolition takes experience
 - **Whole-house repiping** — if you have galvanized pipes with multiple leaks, spot repairs are band-aids
 
-When hiring, follow the guidance in our [plumbing company guide](/blog/plumbing-company-repair-guide-what-to-know/) for vetting contractors. For emergency situations, see our [24-hour plumbing resource](/blog/how-to-install-xwfe-water-filter-the-right-way/).
+When hiring, follow the guidance in our [plumbing company guide](/blog/plumbing-repair-diy-or-call-a-pro/) for vetting contractors. For emergency situations, see our [24-hour plumbing resource](/blog/how-to-install-xwfe-water-filter-the-right-way/).
 
 Always follow [OSHA safety practices](https://www.osha.gov/) when working around plumbing, especially in confined spaces or near electrical equipment. The [NFPA 70](https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70) standard is relevant whenever plumbing work is near electrical wiring.
 

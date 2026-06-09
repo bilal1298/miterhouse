@@ -104,7 +104,7 @@ Set gate posts at the exact opening width specified by your gate kit plus 1/2 to
 
 **Skipping steel inserts in tall fences.** This is the most expensive mistake because it often shows up 2 to 3 years later when posts start leaning. By then, fixing it means pulling posts and resetting them — essentially reinstalling the fence.
 
-**Not accounting for grade changes.** PVC panels cannot be racked (angled to follow a slope) like [chain-link mesh](/blog/installing-cyclone-fence-what-to-know-first/). They must be stepped, and stepping requires careful post height calculations.
+**Not accounting for grade changes.** PVC panels cannot be racked (angled to follow a slope) like [chain-link mesh](/blog/chain-link-fence-installation-costs-and-tips/). They must be stepped, and stepping requires careful post height calculations.
 
 **Installing in extreme cold.** PVC becomes brittle below 40 degrees F. Handling and cutting panels in cold weather increases the risk of cracking. If possible, schedule installation for temperatures above 50 degrees.
 

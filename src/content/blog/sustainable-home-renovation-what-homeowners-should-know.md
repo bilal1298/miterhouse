@@ -92,7 +92,7 @@ The [Tile Council of North America (TCNA)](https://www.tcnatile.com/) provides g
 
 **FSC-certified wood.** If you are buying new cabinets, specify Forest Stewardship Council (FSC) certified wood. The cost premium is typically 5-15%, and it ensures responsible forestry practices.
 
-Our [painting kitchen cabinets cost](/blog/painting-kitchen-cabinets-cost-what-to-expect-in-2026/) guide covers another low-waste approach to kitchen updates that many homeowners overlook.
+Our [painting kitchen cabinets cost](/blog/cabinet-painting-pricing-guide-for-homeowners/) guide covers another low-waste approach to kitchen updates that many homeowners overlook.
 
 ## Water Conservation During Renovation
 
@@ -147,7 +147,7 @@ The [International Residential Code](https://www.iccsafe.org/products-and-servic
 
 **Overlooking indoor air quality during renovation.** Construction dust, adhesive fumes, and paint off-gassing degrade air quality for weeks to months. Specify low-VOC products, ventilate aggressively during and after renovation, and consider an air quality monitor to verify when levels return to baseline.
 
-Our [kitchen renovation services](/blog/the-real-deal-on-kitchen-renovation-services/) guide and [finding kitchen renovation contractors](/blog/finding-good-kitchen-renovation-contractors-near-you/) piece both cover how to work with contractors who understand sustainable building practices.
+Our [kitchen renovation services](/blog/kitchen-remodel-services-a-practical-guide/) guide and [finding kitchen renovation contractors](/blog/contractor-to-remodel-kitchen-what-to-know/) piece both cover how to work with contractors who understand sustainable building practices.
 
 ## The Bottom Line
 

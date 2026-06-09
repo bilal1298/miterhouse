@@ -132,7 +132,7 @@ Honestly, very few aspects of a rooftop deck build are suitable for DIY. The str
 - Railing systems (liability and code compliance)
 - Anything that penetrates the roof membrane
 
-If you are interested in deck building at a more accessible level, our [deck building guides overview](/blog/the-real-deal-on-deck-building-guides/) covers standard ground-level projects. The [deck layout planning guide](/blog/the-real-deal-on-deck-building-layout/) helps with the design phase, and if you want to understand contractor costs, the [deck building cost calculator](/blog/building-deck-pricing-guide-for-homeowners/) breaks those numbers down. For ground-level builds, the [comprehensive deck building guide](/blog/building-a-deck-guide-a-practical-guide/) walks through the full process step by step.
+If you are interested in deck building at a more accessible level, our [deck building guides overview](/blog/building-a-deck-guide-a-practical-guide/) covers standard ground-level projects. The [deck layout planning guide](/blog/the-real-deal-on-custom-deck-building/) helps with the design phase, and if you want to understand contractor costs, the [deck building cost calculator](/blog/building-a-deck-guide-a-practical-guide/) breaks those numbers down. For ground-level builds, the [comprehensive deck building guide](/blog/building-a-deck-guide-a-practical-guide/) walks through the full process step by step.
 
 ## Maintenance Considerations
 

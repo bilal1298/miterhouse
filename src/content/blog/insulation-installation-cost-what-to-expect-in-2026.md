@@ -122,4 +122,4 @@ The [Energy Star program](https://www.energystar.gov/) provides a directory of c
 
 Professional timelines assume the prep work (clearing the attic, protecting the home) has been done. Add 2 to 4 hours for setup and cleanup.
 
-For homeowners planning insulation as part of a larger project, our [basement finishing guide](/blog/the-real-deal-on-finishing-basement/) integrates insulation into the full renovation scope, and the [basement finishing costs overview](/blog/basement-finishing-costs-what-homeowners-should-know/) breaks down how insulation fits into the total budget.
+For homeowners planning insulation as part of a larger project, our [basement finishing guide](/blog/the-real-deal-on-finishing-basement/) integrates insulation into the full renovation scope, and the [basement finishing costs overview](/blog/cost-to-finish-a-basement/) breaks down how insulation fits into the total budget.

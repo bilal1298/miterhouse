@@ -77,7 +77,7 @@ Use this approach to determine whether repair is worthwhile:
 - The window is 20+ years old
 - Energy bills suggest significant heat loss through windows
 - Multiple components have failed simultaneously
-- You are already [doing other window work on the house](/blog/window-contract-replacement-full-planning-guide/)
+- You are already [doing other window work on the house](/blog/window-company-replacement-full-planning-guide/)
 
 ## Choosing Replacement Materials
 

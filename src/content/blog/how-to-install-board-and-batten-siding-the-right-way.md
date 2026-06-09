@@ -144,4 +144,4 @@ A professional crew can side a typical house (1,500 square feet of siding area) 
 
 Weather matters. Do not install wood siding in rain or when rain is expected within 24 hours. The wood should acclimate to your local humidity for at least a week before installation — stack it in a covered, ventilated area near the house.
 
-If you are coordinating siding with other exterior improvements like fencing, our [cedar fence guide](/blog/cedar-fence-installation-guide-diy-or-hire-out/) and [chain link installation guide](/blog/installing-chain-fence-what-to-know-first/) cover complementary projects that share similar material and labor considerations.
+If you are coordinating siding with other exterior improvements like fencing, our [cedar fence guide](/blog/cedar-fence-installation-guide-diy-or-hire-out/) and [chain link installation guide](/blog/chain-link-fence-installation-costs-and-tips/) cover complementary projects that share similar material and labor considerations.

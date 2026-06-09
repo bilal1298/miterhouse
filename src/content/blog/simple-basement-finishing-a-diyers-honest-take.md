@@ -154,7 +154,7 @@ If you do not own these tools, factor the cost into your budget. Buying a basic 
 
 **Rushing drywall finishing.** The difference between professional-looking drywall and obviously amateur walls comes down to patience during taping and mudding. Three thin coats beat two heavy coats every time. Sand between coats. Use a work light held at an angle to the wall surface to reveal imperfections before painting.
 
-**Skipping insulation.** An uninsulated finished basement is cold in winter and sweaty in summer. Rigid foam on foundation walls is the minimum. It also serves as a vapor retarder, protecting your framing and drywall from moisture that migrates through the concrete. See our [finishing cost guide](/blog/basement-finishing-costs-what-homeowners-should-know/) for insulation cost details and our [estimates guide](/blog/the-real-deal-on-basement-finishing-estimates/) for incorporating it into your budget.
+**Skipping insulation.** An uninsulated finished basement is cold in winter and sweaty in summer. Rigid foam on foundation walls is the minimum. It also serves as a vapor retarder, protecting your framing and drywall from moisture that migrates through the concrete. See our [finishing cost guide](/blog/cost-to-finish-a-basement/) for insulation cost details and our [estimates guide](/blog/cost-to-finish-a-basement/) for incorporating it into your budget.
 
 ## When "Simple" Should Become "Hired Out"
 
@@ -167,6 +167,6 @@ Consider hiring a contractor for portions you are not confident about:
 
 Hiring out one or two trades while doing the rest yourself is a reasonable hybrid approach. You save the most money on framing, insulation, flooring, and painting — the labor-intensive but lower-skill tasks. The specialized trades (electrical, drywall finishing) are where professional skill makes the most visible difference.
 
-For contractor selection guidance, our [hiring guide](/blog/hiring-basement-finishing-pros-what-to-look-for/) walks through the vetting process. And if you want to understand the full spectrum of finishing options before deciding on "simple," our [basement finishing overview](/blog/the-real-deal-on-basement-finishing-estimates/) covers basic through high-end scopes.
+For contractor selection guidance, our [hiring guide](/blog/hiring-a-basement-finishing-contractor-red-flags-and-tips/) walks through the vetting process. And if you want to understand the full spectrum of finishing options before deciding on "simple," our [basement finishing overview](/blog/cost-to-finish-a-basement/) covers basic through high-end scopes.
 
 A simple basement finish is genuinely achievable as a DIY project. Just be honest with yourself about the time commitment — most people underestimate it by half — and do not skip the moisture check. Everything else is fixable. Moisture behind finished walls is not.

@@ -109,7 +109,7 @@ The total timeline from decision to finished replacement is typically 3 to 5 wee
 - **Weeks 3-4:** Fabrication
 - **Week 4-5:** Removal of old countertop and installation of new one (usually same day or consecutive days)
 
-One important detail: you will be without a functional kitchen sink for at least a full day, sometimes two if the plumber cannot reconnect immediately after installation. Set up a temporary dishwashing station in the laundry room or bathroom, and plan on [takeout or simple meals](/blog/painting-kitchen-cabinets-cost-what-to-expect-in-2026/) for 24 to 48 hours.
+One important detail: you will be without a functional kitchen sink for at least a full day, sometimes two if the plumber cannot reconnect immediately after installation. Set up a temporary dishwashing station in the laundry room or bathroom, and plan on takeout or simple meals for 24 to 48 hours.
 
 ## Is Replacing Granite Worth It?
 

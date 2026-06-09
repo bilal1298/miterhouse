@@ -109,7 +109,7 @@ In Vermont, when you schedule your project matters:
 
 **Late fall/winter (November-March):** Installation is possible but sealants and caulk perform less reliably in cold temperatures. Some companies offer 10-15% discounts for winter scheduling. If you go this route, confirm the installer uses cold-weather-appropriate sealants rated for application at low temperatures.
 
-For homeowners also considering other projects, see our guides on [window replacement contractors](/blog/replacing-window-contractors-what-it-costs-and-takes/) for vetting advice and [window replacement companies](/blog/window-companies-replacement-full-planning-guide/) for a broader comparison of company types.
+For homeowners also considering other projects, see our guides on [window replacement contractors](/blog/window-company-replacement-full-planning-guide/) for vetting advice and [window replacement companies](/blog/window-company-replacement-full-planning-guide/) for a broader comparison of company types.
 
 ## The Vermont ROI Calculation
 

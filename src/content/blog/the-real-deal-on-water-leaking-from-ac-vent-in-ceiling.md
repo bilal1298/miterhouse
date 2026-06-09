@@ -129,6 +129,6 @@ A simple maintenance schedule prevents nearly all AC-related ceiling water probl
 - **Annually:** Have an HVAC technician inspect the system, check refrigerant charge, clean the evaporator coil, and verify drain line flow. Schedule this in spring before the heavy cooling season.
 - **Once:** Install a float switch on the drain pan if you do not already have one. It is cheap insurance against ceiling damage.
 
-Check your [plumbing and water systems](/blog/plumbing-companies-repair-diy-or-call-a-pro/) at the same time for a complete picture of water-related risks in your home.
+Check your [plumbing and water systems](/blog/plumbing-repair-diy-or-call-a-pro/) at the same time for a complete picture of water-related risks in your home.
 
 The key takeaway: water at a ceiling vent is almost always a condensate issue, not a roof leak or plumbing problem. Start with the drain line and air filter before assuming the worst.

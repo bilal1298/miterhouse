@@ -124,7 +124,7 @@ For professional repairs, expect these timelines:
 | Full wall rebuild with plumbing | 5-10 days |
 | Mold remediation + rebuild | 1-3 weeks |
 
-If you have already dealt with water-related issues elsewhere in the home, you know the pattern -- check our guides on [water damage remediation](/blog/finding-good-water-damage-remediation-contractors-near-you/) and [flood repair](/blog/flooded-home-repair-diy-or-call-a-pro/) for broader context. Water damage to [ceiling tiles](/blog/water-damage-ceiling-tiles-honest-advice-for-your-home/) and [cabinets](/blog/the-real-deal-on-water-damaged-cabinets/) follows a similar escalation pattern.
+If you have already dealt with water-related issues elsewhere in the home, you know the pattern -- check our guides on [water damage remediation](/blog/finding-good-water-damage-remediation-contractors-near-you/) and [flood repair](/blog/water-damage-repair-diy-or-call-a-pro/) for broader context. Water damage to [ceiling tiles](/blog/water-damage-ceiling-tiles-honest-advice-for-your-home/) and [cabinets](/blog/the-real-deal-on-water-damaged-cabinets/) follows a similar escalation pattern.
 
 ## Preventing Future Bathroom Water Damage
 

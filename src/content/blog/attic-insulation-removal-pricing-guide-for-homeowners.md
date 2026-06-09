@@ -96,7 +96,7 @@ These items are quoted separately or as optional add-ons:
 - **Electrical or structural repairs** discovered during removal
 - **Vent baffle installation** ($50 to $150 for materials)
 
-The [full cost of insulation replacement](/blog/installing-insulation-cost-what-to-expect-in-2026/) — removal plus new installation — is covered separately, but expect the combined project to run 2x to 2.5x the removal-only cost.
+The [full cost of insulation replacement](/blog/insulation-installation-cost-what-to-expect-in-2026/) — removal plus new installation — is covered separately, but expect the combined project to run 2x to 2.5x the removal-only cost.
 
 ## Negotiating and Saving on Removal Costs
 
@@ -144,7 +144,7 @@ Insulation removal costs vary meaningfully by geography. The primary driver is l
 - **Southeast:** 5% to 15% below national average
 - **Mountain West/rural areas:** Highly variable — limited contractors may charge premium rates despite lower cost of living
 
-For [specific regional cost data](/blog/removing-insulation-from-attic-cost-breakdown-real-numbers/), check with local insulation companies for current quotes in your area.
+For specific regional cost data, check with local insulation companies for current quotes in your area.
 
 ## Moisture Considerations Before Removal
 
@@ -169,11 +169,11 @@ Removing insulation from a wet attic without fixing the moisture source means th
 The exposed attic floor after removal is a rare and valuable sight. Before new insulation goes in:
 
 1. Photograph everything for your records
-2. [Air seal all penetrations](/blog/remove-attic-insulation-cost-what-to-expect-in-2026/) between the attic and living space
+2. Air seal all penetrations between the attic and living space
 3. Have an electrician inspect any visible wiring concerns
 4. Seal pest entry points
 5. Install vent baffles at every rafter bay along the eaves
-6. Then, and only then, install [new insulation to the recommended R-value](/blog/removing-attic-insulation-cost-breakdown-real-numbers/) for your climate zone
+6. Then, and only then, install new insulation to the recommended R-value for your climate zone
 
 The [Department of Energy's insulation recommendations](https://www.energy.gov/energysaver/insulation) provide R-value targets by climate zone and guidance on material selection. Blown cellulose remains the best value for most attic floor applications in 2026.
 

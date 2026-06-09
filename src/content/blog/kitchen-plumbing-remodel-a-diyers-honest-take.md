@@ -141,4 +141,4 @@ Beyond that:
 - Combine the kitchen plumbing with any other plumbing work you need done — the service call and setup time is the same
 - If you are re-piping, do the whole house at once rather than the kitchen alone — the incremental cost to re-pipe the rest of the house while walls are open is far less than doing it as a separate project later
 
-The kitchen plumbing may be the least glamorous part of your remodel, but it is the part that will cause the most expensive damage if done wrong. Get this right, and everything built on top of it — the beautiful [countertops](/blog/how-much-does-countertop-installation-really-cost/), the custom cabinets, the new flooring — stays protected for decades.
+The kitchen plumbing may be the least glamorous part of your remodel, but it is the part that will cause the most expensive damage if done wrong. Get this right, and everything built on top of it — the beautiful [countertops](/blog/countertop-pricing-guide-for-homeowners/), the custom cabinets, the new flooring — stays protected for decades.

@@ -110,4 +110,4 @@ Clean the gutters thoroughly before installation. Secure each section with the f
 
 Work in sections, fully completing and securing each before moving to the next. Test each section by pouring a bucket of water into the gutter at the far end from the downspout and watching the flow.
 
-For additional exterior projects that coordinate with gutter work, our [fence installation guides](/blog/chain-wire-fence-installation-guide-diy-or-hire-out/) cover how fencing intersects with drainage planning. If you are upgrading your home's exterior more broadly, the [wrought iron fence guide](/blog/wrought-iron-fence-installation-costs-and-tips/) discusses durability considerations that parallel gutter material choices.
+For additional exterior projects that coordinate with gutter work, our [fence installation guides](/blog/chain-link-fence-installation-costs-and-tips/) cover how fencing intersects with drainage planning. If you are upgrading your home's exterior more broadly, the [wrought iron fence guide](/blog/wrought-iron-fence-installation-costs-and-tips/) discusses durability considerations that parallel gutter material choices.

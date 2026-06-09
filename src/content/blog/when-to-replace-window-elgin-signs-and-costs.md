@@ -153,4 +153,4 @@ Elgin's mix of historic and modern homes means there is no one-size-fits-all win
 
 Start with a clear assessment of your home's needs: Is the issue energy efficiency, failed seals, rot, or aesthetics? Match the solution to the actual problem. Get three or more quotes from contractors who have experience with your specific home type. And prioritize installation quality over window brand — a well-installed mid-grade window outperforms a poorly installed premium one every time.
 
-For additional regional comparisons, see our [Naperville window guide](/blog/when-to-replace-window-naperville-signs-and-costs/) and our [contractor window replacement overview](/blog/when-to-replace-contractor-window-signs-and-costs/).
+For additional regional comparisons, see our [Naperville window guide](/blog/when-to-replace-window-naperville-signs-and-costs/) and our [contractor window replacement overview](/blog/window-company-replacement-full-planning-guide/).

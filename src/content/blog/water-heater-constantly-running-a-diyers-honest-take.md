@@ -99,6 +99,6 @@ If your water heater is 10+ years old, runs constantly, and none of the above fi
 
 The crossover point where repair stops making sense is roughly when repair costs exceed 50% of a new unit. At that point, a new water heater with modern insulation and efficiency pays for itself within a few years through reduced energy costs.
 
-Check out our guides on [water heater issues that keep running](/blog/the-real-deal-on-water-heater-keeps-running/) and [common plumbing repairs](/blog/plumbing-repair-diy-or-call-a-pro/) for more troubleshooting resources. And if you notice the heater running constantly alongside any leaking, address the [leak first](/blog/vent-leaking-water-a-practical-guide/) — water damage from a failing water heater can cost far more than the heater itself.
+Check out our guides on water heater issues that keep running and [common plumbing repairs](/blog/plumbing-repair-diy-or-call-a-pro/) for more troubleshooting resources. And if you notice the heater running constantly alongside any leaking, address the [leak first](/blog/the-real-deal-on-water-leaking-from-ac-vent-in-ceiling/) — water damage from a failing water heater can cost far more than the heater itself.
 
 Start with the free fixes: check the thermostat, look for leaks, and [flush the sediment](/blog/how-often-should-i-flush-my-water-heater-honest-guide/). You may solve the problem without spending a dime. If those do not work, the diagnostic steps above will at least tell you exactly what your plumber needs to fix, saving you the cost of an exploratory service call.

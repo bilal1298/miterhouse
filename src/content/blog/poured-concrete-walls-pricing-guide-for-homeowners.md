@@ -133,7 +133,7 @@ If the concrete walls will be exposed (basement finish, garage, architectural ex
 
 **Form liner finishes:** Textured rubber liners placed inside the forms before pouring create patterns — stone, wood grain, brick, or custom designs — on the finished wall surface. These add $2–$6/sq ft but eliminate the need for any additional finishing. Per [CPSC safety guidelines](https://www.cpsc.gov/), any coating products used on interior concrete walls should be evaluated for off-gassing, particularly in enclosed spaces.
 
-For more on wall finishing and painting costs, see our [painting pricing guide](/blog/painting-pricing-guide-for-homeowners/) and [house interior painting cost breakdown](/blog/how-much-does-painting-house-interior-really-cost/).
+For more on wall finishing and painting costs, see our [painting pricing guide](/blog/professional-painting-cost-what-to-expect-in-2026/) and [house interior painting cost breakdown](/blog/interior-house-painting-services-what-homeowners-should-know/).
 
 ## Common Problems and Repair Costs
 
@@ -147,7 +147,7 @@ Poured concrete walls are durable, but not immune to issues:
 
 **Honeycombing:** Voids in the concrete surface caused by poor consolidation during the pour. Cosmetic repair with patching mortar: $5–$15/sq ft. If structural, may require engineering evaluation.
 
-For related structural and repair guides, see our [outdoor painting cost breakdown](/blog/outdoor-painting-cost-breakdown-real-numbers/) and [labor painting cost breakdown](/blog/labor-painting-cost-breakdown-real-numbers/) for more project pricing context.
+For related structural and repair guides, see our [outdoor painting cost breakdown](/blog/exterior-house-painting-pricing-guide-for-homeowners/) and [labor painting cost breakdown](/blog/labor-painting-cost-breakdown-real-numbers/) for more project pricing context.
 
 ## The Bottom Line
 

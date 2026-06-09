@@ -118,7 +118,7 @@ If you spot issues, address them before the painter arrives. Adding a skim coat 
 | Texture matching (add-on) | $75-$200 per patch |
 | Full sheet replacement | $300-$600 per sheet |
 
-These ranges include materials, labor, and priming. Painting is typically separate unless bundled with a painting service. For combined paint and repair projects, our guides on [inside painting costs](/blog/inside-painting-cost-breakdown-real-numbers/) and [exterior painting](/blog/outside-painting-cost-what-to-expect-in-2026/) break down what to expect.
+These ranges include materials, labor, and priming. Painting is typically separate unless bundled with a painting service. For combined paint and repair projects, our guides on [inside painting costs](/blog/interior-house-painting-services-what-homeowners-should-know/) and [exterior painting](/blog/exterior-house-painting-pricing-guide-for-homeowners/) break down what to expect.
 
 ## Finding a Lead-Safe Contractor
 

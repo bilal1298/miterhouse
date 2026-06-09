@@ -66,7 +66,7 @@ A reputable window company's estimate process looks like this:
 
 If the estimator pressures you to sign during the first visit with a "today only" discount, that is a high-pressure sales tactic, not a legitimate business practice. Walk away.
 
-**Comparison and negotiation.** With three proposals in hand, you can compare scope and pricing. Do not automatically choose the lowest bid — instead, [evaluate the contracts side by side](/blog/window-contract-replacement-full-planning-guide/) to understand what each includes and excludes.
+**Comparison and negotiation.** With three proposals in hand, you can compare scope and pricing. Do not automatically choose the lowest bid — instead, [evaluate the contracts side by side](/blog/window-company-replacement-full-planning-guide/) to understand what each includes and excludes.
 
 ## What Professional Installation Includes
 

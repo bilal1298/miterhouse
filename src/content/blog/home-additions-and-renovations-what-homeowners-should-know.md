@@ -127,7 +127,7 @@ Home additions and major renovations frequently exceed cash reserves. Common fin
 
 **You will make decisions you are not prepared for.** A renovation involves hundreds of choices: exact tile grout color, outlet placement, door swing direction, hardware style. Decision fatigue is real. Make as many selections as possible before demolition starts, when you can think clearly without the pressure of a crew waiting for an answer.
 
-For more detailed guidance on managing kitchen and bathroom renovations within a larger project, our guides on [kitchen renovation contractors](/blog/finding-good-kitchen-renovation-contractors-near-you/) and [contractor red flags](/blog/hiring-a-kitchen-bathroom-remodel-contractor-red-flags-and-tips/) cover the hiring and management process in depth.
+For more detailed guidance on managing kitchen and bathroom renovations within a larger project, our guides on [kitchen renovation contractors](/blog/contractor-to-remodel-kitchen-what-to-know/) and [contractor red flags](/blog/hiring-a-kitchen-bathroom-remodel-contractor-red-flags-and-tips/) cover the hiring and management process in depth.
 
 ## Maximizing Return on Investment
 

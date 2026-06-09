@@ -94,7 +94,7 @@ You have more control over the final price than you might think.
 
 ## The Granite vs. Quartz Decision in 2026
 
-Since [granite](/blog/how-much-does-granite-countertop-installed-really-cost/) and [quartz](/blog/how-much-does-install-quartz-countertop-really-cost/) dominate the mid-range and premium countertop market, most homeowners end up choosing between these two materials.
+Since [granite](/blog/granite-countertop-installation-pricing-guide-for-homeowners/) and [quartz](/blog/quartz-countertop-installation-pricing-guide-for-homeowners/) dominate the mid-range and premium countertop market, most homeowners end up choosing between these two materials.
 
 The cost difference is relatively small — quartz typically runs 5 to 15% more than comparable granite. The real decision comes down to lifestyle fit.
 

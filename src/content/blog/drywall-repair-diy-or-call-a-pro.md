@@ -92,7 +92,7 @@ Texture is applied if needed. Then a coat of PVA drywall primer seals the compou
 
 For most homeowners, the handyman or painting company is the right call. A dedicated drywall contractor makes sense for extensive damage or high-visibility work where finish quality is paramount.
 
-If you are combining drywall repair with painting — which is the most common and most efficient approach — our guides on [professional painting pricing](/blog/professional-painting-cost-what-to-expect-in-2026/) and [interior painting cost breakdowns](/blog/inside-painting-cost-breakdown-real-numbers/) provide detailed cost expectations for the combined job.
+If you are combining drywall repair with painting — which is the most common and most efficient approach — our guides on [professional painting pricing](/blog/professional-painting-cost-what-to-expect-in-2026/) and [interior painting cost breakdowns](/blog/interior-house-painting-services-what-homeowners-should-know/) provide detailed cost expectations for the combined job.
 
 ## The DIY Toolkit: What You Actually Need
 
@@ -146,4 +146,4 @@ Small drywall repairs are among the most satisfying DIY home maintenance tasks �
 
 Larger repairs, ceiling work, water damage, and texture matching are where professional drywall repair services earn their fee. The quality difference on these jobs is real, and living with a visible repair is a constant low-grade annoyance.
 
-The pragmatic approach: fix the small stuff yourself, and save your repair service budget for the work that actually requires a trained eye and practiced hand. For related projects, explore our guides on [painting estimates](/blog/painting-interior-pricing-guide-for-homeowners/) and [exterior painting costs](/blog/how-much-does-exterior-home-painting-really-cost/) to plan your full wall restoration project.
+The pragmatic approach: fix the small stuff yourself, and save your repair service budget for the work that actually requires a trained eye and practiced hand. For related projects, explore our guides on [painting estimates](/blog/interior-house-painting-services-what-homeowners-should-know/) and [exterior painting costs](/blog/exterior-house-painting-pricing-guide-for-homeowners/) to plan your full wall restoration project.

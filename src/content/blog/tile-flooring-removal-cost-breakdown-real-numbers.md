@@ -114,7 +114,7 @@ Hire a professional when:
 - You need the subfloor preserved in perfect condition for the next installation
 - Access is difficult (second floors with narrow stairways, finished basements with low ceilings)
 
-For flooring projects that follow removal, check our [ceramic flooring installation pricing guide](/blog/install-ceramic-flooring-pricing-guide-for-homeowners/) and our [laminate hardwood flooring cost guide](/blog/laminate-hardwood-flooring-installation-pricing-guide-for/) to plan the next phase.
+For flooring projects that follow removal, check our [ceramic flooring installation pricing guide](/blog/ceramic-flooring-installation-cost-what-to-expect-in-2026/) and our [laminate hardwood flooring cost guide](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/) to plan the next phase.
 
 ## Timeline Expectations
 

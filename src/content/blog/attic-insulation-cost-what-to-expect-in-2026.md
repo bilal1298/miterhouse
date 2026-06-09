@@ -111,7 +111,7 @@ When comparing contractor quotes, make sure each one specifies:
 
 A quote that simply says "insulate attic — $2,000" is not detailed enough to compare against anything. Insist on specifics.
 
-For related guidance, see our [attic insulation cost breakdown](/blog/attic-insulation-cost-breakdown-real-numbers/) for material-specific deep dives, our [insulation removal cost guide](/blog/insulation-removal-cost-what-to-expect-in-2026/) if your attic needs clearing first, and our guide to [blown-in insulation costs per square foot](/blog/blow-in-insulation-per-square-foot-cost-what-to-expect-in-2026/) for the most common residential option.
+For related guidance, see our attic insulation cost breakdown for material-specific deep dives, our [insulation removal cost guide](/blog/attic-insulation-removal-pricing-guide-for-homeowners/) if your attic needs clearing first, and our guide to [blown-in insulation costs per square foot](/blog/blown-in-insulation-per-square-foot-cost-what-to-expect-in-2026/) for the most common residential option.
 
 ## The Bottom Line
 

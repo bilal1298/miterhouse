@@ -99,7 +99,7 @@ A proper window replacement installation involves more than swapping units. Make
 
 **Interior trim restoration.** The installer should leave the interior looking finished — caulked, filled, and ready for paint. On insert replacements where existing trim remains, it should be re-caulked and touch-up-ready.
 
-For related guidance, see our [window contract planning guide](/blog/window-contract-replacement-full-planning-guide/) for what to include in your agreement, and our [signature window comparison](/blog/when-to-replace-signature-window-signs-and-costs/) for understanding premium versus standard product lines.
+For related guidance, see our [window contract planning guide](/blog/window-company-replacement-full-planning-guide/) for what to include in your agreement, and our [signature window comparison](/blog/when-to-replace-signature-window-signs-and-costs/) for understanding premium versus standard product lines.
 
 ## How to Compare Local Bids
 

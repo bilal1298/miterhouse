@@ -155,6 +155,6 @@ After a sewer repair, maintenance prevents repeat issues:
 - **Do not plant trees within 10 feet of the sewer line.** If existing trees are near the line, root barriers ($500 to $1,000 installed) can redirect growth.
 - **Do not flush anything but toilet paper.** So-called "flushable" wipes do not break down and are a leading cause of sewer blockages.
 
-For related topics, see our guides on [plumbing repair](/blog/plumbing-repair-diy-or-call-a-pro/), [hiring plumbing companies](/blog/plumbing-companies-repair-diy-or-call-a-pro/), and [emergency plumbing](/blog/emergency-plumbing-repairs-a-homeowners-guide/). Sewer problems often overlap with other plumbing issues, and understanding the full picture helps you make informed decisions.
+For related topics, see our guides on [plumbing repair](/blog/plumbing-repair-diy-or-call-a-pro/), [hiring plumbing companies](/blog/plumbing-repair-diy-or-call-a-pro/), and [emergency plumbing](/blog/emergency-plumbing-repairs-a-homeowners-guide/). Sewer problems often overlap with other plumbing issues, and understanding the full picture helps you make informed decisions.
 
 A sewer repair is never pleasant, but armed with a camera inspection and three competitive quotes, you can handle it without getting taken for a ride.

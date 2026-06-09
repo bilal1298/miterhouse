@@ -152,7 +152,7 @@ Not every deck contractor can execute a custom design competently. Look for:
 
 **Clear communication about structural decisions.** A custom deck builder should be able to explain why specific beam sizes, post locations, and connection methods were chosen. If they cannot articulate the structural logic, they may be building by habit rather than by engineering.
 
-For general contractor vetting advice, our [deck building contractor guide](/blog/hiring-a-deck-building-contractor-red-flags-and-tips/) covers the fundamentals that apply to any deck hire.
+For general contractor vetting advice, our [deck building contractor guide](/blog/finding-good-deck-building-contractors-near-you/) covers the fundamentals that apply to any deck hire.
 
 ## Permits for Custom Decks
 

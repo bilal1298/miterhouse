@@ -80,7 +80,7 @@ Get three written quotes. In Arlington, do not be surprised if scheduling takes 
 
 ### Settlement Cracks in Older Neighborhoods
 
-Homes in established Arlington neighborhoods like Cherrydale, Clarendon, and Lyon Village often develop diagonal cracks at window and door corners as the house settles over decades. These are usually cosmetic, but recurring cracks in the same spot may indicate foundation movement worth investigating. A [drywall specialist](/blog/drywall-specialist-repair-guide-what-to-know/) can tell the difference between normal settling and something structural.
+Homes in established Arlington neighborhoods like Cherrydale, Clarendon, and Lyon Village often develop diagonal cracks at window and door corners as the house settles over decades. These are usually cosmetic, but recurring cracks in the same spot may indicate foundation movement worth investigating. A [drywall specialist](/blog/drywall-professional-repairs-a-homeowners-guide/) can tell the difference between normal settling and something structural.
 
 ### Humidity and Moisture Damage
 
@@ -126,9 +126,9 @@ Arlington's climate affects drywall work:
 
 ## When to Call In Help
 
-If your [drywall damage is extensive](/blog/drywall-repairs-a-homeowners-guide/) — multiple rooms, ceiling work, or texture matching on visible surfaces — hiring a [professional drywall contractor](/blog/drywall-contractors-repair-guide-what-to-know/) in Arlington is usually worth the cost. The finishing skills that make a repair invisible take years to develop, and ceiling work in particular is physically demanding.
+If your [drywall damage is extensive](/blog/drywall-repair-diy-or-call-a-pro/) — multiple rooms, ceiling work, or texture matching on visible surfaces — hiring a [professional drywall contractor](/blog/drywall-repair-diy-or-call-a-pro/) in Arlington is usually worth the cost. The finishing skills that make a repair invisible take years to develop, and ceiling work in particular is physically demanding.
 
-For homes with [plaster and older wall systems](/blog/drywall-professionals-repairs-a-homeowners-guide/), a specialist who understands the material differences will deliver a better result than a general handyman.
+For homes with [plaster and older wall systems](/blog/drywall-professional-repairs-a-homeowners-guide/), a specialist who understands the material differences will deliver a better result than a general handyman.
 
 The [EPA's indoor air quality guidance](https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality) is also worth reviewing if you are planning to use oil-based primers or working in a poorly ventilated space. Low-VOC products have improved dramatically in the past few years and perform nearly as well as traditional formulations for most repair applications.
 

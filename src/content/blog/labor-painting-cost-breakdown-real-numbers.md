@@ -113,7 +113,7 @@ Per [EPA RRP regulations](https://www.epa.gov/lead/renovation-repair-and-paintin
 
 **Caulking and repair:** Exterior caulking is more extensive than interior — every window, door, and trim joint gets sealed. Budget 4–8 hours of labor for a typical home ($300–$600).
 
-For detailed exterior numbers, see our [outdoor painting cost breakdown](/blog/outdoor-painting-cost-breakdown-real-numbers/) and [exterior painting cost guide](/blog/painting-exterior-cost-breakdown-real-numbers/).
+For detailed exterior numbers, see our [outdoor painting cost breakdown](/blog/exterior-house-painting-pricing-guide-for-homeowners/) and [exterior painting cost guide](/blog/exterior-house-painting-pricing-guide-for-homeowners/).
 
 ## How Overhead Affects What You Pay
 
@@ -156,9 +156,9 @@ If the quotes are higher than your budget, here are legitimate ways to reduce th
 
 **Do simple rooms yourself, hire for complex ones.** Paint the standard bedrooms yourself and hire for the two-story stairwell, the kitchen, and the high-ceiling living room. You save the most labor cost on the easiest work and get professional results where it matters most.
 
-For more on managing painting costs overall, see our [painting pricing guide](/blog/painting-pricing-guide-for-homeowners/) and [house interior painting cost guide](/blog/how-much-does-painting-house-interior-really-cost/).
+For more on managing painting costs overall, see our [painting pricing guide](/blog/professional-painting-cost-what-to-expect-in-2026/) and [house interior painting cost guide](/blog/interior-house-painting-services-what-homeowners-should-know/).
 
-Also check our [labour painting pricing guide](/blog/labour-painting-pricing-guide-for-homeowners/) for regional pricing variations and additional tips on negotiating with contractors. Per [CPSC safety guidelines](https://www.cpsc.gov/), always ensure painting products used in your home meet current safety standards.
+Also check our labour painting pricing guide for regional pricing variations and additional tips on negotiating with contractors. Per [CPSC safety guidelines](https://www.cpsc.gov/), always ensure painting products used in your home meet current safety standards.
 
 ## The Honest Summary
 

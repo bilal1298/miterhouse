@@ -87,7 +87,7 @@ Prevention steps you can do yourself:
 - **Check the anode rod** every 2 to 3 years and replace when it is mostly consumed
 - **Install a drain pan** with a connected overflow line if there is not one already
 
-If your water heater is [showing signs of running constantly](/blog/the-real-deal-on-water-heater-keeps-running/) or you have [noticed the status light behaving oddly](/blog/honeywell-hot-water-heater-no-status-light-a-practical-guide/), these are early warning signs of potential problems.
+If your water heater is [showing signs of running constantly](/blog/water-heater-constantly-running-a-diyers-honest-take/) or you have [noticed the status light behaving oddly](/blog/honeywell-hot-water-heater-no-status-light-a-practical-guide/), these are early warning signs of potential problems.
 
 ### Washing Machines
 

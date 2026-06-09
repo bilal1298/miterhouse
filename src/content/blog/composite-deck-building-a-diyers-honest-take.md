@@ -89,7 +89,7 @@ Some premium composite boards rated for 24-inch spans at straight-lay are availa
 
 Footings, posts, beams, and joists are all pressure-treated lumber, built to the same code requirements as a wood deck. The [IRC](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) structural requirements do not change based on the decking surface material.
 
-Follow the same span tables, connection hardware requirements, and inspection process as a wood deck. For details on permit and inspection requirements, see our [deck building permit requirements guide](/blog/the-real-deal-on-deck-building-permit-requirements/).
+Follow the same span tables, connection hardware requirements, and inspection process as a wood deck. For details on permit and inspection requirements, see our [deck building permit requirements guide](/blog/deck-building-permit-cost-breakdown-real-numbers/).
 
 ### Phase 2: Joist Preparation
 
@@ -169,4 +169,4 @@ For a deck you plan to keep for 10 years or more, composite is almost always the
 
 For a deck you plan to sell with the house within 5 years, or a temporary structure, pressure-treated wood may be the smarter financial choice. The upfront savings matter more when the long-term maintenance benefits do not apply to you.
 
-For hiring help with this project, our [deck building contractor guide](/blog/hiring-a-deck-building-contractor-red-flags-and-tips/) covers how to find and evaluate professional deck builders.
+For hiring help with this project, our [deck building contractor guide](/blog/finding-good-deck-building-contractors-near-you/) covers how to find and evaluate professional deck builders.

@@ -81,7 +81,7 @@ These ranges include professional installation. DIY installation can save 25% to
 
 ### 3. Choose a Contractor
 
-Get three bids minimum. When comparing, normalize the scope — make sure each bid includes the same materials, trim, flashing, disposal, and permits. Check that the [contractor's agreement covers all the details](/blog/window-contract-replacement-full-planning-guide/) before signing.
+Get three bids minimum. When comparing, normalize the scope — make sure each bid includes the same materials, trim, flashing, disposal, and permits. Check that the [contractor's agreement covers all the details](/blog/window-company-replacement-full-planning-guide/) before signing.
 
 Verify licensing, insurance, and references. For projects involving doors, confirm the contractor has experience with entry door installation specifically — it requires different skills than window work, particularly around threshold details, weatherstripping, and lockset installation.
 

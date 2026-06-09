@@ -91,7 +91,7 @@ At the start of heating season, turning on your furnace or baseboard heaters for
 
 ### Kitchen
 
-The kitchen has more electrical demand than any other room, and [kitchen remodels](/blog/hiring-a-general-kitchen-remodel-contractor-red-flags-and-tips/) often reveal pre-existing wiring issues. Check:
+The kitchen has more electrical demand than any other room, and [kitchen remodels](/blog/contractor-to-remodel-kitchen-what-to-know/) often reveal pre-existing wiring issues. Check:
 - Behind and under the range, especially if it is electric
 - The dishwasher connection (usually under the sink or at the junction box adjacent to the dishwasher)
 - All countertop outlets, especially if multiple appliances run simultaneously

@@ -133,7 +133,7 @@ Before making the final payment, inspect every window:
 
 Document any issues in writing and provide them to the contractor before releasing the final payment. Most issues are easily corrected if caught at this stage.
 
-Our guides on [basement finishing costs](/blog/basement-finishing-costs-what-homeowners-should-know/) and [hiring basement finishing pros](/blog/hiring-basement-finishing-pros-what-to-look-for/) cover related considerations if you are also working on below-grade spaces that need egress windows or improved natural light.
+Our guides on [basement finishing costs](/blog/cost-to-finish-a-basement/) and [hiring basement finishing pros](/blog/hiring-a-basement-finishing-contractor-red-flags-and-tips/) cover related considerations if you are also working on below-grade spaces that need egress windows or improved natural light.
 
 ## Making Your Decision
 

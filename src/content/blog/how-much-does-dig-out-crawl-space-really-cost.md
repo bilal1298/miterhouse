@@ -28,7 +28,7 @@ Before you get excited about the extra storage or that future workshop, you need
 
 The most common reasons are straightforward. You need more headroom for mechanical access, you want to convert the space into a usable basement, or your crawl space is too shallow to properly insulate, waterproof, or run new HVAC ductwork.
 
-In some older homes built on shallow crawl spaces (18 to 24 inches of clearance), even basic maintenance becomes a nightmare. Plumbers charge premiums to work in tight crawl spaces, and [insulation upgrades](/blog/how-much-does-attic-insulation-install-really-cost/) become nearly impossible.
+In some older homes built on shallow crawl spaces (18 to 24 inches of clearance), even basic maintenance becomes a nightmare. Plumbers charge premiums to work in tight crawl spaces, and [insulation upgrades](/blog/attic-insulation-cost-what-to-expect-in-2026/) become nearly impossible.
 
 Others want actual living space. A full dig-out can turn a 3-foot crawl space into a 7- or 8-foot basement, which is a genuine addition to your home's square footage and value.
 
@@ -89,7 +89,7 @@ The permit process also means inspections at multiple stages — before you pour
 
 **6. Floor system.** A new concrete slab is poured over compacted gravel and a vapor barrier. The slab typically includes embedded drainage channels leading to a sump pit.
 
-**7. Waterproofing and finishing.** Interior and exterior waterproofing, insulation, and any finishing work. This stage overlaps with what you would do for any [basement finishing](/blog/blown-insulation-per-square-foot-cost-breakdown-real-numbers/) project.
+**7. Waterproofing and finishing.** Interior and exterior waterproofing, insulation, and any finishing work. This stage overlaps with what you would do for any [basement finishing](/blog/blown-in-insulation-per-square-foot-cost-what-to-expect-in-2026/) project.
 
 ## Should You DIY Any of This?
 

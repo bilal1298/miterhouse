@@ -130,7 +130,7 @@ Install beams on top of posts. For built-up beams (two 2x boards laminated toget
 
 If your deck is attached to the house, install the ledger board next. Remove the siding at the ledger location, flash the area, bolt the ledger to the rim joist with 1/2-inch lag screws or through-bolts at 16 inches on center staggered high-low, and install Z-flashing above.
 
-For detailed [deck building guidelines](/blog/deck-building-guidelines-what-homeowners-should-know/) on ledger connections, we have covered the code requirements.
+For detailed deck building guidelines on ledger connections, we have covered the code requirements.
 
 ### Step 4: Joists
 
@@ -140,7 +140,7 @@ Install blocking between joists at midspan if required by your plan (typically n
 
 ### Step 5: Decking
 
-Lay deck boards starting at the outer edge (farthest from the house). Use hidden fastener systems for [composite decking](/blog/building-a-deck-with-composite-decking-a-diyers-honest-take/) or face-screw with deck screws for pressure-treated lumber.
+Lay deck boards starting at the outer edge (farthest from the house). Use hidden fastener systems for [composite decking](/blog/composite-deck-building-a-diyers-honest-take/) or face-screw with deck screws for pressure-treated lumber.
 
 Leave a 1/8-inch gap between boards for drainage and expansion. Stagger end joints by at least two joist bays so seams do not line up.
 

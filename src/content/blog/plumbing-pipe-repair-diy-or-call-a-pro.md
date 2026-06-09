@@ -70,7 +70,7 @@ Never touch gas piping yourself. Period. Improper gas connections cause explosio
 
 ### Water Heater Connections
 
-While you can drain and disconnect a water heater, the gas and water connections on the new unit should be done by a licensed plumber. See our guide on [water tank heater installation](/blog/installing-water-tank-heater-what-to-know-first/) for the full breakdown.
+While you can drain and disconnect a water heater, the gas and water connections on the new unit should be done by a licensed plumber. See our guide on [water tank heater installation](/blog/installing-tank-water-heater-what-to-know-first/) for the full breakdown.
 
 ## How to Diagnose Common Pipe Problems
 

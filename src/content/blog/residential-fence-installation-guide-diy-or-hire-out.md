@@ -135,7 +135,7 @@ Here is the bottom line for a typical 200-linear-foot residential fence installa
 | DIY invisible fence | $200 - $500 | 6 - 12 hours |
 | Pro invisible fence | $1,000 - $2,500 | 0 hours |
 
-DIY saves 40 to 60 percent but requires 2 to 4 weekends of physical labor. The savings are real, but so is the time commitment. For a deeper dive into hiring a pro, see our [fence company installation guide](/blog/fence-company-installation-guide-diy-or-hire-out/) and [installing fence companies guide](/blog/installing-fence-companies-what-to-know-first/).
+DIY saves 40 to 60 percent but requires 2 to 4 weekends of physical labor. The savings are real, but so is the time commitment. For a deeper dive into hiring a pro, see our fence company installation guide and installing fence companies guide.
 
 ## Maintenance by Material
 

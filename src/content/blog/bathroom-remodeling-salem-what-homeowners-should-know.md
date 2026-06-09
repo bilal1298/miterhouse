@@ -95,7 +95,7 @@ A standard full bathroom remodel in Salem follows this general timeline:
 
 Add 1-2 weeks for permit processing before work begins. In Salem, OR, the rainy season (October through May) does not directly affect indoor bathroom work but can slow contractor schedules as they manage weather-dependent exterior projects simultaneously. In Salem, MA, severe winter weather can delay projects if materials or equipment cannot be delivered.
 
-Our [painting kitchen cabinets cost](/blog/painting-kitchen-cabinets-cost-what-to-expect-in-2026/) guide covers similar scheduling considerations for projects that need to coordinate with weather and contractor availability.
+Our [painting kitchen cabinets cost](/blog/cabinet-painting-pricing-guide-for-homeowners/) guide covers similar scheduling considerations for projects that need to coordinate with weather and contractor availability.
 
 ## Where Salem Homeowners Overspend
 
@@ -117,7 +117,7 @@ Based on common patterns in both Salem markets, here are the areas where homeown
 
 **Lighting.** Proper bathroom lighting (vanity-height sconces flanking the mirror, overhead ambient, and in-shower lighting on a GFCI-protected circuit) costs $500-$1,500 total and transforms the daily experience of using the space.
 
-For detailed cost considerations on specific fixture categories, our [home additions and renovations](/blog/home-additions-and-renovations-what-homeowners-should-know/) and [kitchen renovation services](/blog/the-real-deal-on-kitchen-renovation-services/) guides cover overlapping decision points.
+For detailed cost considerations on specific fixture categories, our [home additions and renovations](/blog/home-additions-and-renovations-what-homeowners-should-know/) and [kitchen renovation services](/blog/kitchen-remodel-services-a-practical-guide/) guides cover overlapping decision points.
 
 ## Financing Your Salem Bathroom Remodel
 

@@ -120,7 +120,7 @@ The DIY savings are substantial — you are eliminating the $2 to $5 per square 
 
 If you are replacing laminate, you have a natural decision point — do you install new laminate, or switch to a different material? Consider:
 
-**Luxury Vinyl Plank (LVP), $3 to $7/sq ft:** Waterproof, slightly more durable than laminate, and installs virtually the same way. LVP is the strongest competitor to laminate and has largely overtaken it in market share. The main tradeoff is that LVP can feel softer underfoot and may not look quite as convincing as premium laminate at close range. For kitchens, bathrooms, laundry rooms, and basements, LVP is the better choice because of its waterproof core. See our [vinyl flooring installation cost guide](/blog/installing-vinyl-flooring-cost-what-to-expect-in-2026/) for details.
+**Luxury Vinyl Plank (LVP), $3 to $7/sq ft:** Waterproof, slightly more durable than laminate, and installs virtually the same way. LVP is the strongest competitor to laminate and has largely overtaken it in market share. The main tradeoff is that LVP can feel softer underfoot and may not look quite as convincing as premium laminate at close range. For kitchens, bathrooms, laundry rooms, and basements, LVP is the better choice because of its waterproof core. See our [vinyl flooring installation cost guide](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/) for details.
 
 **Engineered hardwood, $5 to $15/sq ft:** A real wood veneer over a plywood core. More expensive than laminate but refinishable (once, maybe twice depending on veneer thickness) and indistinguishable from solid hardwood. Not suitable for high-moisture areas.
 

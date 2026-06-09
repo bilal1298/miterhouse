@@ -56,10 +56,10 @@ Countertops typically eat 10-15% of your total kitchen remodel budget. For Feder
 
 - **Laminate ($10-$40/sq ft installed):** Do not dismiss this option. Modern laminate looks dramatically better than what your parents had, and it is genuinely practical for a budget remodel.
 - **Butcher block ($40-$70/sq ft installed):** Warm, natural look. Requires maintenance but fits the Pacific Northwest aesthetic well.
-- **Quartz ($50-$120/sq ft installed):** The most popular mid-range choice. Zero maintenance, consistent appearance, and very durable. See our [detailed quartz countertop pricing breakdown](/blog/how-much-does-quartz-countertop-installed-really-cost/) for specifics.
+- **Quartz ($50-$120/sq ft installed):** The most popular mid-range choice. Zero maintenance, consistent appearance, and very durable. See our [detailed quartz countertop pricing breakdown](/blog/quartz-countertop-installation-pricing-guide-for-homeowners/) for specifics.
 - **Granite ($50-$150/sq ft installed):** Still a solid choice. Natural variation means every slab is unique.
 
-The [countertop installation process](/blog/how-much-does-countertop-installation-really-cost/) is one area where professional installation is almost always worth the cost — a botched template or cut on an expensive slab is not recoverable.
+The [countertop installation process](/blog/countertop-pricing-guide-for-homeowners/) is one area where professional installation is almost always worth the cost — a botched template or cut on an expensive slab is not recoverable.
 
 ## Cabinets: Where the Real Money Goes
 

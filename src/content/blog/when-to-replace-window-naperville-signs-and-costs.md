@@ -111,7 +111,7 @@ For either option, get at least three written quotes that specify:
 - Warranty terms (separate for product and labor)
 - Timeline
 
-Our guides on [professional window replacement](/blog/professional-window-replacement-full-planning-guide/) and [window contract planning](/blog/window-contract-replacement-full-planning-guide/) cover the contractor vetting process in detail. For understanding what signature brands offer, see our [signature window guide](/blog/when-to-replace-signature-window-signs-and-costs/).
+Our guides on [professional window replacement](/blog/professional-window-replacement-full-planning-guide/) and [window contract planning](/blog/window-company-replacement-full-planning-guide/) cover the contractor vetting process in detail. For understanding what signature brands offer, see our [signature window guide](/blog/when-to-replace-signature-window-signs-and-costs/).
 
 ## Insert Replacement vs. Full-Frame Replacement
 

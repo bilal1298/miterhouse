@@ -89,7 +89,7 @@ If you find mold on the subfloor, check the [EPA's mold cleanup guidelines](http
 
 ### Replacing Individual Planks
 
-If the damage is limited to a few planks in one area, you can replace just those planks — assuming you have matching material. This is one of laminate's advantages over [sheet vinyl](/blog/install-vinyl-sheet-flooring-pricing-guide-for-homeowners/): individual pieces can be swapped.
+If the damage is limited to a few planks in one area, you can replace just those planks — assuming you have matching material. This is one of laminate's advantages over [sheet vinyl](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/): individual pieces can be swapped.
 
 The process:
 1. Remove baseboards along the nearest wall
@@ -119,7 +119,7 @@ For a 200-square-foot room, that is $800 to $2,300.
 
 If moisture was the problem, consider whether laminate is the right replacement. Waterproof luxury vinyl plank (LVP) costs similarly to mid-range laminate and handles moisture infinitely better.
 
-For rooms with known moisture risks — basements, kitchens, bathrooms, laundry rooms — LVP is the smarter choice. The [installation costs for vinyl flooring](/blog/installation-vinyl-flooring-cost-what-to-expect-in-2026/) are comparable, and you eliminate the risk of repeating the same moisture damage cycle.
+For rooms with known moisture risks — basements, kitchens, bathrooms, laundry rooms — LVP is the smarter choice. The [installation costs for vinyl flooring](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/) are comparable, and you eliminate the risk of repeating the same moisture damage cycle.
 
 Some manufacturers now sell "waterproof laminate" with plastic or stone composite cores instead of fiberboard. These products cost $3 to $6 per square foot and offer genuine moisture resistance while maintaining the look and feel of traditional laminate. They are worth the premium for any room with moisture exposure.
 
@@ -145,7 +145,7 @@ Some manufacturers now sell "waterproof laminate" with plastic or stone composit
 - Maintain indoor relative humidity between 35% and 55% year-round
 - Use a dehumidifier in basements and poorly ventilated spaces
 - Ensure bathroom and kitchen exhaust fans vent to the outside, not into the attic or crawl space
-- Address any standing water or grading issues around the foundation that could create [basement moisture problems](/blog/installation-sheet-vinyl-flooring-cost-what-to-expect-in-2026/)
+- Address any standing water or grading issues around the foundation that could create [basement moisture problems](/blog/install-vinyl-flooring-pricing-guide-for-homeowners/)
 
 The [TCNA (Tile Council of North America)](https://www.tcnatile.com/) and various flooring industry groups publish moisture testing standards that apply to all flooring types. Following these standards — particularly moisture testing before installation — prevents the vast majority of moisture-related flooring failures.
 

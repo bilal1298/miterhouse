@@ -75,7 +75,7 @@ If multiple drains are backing up simultaneously, the problem is in your main se
 
 ### Water Heater Service
 
-Routine maintenance like flushing sediment or replacing an anode rod is DIY-friendly. But gas valve replacement, thermocouple work, and new installations involve gas connections and venting that require licensed work. Our guide on [water heater installation](/blog/installing-water-tank-heater-what-to-know-first/) covers the complete scope.
+Routine maintenance like flushing sediment or replacing an anode rod is DIY-friendly. But gas valve replacement, thermocouple work, and new installations involve gas connections and venting that require licensed work. Our guide on [water heater installation](/blog/installing-tank-water-heater-what-to-know-first/) covers the complete scope.
 
 ### Hidden Leaks
 
@@ -135,6 +135,6 @@ For the repairs that are worth DIY-ing, keep these basics on hand:
 
 Total investment: $100 to $150. You will use every one of these tools within the first year of homeownership.
 
-For more specific guidance, check our guides on [pipe repair](/blog/plumbing-pipe-repair-diy-or-call-a-pro/), [plumbing emergencies](/blog/emergency-plumbing-repairs-a-homeowners-guide/), and [general plumbing maintenance](/blog/home-plumbing-repairs-a-homeowners-guide/).
+For more specific guidance, check our guides on [pipe repair](/blog/plumbing-pipe-repair-diy-or-call-a-pro/), [plumbing emergencies](/blog/emergency-plumbing-repairs-a-homeowners-guide/), and [general plumbing maintenance](/blog/emergency-plumbing-repairs-a-homeowners-guide/).
 
 Know the line between DIY savings and professional necessity, and you will spend less on plumbing over the life of your home than most homeowners spend in five years.

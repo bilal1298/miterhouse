@@ -41,7 +41,7 @@ Not every tile belongs on a fireplace. Here is how the common options compare.
 
 **Glass tile and mosaic** costs $8 to $30 per square foot. These create a dramatic, contemporary look but are harder to cut and more prone to lippage if your substrate is not perfectly flat. Reserve glass tile for experienced installers or small accent areas.
 
-If you are exploring other flooring or tile projects around your home, our [laminate hardwood flooring installation guide](/blog/laminate-hardwood-flooring-installation-pricing-guide-for/) breaks down those costs in a similar way.
+If you are exploring other flooring or tile projects around your home, our [laminate hardwood flooring installation guide](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/) breaks down those costs in a similar way.
 
 ## Cost Breakdown by Component
 
@@ -128,7 +128,7 @@ A professional crew typically finishes the job in one to two days, depending on 
 
 If you are tiling the hearth (the flat area in front of the fireplace), plan for heavier traffic and more stringent non-slip requirements. Use a textured or matte-finish tile rather than polished. The hearth also needs to be structurally supported for the weight of tile and mortar. Check that the subfloor beneath the hearth is solid plywood or concrete, not just a floating subfloor.
 
-For related installation cost information, our [laminate flooring cost guide](/blog/laminate-hardwood-flooring-installed-cost-what-to-expect-in-2026/) covers adjacent flooring decisions that often happen alongside a fireplace refresh.
+For related installation cost information, our [laminate flooring cost guide](/blog/laminate-flooring-installation-cost-breakdown-real-numbers/) covers adjacent flooring decisions that often happen alongside a fireplace refresh.
 
 ## Final Thoughts
 
