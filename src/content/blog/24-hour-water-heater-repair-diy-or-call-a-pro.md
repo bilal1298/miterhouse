@@ -8,7 +8,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-10-06
+date: 2026-06-07
 hero_image: /images/posts/24-hour-water-heater-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
