@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - cost-guide
-date: 2026-06-04
+date: 2026-06-10
 hero_image: /images/posts/ceramic-flooring-installation-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A wet tile saw (rent for $50–$70/day), notched trowel sized to match your tile per manufacturer specs, tile spacers, 4-foot level, grout float, sponges, and knee pads. For a 60-square-foot bathroom, expect to rent the wet saw for 2 days to leave time for layout and cuts."
   - q: "What's the most common mistake in ceramic tile installation?"
     a: "Insufficient thinset coverage under the tile. Code requires 80% contact in dry areas and 95% in wet areas — spot-bonding with dabs in the corners is faster but tiles crack and pop off within a few years. Back-butter large tiles in addition to troweling the substrate to achieve proper coverage."
-draft: true
+draft: false
 ---
 
 Ceramic tile flooring installation costs between $5 and $15 per square foot fully installed in 2026, with most homeowners paying $7 to $10 per square foot for a mid-range job. For a 150-square-foot bathroom, that's $1,050 to $1,500. For a 300-square-foot kitchen, expect $2,100 to $3,000. The material itself is often the cheaper part — labor and prep drive most of the bill.
