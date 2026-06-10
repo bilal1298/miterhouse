@@ -1,146 +1,123 @@
 ---
-title: "How Long Does a Small Bathroom Remodel Take?"
-description: "A small bathroom remodel takes 3–5 days for cosmetic updates or 1–3 weeks for a full gut. Here's a realistic timeline by project type and who's doing the work."
+title: "Small Bathroom Remodel Timeline: Week by Week"
+description: "A small bathroom remodel takes 10 days with a contractor or 6 weekends DIY. Here's the real week-by-week walkthrough, including what delays cost you."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
   - small-bathroom
   - remodel-timeline
   - bathroom-remodel
-  - gut-remodel
-  - diy-bathroom
   - contractor-timeline
+  - project-planning
+  - bathroom-renovation
 date: 2026-05-16
 hero_image: /images/posts/how-long-does-a-small-bathroom-remodel-take.webp
 hero_image_prompt: "A compact 5x8 bathroom mid-renovation with cement board on the walls, a new alcove tub framed in, and tools laid out on a drop cloth."
+draft: false
 faq:
   - q: "Can you remodel a small bathroom in a weekend?"
-    a: "Yes, if the scope is cosmetic — new vanity, toilet, mirror, paint, and fixtures. A full gut remodel, however, takes at least a week even for experienced contractors, because tile, mortar, and grout all require cure time you simply cannot rush."
+    a: "Yes — if you're doing a cosmetic refresh only. New vanity, toilet, mirror, paint, and peel-and-stick floor can realistically land in two days. A gut remodel can't be done in a weekend, not because of the labor, but because thin-set mortar needs 24 hours to cure before you grout, and grout needs another 24–72 hours before the shower gets wet. You can't argue with chemistry."
   - q: "How long does a 5x8 bathroom gut remodel take with a contractor?"
-    a: "Most contractors finish a straightforward 5x8 gut remodel in 7–10 business days. That assumes no surprises behind the walls — rotten subfloor, cast-iron drain replacement, or outdated knob-and-tube wiring can each add 2–5 days."
+    a: "A clean 5x8 gut with no surprises runs 7–10 business days for most contractors. That's demo on day one and punch list on day ten. What breaks that schedule: rotten subfloor adds 1–2 days, cast-iron drain replacement adds 1–3 days, and a failed rough inspection adds however long your jurisdiction takes to reschedule — sometimes 3–5 days."
   - q: "What's the biggest cause of delays in a small bathroom remodel?"
-    a: "Material lead times and inspection scheduling. Ordering a custom vanity or a specific tile that's backordered can stall a project for weeks. Pull permits early, order materials before demo day, and have your inspector's scheduling window in mind before you start."
+    a: "Backordered materials, by a wide margin. A tile that ships in '4–6 weeks' shuts down your whole project if you've already swung the demo hammer. Order every single item — tile, vanity, toilet, cement board, thinset, grout, fixtures — before you touch a pry bar. Inspect scheduling is a close second: in some cities, rough-in inspections are booked 4–5 business days out, and that wait is dead time you can't compress."
 ---
 
-A small bathroom remodel takes anywhere from a single weekend to about three weeks, depending almost entirely on whether you're refreshing surfaces or gutting down to the studs. The size of the room — a 5x8 bathroom, a half bath, a powder room — actually speeds up demo and tile work compared to a full master bath, but the cure times for mortar and grout are identical regardless of square footage.
+Your small bathroom remodel will take 10 business days with a contractor, or about six weekends if you're doing it yourself. That gap isn't about skill — it's about cure time, inspection windows, and the fact that mortar doesn't care how motivated you are.
 
-Here's how to think through the realistic timeline for your specific situation.
+Here's what that actually looks like, day by day.
 
-## Cosmetic Refresh vs. Full Gut: Two Very Different Projects
+## Before Demo Day: The Two Weeks That Determine Everything
 
-Before you plan anything, decide which category your project falls into. The timelines don't overlap.
+The most important work in a bathroom remodel happens before you pull a single tile. If you skip this phase, you will pay for it in delays mid-project — the kind where your bathroom is gutted to the studs and your tile is somewhere on a freight truck.
 
-**Cosmetic refresh (no tile removal, no plumbing moves):**
-- Repaint walls and ceiling
-- Swap vanity, toilet, and fixtures
-- New mirror and lighting
-- Replace or paint cabinet doors
-- New flooring over existing subfloor (peel-and-stick, LVP, or sheet vinyl)
+Order everything before you touch a pry bar. Every tile, the vanity, the toilet, cement board, thinset, grout, fixtures, and mirror. Walk the entire project mentally and put it all on order. If anything is backordered more than a week, either wait or swap it for something in stock. A tile described as "usually ships in 4–6 weeks" can absolutely not be the tile for your currently-demoed bathroom.
 
-Timeline: **2–4 days** for a competent DIYer. One day demo and prep, one day for painting and flooring, one day for fixture installation. A contractor often finishes this in a single long day with a two-person crew.
+Pull your permit now too, not the morning before demo. In many jurisdictions, permits are required for any gut remodel that touches plumbing or electrical — that's most of them. The inspection scheduling lag is real: rough-in inspections in some cities are 4–5 business days out. If you demo on Monday and can't get inspected until the following Tuesday, that's a week of your project sitting idle before you can put up cement board. Start the permit process when you start ordering materials, not after.
 
-**Full gut remodel (tile, subfloor, plumbing, sometimes electrical):**
-- Demo everything to studs
-- Replace subfloor if needed
-- Rough plumbing and electrical
-- Cement board or Schluter Kerdi waterproofing (per [TCNA specifications](https://www.tcnatile.com/))
-- Floor tile set and grouted
-- Wall tile set and grouted
-- Fixtures installed after tile cures
+This front-loaded planning is the difference between a two-week project and a six-week project.
 
-Timeline: **7–14 days** depending on who's doing the work and whether any surprises show up.
+## Days 1–2: Demo and Rough Work
 
-The gap between those two timelines is mostly cure time — thin-set mortar needs 24 hours before you grout, grout needs 24–72 hours before it gets wet, and you cannot compress those windows no matter how much you want to.
+Demo day is fast. A small bathroom goes from finished to bare studs in a few hours — pull the toilet, vanity, and accessories, cut out the old drywall or tile board, and haul everything to a dumpster or truck. A contractor with a helper does this in half a day. Solo DIY takes a full day once you factor in disposal.
 
-## DIY Timeline vs. Contractor Timeline for a 5x8 Gut Remodel
+What you find behind the walls on demo day sets the rest of your schedule. Three things come up most often:
 
-The same project takes meaningfully longer if you're doing it yourself, and for reasons that aren't always obvious.
+**Rotten subfloor.** Near-universal in bathrooms where vinyl flooring trapped moisture for years. Sistering compromised joists and replacing the subfloor section adds one to two days. If the rot got into the joists themselves, add another day and a conversation with a structural contractor. Budget for this before you start — it's cheaper to assume it's there and be pleasantly surprised than to discover it and blow your contingency.
 
-A professional tile setter works every day. When they set floor tile on Monday, they're back Tuesday to grout while the homeowner is at work. A DIY weekend warrior doing the same project hits the cure windows over consecutive weekends, which stretches a 10-day contractor job into 4–6 weekends.
+**Cast-iron drain lines.** Older homes have 4-inch cast-iron drain stacks. If your remodel involves moving the toilet even a few inches, you're cutting into that cast iron, transitioning to PVC, and waiting for a rough plumbing inspection. That adds one to three days. The lesson: keep your fixtures exactly where they are. Moving plumbing in a small bathroom almost never pencils out. The [small bathroom remodel cost guide](/blog/small-bathroom-remodel-cost/) covers this in detail, but the short version is that one plumbing move can double your labor cost.
 
-**DIY weekend warrior timeline for a 5x8 gut:**
+**Outdated electrical.** Missing GFCI protection or knob-and-tube wiring behind the walls requires an electrician and an inspection before you can button anything up.
+
+Day 2 is rough work — any subfloor repairs, rough plumbing if needed, rough electrical if needed. Get this done and call for your rough-in inspection the same day. Don't wait until you're "ready" to tile. Those days waiting for the inspector are dead time; start the clock early.
+
+## Days 3–4: Waterproofing and Cement Board
+
+Once your rough inspection passes, cement board goes up. In a wet area — shower walls, tub surround — you're not taping and mudding drywall. You're installing fiber cement board (or a sheet membrane system like Schluter Kerdi) and sealing every seam. This is the waterproofing layer that keeps your framing dry for the next twenty years.
+
+This phase takes one day with a contractor, possibly two if you're DIYing and still learning the Kerdi system. Don't rush it. A pinhole failure in your waterproofing membrane means water behind your tile, and that means mold, rot, and doing this whole project again in five years. Get the seams, the corners, and the penetrations right.
+
+## Days 4–6: Floor Tile
+
+Floor tile is where cure time first becomes your boss.
+
+The sequence: set floor tile in thinset mortar, wait 24 hours for the mortar to cure, then grout. Wait another 24–72 hours for the grout to cure before any foot traffic or water exposure. You cannot shorten these windows. A contractor working full-time sets floor tile on day 4, grooves it on day 5, and moves to wall tile while the floor grout cures.
+
+A DIY weekend warrior doing the same project sets floor tile on Saturday of Weekend 3, comes back Sunday to grout, then can't continue until the following weekend when grout has fully cured. That one cure window just cost you a week of elapsed time.
+
+For tile cost context — because scope and budget are directly related to how long you spend on this phase — the [bathroom tile installation cost breakdown](/blog/bathroom-tile-installation-cost/) covers labor rates by tile type and complexity.
+
+## Days 6–8: Wall Tile
+
+Wall tile in a shower or tub surround follows the same cure logic: set, cure 24 hours, grout, cure 24–72 hours. Depending on your tile layout — standard subway is faster, large-format rectified tile on a diagonal is slower — this takes two to three days of active work with mandatory rest periods between.
+
+Niche shelves, bullnose edges, and any decorative tile borders add time here. If you want a built-in shower niche, it needs to be framed, waterproofed, and tiled separately, and the corners take real care. A good contractor accounts for this in the schedule; a first-time DIYer often underestimates it by a full day.
+
+This is also where you'll see where your tile order precision mattered. Running out of a tile mid-wall, with a dye lot that's now discontinued, is a disaster. Order 10–15% extra, especially for patterns that require cuts.
+
+## Days 8–10: Fixtures, Vanity, and Punch List
+
+Once the wall grout has cured, you can finally put the bathroom back together. Toilet, vanity, sink, faucets, shower valve trim, towel bars, mirror, and lighting all go in now — not before. Fixtures on uncured grout or in a room still open to moisture is how you scratch tile and damage finishes before anyone's even used the bathroom.
+
+[Vanity installation](/blog/bathroom-vanity-installation-cost/) is usually a half-day job, including hooking up the drain and supply lines. Toilet installation is an hour. A contractor knocks out the full fixtures list in one day; a DIYer doing it for the first time should budget two days and confirm the shut-off valves actually shut off before disconnecting anything.
+
+Day 10 is punch list and final cleanup. Caulk the tub-to-tile joint, touch up grout voids, seal the grout if you're using an unsealed product, install the toilet seat, hang the mirror. Walk the room critically. A contractor's punch list day is where you catch what's going to annoy you every morning for the next decade — get it right before they demobilize.
+
+## The DIY Timeline: Same Project, Six Weekends
 
 | Weekend | Work |
 |---------|------|
-| Weekend 1 | Demo, haul debris, inspect subfloor, pull permit |
-| Weekend 2 | Subfloor repair, rough plumbing (if moving anything), cement board |
-| Weekend 3 | Waterproofing membrane, floor tile set |
-| Weekend 4 | Floor grout, start wall tile |
-| Weekend 5 | Finish wall tile, niche tile |
-| Weekend 6 | Wall grout, caulk, install fixtures, vanity, toilet |
+| 1 | Demo, debris removal, subfloor inspection, permit pulled |
+| 2 | Subfloor repair, rough plumbing/electrical, rough inspection |
+| 3 | Cement board, waterproofing membrane, floor tile set |
+| 4 | Floor grout, wall tile set |
+| 5 | Wall grout, niche tile, caulk |
+| 6 | Fixtures, vanity, toilet, mirror, punch list |
 
-That's six weekends — roughly six weeks elapsed, even though total labor hours might only be 60–80 hours. If you can take vacation days and work midweek, you compress this significantly.
+Six weekends of elapsed time, 60–80 total hours of labor. If you can take midweek days off to hit the cure windows during the week, you can compress this to three or four weekends. That's the real DIY advantage: flexibility to work through the cure windows without waiting a full week.
 
-**Contractor timeline for the same 5x8 gut:**
-
-| Day | Work |
-|-----|------|
-| Day 1 | Demo, debris removal |
-| Day 2 | Subfloor repair, rough plumbing, rough electrical |
-| Day 3 | Cement board, waterproofing |
-| Day 4 | Floor tile set (mortar cure overnight) |
-| Day 5 | Floor grout (cure 24 hrs) |
-| Day 6–7 | Wall tile set (mortar cure overnight) |
-| Day 8 | Wall grout, caulk |
-| Day 9 | Vanity, toilet, fixtures, trim |
-| Day 10 | Punch list, final cleanup |
-
-Ten business days, two calendar weeks. That's the realistic baseline for a clean project with no surprises.
-
-For a deeper look at how a remodel unfolds week by week, see the [bathroom remodel timeline breakdown](/blog/bathroom-remodel-timeline/) — it covers sequencing logic in more detail.
-
-## What Actually Causes Delays (and How Long Each One Adds)
-
-A 5x8 bathroom is small, but small rooms can still hide expensive problems. Here's what I've run into and what each one cost in time:
-
-**Rotten subfloor:** Almost guaranteed if the original floor was vinyl that trapped moisture for years. Sistering joists or replacing a section of subfloor adds 1–2 days. If the rot extended to the joists themselves, add another day and a structural conversation.
-
-**Cast-iron drain replacement:** Older homes often have 4-inch cast-iron drain lines. Cutting into cast iron, transitioning to PVC, and getting a rough plumbing inspection adds 1–3 days. This comes up most often when people try to relocate the toilet even a few inches.
-
-**Permit and inspection scheduling:** Permits are required per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) for most gut remodels that involve plumbing or electrical work. In some jurisdictions, rough inspections are scheduled 3–5 business days out. If your inspector finds something — wrong vent sizing, missing GFCI protection — you lose another inspection cycle. Pull permits at the very start of planning, not the day before demo.
-
-**Backordered materials:** This is the silent killer of project timelines. A tile that ships in "4–6 weeks" stalls everything if you've already demoed the walls. Order all materials before you touch a pry bar. If a tile is backordered, pick something in stock.
-
-**Plumbing moves:** Keeping fixtures in their existing locations is almost always the right call on a small bathroom remodel. Moving a toilet 12 inches requires re-routing the drain, which requires opening the floor (or the ceiling below), which requires a rough inspection. The cost and time premium for moving plumbing in a small bathroom rarely makes sense. See the [small bathroom remodel cost breakdown](/blog/small-bathroom-remodel-cost/) for how quickly plumbing moves inflate the budget.
+For a thorough cost comparison between doing it yourself and hiring out, the [DIY bathroom remodel cost guide](/blog/diy-bathroom-remodel-cost/) breaks down where the savings actually come from — and where DIY costs more than people expect.
 
 ## The One-Bathroom Problem
 
-If the bathroom you're remodeling is your only bathroom, the project suddenly has a hard deadline every single day: someone needs to shower before work.
+If the bathroom you're remodeling is your only bathroom, the project has a hard real-world constraint that no schedule solves away: someone needs to shower before work every morning.
 
-Here's how to manage it:
+Handle this upfront. Tell your contractor explicitly that this is your only bathroom and that you need a functional toilet by end of day, every day. Good contractors sequence the work to make this possible — temporary water supply, toilet set without the final caulk bead, a curtain for privacy. It slows them down slightly but it's completely reasonable to ask.
 
-**Negotiate a schedule with your contractor upfront.** A good contractor working on your only bathroom will sequence the work so the toilet is functional by end of day, even if nothing else is. Toilet, temporary water supply, and a temporary privacy curtain get you through the project without renting a gym membership.
+For DIY, don't demo the toilet until you're ready to install the new one the same day. Set the new toilet without the wax ring and floor bolts torqued down if you need to; you can redo the final seal later. Some people set a temporary toilet on day one and leave it there for the whole project.
 
-**Stage the work to keep the toilet live.** For DIY projects, don't demo the toilet until you're ready to immediately install the new one. Some people set the new toilet without caulking it on Day 1, use it throughout the project, then do the final seal when everything's done.
+Book a gym membership or a friend's shower before demo day. When tile grout needs 72 hours before the shower gets wet, you need that backup. Figure it out in advance, not at 6am the morning after tile day.
 
-**Book a gym membership or a neighbor's shower.** If tile has to cure for 72 hours before anyone uses the shower, you need a plan. Figure this out before demo day, not after.
+## When a Two-Week Project Becomes a Six-Week Project
 
-**Do it in phases if needed.** There's nothing wrong with replacing the toilet and vanity in one weekend (toilet functional the same day), then tackling the tile in a later phase. It's slower, but it keeps the room usable between weekends.
+The full [bathroom remodel timeline](/blog/bathroom-remodel-timeline/) covers sequencing in more depth, but the short version on delays: most of them are self-inflicted and preventable.
 
-## Half Bath and Powder Room Timelines
+Backordered materials are the most common. Don't order anything with a shipping estimate over one week unless you're willing to store it and wait. Missing a rough inspection window because your contractor's schedule shifted adds 3–5 days in busy jurisdictions. Discovering rotten subfloor is usually unavoidable, but having a contingency day (and a few hundred dollars) budgeted for it means you don't have to make panicked decisions about cutting corners to stay on schedule.
 
-A powder room (toilet and sink only, no shower or tub) is the easiest bathroom remodel there is, because there's no waterproofing requirement for a wet shower area.
-
-**Powder room cosmetic refresh:** 1–2 days. New toilet, vanity, mirror, paint, and floor. A confident DIYer can do this in a Saturday.
-
-**Powder room with new tile floor:** Add 2 days for the tile set and cure before grouting, plus 1 day for grout cure. Still under a week total.
-
-**Half bath with shower (toilet, sink, one-piece shower unit):** If you're swapping a one-piece acrylic unit, the shower installation is 1–2 days once the rough plumbing is done. Faster than tile-in-place showers because there's no cure time.
-
-## How to Keep Your Project On Track
-
-**Order everything before demo day.** Every single item — tile, vanity, toilet, fixtures, cement board, thinset, grout. Walk the project mentally before swinging a hammer.
-
-**Plan for one surprise.** Budget one extra day and a few hundred dollars for whatever you find behind the walls. If you don't need it, great. If you do, you're not scrambling.
-
-**Don't start what you can't finish.** Starting demo on a Friday before a holiday weekend when the plumbing supply house is closed is a trap. Make sure your trades and materials are available for the full stretch of the project.
-
-**Sequence inspections early.** Call for your rough-in inspection the day the rough work is done, not when you're ready to start tile. Those days of waiting for an inspector are dead time — use them for shopping for fixtures or doing adjacent work, but they're still delays.
-
-**Get permits.** Skipping permits on a gut remodel creates a problem when you sell the house. Permit records are pulled during buyer due diligence, and an unpermitted bathroom remodel is either a price renegotiation or a requirement to open walls and bring it up to code. Pull the permit.
+The projects that go sideways are almost always the ones where materials were ordered during demo or permits were pulled the day the contractor showed up. The projects that finish on time are boring on the front end because all the logistics happened before anyone touched a tool.
 
 ---
 
-For context on what all this costs, the [DIY bathroom remodel cost guide](/blog/diy-bathroom-remodel-cost/) and [full cost breakdown](/blog/bathroom-remodel-cost-breakdown/) are worth reading before you finalize your scope. Timeline and budget are directly linked — the faster you want it done, the more contractor hours you're paying for.
+For a full picture of what this costs at each scope level, the [bathroom remodel cost breakdown](/blog/bathroom-remodel-cost-breakdown/) is the companion read to this one. Budget and timeline move together — the faster you need it done, the more you're paying for continuous contractor coverage rather than waiting out cure windows on your own schedule.
 
-The short version: a small bathroom remodel done right takes about two weeks with a contractor, or about six weekends if you're doing it yourself. Compress that timeline and you're fighting cure times, which is one fight you will not win.
+The real answer to how long your small bathroom remodel takes: two weeks if someone else is doing it, six weekends if you are. Both are correct. Neither can be meaningfully compressed without cutting the corners that matter.

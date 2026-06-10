@@ -1,37 +1,40 @@
 ---
-title: "Bathroom Vanity Installation Cost: DIY vs. Pro"
-description: "Bathroom vanity installation costs $200–$1,000+ depending on vanity type and whether you hire a plumber. Here's what to expect for every scenario."
+title: "Bathroom Vanity Installation Cost: What You'll Pay"
+description: "Vanity installation runs $220–$4,600 depending on type and whether you DIY or hire a plumber. Here's exactly what drives your number."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
   - bathroom-vanity
   - installation-cost
-  - diy
-  - plumbing
   - bathroom-remodel
+  - labor-costs
+  - diy-bathroom
+  - fixtures
 date: 2026-05-23
 hero_image: /images/posts/bathroom-vanity-installation-cost.webp
 hero_image_prompt: "A freshly installed white floating bathroom vanity with a vessel sink, polished chrome fixtures, and subway tile backsplash in a bright modern bathroom."
 faq:
   - q: "How much does it cost to install a bathroom vanity?"
-    a: "Total installed cost typically ranges from $300 to $1,600 for a single vanity — $150–$600 for the vanity itself plus $150–$1,000 in labor depending on complexity. Floating vanities and double vanities push costs higher."
+    a: "Plan on $220–$900 for a DIY single-vanity swap, or $370–$1,300 if you hire a plumber for the same job. Move the drain even a few inches and pro costs jump to $700–$2,000. Double vanities run $800–$3,900 DIY or $1,100–$4,600 with labor."
   - q: "Can I install a bathroom vanity myself without a plumber?"
-    a: "Yes, if you're swapping a like-for-like vanity and the drain and supply lines are in the same position. The moment you need to move plumbing, cut a new countertop, or deal with a vessel sink requiring a raised drain, it gets more complicated and a plumber is worth the call."
-  - q: "What hidden costs should I plan for with a vanity installation?"
-    a: "The big surprises are plumbing modifications ($150–$600), countertop cutouts for undermount sinks ($75–$200), drywall repair if the old vanity left damage, and permits in some jurisdictions for any work that touches supply lines."
+    a: "Yes — if you're swapping a same-footprint vanity and the drain and supply lines stay put. A 30\" or 36\" freestanding swap is an afternoon job for anyone comfortable with P-traps and supply lines. The moment the drain needs to move, a vessel sink requires a higher rough-in, or you're hanging a floating unit on drywall with no blocking, call a plumber."
+  - q: "What hidden costs should I budget for?"
+    a: "The biggest surprises: plumbing relocation ($150–$600), undermount sink cutouts on stone countertops ($75–$200 per cutout), drywall repair behind the old vanity ($50–$200), and permit fees in jurisdictions that require them for supply-line work ($50–$150). Also replace shutoff valves that haven't moved in a decade — $15–$30 each now beats a flooded cabinet later."
+  - q: "Is a Kohler or Delta faucet worth it over a cheap one?"
+    a: "For faucets, yes. A Delta or Kohler faucet in the $120–$250 range will outlast two or three $40 builder-grade units and drip far less. Glacier Bay and similar budget lines are fine for guest baths with light use, but in a primary bath that runs daily, the cartridge quality difference is real."
+  - q: "How long does vanity installation take?"
+    a: "A like-for-like freestanding swap takes 3–5 hours for a first-timer, including trips to the hardware store. A floating vanity with new wall blocking adds 2–4 hours. A double vanity with a separate stone top can run a full day if the countertop fabricator is involved."
 ---
 
-Installing a bathroom vanity costs most homeowners between $300 and $1,600 all-in — that's the vanity, sink, faucet, and labor combined. DIY drops the bottom of that range significantly, but plumbing surprises are common enough that a lot of people end up calling a pro partway through. Here's a complete breakdown so you know exactly what you're getting into before you start.
+Expect to pay **$220–$900 for a DIY single vanity swap** and **$370–$1,300 if you hire a plumber** for the same project. Those numbers climb fast once the drain needs moving or you go with a floating unit — pro costs on a complex install can hit $2,000–$4,600. Here's what actually sets your price.
 
-## What Drives the Cost
+## The Three Variables That Set Your Number
 
-Three variables set your number: the vanity type, whether you're doing a straight swap or moving plumbing, and whether you hire out the labor.
+**Vanity type** is the biggest lever. A 36" freestanding unit with an integrated sink from Home Depot is a completely different project than a wall-hung floating vanity or a 72" double with a separate stone top. Floating vanities require wall blocking, a higher wall rough-in for the drain, and hardware rated for 150–300 lbs of hanging weight. That's two trades on site (plumber and carpenter or handyman) instead of one.
 
-**Vanity type** matters more than most people expect. A basic freestanding single vanity from a big-box store is a completely different project than a wall-hung floating unit, which requires locating studs or adding blocking, running new drain rough-in, and dealing with exposed plumbing. Vessel sinks add another wrinkle because they typically need a taller vanity or a raised drain line.
+**Whether the plumbing moves** is the wildcard. Same footprint, same drain, same supply locations? You're looking at the low end of every range. Shift the drain four inches to accommodate a wider cabinet and you're opening the wall, re-routing the P-trap or the drain line itself, and patching drywall. That work runs $150–$600 on top of everything else.
 
-**Plumbing complexity** is the biggest wildcard. If the supply lines and drain are exactly where they need to be for your new vanity, installation is straightforward. The moment you need to shift the drain even four inches, you're into wall demo, pipe work, and patching — that's where costs accelerate.
-
-**Labor rates** vary by region but plumbers typically charge $75–$150 per hour. The [Bureau of Labor Statistics](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm) tracks plumber wages by state if you want to benchmark rates in your area. A simple vanity swap runs 1–3 hours. A more involved install with plumbing modifications can hit 4–8 hours.
+**Labor rates by region** vary enough to matter. Plumbers charge $75–$150/hour in most markets. A simple vanity swap is 1–3 hours. A more involved install — floating unit with plumbing modifications — can run 4–8 hours. If you're already pulling in a plumber for other work in a larger [bathroom remodel](/blog/bathroom-remodel-cost-breakdown/), you'll get the vanity hookup done more efficiently since they're already on site.
 
 ---
 
@@ -39,140 +42,129 @@ Three variables set your number: the vanity type, whether you're doing a straigh
 
 ### Single Vanity (30"–48")
 
-This is the most common install. For a standard freestanding single vanity with an integrated or drop-in sink:
+The standard install. For a freestanding unit with an integrated or drop-in sink:
 
-- **Vanity cabinet:** $150–$800 (big-box to mid-range; custom runs $1,000+)
-- **Faucet:** $50–$300
-- **Supply lines and shutoff valves:** $20–$60 (replace them while you're in there)
-- **Labor (plumber):** $150–$400 for a straightforward swap
-- **Total installed, DIY:** $220–$1,160
-- **Total installed, pro:** $370–$1,560
+| Line Item | Cost Range |
+|---|---|
+| Vanity cabinet (big-box to mid-range) | $150–$800 |
+| Faucet (Delta, Moen, or Kohler mid-range) | $80–$300 |
+| Supply lines + shutoff valves | $20–$60 |
+| Labor — straight swap | $150–$400 |
+| **Total, DIY** | **$250–$1,160** |
+| **Total, with plumber** | **$400–$1,560** |
 
-If you're doing a like-for-like replacement — same footprint, same drain location — a competent DIYer can handle this in an afternoon. It's the starter project for bathroom work.
+A like-for-like swap where nothing moves is the one vanity job you can genuinely finish in an afternoon without trade experience. If you're replacing a 36" vanity with another 36" and the drain is in the same wall cavity, your risk is low.
+
+One thing worth doing regardless: replace the supply lines and shutoff valves while you have everything apart. Lines older than ten years get stiff and can crack when you flex them. A pair of braided steel supply lines and two quarter-turn valves costs under $50 and prevents a cabinet-full of water later.
 
 ### Double Vanity (60"–72")
 
-Double vanities cost more in every category: larger cabinet, two faucets, and a countertop spanning the full width. They're almost always purchased with a separate countertop rather than an integrated unit, which means a countertop cutout for the sinks is a near-certainty.
+Two faucets, two drains, and almost always a separate countertop — usually quartz or cultured marble — rather than an integrated unit. The countertop is where double vanities surprise people.
 
-- **Vanity cabinet:** $500–$2,500
-- **Countertop (quartz or cultured marble, pre-cut):** $200–$800
-- **Two faucets:** $100–$600
-- **Labor (plumber):** $300–$700 (two drain hookups, two supply sets)
-- **Total installed, DIY:** $800–$3,900
-- **Total installed, pro:** $1,100–$4,600
+| Line Item | Cost Range |
+|---|---|
+| Vanity cabinet | $500–$2,500 |
+| Countertop (quartz, 60"–72", pre-cut) | $200–$800 |
+| Two faucets | $160–$600 |
+| Labor — two drain hookups, two supply sets | $300–$700 |
+| **Total, DIY** | **$860–$3,900** |
+| **Total, with plumber** | **$1,160–$4,600** |
 
-The countertop is where double vanities surprise people. A 60" quartz slab with two undermount sink cutouts isn't cheap, and if you're ordering a custom cut, lead times can run two to four weeks.
+Custom countertop fabrication adds lead time — two to four weeks for a stone top with undermount cutouts isn't unusual. If you're on a bathroom renovation timeline, order the top before you demo. Pottery Barn and Restoration Hardware sell complete double vanity sets with tops; they look great but budget $2,000–$4,500 before you've touched labor.
 
 ### Floating / Wall-Hung Vanity
 
-Floating vanities are the most labor-intensive to install regardless of whether you DIY or hire out, because the wall has to support the full load of the cabinet, countertop, and sink — often 150–300 lbs.
+The most labor-intensive install. The wall has to carry the full load, and unless you have a stud exactly where the mounting bracket wants to land, you're adding blocking — which means opening the wall, sistering in lumber, and patching drywall.
 
-- **Vanity unit:** $400–$2,000
-- **Wall blocking (if studs aren't in the right position):** $100–$300 in materials plus drywall repair
-- **Plumber (wall-outlet drain and supply lines):** $250–$600
-- **Total installed, DIY with carpentry experience:** $650–$2,900
-- **Total installed, pro (plumber + carpenter or handyman):** $900–$3,500
+| Line Item | Cost Range |
+|---|---|
+| Floating vanity unit | $400–$2,000 |
+| Wall blocking (materials + drywall repair) | $100–$400 |
+| Plumber — wall-outlet drain + supply lines | $250–$600 |
+| **Total, DIY (with carpentry experience)** | **$750–$3,000** |
+| **Total, plumber + handyman** | **$1,000–$3,600** |
 
-If you're going floating and you haven't done wall blocking before, this is worth hiring out. An improperly mounted floating vanity that pulls away from the wall — or worse, comes off it — is a messy and expensive fix.
+If you haven't done wall blocking, hire this one out. A floating vanity that pulls away from the wall — or separates under load — damages the wall, the plumbing connections, and sometimes the floor. The risk isn't worth saving $300 in labor.
 
 ### Vessel Sink
 
-Vessel sinks sit on top of the vanity rather than dropping in, which means the standard drain height won't work. You either need a vanity specifically designed for a vessel sink (with a higher drain rough-in) or you need to raise the existing drain, which is a plumbing modification.
+Vessel sinks sit on top of the cabinet rather than dropping in, which means the standard 17"–18" rough-in height for the drain won't work. You need either a vanity designed specifically for vessel sinks (with a higher wall stub-out) or a drain modification.
 
-- **Vessel sink:** $100–$600
-- **Vessel faucet (taller to reach over the bowl):** $80–$400
-- **Drain modification, if needed:** $150–$400
-- **Total additional cost over a standard single vanity install:** $200–$800
+- Vessel sink: $100–$600 (DERA and other import brands start around $80; Kohler and American Standard vessel bowls run $300–$700)
+- Vessel faucet — taller body to reach over the bowl: $80–$400
+- Drain height modification, if needed: $150–$400
 
-The gotcha with vessel sinks is aesthetics versus function: they're striking but the drain sits higher than most people realize, and if the existing rough-in is at a standard height, the pop-up drain assembly won't work correctly. Confirm the rough-in height before you buy.
+**Additional cost over a standard single vanity: $200–$800.**
 
----
-
-## Hidden Costs to Budget For
-
-These are the line items that don't show up in installation quotes but appear once the old vanity comes out:
-
-**Plumbing modifications:** Moving a drain even a few inches requires opening the wall, cutting and re-routing the P-trap or drain line, and patching the drywall. Budget $150–$600 depending on how much pipe needs moving and whether it's accessible from a crawl space or basement.
-
-**Countertop cutouts:** If your vanity doesn't come with an integrated sink and you're ordering a stone or solid-surface top, each undermount cutout costs $75–$200 extra. Many fabricators charge per cutout, so a double vanity is $150–$400 just for the cuts.
-
-**Shutoff valve replacement:** If you're pulling the old vanity and the shutoff valves haven't been touched in 15 years, replace them. A valve that fails to shut off when you need it is far more expensive than the $15–$30 per valve it costs to swap them now.
-
-**Drywall repair:** Old vanities often sit against walls that were never properly finished behind them — or the removal process damages drywall. Patching and painting adds $50–$200 depending on the extent.
-
-**Permit fees:** Some municipalities require permits for any work touching supply lines per the [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/). Fees run $50–$150. Ask your local building department before you start; an unpermitted plumbing modification can complicate a home sale.
-
-**Tile or flooring work:** If the new vanity footprint doesn't match the old one exactly, you may expose unfinished floor. Factor in tile work if this applies.
+Confirm the existing rough-in height before you buy the sink. If the stub-out sits at 14" and you need 21" for the vessel drain to work, you're paying for plumbing work whether you planned to or not.
 
 ---
 
-## DIY Installation: Step-by-Step Overview
+## Hidden Costs That Show Up After Demo
 
-A like-for-like single vanity swap is genuinely approachable for someone comfortable with basic plumbing. Here's what the process looks like:
+These line items almost never appear in an installation quote, but they appear once the old vanity comes out:
 
-**1. Shut off the water.** Close the supply valves under the sink (or the main if the valves don't work). Open the faucet to relieve pressure.
+**Plumbing relocation ($150–$600):** Moving a drain even three inches means opening the wall and re-routing the P-trap or drain stub. Accessible from a crawl space or unfinished basement? Cheaper. Slab foundation or finished ceiling below? More expensive and more disruptive.
 
-**2. Disconnect the plumbing.** Remove the P-trap (have a bucket ready), disconnect the supply lines from the faucet, and disconnect the pop-up drain linkage if there is one.
+**Countertop cutouts ($75–$200 each):** Stone fabricators charge per hole. A double vanity with two undermount sinks runs $150–$400 just for the cuts, on top of the slab cost.
 
-**3. Disconnect the drain flange.** Unscrew or cut the caulk around the drain flange at the sink.
+**Drywall behind the old vanity ($50–$200):** Old vanities often sit against walls that were never properly finished, or the removal process damages what's there. If you're painting anyway, add this to your budget.
 
-**4. Remove the old vanity.** Vanities are typically secured to the wall with a few screws through a mounting rail at the back of the cabinet. Find and remove those. The countertop is usually caulked to the wall — score along the caulk line and pry it free.
+**Shutoff valve replacement ($15–$30 each):** If those valves haven't been operated in ten years, replace them while you have the plumbing exposed. A valve that fails to close when you have a water emergency is a much bigger problem than skipping this step.
 
-**5. Clean and prep the wall and floor.** Scrape old caulk, patch any drywall damage, and make sure the floor is level. A shimmed vanity on an uneven floor is a frustration you'll live with every day.
+**Permit fees ($50–$150):** Some jurisdictions require permits for supply-line work. It's worth a five-minute call to your local building department before you start — unpermitted plumbing work can complicate a home sale more than people expect.
 
-**6. Set the new vanity in position.** Check for level — both front-to-back and side-to-side. Shim as needed. Mark and drill mounting holes.
-
-**7. Secure to the wall.** Drive screws into studs through the mounting rail. For floating vanities, this step is significantly more involved: you need to locate studs, add blocking if they're not in the right position, and use appropriate hardware for the weight rating.
-
-**8. Install the faucet and drain.** It's easier to do this before setting the countertop or sink. Install the faucet body, supply line connections, and drain assembly on the bench rather than lying on your back under the sink.
-
-**9. Set and secure the countertop or sink.** Apply silicone caulk to the vanity top edge, set the countertop, and press firmly. For undermount sinks, the sink is typically epoxied or clipped to the underside of the counter.
-
-**10. Connect the plumbing.** Reconnect supply lines to the faucet, assemble the P-trap to the drain stub-out in the wall, and check all connections are hand-tight plus a quarter turn. Open the shutoff valves slowly and check for leaks immediately and again after 24 hours.
-
-**11. Caulk the perimeter.** Run a bead of mold-resistant silicone caulk where the vanity meets the wall and where the countertop meets the wall. Don't skip this — water infiltration behind a vanity is a rot and mold problem.
-
-Total DIY time for a competent first-timer: 4–6 hours, including unexpected trips to the hardware store.
+**Floor exposure:** If your new vanity footprint doesn't match the old one exactly, you may expose unfinished subfloor. Factor in tile or flooring work if this applies. See the [bathroom tile installation cost guide](/blog/bathroom-tile-installation-cost/) for current material and labor rates.
 
 ---
 
-## DIY vs. Hiring a Plumber: When to Make the Call
+## DIY Installation: What the Work Actually Involves
+
+A single vanity swap is approachable. Here's the honest sequence:
+
+1. **Shut off the supply valves** under the sink. If they're corroded or won't fully close, shut off the main and add valve replacement to your list.
+2. **Disconnect the plumbing.** Remove the P-trap (bucket underneath), disconnect the supply lines at the faucet, and detach the pop-up drain linkage.
+3. **Free the vanity from the wall.** Most vanities are screwed through a mounting rail at the back of the cabinet. Find the screws, back them out. Score along any caulk where the countertop meets the wall.
+4. **Prep the wall and floor.** Patch drywall damage, scrape old caulk, and check that the floor is level. Shimming a vanity on an uneven floor is a small annoyance you'll deal with every single day.
+5. **Set and level the new vanity.** Shim until it's level front-to-back and side-to-side before you drill anything.
+6. **Secure to the wall.** Drive screws into studs through the mounting rail. For floating vanities, this is where you need confirmed blocking and hardware rated for the load.
+7. **Install the faucet and drain before setting the countertop.** Do this on a bench or table — not lying under the sink. Faucet body, supply line connections, drain assembly. Much easier.
+8. **Set the countertop or sink.** Silicone caulk on the top edge of the cabinet, set the top, press firm. Undermount sinks clip or epoxy to the underside of the counter.
+9. **Connect the plumbing.** Supply lines to faucet inlets, P-trap to the wall drain stub. Hand-tight plus a quarter turn. Open valves slowly and watch every connection.
+10. **Caulk the perimeter.** Mold-resistant silicone where the vanity meets the wall and where the countertop meets the wall. Skipping this invites water behind the cabinet.
+
+First-timer time: 4–6 hours including the inevitable hardware store run for the fitting you didn't know you needed. For a deeper look at what's worth DIYing versus calling a pro, the [when to call a plumber vs. DIY guide](/blog/when-to-call-a-plumber-vs-diy/) covers the specific situations where the math changes.
+
+---
+
+## When to Hire, When to Do It Yourself
 
 **Do it yourself if:**
-- You're swapping the same footprint and drain/supply locations haven't changed
-- You're comfortable with basic plumbing (supply lines, P-trap connections)
+- You're doing a like-for-like swap — same footprint, drain stays put
 - The vanity is freestanding, not floating
-- You have a free afternoon and a decent set of wrenches
+- You've done P-trap and supply-line work before, or you're comfortable learning
 
 **Hire a plumber if:**
 - The drain or supply lines need to move
-- You're installing a floating vanity and haven't done wall blocking before
-- You're dealing with a vessel sink that requires drain height modification
-- The existing shutoff valves are corroded and won't close fully (this is a plumber job, not a DIY situation)
-- Your home has older galvanized or lead pipes — don't touch those without professional guidance
+- You're hanging a floating vanity and there's no confirmed blocking
+- The vessel sink requires a drain height modification
+- The existing shutoff valves are corroded and won't close
+- Your home has galvanized or older steel pipe — don't disturb those without professional input
 
-A plumber for a straightforward swap typically charges $150–$400. That's not a small number, but it's a fraction of the cost of water damage from a connection that wasn't quite right.
-
----
-
-## How This Fits Into a Larger Remodel
-
-If you're installing a new vanity as part of a broader bathroom overhaul, the labor costs become more efficient — a plumber already on site can handle the vanity hookup alongside other work. See the full breakdown in our [DIY bathroom remodel cost guide](/blog/diy-bathroom-remodel-cost/) for how to sequence the work, and check the [small bathroom remodel cost breakdown](/blog/small-bathroom-remodel-cost/) if you're working with a tight footprint. If you're redoing a primary bathroom, the [master bathroom remodel cost guide](/blog/master-bathroom-remodel-cost/) covers double vanity and freestanding tub scenarios in detail.
+A plumber for a straight swap runs $150–$400. That's real money, but it's a fraction of what water damage from a loose connection costs. On a small-footprint remodel, check the [small bathroom remodel cost breakdown](/blog/small-bathroom-remodel-cost/) to see how vanity labor fits into the full project budget.
 
 ---
 
-## Quick Reference: Cost Summary
+## Cost Summary
 
-| Scenario | DIY Cost | Pro Cost |
+| Scenario | DIY | With Plumber |
 |---|---|---|
-| Single vanity, straight swap | $220–$900 | $370–$1,300 |
+| Single vanity, straight swap | $250–$900 | $400–$1,300 |
 | Single vanity + plumbing move | $400–$1,200 | $700–$2,000 |
-| Double vanity | $800–$3,900 | $1,100–$4,600 |
-| Floating vanity | $650–$2,900 | $900–$3,500 |
+| Double vanity | $860–$3,900 | $1,160–$4,600 |
+| Floating vanity | $750–$3,000 | $1,000–$3,600 |
 | Vessel sink (additional) | +$200–$600 | +$350–$900 |
 
-These ranges assume mid-range materials. Bargain-hunting at a Habitat ReStore or opting for a prefab vanity from a big-box store pulls costs down; custom cabinetry and designer hardware pushes them up significantly.
+Mid-range materials assumed throughout. A prefab 36" vanity from a big-box store pulls costs toward the low end. Kohler or Pottery Barn cabinetry with a custom stone top pushes them toward the high end. The single biggest factor isn't the brand — it's whether your drain moves.
 
-The single biggest lever you have is whether your drain and supply lines need to move. If they don't, a vanity replacement is one of the more accessible DIY projects in a bathroom. If they do, be honest about what that work involves before you commit to the DIY path.
-
-A vanity swap is often part of a larger project. If you're planning a full remodel, our [bathroom remodel cost estimate](/blog/bathroom-remodel-cost-estimate/) covers every line item. For more ideas on high-impact, low-cost upgrades, see [15 budget bathroom remodel ideas](/blog/budget-bathroom-remodel-ideas/) that look expensive.
+If you're combining this with a full bathroom overhaul, see the [budget bathroom remodel ideas](/blog/budget-bathroom-remodel-ideas/) for sequencing tips that keep total project cost in check.

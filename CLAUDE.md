@@ -213,22 +213,117 @@ Internal link candidates (use any genuinely relevant, skip the rest; may be empt
 
 TASK: Write a complete, genuinely useful post for "{{PRIMARY_KEYWORD}}".
 First silently determine the search intent and the right depth within {{WORD_RANGE}}.
-Then write for a human who needs this solved.
+Then write for a homeowner who needs this solved — not a client reading a report.
 
-QUALITY RULES (Google 2026):
-- Answer the query specifically in the first 2-3 sentences. No throat-clearing.
-- Show real expertise: specifics, numbers, steps, trade-offs, at least one insight a
-  generic AI summary would miss. No filler, no padding to length.
-- Accurate. Never fabricate statistics, studies, prices, or quotes; if unsure, say so generally.
+═══════════════════════════════════════
+VOICE — authoritative second-person
+═══════════════════════════════════════
+
+Write as a knowledgeable editor talking directly to the reader. Use "you" and "your"
+throughout. Be opinionated and direct — take stances where reasonable ("Skip the cheapest
+option — it sags within a year"). Use contractions (don't, won't, you'll). Write the way
+you'd explain something to a friend, not a client.
+
+Do NOT write in first person ("I built..." "My experience..."). Do NOT write in detached
+third person ("Homeowners should consider..." "One might find...").
+
+Have opinions. "Go with 9 gauge if you have big dogs — 11.5 won't hold up" is better
+than "some homeowners prefer 9 gauge." Pick a side when the evidence supports it.
+
+Name specific brands, stores, or materials when relevant. Real editorial content has
+preferences. Generic content doesn't.
+
+═══════════════════════════════════════
+STRUCTURE — vary it every post
+═══════════════════════════════════════
+
+Do NOT follow the same skeleton for every post. Pick the best fit:
+
+A) DIRECT ANSWER + DEEP DIVE — Answer in 2 sentences, then break down why/how.
+   Best for cost and "how much" queries.
+B) NARRATIVE WALKTHROUGH — Walk through a project start to finish, weaving in costs
+   and decisions as they come up. Best for "how to" and process queries.
+C) DECISION GUIDE — Frame around a choice (DIY vs pro, material A vs B, now vs later).
+   Best for commercial/comparison intent.
+D) PROBLEM → SOLUTION — Open with the common mistake or failure, then teach the fix.
+   Best for topics where mistakes are expensive.
+E) REFERENCE + COMMENTARY — Data tables, specs, code requirements — but with editorial
+   takes on what actually matters. Best for specification-heavy topics.
+
+Alternate deliberately. Do NOT reuse the structure of recent posts.
+
+═══════════════════════════════════════
+OPENINGS — no throat-clearing
+═══════════════════════════════════════
+
+The first sentence MUST be one of:
+- A direct answer with a number ("You'll pay $15–$35 per linear foot for chain link")
+- A strong opinion or surprising fact
+- The core problem stated bluntly ("Most deck contractors won't pull their own permits")
+
+NEVER open with:
+- A definition of the category ("The [X] market is...")
+- A statement about how important/complex the topic is
+- "If you're a homeowner looking to..."
+- "When it comes to [topic]..."
+
+═══════════════════════════════════════
+BANNED LANGUAGE — kill the AI fingerprint
+═══════════════════════════════════════
+
+Do NOT use these words or phrases at all:
+- "typically" "generally" "essentially" "in most cases" "it's worth noting"
+- "it is not X, but..." "whether you're a... or a..."
+- "This guide covers..." "In this post, we'll..." "Let's dive in"
+- "comprehensive" "straightforward" "crucial" "landscape" (as metaphor)
+- "navigating" "leverage" (as verb) "utilize" "facilitate"
+
+Be specific or commit. "Most 4-foot chain link runs $15–$35/ft" — not "Typically,
+chain link fence costs generally range from..."
+
+Mix sentence lengths. Short punches, then longer explanations. Start some sentences
+with "But" or "And." Break rhythm deliberately.
+
+═══════════════════════════════════════
+TITLES — no formulas
+═══════════════════════════════════════
+
+Banned title patterns:
+- "[Service]: Red Flags and Tips"
+- "[Topic]: DIY or Call a Pro?"
+- "[Topic]: What to Know"
+- "[Topic]: A Homeowner's Guide"
+- "[Topic]: Costs and Tips"
+
+Write titles that sound editorial, not templated. Specific, with a hook or angle.
+
+═══════════════════════════════════════
+FAQ — specific, not boilerplate
+═══════════════════════════════════════
+
+Each FAQ answer MUST include at least one specific detail — a number, a product name,
+a technique, a gotcha. If the answer could appear on any post in the same category
+without changes, it is too generic. Rewrite it.
+
+═══════════════════════════════════════
+QUALITY RULES
+═══════════════════════════════════════
+
+- Accurate. Never fabricate statistics, studies, prices, or quotes. Cost ranges should
+  be plausible for the topic and US market. If unsure, hedge casually ("prices vary by
+  region, but expect...") rather than inventing specifics.
 - Use the primary keyword and natural related terms without stuffing.
-- Vary sentence structure and openings away from a fixed template.
-- Weave in relevant internal links from the candidates where they help the reader.
+- Weave in relevant internal links where they genuinely help. Use varied anchor text —
+  don't link the same page twice with identical words.
+- Include at least one insight a generic AI summary would miss: a trade-off most guides
+  skip, a counterintuitive finding, a common mistake that costs money.
+- At least 3 internal links per post when candidates are available.
 
 OUTPUT EXACTLY THIS FORMAT, NOTHING ELSE:
 ---
-title: "<specific, <60 chars, primary keyword natural>"
+title: "<specific, <60 chars, keyword natural, NOT a formula>"
 slug: "<url-safe-lowercase-hyphenated>"
-description: "<150-160 char meta description that earns the click>"
+description: "<120-160 char meta description that earns the click>"
 author: "{{AUTHOR}}"
 category: "<best fit from {{CATEGORY_LIST}}>"
 tags: ["<3-6 tags>"]
@@ -236,7 +331,7 @@ date: "{{PUBLISH_DATE}}"
 hero_image_prompt: "<one-sentence header image description>"
 faq:
   - q: "<question>"
-    a: "<1-3 sentence answer>"
+    a: "<1-3 sentence answer with at least one specific detail>"
 ---
 
 <full Markdown body, starting with the intro — do NOT repeat the H1; Astro renders it>
