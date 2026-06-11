@@ -7,7 +7,7 @@ tags:
   - wall-repair
   - cost-guide
   - painting
-date: 2026-07-10
+date: 2026-06-11
 hero_image: /images/posts/exterior-house-painting-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of the exterior of a two-story suburban home being painted with a painter on a ladder applying fresh white paint to wood siding, drop cloths protecting the foundation plantings, and a paint sprayer on the ground. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Single-story homes with decent existing paint and a week to dedicate are realistic DIY candidates. Two-story homes with failing paint require scaffolding and extensive scraping — most solo DIYers underestimate how much of the project is prep, not painting."
   - q: "How long does a DIY exterior paint job take?"
     a: "A solo DIYer should budget 40–60 hours for a standard single-story house — mostly prep work like washing, scraping, caulking, and priming. A professional crew of three finishes the same house in two to three days. Spreading the project over weekends means two to four weeks of elapsed time."
-draft: true
+draft: false
 ---
 
 Painting the exterior of your home typically costs between $3,000 and $8,000 for a standard single-story house, or $5,000 to $14,000 for a two-story home when you hire professionals. The actual number depends on your home's size, the condition of existing surfaces, and your region's labor rates. Understanding where that money goes helps you set a realistic budget and avoid sticker shock when quotes come in.
