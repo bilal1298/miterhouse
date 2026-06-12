@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - basement
-date: 2026-06-21
+date: 2026-06-12
 hero_image: /images/posts/hiring-a-basement-finishing-contractor-red-flags-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a basement being finished with metal stud framing going up, fiberglass insulation batts between some studs, recessed lighting cans visible in the ceiling joists above, and a level leaning against the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "The framing, insulation, drywall, and flooring are within reach for confident DIYers. Electrical and plumbing work requires licensed professionals in most jurisdictions. The biggest risk is skipping moisture testing first — finishing over a wet basement guarantees mold problems within a year."
   - q: "What's the most common basement finishing contractor red flag?"
     a: "Pressuring you to skip permits. This saves the contractor time and money, not you. Unpermitted basement finishing means no inspections to catch dangerous errors, problems at resale, and potential insurance issues. A contractor who won't pull permits isn't protecting your interests."
-draft: true
+draft: false
 ---
 
 Hiring a basement finishing contractor is one of the larger financial decisions most homeowners make, typically involving $30,000 to $75,000 and 6 to 12 weeks of work happening inside your home. Choosing the wrong contractor can turn a straightforward project into a nightmare of cost overruns, code violations, and unfinished work. Choosing the right one means getting a finished space that adds value and function to your home.
