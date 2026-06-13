@@ -9,7 +9,7 @@ tags:
   - vinyl-flooring
   - installation
   - cost-guide
-date: 2026-06-11
+date: 2026-06-13
 hero_image: /images/posts/install-vinyl-flooring-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "For click-lock LVP — the most common DIY-friendly vinyl — you need a sharp utility knife, metal straightedge, tapping block, pull bar, 1/4-inch spacers, and a rubber mallet. An oscillating tool helps undercut door casings. No saw required for most straight cuts."
   - q: "How long should I expect this project to take?"
     a: "A 200-square-foot room takes most first-timers 5 to 7 hours including prep. The first room is always slowest due to the learning curve on straight layout and door-frame cuts. By the second room, you'll work significantly faster."
-draft: true
+draft: false
 ---
 
 Installing vinyl flooring costs $2 to $10 per square foot for a complete job, with most homeowners spending $4 to $7 per square foot for mid-range luxury vinyl plank professionally installed. That means a 200-square-foot bathroom runs $800 to $1,400 and a 300-square-foot kitchen costs $1,200 to $2,100. DIY installation drops those numbers by roughly 40%, making vinyl one of the most budget-friendly flooring upgrades available.
