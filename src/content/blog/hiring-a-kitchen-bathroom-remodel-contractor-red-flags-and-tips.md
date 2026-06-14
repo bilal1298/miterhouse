@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - bathroom
   - kitchen-remodel
-date: 2026-08-22
+date: 2026-06-14
 hero_image: /images/posts/hiring-a-kitchen-bathroom-remodel-contractor-red-flags-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a bathroom mid-renovation with partially installed white subway tile, new fixtures still in packaging nearby, blue painter's tape on the edges, and a level tool resting on the vanity. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Take photos of the existing space, write out your must-haves versus nice-to-haves, and measure the rooms yourself. Knowing your own dimensions lets you catch if a contractor is quoting a significantly different square footage than you measured. Having your priorities sorted prevents the contractor from upselling you on items that won't move the needle."
   - q: "How long does a typical kitchen and bathroom remodel take?"
     a: "A mid-range kitchen remodel takes 4–8 weeks; a bathroom runs 2–4 weeks. Done sequentially, plan 6–12 weeks total — longer if layout changes require plumbing or electrical relocation, which adds inspection wait time between phases."
-draft: true
+draft: false
 ---
 
 The contractor you hire for a kitchen and bathroom remodel will have more impact on the outcome than any material selection, design choice, or budget decision you make. A skilled, honest contractor with a $20,000 budget will deliver a better result than a mediocre one with $30,000. A bad contractor will cost you more than the price difference — in rework, delays, stress, and potentially legal fees.
