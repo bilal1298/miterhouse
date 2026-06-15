@@ -8,7 +8,7 @@ tags:
   - doors
   - windows
   - budget-renovation
-date: 2026-08-17
+date: 2026-06-15
 hero_image: /images/posts/custom-made-windows-and-doors-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Ordering before the rough opening is confirmed and checked for square. Older homes are rarely plumb. Custom fabricators build to your actual dimensions — if those dimensions change during demo, the window won't fit. Always measure after any framing or structural work, never before."
   - q: "How long do custom windows take to arrive?"
     a: "4–12 weeks from order to delivery, with some specialty manufacturers quoting 16 weeks during busy seasons. This is the biggest planning mistake — ordering too late holds up the entire project. Order early, even if it means storing units carefully for a few weeks."
-draft: true
+draft: false
 ---
 
 Custom windows and doors cost 30–100% more than stock equivalents — a custom window runs $800–$2,500 per unit installed, while custom exterior doors range from $2,000 to $8,000+. The premium is real. But so is the problem they solve: when your openings are non-standard, your home is historic, or your design requires shapes that don't exist in a catalog.
