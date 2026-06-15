@@ -1,6 +1,6 @@
 ---
-title: "Countertop Removal Cost: What to Expect in 2026"
-description: "Countertop removal costs $150–$700 hired out. Laminate is an easy DIY job; granite requires 2–3 helpers and careful prying to avoid damaging cabinet boxes."
+title: "Countertop Removal: $150–$700 Hired Out, or Free With a Pry Bar"
+description: "Countertop removal costs $150–$700 hired out. Laminate is a 1-hour DIY job; granite needs 2–3 helpers and careful prying to avoid wrecking cabinet boxes."
 author: daniel-ware
 category: kitchen-bath-remodeling
 tags:
@@ -12,111 +12,97 @@ date: 2026-11-21
 hero_image: /images/posts/countertop-removal-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "How much does countertop removal typically cost?"
-    a: "Laminate removal runs $150–$300 professionally or is a free DIY job taking 1–2 hours. Granite and stone removal runs $300–$700 due to weight and fragility — a 10-foot granite slab weighs roughly 200 pounds and must be lifted evenly to avoid cracking. Concrete is the most expensive at $400–$700 and sometimes requires a sledgehammer."
-  - q: "Can a homeowner DIY their countertop removal?"
-    a: "Laminate and solid surface removal are genuinely easy DIY projects that save $150–$400. Stone removal is doable with 2–3 helpers, but carries real risk of cabinet damage if you rush it. Use a thin pry bar worked gently and evenly — not a single-point pry from one end."
+  - q: "Which countertop materials can a homeowner remove safely?"
+    a: "Laminate and solid surface (Corian) are genuinely easy DIY removals — lightweight, screwed in from below, done in 1–2 hours. Stone is doable with 2–3 strong helpers, but carries real risk of cabinet damage if you rush it. Concrete poured in place may require a sledgehammer, and that usually means the cabinets underneath get damaged too."
   - q: "What can go wrong during countertop removal?"
-    a: "The most common issue is damaging cabinet tops during granite removal, especially when silicone adhesive holds the slab tightly. Go slow, cut all caulk lines first, and work a thin pry bar around the full perimeter before lifting. A damaged cabinet face frame costs $50–$200 to repair."
+    a: "The most common problem is damaging cabinet tops during granite removal, especially when silicone adhesive bonds the slab tightly. Cut all caulk lines first, work a thin pry bar around the full perimeter, and lift evenly — never pry from one end. A damaged cabinet face frame costs $50–$200 to repair."
+  - q: "Should I remove the old countertop myself or have the new fabricator do it?"
+    a: "Many fabricators include removal in their installation quote or offer it at a reduced rate. The marginal cost of their crew pulling the old counter while they're already on-site is low. Ask during quoting — if they charge $100–$200 for removal, it may not be worth the DIY effort on stone."
 draft: true
 ---
 
-Countertop removal costs $200 to $700 when hired out, depending on the material being removed and the size of the kitchen. Laminate is on the low end — quick to detach and lightweight. Granite and concrete are on the high end — heavy, fragile, and requiring careful handling to avoid damaging the cabinets underneath.
+Countertop removal is the easiest place to save money on a kitchen renovation — if you're removing the right material. Laminate lifts off in 30 minutes with a screwdriver and a utility knife. Granite requires three people, careful pry-bar work, and one wrong move cracks either the slab or the cabinet underneath. The decision to DIY or hire out depends entirely on what you're pulling off.
 
-If you are replacing your countertops, removal is the first step and often the easiest place to save money by doing it yourself. Here is what each removal scenario involves and what it actually costs.
+## Cost and Difficulty by Material
 
-## Cost by Material Type
+### Laminate
 
-### Laminate Countertop Removal
+**Professional:** $150–$300 | **DIY:** Free | **Time:** 1–2 hours
 
-**Professional cost:** $150 to $300 for a standard kitchen.
-**DIY cost:** $0 to $30 (basic tools).
-**Time:** 1 to 2 hours.
+The easiest removal. Laminate counters weigh less than 5 pounds per linear foot, attach with screws from below and sometimes a bead of caulk along the backsplash.
 
-Laminate countertops are the easiest to remove. They are lightweight (typically less than 5 pounds per linear foot), attached with screws from below and sometimes a bead of adhesive or caulk along the backsplash.
+**DIY process:** Turn off water, disconnect supply lines and drain. Remove the sink (or take the whole assembly out together). Find the screws driven up through corner blocks inside the cabinets — remove them. Slice the caulk along the backsplash with a utility knife. Lift straight up and out.
 
-**DIY process:** Turn off water supply to the sink. Disconnect supply lines and drain under the sink. Remove the sink and faucet (or leave them in and remove the whole assembly together). Look under the countertop for screws driven up through corner blocks or brackets in the cabinets — remove them. Slice any caulk along the backsplash with a utility knife. Lift the counter straight up and out.
+Pre-formed laminate with an integrated backsplash usually comes out in one or two pieces. Save yourself the $150–$300 and do this one.
 
-For a pre-formed laminate counter with an integrated backsplash, the whole thing usually comes out in one or two pieces. Post-formed laminate that was custom-built on site may come apart in sections.
+### Tile
 
-### Tile Countertop Removal
+**Professional:** $200–$500 | **DIY:** $20–$50 (chisel and safety gear) | **Time:** 3–5 hours
 
-**Professional cost:** $200 to $500.
-**DIY cost:** $20 to $50 (for a cold chisel and safety gear).
-**Time:** 3 to 5 hours.
+Tile counters sit on a substrate — usually plywood with cement backer board. Remove everything together as an assembly. Don't chip tiles off one by one trying to preserve the substrate — it's far faster to pull the whole tiled surface off in sections.
 
-Tile countertops are set on a substrate (usually plywood with cement backer board) and are removed as a complete assembly — substrate and all. Do not try to chip tiles off one by one while preserving the substrate; it is far faster to remove everything together.
+Disconnect plumbing, score the caulk line at the wall, remove screws from below. It's heavy and awkward — bring a helper. And wear safety glasses: broken tile edges are razor-sharp.
 
-**DIY process:** Disconnect plumbing. Score the caulk or grout line where the counter meets the wall and the backsplash. Remove screws from below. The substrate is usually screwed to the cabinets. Once detached, the whole tiled surface lifts off in sections. It is heavy and awkward — bring a helper.
+### Granite or Stone
 
-Wear safety glasses and gloves. Broken tile edges are razor-sharp. Use a contractor trash bag or a tarp to contain debris.
+**Professional:** $300–$700 | **DIY:** $0–$50 (with helpers) | **Time:** 2–4 hours
 
-### Granite or Stone Countertop Removal
+The hardest removal due to weight. A 10-foot granite slab at 1.25 inches thick weighs roughly 200 pounds and cracks if flexed — it must be lifted evenly, never pried from one end.
 
-**Professional cost:** $300 to $700.
-**DIY cost:** $0 to $50 (if you have helpers).
-**Time:** 2 to 4 hours.
+**DIY process:** Disconnect plumbing. Cut the caulk seal between counter and wall, and between counter and cabinets. Check underneath for silicone adhesive pads or clips. Work a thin pry bar gently between the counter and cabinet top around the full perimeter to break the adhesive bond. Then lift straight up with at least two people (three for a long section).
 
-Granite is the most challenging removal due to weight. A 10-foot granite slab at 1.25 inches thick weighs roughly 200 pounds. It can crack if flexed, so it must be lifted evenly — never pried from one end.
+**The reuse angle:** If the granite is in good condition and you're careful during removal, it can be repurposed — workbench top, outdoor table, or sold to a fabricator dealing in reclaimed stone. Popular colors may be worth $200–$500 to the right buyer.
 
-**DIY process:** Disconnect plumbing. Cut the caulk seal between the counter and wall, and between the counter and cabinets. Look for clips or adhesive pads underneath — some installers use silicone adhesive on the cabinet tops. A thin pry bar worked gently between the counter and cabinet top usually breaks the adhesive bond. Then lift the slab straight up with at least two people (three for a long section).
+### Concrete
 
-**Reuse potential:** If the granite is in good condition and you are careful during removal, it can be repurposed — as a workbench top, outdoor table surface, or sold to a fabricator who deals in reclaimed stone. Slabs in popular colors may be worth $200 to $500 to the right buyer.
+**Professional:** $400–$700 | **DIY:** $20–$50 plus helpers | **Time:** 3–6 hours
 
-### Concrete Countertop Removal
+The heaviest option — 18–25 pounds per square foot at standard 1.5-inch thickness. A 10-foot section weighs 350+ pounds.
 
-**Professional cost:** $400 to $700.
-**DIY cost:** $20 to $50 (tools) plus several helpers.
-**Time:** 3 to 6 hours.
+Pre-cast slabs can be lifted off like granite, but the weight demands 3–4 people or lifting equipment. In-place poured concrete may need a sledgehammer to break apart — messy, loud, and destructive to the cabinets below.
 
-Concrete countertops are the heaviest — 18 to 25 pounds per square foot at standard 1.5-inch thickness. A 10-foot section weighs 350+ pounds. They may also be poured in place, which means breaking them apart for removal.
+If you're replacing the cabinets too, go ahead with demo. If you're keeping the cabinets, work slowly and protect them with plywood sheets underneath.
 
-Pre-cast concrete slabs can be lifted off similar to granite, but the weight requires 3 to 4 people or lifting equipment. In-place poured concrete may need to be broken with a sledgehammer — messy, loud, and hard on the cabinets below.
+### Solid Surface (Corian)
 
-If you need new cabinets anyway, concrete removal is less delicate. If you are keeping the cabinets, work slowly and protect them with plywood sheets.
+**Professional:** $200–$400 | **DIY:** Free | **Time:** 1–3 hours
 
-### Solid Surface (Corian) Removal
+Moderate weight — lighter than stone, heavier than laminate. Attached to cabinets with silicone adhesive and glued at seams. A thin pry bar and patience separate the bond without much difficulty. Another easy DIY.
 
-**Professional cost:** $200 to $400.
-**DIY cost:** $0 to $20.
-**Time:** 1 to 3 hours.
+## Disposal
 
-Solid surface countertops are glued together at seams and typically attached to cabinets with silicone adhesive. Weight is moderate — lighter than stone, heavier than laminate. A thin pry bar and patience separate the adhesive bond without much difficulty.
+Getting the old counter out of the kitchen is half the job. Getting it off your property is the other half.
 
-## Disposal Costs
+**Laminate and tile:** Standard dumpster or landfill. A single-item dump run costs $20–$75. Some bulk trash services pick up for free.
 
-Getting the old countertop out of the kitchen is half the job. Getting it off your property is the other half.
+**Granite and stone:** Heavy and awkward to transport. Dump fees run $30–$100 per pickup load. Or list intact slabs for free pickup on Craigslist or Facebook Marketplace — someone will want them.
 
-**Laminate and tile:** Can go in a standard dumpster or to the landfill. If you have a regular trash service that accepts bulk items, this may be free. Otherwise, a single item dump run costs $20 to $75 depending on your local transfer station fees.
+**Concrete:** Similar to stone disposal. Some concrete recyclers accept it free.
 
-**Granite and stone:** Heavy and awkward to transport. A pickup truck load to the dump costs $30 to $100 in disposal fees. Alternatively, list intact slabs for free pickup on Craigslist, Facebook Marketplace, or local salvage — someone will want them.
+If you're hiring removal, confirm whether disposal is included. Many charge $50–$150 extra for haul-away.
 
-**Concrete:** Heavy and requires a strong vehicle or trailer. Disposal fees are similar to stone. Some concrete recyclers accept it for free.
+## Money-Saving Moves
 
-If you are hiring a countertop removal professional, confirm whether disposal is included in the quoted price. Some include it; many charge $50 to $150 extra for haul-away.
+**DIY laminate and solid surface.** These are genuinely easy jobs that save $150–$400 with minimal risk.
 
-## Saving Money on Removal
+**Bundle with new installation.** Many countertop fabricators include old counter removal in their quote — or offer it at a reduced rate — when you buy the new counter from them. The marginal cost of their crew pulling the old counter while already on-site is low. Always ask.
 
-**Do it yourself.** Laminate and solid surface removal are genuinely easy DIY projects that save $150 to $400. Stone removal is doable with helpers but carries more risk of cabinet damage or personal injury.
-
-**Bundle it with new installation.** Many countertop fabricators include old counter removal in their installation quote — or offer it at a reduced rate — when you buy the new counter from them. Ask during the quoting process. The marginal cost of the crew removing the old counter while they are already on site is low, and they often pass that savings along.
-
-**Time it with other work.** If you are doing a kitchen renovation that includes cabinet replacement, the demo contractor removes everything together — counters, cabinets, backsplash — for a single demo price that is cheaper per item than removing the counter alone.
+**Time it with other demo.** If you're also replacing cabinets, the demo contractor removes everything together — counters, cabinets, backsplash — for a single price that's cheaper per item than removing the counter alone.
 
 ## What Can Go Wrong
 
-**Cabinet damage.** The most common issue is damaging cabinet tops during removal — especially with stone counters that are adhesive-mounted. Go slow, use a thin pry bar, and work evenly. A damaged cabinet face frame costs $50 to $200 to repair; a damaged box may need replacement ($200 to $500 per cabinet).
+**Cabinet damage.** The most common issue, especially with stone counters silicone-mounted to cabinet tops. Go slow, use a thin pry bar, work evenly. A damaged face frame costs $50–$200 to repair; a damaged cabinet box runs $200–$500 to replace.
 
-**Hidden plumbing issues.** While the counter is off, you have access to the plumbing connections and the wall behind the backsplash. This is a good time to inspect for leaks, corrosion, or outdated connections. Fixing a slow leak now is far cheaper than dealing with it after new counters are installed.
+**Hidden plumbing problems.** With the counter off, you have access to connections and the wall behind the backsplash. Inspect for leaks, corrosion, or outdated connections. Fixing a slow leak now is far cheaper than discovering it after new counters go in.
 
-**Backsplash damage.** If the countertop had a separate tile or stone backsplash, removing the counter may pull the bottom row of backsplash tiles off the wall. If you are also replacing the backsplash, this does not matter. If you are keeping the backsplash, cut the caulk joint carefully and pry the counter away from the wall, not down.
+**Backsplash damage.** Removing the counter may pull the bottom row of backsplash tiles off the wall. If you're replacing the backsplash too, no problem. If you're keeping it, cut the caulk joint carefully and pry the counter away from the wall — not down.
 
-**Lead paint exposure.** In homes built before 1978, the wall behind the backsplash may have lead paint that gets disturbed during removal. The [EPA's guidelines on lead](https://www.epa.gov/lead) recommend testing before disturbing painted surfaces in pre-1978 homes.
+**Lead paint.** In pre-1978 homes, the wall behind the backsplash may have lead paint that gets disturbed during removal. The [EPA's lead safety guidelines](https://www.epa.gov/lead) recommend testing before disturbing painted surfaces in older homes.
 
-## Timeline Considerations
+## Timing the Gap
 
-If you are removing the old counter yourself before the fabricator installs the new one, coordinate timing carefully. You need the old counter out before the templater arrives (they template off the bare cabinets). Then the new counter is fabricated and installed — typically 1 to 3 weeks later.
+If you're removing the old counter before the fabricator installs the new one, coordinate carefully. The old counter needs to be out before the templater arrives — they measure off bare cabinets. Fabrication and installation then take 1–3 weeks.
 
-During that gap, you will have no functional kitchen counter or sink. Plan accordingly — a temporary plywood top over the cabinets with a tabletop electric burner and the bathroom sink for dishwashing gets most people through the wait.
+During that gap, you'll have no functional counter or sink. A temporary plywood top with a tabletop burner and the bathroom sink for dishwashing gets most people through the wait.
 
-For a complete picture of your countertop replacement project, see our [countertop pricing guide](/blog/countertop-pricing-guide-for-homeowners/) for material selection, our [countertop cost calculator](/blog/countertop-pricing-guide-for-homeowners/) for budgeting the full project, and our [concrete countertop installation guide](/blog/concrete-countertop-installation-cost-breakdown-real-numbers/) if you are considering a poured surface.
+For the full picture of your replacement project, see our [countertop pricing guide](/blog/countertop-pricing-guide-for-homeowners/) for material selection and our [concrete countertop guide](/blog/concrete-countertop-installation-cost-breakdown-real-numbers/) if you're considering a poured surface.

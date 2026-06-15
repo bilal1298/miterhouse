@@ -1,6 +1,6 @@
 ---
-title: "Cedar Fence Installation Guide: DIY or Hire Out?"
-description: "Cedar fence installation costs $25–$55 per linear foot installed. Why to use pressure-treated posts with cedar pickets, and why three rails beat two every time."
+title: "Cedar Fence Installation: Use PT Posts, Not Cedar Ones"
+description: "Cedar fence installation costs $25–$55 per linear foot. Why pressure-treated posts with cedar pickets outperform all-cedar, and why three rails beat two every time."
 author: daniel-ware
 category: outdoor-landscaping
 tags:
@@ -12,121 +12,100 @@ date: 2026-07-09
 hero_image: /images/posts/cedar-fence-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
-  - q: "What's the best time of year to install a cedar fence?"
-    a: "Spring and fall are ideal — moderate temperatures help concrete cure properly and physical labor is less miserable than in summer heat. Many fence contractors offer 10–15% discounts for fall and winter scheduling. Avoid pouring concrete footings when frost is in the ground."
-  - q: "What tools do I need to build a cedar fence?"
-    a: "A miter saw or circular saw, impact driver, post-hole digger or rented auger ($75–$150/half day), level, speed square, string line, and a helper for setting posts. Galvanized or stainless steel screws only — regular steel fasteners stain cedar black within a year from a chemical reaction with the wood's tannins."
+  - q: "When's the best time to install a cedar fence?"
+    a: "Spring and fall — moderate temperatures help concrete cure properly and the labor isn't miserable. Many fence contractors offer 10–15% discounts for fall and winter scheduling. Avoid pouring footings when frost is in the ground."
+  - q: "What tools do you need to build a cedar fence?"
+    a: "Miter saw or circular saw, impact driver, post-hole digger or rented auger ($75–$150/half day), level, speed square, string line, and a helper. Use galvanized or stainless steel screws only — regular steel stains cedar black within a year from a tannin reaction."
   - q: "How long does it take to build a 150-foot cedar fence?"
-    a: "A professional crew of 2–3 finishes 150 feet in 2–3 days. A DIY team of two should budget 3–4 weekends — post setting and concrete cure take the first weekend, rails and pickets fill the remaining time. The physical labor of digging 20+ holes is the real limiting factor."
+    a: "A pro crew of 2–3 finishes in 2–3 days. A DIY team of two should budget 3–4 weekends — post setting and concrete cure eat the first weekend, rails and pickets fill the rest. Digging 20+ holes by hand is the real bottleneck."
 draft: true
 ---
 
-Cedar fence installation costs $25 to $55 per linear foot installed, or $12 to $30 per linear foot if you supply the labor yourself. For a 150-foot privacy fence at 6 feet tall, that puts you at $3,750 to $8,250 professionally installed, or $1,800 to $4,500 in materials for DIY. Cedar is the premium wood fence choice — and the price gap between cedar and pressure-treated pine (which runs $15 to $35 per foot installed) reflects real differences in durability, appearance, and maintenance.
+Cedar fence installation runs $25–$55 per linear foot installed, or $12–$30 per foot in materials for a DIY build. For a 150-foot privacy fence at 6 feet tall, that's $3,750–$8,250 with a contractor or $1,800–$4,500 in materials. The price gap between cedar and pressure-treated pine ($15–$35/ft installed) reflects real differences in longevity, appearance, and maintenance — but there's one place where cedar shouldn't go: below ground.
 
-Here is how to plan the project, whether you are building it yourself or vetting contractors.
+## Why Cedar (But Not for Posts)
 
-## Why Cedar Over Other Wood Species
+Cedar contains natural oils — specifically thujaplicin — that resist insects and fungal decay without chemical treatment. That translates to practical advantages:
 
-Cedar's reputation is not marketing. The wood contains natural oils — specifically thujaplicin — that resist insects and fungal decay without chemical treatment. That matters for a fence because:
+- **15–25 year lifespan** depending on climate and maintenance (vs. 10–15 for pressure-treated pine)
+- **Less warping and gapping** — cedar shrinks and swells less than most softwoods
+- **Warm reddish-brown tone** that weathers to silver-gray if left unfinished (both looks are genuinely attractive)
 
-- **Longevity:** A well-built cedar fence lasts 15 to 25 years depending on climate and maintenance. Pressure-treated pine lasts 10 to 15 years in similar conditions.
-- **Dimensional stability:** Cedar shrinks and swells less than most softwoods as moisture changes. That means fewer warped pickets and less gap development between boards over time.
-- **Appearance:** Fresh cedar has a warm reddish-brown tone that weathers to a silver-gray if left unfinished. Both looks have their fans, and both are genuinely attractive.
+The downside is purely cost: 40–70% more than pressure-treated for equivalent dimensions.
 
-The downside is purely financial. Cedar costs 40 to 70 percent more than pressure-treated lumber for equivalent dimensions. If budget is the primary constraint, pressure-treated pine with a quality stain is a respectable alternative. But if you are investing in a fence you want to look at for 20 years, cedar is worth the premium.
+But here's the counterintuitive part: **don't use cedar posts.** Cedar's natural decay resistance works above ground. Below grade — sitting in wet soil and concrete — pressure-treated Southern Yellow Pine or Douglas Fir posts outlast cedar posts by years. Every experienced fence builder uses cedar pickets on pressure-treated posts. Do the same.
 
-## Choosing the Right Cedar Grade
+## Cedar Grades
 
-Lumber yards carry multiple cedar grades, and picking the wrong one is an expensive mistake. Here is what you will actually encounter:
+Picking the wrong grade is an expensive mistake.
 
-**Western Red Cedar (the standard):** This is what "cedar fence" means in most of the US. It comes in several grades:
+- **Premium/Clear:** Tight grain, no knots, consistent color. $4–$7 per 1×6×6 picket. Beautiful but overkill for most fences.
+- **#2 or Standard:** Some knots, minor imperfections. $2.50–$4.50 per picket. The sweet spot. Knots don't affect structural integrity in fence pickets.
+- **#3 or Economy:** Larger knots, some wane (missing corners), more color variation. $1.50–$3 per picket. Fine for utility fencing or less-visible runs.
 
-- **Premium/Clear:** Tight grain, no knots, consistent color. Beautiful but expensive — $4 to $7 per picket for a 1x6x6. Overkill for most fences unless appearance is everything.
-- **#2 or Standard:** Some knots, minor imperfections. This is the sweet spot for most residential fences. $2.50 to $4.50 per picket. The knots do not affect structural integrity in fence pickets.
-- **#3 or Economy:** Larger knots, some wane (missing corners), more color variation. Fine for utility fencing or areas not highly visible. $1.50 to $3 per picket.
+## Material List: 150-Foot Privacy Fence
 
-**For posts, avoid cedar.** This sounds counterintuitive, but cedar posts — even 6x6 — do not hold up in ground contact as well as pressure-treated 4x4 or 4x6 posts. The natural decay resistance applies to above-ground exposure. Below grade, where the post sits in wet soil and concrete, pressure-treated Southern Yellow Pine or Douglas Fir posts outperform cedar. Use cedar pickets on pressure-treated posts. Every experienced fence builder I know does this.
+Standard 6-foot dog-ear picket construction:
 
-## Material Quantities for a 150-Foot Privacy Fence
+**Posts (pressure-treated 4×4×8'):** One every 8 feet. 20 posts at $12–$20 each = $240–$400
 
-Here is a shopping list based on standard 6-foot dog-ear picket construction:
+**Rails (cedar 2×4×8'):** Three per section (top, middle, bottom). 57 rails at $6–$10 each = $342–$570
 
-**Posts:** One post every 8 feet on center (some builders use 6 feet — more on that below). For 150 feet: 20 posts. Use 4x4x8' pressure-treated posts set 2 feet deep.  
-Cost: $12-$20 each = $240-$400
+**Pickets (cedar 1×6×6' dog-ear):** 17 per 8-foot section. 340 total (includes waste) at $2.50–$4.50 each = $850–$1,530
 
-**Rails:** Three horizontal 2x4 rails per section (top, middle, bottom). Each rail spans the 8-foot gap between posts. You need 57 rails for 19 sections.  
-Cost: $6-$10 each for cedar 2x4x8 = $342-$570
+**Concrete:** Two 50-lb bags per post. 40 bags at $4–$6 each = $160–$240
 
-**Pickets:** Standard 1x6x6 dog-ear pickets. At 5.5 inches actual width with a 1/4-inch gap between boards, you need roughly 17 pickets per 8-foot section. For 19 sections: 323 pickets (buy 340 for waste and defects).  
-Cost: $2.50-$4.50 each = $850-$1,530
+**Hardware:** Galvanized or stainless steel screws (not nails), rail hangers, gate hardware = $150–$300
 
-**Concrete:** Two bags of 50-lb premix per post hole. 40 bags total.  
-Cost: $4-$6 each = $160-$240
+**Total materials:** $1,742–$3,040
 
-**Hardware:** Galvanized or stainless steel screws (not nails — screws hold better as wood moves), post brackets or rail hangers, gate hardware.  
-Cost: $150-$300
-
-**Total materials:** $1,742-$3,040
-
-## Building the Fence: Key Decisions
+## Three Decisions That Determine Fence Quality
 
 ### Post Spacing: 8 Feet or 6 Feet?
 
-The standard is 8-foot post spacing with 8-foot rails. It is economical and looks fine on flat ground. But there are good reasons to go with 6-foot spacing:
+Standard is 8-foot spacing. But 6-foot spacing produces a noticeably stiffer fence with better wind resistance. At 8-foot spans, a strong lean visibly deflects the rails. At 6-foot spans, it barely moves.
 
-- The fence is noticeably stiffer. With 8-foot spans, a strong lean against the fence deflects the rails visibly. At 6-foot spans, it barely moves.
-- Wind resistance improves substantially. If you live in an area with regular 40+ mph winds, 8-foot spans are the weak point where fences fail.
-- You can use shorter, cheaper rail stock.
-
-The trade-off: more posts mean more holes and more concrete. For 150 feet at 6-foot spacing, you need 26 posts instead of 20. That is six more holes and 12 more bags of concrete. Worth it in my experience, especially for 6-foot-tall privacy fences that catch serious wind.
-
-### Rail Attachment Method
-
-**Face-mounted rails (nailed to the post face):** Simpler and faster. The rail sits against the front of the post and is secured with screws or hurricane ties. The pickets then attach to the rails. Downside: the rails are visible from the back side, and the connection can loosen over time as the wood moves.
-
-**Rail brackets/hangers:** Metal brackets mount to the post, and the rail drops into them. This sandwiches the rail between the posts and the pickets, creating a cleaner look from both sides. It also provides a stronger connection. This is the method I prefer, and the extra $2 to $3 per bracket is well spent.
-
-**Dado (routed) rails:** The post has a notch cut into it, and the rail sits in the notch. This is the strongest and cleanest-looking method but requires precise cutting and is impractical for DIY unless you have a router and a lot of patience.
+The trade-off: more posts (26 instead of 20 for 150 feet), more holes, more concrete. Worth it for 6-foot-tall privacy fences that catch serious wind.
 
 ### Three Rails, Not Two
 
-Some budget builders use only two horizontal rails — top and bottom. On a 6-foot fence, the middle of the pickets is unsupported across a 4-foot span. Within a year, the pickets cup and bow outward. A center rail prevents this entirely and costs maybe $200 extra on a 150-foot fence. Always use three rails for fences over 4 feet tall.
+Some budget builders use only two rails — top and bottom. On a 6-foot fence, the middle of each picket spans an unsupported 4 feet. Within a year, they cup and bow outward. A center rail prevents this entirely and costs roughly $200 extra on a 150-foot fence. Always use three rails for fences over 4 feet tall.
 
-## Finishing and Protecting Your Cedar Fence
+### Rail Attachment Method
 
-This is where most homeowners go wrong, and the decision you make here determines whether your fence looks great in ten years or needs replacement.
+**Face-mounted:** Simpler. Rails screw to the post face, pickets attach to rails. Downside: visible from the back side, connection loosens as wood moves.
 
-**Option 1: Let it weather naturally.** Cedar left unfinished turns silver-gray within 6 to 12 months. Some people love this look, and it requires zero maintenance. The wood is still protected by its natural oils — the color change is cosmetic, not structural. This is a legitimate, low-effort choice.
+**Rail brackets/hangers:** Metal brackets mount to the post, rail drops in. Sandwiches the rail between posts and pickets for a cleaner look and stronger connection. The extra $2–$3 per bracket is well spent.
 
-**Option 2: Apply a semi-transparent stain.** This preserves the natural wood grain while adding UV protection and water repellency. Apply within the first 3 to 6 months of installation (after the wood has dried enough to absorb the stain — test by sprinkling water on the surface; if it beads up, wait longer). Reapply every 2 to 3 years. Budget $100 to $200 in stain per application for 150 feet.
+**Dado (routed):** Post has a notch for the rail. Strongest and cleanest-looking but requires precise cutting. Impractical for most DIY builds.
 
-**Option 3: Apply a solid-color stain or paint.** Provides maximum UV and moisture protection but hides the wood grain entirely. Lasts 3 to 5 years between coats. This is the most maintenance-intensive option because peeling and flaking require scraping before recoating.
+## Finishing and Protection
 
-Whatever you choose, do NOT apply finish to green (freshly cut) cedar. The moisture content is too high for stain to penetrate. Wait until the wood has air-dried to below 20 percent moisture content, or use a moisture meter to check.
+**Option 1: Let it weather.** Cedar turns silver-gray within 6–12 months. Zero maintenance. The wood is still protected by natural oils — the color change is cosmetic. A legitimate low-effort choice.
 
-## DIY vs. Contractor: An Honest Comparison
+**Option 2: Semi-transparent stain.** Preserves wood grain while adding UV protection and water repellency. Apply within the first 3–6 months (after the wood dries enough to absorb — if water beads on the surface, wait longer). Reapply every 2–3 years. Budget $100–$200 per application for 150 feet.
 
-Having built cedar fences both ways — my own backyard by hand, and watching contractors do the same job — here is what tilts the decision:
+**Option 3: Solid stain or paint.** Maximum UV and moisture protection but hides the grain. Lasts 3–5 years between coats. Most maintenance-intensive because peeling requires scraping before recoating.
+
+Don't apply finish to green (freshly cut) cedar. Moisture content is too high for stain to penetrate. Wait until the wood air-dries below 20% moisture, or check with a moisture meter.
+
+## DIY vs. Contractor
 
 **DIY makes sense when:**
-- You have a flat or gently sloped yard
-- The fence run is under 200 feet
-- You have a helper for post setting and picket hanging
+- Flat or gently sloped yard
+- Under 200 feet of fence
+- You have a helper for post setting
 - You own or can borrow a miter saw and impact driver
-- You are comfortable digging 20+ post holes (or renting an auger)
+- You're willing to dig 20+ post holes (or rent an auger for $75–$150/half day)
 
-**Hire a contractor when:**
-- You have significant slope changes that require stepped or racked fence sections
-- The fence line involves removing an old fence first
-- You need the project done in under a week (a pro crew of 2-3 finishes 150 feet in 2-3 days)
+**Hire out when:**
+- Significant slope changes requiring stepped or racked sections
+- Old fence removal needed first
+- You need it done in under a week (pro crew of 2–3 finishes 150 feet in 2–3 days)
 - The fence line is near trees with major root systems
 
-When getting contractor quotes, ask specifically about post depth, concrete amount per post, rail attachment method, and whether they use stainless steel or galvanized fasteners. If you are also working on related outdoor projects, our guides on [privacy fence installation](/blog/privacy-fence-installation-costs-and-tips/) and [chain link fence options](/blog/chain-link-fence-installation-costs-and-tips/) can help you compare alternatives.
+When getting quotes, ask about post depth, concrete per post, rail attachment method, and whether they use stainless steel or galvanized fasteners — regular steel stains cedar black within a year from the tannin reaction.
 
-For structural best practices and post-to-rail connection specifications, [Simpson Strong-Tie](https://www.strongtie.com/) publishes detailed guides that are useful for both DIYers and for evaluating contractor methods.
+For related projects, our guides cover [privacy fence installation costs](/blog/privacy-fence-installation-costs-and-tips/) and [chain link alternatives](/blog/chain-link-fence-installation-costs-and-tips/). [Simpson Strong-Tie](https://www.strongtie.com/) publishes detailed post-to-rail connection specs useful for DIY and for evaluating contractors.
 
-## The Bottom Line on Cedar Fencing
-
-Cedar is not the cheapest fence material — it is the best value when you factor in lifespan, appearance, and maintenance burden. A well-built cedar privacy fence adds genuine curb appeal and [real property value](https://www.aarp.org/livable-communities/housing/), particularly in neighborhoods where wood fences are the norm.
-
-The decision between DIY and professional installation comes down to scale and complexity, not skill. The actual carpentry in fence building is straightforward — repetitive cuts, consistent spacing, plumb posts. What makes it hard is the sheer physical labor of digging holes and handling hundreds of boards in the sun. Be honest with yourself about that part, and the rest will fall into place.
+Cedar isn't the cheapest fence material — it's the best value when you factor in lifespan, appearance, and maintenance. A well-built cedar privacy fence adds real curb appeal and property value. The actual carpentry is straightforward and repetitive. What makes it hard is the sheer physical labor of digging holes and handling hundreds of boards. Be honest with yourself about that part, and the rest falls into place.
