@@ -1,5 +1,5 @@
 ---
-title: "Frozen Tankless Water Heater: A Practical Guide"
+title: "Frozen Tankless Heater? The $2,000 Mistake Most Owners Make"
 description: "A frozen tankless water heater can crack the heat exchanger — a $700–$2,000 repair. How to thaw it safely, prevent freeze damage, and know when to replace."
 author: daniel-ware
 category: plumbing-electrical
@@ -20,17 +20,17 @@ faq:
 draft: true
 ---
 
-A frozen tankless water heater can go from minor inconvenience to major expense in a matter of hours. Unlike tank heaters that hold 40 to 50 gallons of warm water with significant thermal mass, tankless units have narrow internal passages where water can freeze, expand, and crack the heat exchanger — the most expensive component in the unit. If the heat exchanger ruptures, you are looking at $500 to $1,500 for the part alone, often making replacement of the entire unit more cost-effective.
+A frozen tankless water heater can go from minor inconvenience to major expense in a matter of hours. Unlike tank heaters that hold 40 to 50 gallons of warm water with significant thermal mass, tankless units have narrow internal passages where water can freeze, expand, and crack the heat exchanger — the most expensive component in the unit. If the heat exchanger ruptures, you're looking at $500 to $1,500 for the part alone, often making replacement of the entire unit more cost-effective.
 
-The good news: most freeze damage is preventable with the right installation practices and emergency response. And if your unit is already frozen, acting quickly and correctly can limit the damage.
+The good news: most freeze damage is preventable with the right installation practices and emergency response. And if your unit is already frozen, acting quickly and correctly can limit the damage. Here's the full walkthrough from emergency thaw to long-term prevention.
 
 ## Why Tankless Heaters Freeze
 
-Tankless water heaters are vulnerable to freezing for specific engineering reasons that tank heaters do not share.
+Tankless water heaters are vulnerable to freezing for specific engineering reasons that tank heaters don't share.
 
 **Thin water passages.** The heat exchanger uses small-diameter copper or stainless steel tubes to maximize heat transfer surface area. These tubes hold a fraction of a gallon of water. When temperatures drop below freezing, this small volume of water freezes quickly — far faster than the 40+ gallons in a tank unit.
 
-**Exterior installation.** Many tankless units are installed on exterior walls or in uninsulated spaces (garages, crawlspaces) where they are directly exposed to freezing temperatures. While most quality units have built-in freeze protection that keeps the internal components warm, this protection has limits.
+**Exterior installation.** Many tankless units are installed on exterior walls or in uninsulated spaces (garages, crawlspaces) where they're directly exposed to freezing temperatures. While most quality units have built-in freeze protection that keeps the internal components warm, this protection has limits.
 
 **Power dependency.** Built-in freeze protection requires electrical power. During power outages — which often coincide with severe cold weather — the freeze protection stops working. This is the number one cause of tankless water heater freeze damage: a cold snap combined with a power outage.
 
@@ -38,7 +38,7 @@ Tankless water heaters are vulnerable to freezing for specific engineering reaso
 
 If you turn on a hot water tap and get nothing, or your tankless unit displays a freeze or flow error code, act quickly.
 
-### Step 1: Do NOT Force Hot Water Through the Unit
+### Step 1: Don't Force Hot Water Through the Unit
 
 Running the unit while ice is blocking the internal passages can damage the flow sensor, igniter, and heat exchanger. Leave the unit off.
 
@@ -48,25 +48,25 @@ Inspect the unit's exterior connections, the inlet and outlet pipes, and the con
 
 ### Step 3: Thaw Slowly
 
-If there is no visible damage, you can attempt a controlled thaw:
+If there's no visible damage, you can attempt a controlled thaw:
 
-- **For exterior units:** Point a space heater or heat lamp toward the unit (not touching it). Cover the unit with an insulating blanket or tarp to trap heat. Do not use an open flame or torch — tankless heaters contain gas components.
+- **For exterior units:** Point a space heater or heat lamp toward the unit (not touching it). Cover the unit with an insulating blanket or tarp to trap heat. Don't use an open flame or torch — tankless heaters contain gas components.
 - **For interior units in cold spaces:** Raise the ambient temperature of the room. A portable space heater in the garage or crawlspace works.
-- **For frozen pipes feeding the unit:** Apply heat to the pipes working from the faucet back toward the frozen section. A hair dryer or heat tape works. Never apply heat to a pipe that is visibly bulging — it has already cracked and will leak once thawed.
+- **For frozen pipes feeding the unit:** Apply heat to the pipes working from the faucet back toward the frozen section. A hair dryer or heat tape works. Never apply heat to a pipe that's visibly bulging — it has already cracked and will leak once thawed.
 
 ### Step 4: Test Carefully After Thawing
 
 Once the ambient temperature has been above freezing for several hours, slowly open a hot water faucet. If water flows normally and the unit fires without error codes, you may have gotten lucky. Run it for 10 to 15 minutes and check all connections for leaks.
 
-If the unit displays error codes, will not fire, or leaks from the heat exchanger, shut it off and call a qualified technician. Heat exchanger damage from freezing is generally not covered under warranty if the installation failed to meet the manufacturer's freeze protection requirements.
+If the unit displays error codes, won't fire, or leaks from the heat exchanger, shut it off and call a qualified technician. Heat exchanger damage from freezing is not covered under warranty if the installation failed to meet the manufacturer's freeze protection requirements.
 
-## Built-In Freeze Protection: What It Does and Does Not Cover
+## Built-In Freeze Protection: What It Does and Doesn't Cover
 
-Most tankless water heaters from major brands (Rinnai, Navien, Noritz, Rheem) include freeze protection that activates when internal temperatures approach freezing. Here is what you need to know:
+Most tankless water heaters from major brands (Rinnai, Navien, Noritz, Rheem) include freeze protection that activates when internal temperatures approach freezing. Here's what you need to know:
 
 **How it works.** A small heating element or the unit's burner fires periodically to keep internal components above freezing. Some units also circulate water through the heat exchanger in small bursts.
 
-**Temperature limits.** Built-in protection typically covers temperatures down to -4F to -22F, depending on the brand. Below those temperatures, or during prolonged cold snaps, the protection may not keep up.
+**Temperature limits.** Built-in protection covers temperatures down to -4°F to -22°F, depending on the brand. Below those temperatures, or during prolonged cold snaps, the protection may not keep up.
 
 **Power required.** Freeze protection needs electricity. No power means no protection. This single fact accounts for more freeze damage claims than any other cause.
 
@@ -100,30 +100,30 @@ A small uninterruptible power supply (UPS) keeps the unit's freeze protection ru
 
 ### Drain the Unit During Extended Absences
 
-If you are leaving the home during cold weather, drain the tankless unit according to the manufacturer's procedure. This typically involves closing the isolation valves, opening the hot and cold service ports, and letting the water drain into a bucket. On most units, this takes 5 to 10 minutes and completely eliminates freeze risk. Follow our guide on [shutting off water heaters properly](/blog/how-to-shut-off-water-heater-without-wrecking-anything/) for safe shutdown procedures.
+If you're leaving the home during cold weather, drain the tankless unit according to the manufacturer's procedure. This involves closing the isolation valves, opening the hot and cold service ports, and letting the water drain into a bucket. On most units, this takes 5 to 10 minutes and completely eliminates freeze risk. Follow our guide on [shutting off water heaters properly](/blog/how-to-shut-off-water-heater-without-wrecking-anything/) for safe shutdown procedures.
 
 ## Repair Costs After Freeze Damage
 
-If freeze damage has occurred, here is what you are looking at:
+If freeze damage has occurred, here's what you're looking at:
 
 | Component | Part Cost | Labor Cost | Total |
 |---|---|---|---|
-| Cracked pipe fitting | $5 - $30 | $100 - $200 | $105 - $230 |
-| Flow sensor | $30 - $80 | $100 - $200 | $130 - $280 |
-| Heat exchanger | $500 - $1,500 | $200 - $500 | $700 - $2,000 |
-| Circuit board (water damage) | $200 - $400 | $100 - $200 | $300 - $600 |
-| Full unit replacement | $800 - $2,500 | $500 - $1,500 | $1,300 - $4,000 |
+| Cracked pipe fitting | $5–$30 | $100–$200 | $105–$230 |
+| Flow sensor | $30–$80 | $100–$200 | $130–$280 |
+| Heat exchanger | $500–$1,500 | $200–$500 | $700–$2,000 |
+| Circuit board (water damage) | $200–$400 | $100–$200 | $300–$600 |
+| Full unit replacement | $800–$2,500 | $500–$1,500 | $1,300–$4,000 |
 
 When the heat exchanger cracks, the repair cost often approaches 50% to 75% of a new unit, making replacement the smarter financial choice — especially if the unit is over 5 years old.
 
 ## Insurance Coverage
 
-Homeowner's insurance generally covers water damage caused by a frozen pipe burst, but coverage for the tankless unit itself depends on your policy and whether the freeze resulted from a "sudden and accidental" event or from "lack of maintenance." Per [EPA guidelines on water conservation and infrastructure](https://www.epa.gov/watersense), maintaining heating equipment in proper working order is considered a homeowner responsibility.
+Homeowner's insurance covers water damage caused by a frozen pipe burst, but coverage for the tankless unit itself depends on your policy and whether the freeze resulted from a "sudden and accidental" event or from "lack of maintenance."
 
 If you file a claim, document everything: photos of the frozen unit, the ambient temperature at the time, any power outage records, and the technician's written assessment of the cause. If the freeze occurred despite proper installation and maintenance, your claim is stronger. If the unit was improperly installed for your climate zone or lacking recommended freeze protection, the insurer may deny the claim.
 
-The [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) includes provisions for protecting water heating equipment from freezing. Your installation should comply with these requirements, which your installer should know. If they did not follow code during installation and freeze damage results, you may have recourse against the installer.
+The [International Residential Code](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) includes provisions for protecting water heating equipment from freezing. Your installation should comply with these requirements, which your installer should know. If they didn't follow code during installation and freeze damage results, you may have recourse against the installer.
 
-## Bottom Line
+For related water heater issues, our guides on [water heater troubleshooting](/blog/water-heater-constantly-running-a-diyers-honest-take/) and [plumbing repair decisions](/blog/plumbing-pipe-repair-diy-or-call-a-pro/) cover adjacent problems that often surface during cold weather.
 
-Tankless water heaters and freezing temperatures are a bad combination, but the damage is almost entirely preventable. Proper installation location, pipe insulation, and a backup power strategy cover 95% of freeze scenarios. If you are already dealing with a frozen unit, thaw it slowly, check for damage before running it, and call a [professional plumber](/blog/plumbing-repair-diy-or-call-a-pro/) if anything looks off. The cost of prevention is measured in tens of dollars; the cost of a cracked heat exchanger is measured in thousands.
+Tankless water heaters and freezing temperatures are a bad combination, but the damage is almost entirely preventable. Proper installation location, pipe insulation, and a backup power strategy cover 95% of freeze scenarios. If you're already dealing with a frozen unit, thaw it slowly, check for damage before running it, and call a [professional plumber](/blog/plumbing-repair-diy-or-call-a-pro/) if anything looks off. The cost of prevention is measured in tens of dollars; the cost of a cracked heat exchanger is measured in thousands.

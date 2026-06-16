@@ -1,5 +1,5 @@
 ---
-title: "Hiring a Whole House Remodel Contractor: Red Flags and Tips"
+title: "Whole House Remodel Contractors: The $30K–$150K Hire"
 description: "Whole house remodels cost $100–$300 per square foot with a GC. How to vet candidates, structure the contract, and spot the red flags before signing."
 author: daniel-ware
 category: kitchen-bath-remodeling
@@ -15,12 +15,14 @@ faq:
     a: "If you're staying 10+ years and the home matches your needs after renovation, yes. If you're planning to sell within 3–5 years, a full gut renovation rarely returns its full cost. In that scenario, renovate existing spaces selectively — kitchens, bathrooms, and cosmetic upgrades deliver better dollar-for-dollar returns than structural changes."
   - q: "How do I verify a whole house remodel contractor's financial stability?"
     a: "Ask for a bank or financial reference, how many simultaneous projects they run, and whether they have a materials credit line. A contractor running 6+ residential projects at once is spread thin. Financial instability mid-project means subcontractors go unpaid and work stops — on your house."
-  - q: "How long does a whole house remodel typically take?"
+  - q: "How long does a whole house remodel take?"
     a: "A cosmetic whole-house refresh takes 2–4 months. A moderate remodel touching kitchens, bathrooms, and flooring takes 4–8 months. A full gut renovation with structural changes runs 8–14 months. Add 20% to any estimate as a realistic contingency — no whole house remodel in history has finished early."
 draft: true
 ---
 
-A whole house remodel is the most complex residential construction project you can take on, and the contractor you hire determines whether it finishes on budget and on time or spirals into a years-long nightmare. Whole house remodels run $100 to $300 per square foot with a general contractor managing the project, putting a typical 2,000-square-foot home at $200,000 to $600,000. The contractor's fee is 15% to 25% of that total, which means you are paying $30,000 to $150,000 for their management. That fee needs to earn itself every day.
+A whole house remodel is the most complex residential construction project you can take on, and the contractor you hire determines whether it finishes on budget and on time or spirals into a years-long nightmare. Whole house remodels run $100 to $300 per square foot with a general contractor managing the project, putting a typical 2,000-square-foot home at $200,000 to $600,000. The contractor's fee is 15% to 25% of that total, which means you're paying $30,000 to $150,000 for their management. That fee needs to earn itself every day.
+
+The decision comes down to three things: who to hire, how to structure the contract, and which warning signs to act on before you're locked in.
 
 ## What a Whole House Remodel Contractor Does
 
@@ -41,17 +43,17 @@ A whole house remodel GC (general contractor) is a project manager who coordinat
 - Budget tracking and change order management
 - Quality control across all trades
 
-The GC typically does not perform all of this work personally. They hire and coordinate subcontractors for each trade while maintaining responsibility for the project timeline, budget, and quality.
+The GC does not perform all of this work personally. They hire and coordinate subcontractors for each trade while maintaining responsibility for the project timeline, budget, and quality.
 
 ## Finding Qualified Contractors
 
 ### Where to Look
 
-**Architect referrals** are the most reliable source. If you are working with an architect (recommended for whole-house projects), they have contractors they have built with before and trust. These relationships are built on completed projects and are the strongest vetting available.
+**Architect referrals** are the most reliable source. If you're working with an architect (recommended for whole-house projects), they have contractors they've built with before and trust. These relationships are built on completed projects and are the strongest vetting available.
 
 **Trade organization directories.** The National Association of the Remodeling Industry (NARI) and the National Association of Home Builders (NAHB) remodelers council both maintain directories of members with verified credentials.
 
-**Previous project visits.** Ask any prospective contractor to let you visit a completed whole-house remodel. Walk through the finished home looking at fit, finish, and detail quality. If the contractor cannot show you a completed whole-house project, they may not have done one.
+**Previous project visits.** Ask any prospective contractor to let you visit a completed whole-house remodel. Walk through the finished home looking at fit, finish, and detail quality. If the contractor can't show you a completed whole-house project, they may not have done one.
 
 ### Where Not to Look
 
@@ -100,13 +102,13 @@ For context on what kitchen-specific portions of a whole house remodel involve, 
 
 ## Structuring the Contract
 
-A whole house remodel contract needs more detail than any other residential construction agreement.
+A whole house remodel contract needs more detail than any other residential construction agreement. The pricing model you choose shapes the entire financial relationship.
 
 ### Pricing Models
 
 **Fixed price:** The contractor gives you a total price for the defined scope. You know exactly what you owe. The risk is that the contractor builds a larger contingency into the price to protect themselves. Best when the scope is well-defined and unlikely to change significantly.
 
-**Cost-plus:** You pay the actual cost of materials and subcontractors plus a markup (typically 15% to 25%) for the contractor's overhead and profit. This is more transparent but means your final cost is unknown until the project is done. Best when the scope is uncertain or likely to evolve (common in older homes where hidden conditions are expected).
+**Cost-plus:** You pay the actual cost of materials and subcontractors plus a markup (15% to 25%) for the contractor's overhead and profit. This is more transparent but means your final cost is unknown until the project is done. Best when the scope is uncertain or likely to evolve (common in older homes where hidden conditions are expected).
 
 **Guaranteed maximum price (GMP):** A hybrid where you pay cost-plus up to a ceiling. If costs come in under the ceiling, savings are shared or returned to you. If costs exceed the ceiling, the contractor absorbs the overage. This balances transparency with budget certainty.
 
@@ -145,7 +147,7 @@ Look for contractors who use project management software (BuilderTrend, CoConstr
 
 ### Unwillingness to Phase the Work
 
-Smart remodel sequencing minimizes the period when your house is uninhabitable. A contractor who cannot articulate a phasing plan that allows you to live in part of the house during construction (or clearly defines when you need to move out and for how long) has not thought through the project logistics.
+Smart remodel sequencing minimizes the period when your house is uninhabitable. A contractor who can't articulate a phasing plan that allows you to live in part of the house during construction (or clearly defines when you need to move out and for how long) hasn't thought through the project logistics.
 
 ### Vague Allowances
 
@@ -176,7 +178,7 @@ If you move out:
 
 ## Timeline Expectations
 
-| Project Scope | Typical Duration |
+| Project Scope | Duration |
 |---------------|-----------------|
 | Cosmetic whole-house (paint, flooring, fixtures) | 2–4 months |
 | Moderate remodel (kitchen, bathrooms, flooring, paint) | 4–8 months |

@@ -80,7 +80,7 @@ export const siteConfig = {
 
   // ── Monetization ───────────────────────────────────────────────
   adsense: {
-    publisherId: "ca-pub-XXXXXXXXXXXXXXXX", // replace after approval
+    publisherId: "ca-pub-5270217345374675",
     slots: {
       inContent: "XXXXXXXXXX",
       sidebar: "XXXXXXXXXX",

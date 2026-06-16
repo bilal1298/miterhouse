@@ -1,6 +1,6 @@
 ---
-title: "Heat Pump Air Conditioner Repairs: A Homeowner's Guide"
-description: "A straightforward guide to heat pump air conditioner repair: what you can handle yourself and when to pick up the phone."
+title: "Heat Pump Won't Cool? A $5 Filter to a $3,000 Compressor"
+description: "Heat pump repairs range from a $5 filter change to a $3,000 compressor swap. Every common fix ranked by cost, with the DIY line clearly drawn."
 author: daniel-ware
 category: plumbing-electrical
 tags:
@@ -15,20 +15,20 @@ faq:
     a: "The general rule: if a repair costs more than half the price of a new system and the unit is over 10 years old, replacement is usually the better investment. Current replacement costs run $4,500 to $9,000 for a standard system, with federal tax credits and utility rebates potentially reducing the effective cost by $2,000 to $8,000."
   - q: "What heat pump maintenance can a homeowner do themselves?"
     a: "Replacing the air filter monthly, keeping the outdoor unit clear of debris, pouring a cup of white vinegar into the condensate drain every few months, and cleaning the condenser fins with a garden hose. These simple habits prevent the majority of service calls."
-  - q: "How long does a heat pump repair typically take?"
-    a: "Most diagnostic and repair visits take 1–3 hours. Refrigerant leak repair takes longer because the system must be evacuated, pressure-tested, repaired, and recharged. A refrigerant recharge alone typically takes 2–4 hours and requires a licensed HVAC technician."
+  - q: "How long does a heat pump repair take?"
+    a: "Most diagnostic and repair visits take 1–3 hours. Refrigerant leak repair takes longer because the system must be evacuated, pressure-tested, repaired, and recharged — a process that runs 2–4 hours and requires a licensed HVAC technician with EPA 608 certification."
 draft: true
 ---
 
 Heat pump air conditioner repairs range from simple filter changes you can do in five minutes to refrigerant-related problems that require a licensed HVAC technician and can cost $300 to $1,500 or more. Understanding which category your problem falls into saves you from overpaying for simple fixes or, worse, attempting repairs that require professional certification.
 
-This guide breaks down the most common heat pump issues, what they cost to fix, and the clear line between DIY-safe maintenance and work that requires a professional.
+Here's a walkthrough of the most common heat pump issues, from the cheapest fixes to the most expensive, with the clear line between what's safe to DIY and what needs a pro.
 
 ## How Heat Pumps Work (The Quick Version)
 
-A heat pump is essentially an air conditioner that can run in reverse. In cooling mode, it pulls heat from indoor air and dumps it outside. In heating mode, it reverses the process, extracting heat from outdoor air and moving it inside. This reversing capability means heat pumps have components that standard AC units do not — a reversing valve, a defrost cycle, and controls that manage the switchover.
+A heat pump is an air conditioner that can run in reverse. In cooling mode, it pulls heat from indoor air and dumps it outside. In heating mode, it reverses the process, extracting heat from outdoor air and moving it inside. This reversing capability means heat pumps have components that standard AC units don't — a reversing valve, a defrost cycle, and controls that manage the switchover.
 
-Understanding this helps you diagnose problems. If your system cools fine but heats poorly (or vice versa), you are likely looking at a reversing valve issue or a refrigerant charge problem, not a compressor failure.
+Understanding this helps you diagnose problems. If your system cools fine but heats poorly (or vice versa), you're likely looking at a reversing valve issue or a refrigerant charge problem, not a compressor failure.
 
 ## Common Heat Pump Problems and Repair Costs
 
@@ -36,7 +36,7 @@ Understanding this helps you diagnose problems. If your system cools fine but he
 
 **Likely causes:** Tripped breaker, blown fuse, thermostat malfunction, safety switch triggered.
 
-**DIY check:** Start at the electrical panel. Heat pumps typically run on a dedicated 240-volt breaker. If it has tripped, reset it once. If it trips again immediately, stop — there is an electrical fault that needs professional diagnosis. Also check the thermostat batteries and settings, and look for an outdoor disconnect switch that may have been turned off.
+**DIY check:** Start at the electrical panel. Heat pumps run on a dedicated 240-volt breaker. If it has tripped, reset it once. If it trips again immediately, stop — there's an electrical fault that needs professional diagnosis. Also check the thermostat batteries and settings, and look for an outdoor disconnect switch that may have been turned off.
 
 **Professional repair cost:** $100 to $350 for electrical diagnosis and repair. Thermostat replacement runs $150 to $350 including labor.
 
@@ -52,15 +52,15 @@ Understanding this helps you diagnose problems. If your system cools fine but he
 
 **Likely causes:** Dirty filter (the single most common cause), refrigerant issues, oversized or undersized system, failing compressor.
 
-**DIY check:** Replace or clean the air filter. A clogged filter restricts airflow so severely that the system cannot satisfy the thermostat and runs continuously. Check that supply vents are open throughout the house — closed vents create back pressure that mimics a system problem.
+**DIY check:** Replace or clean the air filter. A clogged filter restricts airflow so severely that the system can't satisfy the thermostat and runs continuously. Check that supply vents are open throughout the house — closed vents create back pressure that mimics a system problem.
 
-**Professional repair cost:** Beyond filter and vent checks, diagnosis typically costs $75 to $150 for the service call plus parts and labor for whatever is found.
+**Professional repair cost:** Beyond filter and vent checks, diagnosis costs $75 to $150 for the service call plus parts and labor for whatever is found.
 
 ### Ice on the Outdoor Unit (Winter)
 
 **Likely causes:** Failed defrost control, stuck reversing valve, low refrigerant, defrost thermostat failure.
 
-**DIY check:** A thin layer of frost on the outdoor coils during winter is normal — the defrost cycle handles it. A thick buildup of ice encasing the unit is not normal. Do not try to chip ice off with tools. You can run the system in emergency heat mode (which bypasses the heat pump and uses electric resistance strips) while waiting for a technician.
+**DIY check:** A thin layer of frost on the outdoor coils during winter is normal — the defrost cycle handles it. A thick buildup of ice encasing the unit is not normal. Don't try to chip ice off with tools. You can run the system in emergency heat mode (which bypasses the heat pump and uses electric resistance strips) while waiting for a technician.
 
 **Professional repair cost:** Defrost board replacement costs $150 to $400. Reversing valve replacement is $400 to $900.
 
@@ -68,7 +68,7 @@ Understanding this helps you diagnose problems. If your system cools fine but he
 
 **Likely causes:** Loose hardware, failing fan motor bearings, compressor issues, refrigerant line vibration.
 
-A grinding or screeching sound from the outdoor unit often points to fan motor bearings — this is a $200 to $500 repair that should not be delayed, because a seized motor can damage the compressor. A clicking sound during startup is normal (the contactor engaging). Constant clicking suggests a failing relay or control board.
+A grinding or screeching sound from the outdoor unit often points to fan motor bearings — this is a $200 to $500 repair that shouldn't be delayed, because a seized motor can damage the compressor. A clicking sound during startup is normal (the contactor engaging). Constant clicking suggests a failing relay or control board.
 
 ## What You Can Safely Do Yourself
 
@@ -80,15 +80,15 @@ These maintenance tasks keep your heat pump running efficiently and catch proble
 
 **Check the condensate drain.** Heat pumps produce condensation. The drain line can clog with algae, causing water to back up. Pouring a cup of white vinegar into the drain access every few months prevents this.
 
-**Listen and observe.** Pay attention to how your system sounds and performs when it is working correctly. Changes in sound, cycling patterns, or temperature output are early warnings.
+**Listen and observe.** Pay attention to how your system sounds and performs when it's working correctly. Changes in sound, cycling patterns, or temperature output are early warnings.
 
 **Clean supply and return vents.** Dust buildup on vents reduces airflow and makes the system work harder.
 
 ## What Requires a Licensed Professional
 
-Certain heat pump repairs are not just difficult for homeowners — they are illegal to attempt without certification:
+Certain heat pump repairs aren't just difficult for homeowners — they're illegal to attempt without certification:
 
-**Refrigerant work.** Under [EPA regulations](https://www.epa.gov/watersense), handling refrigerants requires EPA Section 608 certification. Refrigerants are controlled substances. A technician who opens the system, recovers, or adds refrigerant must be certified. No exceptions.
+**Refrigerant work.** Under [EPA regulations](https://www.epa.gov/section608), handling refrigerants requires EPA Section 608 certification. Refrigerants are controlled substances. A technician who opens the system, recovers, or adds refrigerant must be certified. No exceptions.
 
 **Electrical component replacement.** Contactors, capacitors, and control boards involve high-voltage electricity. Capacitors in particular can hold a lethal charge even after the system is powered off.
 
@@ -98,7 +98,7 @@ Certain heat pump repairs are not just difficult for homeowners — they are ill
 
 ## Annual Professional Maintenance
 
-Most HVAC companies offer maintenance plans that include one or two visits per year (spring for cooling season, fall for heating season). These visits typically cost $75 to $200 and include:
+Most HVAC companies offer maintenance plans that include one or two visits per year (spring for cooling season, fall for heating season). These visits cost $75 to $200 and include:
 
 - Refrigerant pressure check
 - Electrical connection tightening and testing
@@ -112,7 +112,7 @@ Is it worth it? In most cases, yes. A maintained heat pump lasts 15 to 20 years.
 
 ## Repair vs. Replace: The Decision Framework
 
-The general rule of thumb: if a repair costs more than half the price of a new system and your unit is over 10 years old, replacement is usually the better investment. New heat pumps are significantly more efficient than models from even 10 years ago, and the energy savings offset part of the replacement cost.
+The general rule: if a repair costs more than half the price of a new system and your unit is over 10 years old, replacement is the better investment. New heat pumps are significantly more efficient than models from even 10 years ago, and the energy savings offset part of the replacement cost.
 
 Current replacement costs for a complete heat pump system (equipment plus installation) range from $4,500 to $9,000 for a standard residential system. High-efficiency or variable-speed models can run $8,000 to $15,000.
 
@@ -124,4 +124,4 @@ A malfunctioning heat pump can cause secondary damage if ignored. Refrigerant le
 
 If you discover water damage from a heat pump failure, act quickly. Our [preventing water damage guide](/blog/preventing-water-damage-a-practical-guide/) covers immediate steps. For serious incidents, [finding water damage remediation contractors](/blog/finding-good-water-damage-remediation-contractors-near-you/) explains how to get qualified help.
 
-Building codes from the [International Code Council](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) govern HVAC installations and set minimum standards for safety and efficiency. When hiring contractors, verify they are familiar with current codes and will obtain necessary permits for major work. [OSHA safety standards](https://www.osha.gov/) also apply to HVAC work, particularly for refrigerant handling and electrical safety.
+Building codes from the [International Code Council](https://www.iccsafe.org/products-and-services/i-codes/2024-i-codes/irc/) govern HVAC installations and set minimum standards for safety and efficiency. When hiring contractors, verify they're familiar with current codes and will obtain necessary permits for major work.
