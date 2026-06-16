@@ -159,7 +159,10 @@ const encodedTitle = encodeURIComponent(title);
       </figcaption>
     </figure>
 
-    <!-- 4. Body grid: sticky ToC | Prose | (empty right col) -->
+    <!-- 4. Below-header ad -->
+    <AdSlot unit="display" />
+
+    <!-- 5. Body grid: sticky ToC | Prose | (empty right col) -->
     <div class="abody">
       {h2s.length > 2 && (
         <nav class="toc" aria-label="Table of contents">
@@ -175,8 +178,8 @@ const encodedTitle = encodeURIComponent(title);
       </div>
     </div>
 
-    <!-- 5. In-content ad slot -->
-    <AdSlot inline={true} />
+    <!-- 6. In-content ad -->
+    <AdSlot unit="inArticle" />
 
     <!-- 6. FAQ accordion -->
     {faq && faq.length > 0 && (
@@ -191,7 +194,10 @@ const encodedTitle = encodeURIComponent(title);
       </section>
     )}
 
-    <!-- 7. Tag pills -->
+    <!-- 8. After-FAQ ad -->
+    <AdSlot unit="inArticle" />
+
+    <!-- 9. Tag pills -->
     {tags.length > 0 && (
       <div class="tag-cloud" style="max-width:680px;margin:clamp(28px,4vw,44px) auto 0;">
         {tags.map((slug) => (
@@ -221,7 +227,12 @@ const encodedTitle = encodeURIComponent(title);
 
   </article>
 
-  <!-- 10. Keep reading (related posts) -->
+  <!-- 12. Multiplex ad before related posts -->
+  <div class="wrap">
+    <AdSlot unit="multiplex" />
+  </div>
+
+  <!-- 13. Keep reading (related posts) -->
   {related.length > 0 && (
     <div class="wrap">
       <div class="shead">

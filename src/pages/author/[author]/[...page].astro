@@ -2,6 +2,7 @@
 import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import PostCard from "../../../components/PostCard.astro";
+import AdSlot from "../../../components/AdSlot.astro";
 import Pagination from "../../../components/Pagination.astro";
 import JsonLd from "../../../components/JsonLd.astro";
 import { getSortedPosts, getAllAuthors } from "../../../utils/helpers";
@@ -74,6 +75,8 @@ const personJsonLd = {
       <h1>{authorData.name}</h1>
       <p style="max-width:52ch;margin-inline:auto;">{authorData.bio}</p>
     </section>
+
+    <AdSlot unit="display" />
 
     {page.data.length > 0 ? (
       <>

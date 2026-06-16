@@ -82,9 +82,9 @@ export const siteConfig = {
   adsense: {
     publisherId: "ca-pub-5270217345374675",
     slots: {
-      inContent: "XXXXXXXXXX",
-      sidebar: "XXXXXXXXXX",
-      belowHeader: "XXXXXXXXXX",
+      display: "9530585246",
+      inArticle: "7642788501",
+      multiplex: "2035238604",
     },
   },
 

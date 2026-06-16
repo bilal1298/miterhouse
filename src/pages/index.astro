@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
+import AdSlot from "../components/AdSlot.astro";
 import JsonLd from "../components/JsonLd.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
@@ -95,6 +96,7 @@ const webSiteJsonLd = {
   )}
 
   <div class="wrap">
+    <AdSlot unit="display" />
 
     <div class="shead">
       <h2>From the journal</h2>
@@ -136,6 +138,8 @@ const webSiteJsonLd = {
       </aside>
     </div>
 
+
+    <AdSlot unit="display" />
 
     {spotlights.map((s) => (
       <>

@@ -2,6 +2,7 @@
 import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import PostCard from "../../../components/PostCard.astro";
+import AdSlot from "../../../components/AdSlot.astro";
 import Pagination from "../../../components/Pagination.astro";
 import { getSortedPosts, getAllCategories } from "../../../utils/helpers";
 import { siteConfig } from "../../../../site.config";
@@ -39,6 +40,8 @@ const description = categoryDescription ||
         {totalPosts} {totalPosts === 1 ? "article" : "articles"}
       </p>
     </section>
+
+    <AdSlot unit="display" />
 
     {page.data.length > 0 ? (
       <div class="grid3">

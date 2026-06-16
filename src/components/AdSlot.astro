@@ -2,25 +2,26 @@
 import { siteConfig } from "../../site.config";
 
 interface Props {
-  inline?: boolean;
+  unit?: "display" | "inArticle" | "multiplex";
 }
-const { inline = false } = Astro.props;
+const { unit = "display" } = Astro.props;
 
 const pubId = siteConfig.adsense.publisherId;
-const slotId = siteConfig.adsense.slots.inContent;
-const isPlaceholder = pubId.includes("XXXX") || slotId.includes("XXXX");
+const slotId = siteConfig.adsense.slots[unit];
+const isActive = pubId && !pubId.includes("XXXX") && slotId && !slotId.includes("XXXX");
 ---
 
-{!isPlaceholder && (
-  <div class={`adslot${inline ? " inline" : ""}`}>
-    <div class="tag">Advertisement</div>
+{isActive && (
+  <div class="adslot">
+    <span class="ad-label">Advertisement</span>
     <ins
       class="adsbygoogle"
-      style="display:block"
+      style={unit === "inArticle" ? "display:block;text-align:center;" : "display:block"}
       data-ad-client={pubId}
       data-ad-slot={slotId}
-      data-ad-format="auto"
-      data-full-width-responsive="true"
+      {...(unit === "inArticle" ? { "data-ad-layout": "in-article", "data-ad-format": "fluid" } : {})}
+      {...(unit === "multiplex" ? { "data-ad-format": "autorelaxed" } : {})}
+      {...(unit === "display" ? { "data-ad-format": "auto", "data-full-width-responsive": "true" } : {})}
     />
     <script is:inline>
       (adsbygoogle = window.adsbygoogle || []).push({});

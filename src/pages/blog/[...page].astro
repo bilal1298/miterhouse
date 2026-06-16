@@ -2,6 +2,7 @@
 import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostCard from "../../components/PostCard.astro";
+import AdSlot from "../../components/AdSlot.astro";
 import Pagination from "../../components/Pagination.astro";
 import { getSortedPosts } from "../../utils/helpers";
 import { siteConfig } from "../../../site.config";
@@ -25,6 +26,8 @@ const { page } = Astro.props;
       <h1>{siteConfig.name} Journal</h1>
       <p>Every guide we've published, newest first.</p>
     </section>
+
+    <AdSlot unit="display" />
 
     {page.data.length > 0 ? (
       <div class="grid3">

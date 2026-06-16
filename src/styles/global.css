@@ -592,37 +592,20 @@ a.hero__grid {
    AD SLOT
    ============================================================ */
 .adslot {
-  border: 1px solid var(--line);
-  background: repeating-linear-gradient(
-    135deg,
-    transparent 0 18px,
-    rgba(187, 70, 38, .03) 18px 19px
-  );
   text-align: center;
-  padding: 30px 20px;
-  margin: clamp(36px, 6vw, 64px) 0;
-  border-radius: 2px;
+  padding: 12px 0;
+  margin: clamp(28px, 5vw, 48px) auto;
+  max-width: 728px;
 }
-.adslot .tag {
+.adslot .ad-label {
+  display: block;
   font-family: var(--label);
-  font-size: 9.5px;
+  font-size: 9px;
   letter-spacing: .28em;
   text-transform: uppercase;
   color: var(--muted);
+  margin-bottom: 8px;
 }
-.adslot .box {
-  margin-top: 14px;
-  height: 96px;
-  display: grid;
-  place-items: center;
-  color: var(--muted);
-  font-family: var(--label);
-  font-size: 12px;
-  letter-spacing: .1em;
-  border: 1px dashed var(--line);
-  border-radius: 2px;
-}
-.adslot.inline .box { height: 120px; max-width: 728px; margin: 14px auto 0; }
 
 /* ============================================================
    NEWSLETTER BAND
