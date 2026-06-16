@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - cost-guide
-date: 2026-06-04
+date: 2026-06-16
 hero_image: /images/posts/low-flooring-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Peel-and-stick vinyl needs only a utility knife and straightedge. Click-lock laminate and LVP add a tapping block, pull bar, and spacers — no saw needed for most straight cuts. Sheet vinyl is the most tool-intensive, requiring a floor roller and sharp knife for the perimeter cuts around toilets and cabinets."
   - q: "How long does a budget flooring project take?"
     a: "A 200-square-foot room with click-lock LVP or laminate is a realistic weekend project. Friday evening for prep and old carpet removal, Saturday morning for subfloor fixes (leveling compound needs 4–6 hours to cure), Saturday afternoon and Sunday morning for installation, Sunday afternoon for trim and transitions."
-draft: true
+draft: false
 ---
 
 You can install new flooring for as little as $1.50 to $4 per square foot if you choose the right material and handle installation yourself. That puts a 200-square-foot room at $300 to $800 — a fraction of what premium hardwood or tile would cost. The key is knowing which budget-friendly materials actually hold up and which ones you'll regret in two years.
