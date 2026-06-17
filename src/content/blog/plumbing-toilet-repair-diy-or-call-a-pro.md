@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - home-repair
-date: 2026-06-15
+date: 2026-06-17
 hero_image: /images/posts/plumbing-toilet-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "An adjustable wrench, tongue-and-groove pliers, a hacksaw, a putty knife for the old wax ring, a level, a bucket and towels for residual water, and Teflon tape. A toilet-specific wax ring or wax-free seal completes the kit."
   - q: "When should I replace a toilet instead of repairing it?"
     a: "Replace when the bowl or tank is cracked, when the toilet requires frequent repairs, or when you have a pre-1994 model using 3.5+ gallons per flush. Modern toilets use 1.28 gallons per flush and the water savings pay for the new toilet within a few years."
-draft: true
+draft: false
 ---
 
 Most toilet repairs cost between $10 and $50 in parts and take 30 minutes to an hour if you do them yourself. Hiring a plumber for the same repairs runs $150 to $350 including the service call. The decision between DIY and professional help depends on what specifically is wrong, how comfortable you are working with water supply lines, and whether the problem is actually the toilet or something deeper in the plumbing system.
