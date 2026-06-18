@@ -7,7 +7,7 @@ tags:
   - installation
   - tile-installation
   - flooring
-date: 2026-06-05
+date: 2026-06-18
 hero_image: /images/posts/bad-flooring-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Laminate and LVP repairs need a pull bar, tapping block, and utility knife. Tile repairs need a grout saw, cold chisel, and notched trowel. Subfloor prep may require a belt sander or floor grinder to level high spots before anything new goes down."
   - q: "How long does a flooring tear-out and reinstall take?"
     a: "A 200-square-foot laminate or LVP redo takes one weekend — demo Saturday, install Sunday. Tile is slower: demo, subfloor prep, setting, and grouting spread over 5–7 days with cure time between stages."
-draft: true
+draft: false
 ---
 
 A bad flooring installation will cost you $1,500 to $8,000 to fix — often more than the original job. You're now paying for removal, disposal, potential subfloor repair, and reinstallation. But the real decision isn't whether the floor is perfect. It's whether the problems will get worse.
