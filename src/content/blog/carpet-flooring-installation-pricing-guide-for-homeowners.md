@@ -7,7 +7,7 @@ tags:
   - installation
   - flooring
   - cost-guide
-date: 2026-06-03
+date: 2026-06-19
 hero_image: /images/posts/carpet-flooring-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a room with new carpet being stretched using a carpet stretcher and knee kicker, with the carpet padding visible at the edges and tack strips along the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "A power stretcher (not just a knee kicker — under-stretched carpet ripples within months), wall trimmer, tack strips, seam iron and tape for joining rolls, and a sharp utility knife. Rent the power stretcher for $30–$50/day rather than buying."
   - q: "How long does carpet installation take for a bedroom?"
     a: "A pro installs a standard 12×12 bedroom in 2–3 hours including furniture moving. For a first-timer, plan a full day — tack strips, padding, cutting, and stretching take longer than they look on video. Rooms with stairs or complex shapes are substantially slower."
-draft: true
+draft: false
 ---
 
 Carpet installation runs $3.50 to $11 per square foot fully installed, with most homeowners spending $700–$2,500 for a standard bedroom or living room. The number swings based on carpet grade, padding quality, and how much subfloor work the room needs before anything gets tacked down.
