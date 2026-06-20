@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - installation
   - basement-finishing
-date: 2026-09-11
+date: 2026-06-20
 hero_image: /images/posts/concrete-foundation-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Only for small projects: shed slabs under 200 sq ft, patio pads, and deck piers in non-clay soil. A full house foundation, stem walls, or anything requiring engineered soil reports is professional territory. The 40–50% labor savings on a small slab are real, but foundation errors are permanent and expensive to fix."
   - q: "How long does concrete need to cure before you build on it?"
     a: "Concrete reaches about 70% of design strength at 7 days and full strength at 28 days. Don't load a foundation with structure weight for at least 7 days (ideally 14), and don't drive on a garage slab for 28 days. Keep the surface moist for the first 7 days — concrete that dries too fast develops surface cracks and reduced strength."
-draft: true
+draft: false
 ---
 
 The most expensive foundation failures don't start with bad concrete or a bad contractor. They start with soil that wasn't compacted properly underneath.
