@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-06-25
+date: 2026-06-21
 hero_image: /images/posts/window-company-replacement-full-planning-guide.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Make sure each quote specifies the same things: window brand and model, glass package (double or triple-pane, Low-E coating, argon fill), installation method (insert vs. full-frame), whether trim work and haul-away are included, and the warranty terms for both product and labor. Cheap quotes often exclude items others include — compare total scope, not just the number."
   - q: "What's the biggest red flag when choosing a window company?"
     a: "Same-day pricing pressure — 'this price is only good today.' Legitimate window companies do not change their quote because you want to sleep on it. If the discount disappears when you ask to think it over, the original price was inflated and the 'discount' was manufactured. Walk away and compare against companies that give you time."
-draft: true
+draft: false
 ---
 
 Choosing a window replacement company is a decision that affects your home's comfort, energy efficiency, and appearance for the next 20 to 30 years. The average cost to replace a single window runs $300 to $1,200 installed, depending on window type, size, and the company you hire. For a whole-house project (15 to 20 windows), expect $6,000 to $20,000 total.
