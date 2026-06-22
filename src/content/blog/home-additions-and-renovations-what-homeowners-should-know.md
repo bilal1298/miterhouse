@@ -7,7 +7,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - home-improvement
-date: 2026-08-23
+date: 2026-06-22
 hero_image: /images/posts/home-additions-and-renovations-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Demolition, debris hauling, and finishing work like painting are DIY-friendly. Structural framing, plumbing rough-in, electrical, and mechanical work all require licensed professionals and permitted inspections. Trying to shortcut those trades on an addition is how projects end up with serious code violations that surface at resale."
   - q: "How long does a room addition take from permits to completion?"
     a: "Permit review takes 2–6 weeks depending on your jurisdiction's backlog. Construction runs 8–16 weeks for a standard room addition. Factor in architectural drawings and structural engineering before permit submission — that adds another 2–4 weeks upfront before a shovel touches the ground."
-draft: true
+draft: false
 ---
 
 The most expensive mistake in home improvement isn't a bad contractor or cheap materials — it's building an addition when a renovation would have solved the problem at one-third the cost. A home addition costs $100 to $300 per square foot, putting a 200-square-foot room addition at $20,000 to $60,000. An interior renovation of existing space costs $30 to $100 per square foot because the shell already exists.
