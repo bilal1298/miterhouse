@@ -9,7 +9,7 @@ tags:
   - flooring
   - installation
   - cost-guide
-date: 2026-06-07
+date: 2026-06-23
 hero_image: /images/posts/laminate-flooring-installation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "You need a tape measure, T-square or straight edge, miter or circular saw for crosscuts, jigsaw for notches around pipes and door frames, a tapping block and pull bar (sold together for $15–$25), and 1/4-inch spacers. An oscillating tool for undercutting door casings is the one specialty tool worth renting. Total tool cost if starting from scratch: $50 to $150."
   - q: "What's the most common mistake to avoid?"
     a: "Getting the first row wrong and discovering it three rows later. An out-of-square first row compounds across the room — by the far wall, the planks may be visibly angled. Don't trust the wall to be straight; snap a chalk line for your true reference. Fixing a misaligned row mid-installation means disassembling everything you've already laid."
-draft: true
+draft: false
 ---
 
 Laminate flooring installation costs average $3 to $8 per square foot all-in, covering materials, underlayment, and labor. For a concrete number: a 250-square-foot family room with mid-grade laminate installed by a pro runs $1,250 to $2,000. Do it yourself, and you can cut that to $625 to $1,100 — laminate is the most DIY-friendly flooring material available.
