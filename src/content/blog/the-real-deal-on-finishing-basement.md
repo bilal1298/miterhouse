@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - basement
-date: 2026-06-22
+date: 2026-06-24
 hero_image: /images/posts/the-real-deal-on-finishing-basement.webp
 hero_image_prompt: "A photorealistic photograph of a basement being finished with metal stud framing going up, fiberglass insulation batts between some studs, recessed lighting cans visible in the ceiling joists above, and a level leaning against the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Most of the individual tasks are learnable: framing, insulation, hanging drywall, and flooring are all within reach of a patient first-timer. The electrical rough-in is where most people draw the line — either learn it from a quality reference and have it inspected, or hire that portion out. The project sequence is strict (see the work order in this guide), and the penalty for skipping steps — particularly moisture assessment and permits — is expensive. If you follow the sequence and do not rush, a capable DIYer can finish a basement successfully."
   - q: "How long should I expect this project to take?"
     a: "An 8-phase sequence is outlined in this guide: from moisture and radon assessment through final inspections. Working weekends and evenings, a DIYer tackling a 500–700 sq ft basement typically takes 3–5 months. The permit and inspection timeline varies by municipality — framing, electrical rough-in, plumbing rough-in, and HVAC each need separate inspections before walls close. A contractor doing the same scope professionally takes 4–8 weeks."
-draft: true
+draft: false
 ---
 
 Finishing a basement is the single most cost-effective way to add livable square footage to your home. You already own the footprint, the walls, and the roof above it. Converting that raw concrete box into usable space costs $25 to $50 per square foot -- compared to $100 to $200 per square foot for a room addition. But the project has specific challenges that above-grade construction does not, and ignoring them leads to expensive failures.
