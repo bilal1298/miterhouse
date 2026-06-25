@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - cost-guide
-date: 2026-06-05
+date: 2026-06-25
 hero_image: /images/posts/floating-flooring-installation-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A miter saw or circular saw, a jigsaw for door jamb cuts, a tapping block and rubber mallet, a pull bar for the last row, 1/4-inch spacers, and a tape measure. Total tool investment runs $100–$250 from scratch. A saw rental saves money if you only have one room."
   - q: "What's the most common DIY floating floor mistake?"
     a: "Skipping the acclimation period — installing straight from the box in a cold garage. Temperature and humidity cause the material to expand or contract after installation, leading to buckled floors in summer or visible gaps in winter. Let the flooring sit in the room for 24–48 hours before installation."
-draft: true
+draft: false
 ---
 
 Floating flooring installation costs between $3 and $10 per square foot including materials and labor in 2026. For a standard 250-square-foot living room, that works out to $750 to $2,500 depending on the material you choose and whether you hire a pro or handle it yourself. Floating floors are among the most DIY-friendly flooring options available, which means significant labor savings are realistic for most homeowners.
