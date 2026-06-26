@@ -7,7 +7,7 @@ tags:
   - laminate-flooring
   - tile-installation
   - flooring
-date: 2026-09-18
+date: 2026-06-26
 hero_image: /images/posts/moisture-damage-laminate-flooring-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "If the room has any moisture exposure — near a dishwasher, bathroom, exterior door, or on a concrete slab — switch to waterproof LVP. The installed cost is similar, but LVP's plastic core handles moisture that destroys laminate's fiberboard core. For bedrooms and dry living areas, new mid-range laminate is still a solid choice."
   - q: "How long does a laminate replacement project take?"
     a: "The moisture source investigation and repair may take longer than the flooring work itself. Once that's resolved, replacing a 200-square-foot room takes 1 to 2 days: subfloor drying and prep, then installation. If the damage is mid-room and you're doing individual plank replacement rather than a full room tearout, add time for the row-by-row disassembly to reach the affected planks."
-draft: true
+draft: false
 ---
 
 Moisture-damaged laminate flooring cannot be repaired — it must be replaced. Once water reaches the fiberboard core of laminate planks, they swell, warp, and delaminate permanently. Replacing moisture-damaged laminate costs $3 to $10 per square foot for materials and installation, but the real expense is often the detective work: finding and fixing the moisture source before you lay down new flooring that will suffer the same fate.
