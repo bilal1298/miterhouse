@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - vinyl-flooring
-date: 2026-09-19
+date: 2026-06-27
 hero_image: /images/posts/vinyl-flooring-removal-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Click-lock LVP is the easiest DIY flooring removal there is — 30 to 60 minutes for a typical room, no tools beyond a pry bar. Full-spread glue-down sheet vinyl with old yellow adhesive is a completely different story: plan 4–8 hours per 100 square feet and budget for a rental floor scraper machine."
   - q: "How long does vinyl flooring removal take?"
     a: "Click-lock or peel-and-stick: 1–2 hours per room. Loose-lay sheet vinyl: 1–3 hours. Full-spread adhesive-bonded vinyl: 4–8 hours per 100 square feet. The adhesive removal is always the most time-consuming part — don't underestimate it when planning your timeline."
-draft: true
+draft: false
 ---
 
 Vinyl flooring removal costs $1 to $4 per square foot when done by a professional, or essentially free (minus your time and a few tool rentals) as a DIY project. A 200-square-foot kitchen runs $200 to $800 for professional removal, plus disposal fees of $50 to $150. The catch — and it is a significant one — is that vinyl installed before the mid-1980s may contain asbestos, which changes the entire cost equation to $5 to $20 per square foot for certified abatement.
