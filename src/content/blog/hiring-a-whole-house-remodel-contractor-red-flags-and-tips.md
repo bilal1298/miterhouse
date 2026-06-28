@@ -7,7 +7,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - home-improvement
-date: 2026-08-13
+date: 2026-06-28
 hero_image: /images/posts/hiring-a-whole-house-remodel-contractor-red-flags-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of bathroom fixtures laid out on a clean countertop including a brushed nickel faucet, handles, a towel bar, and mounting hardware, with installation instructions visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Ask for a bank or financial reference, how many simultaneous projects they run, and whether they have a materials credit line. A contractor running 6+ residential projects at once is spread thin. Financial instability mid-project means subcontractors go unpaid and work stops — on your house."
   - q: "How long does a whole house remodel take?"
     a: "A cosmetic whole-house refresh takes 2–4 months. A moderate remodel touching kitchens, bathrooms, and flooring takes 4–8 months. A full gut renovation with structural changes runs 8–14 months. Add 20% to any estimate as a realistic contingency — no whole house remodel in history has finished early."
-draft: true
+draft: false
 ---
 
 A whole house remodel is the most complex residential construction project you can take on, and the contractor you hire determines whether it finishes on budget and on time or spirals into a years-long nightmare. Whole house remodels run $100 to $300 per square foot with a general contractor managing the project, putting a typical 2,000-square-foot home at $200,000 to $600,000. The contractor's fee is 15% to 25% of that total, which means you're paying $30,000 to $150,000 for their management. That fee needs to earn itself every day.
