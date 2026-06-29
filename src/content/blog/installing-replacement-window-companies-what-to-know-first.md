@@ -8,7 +8,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-06-26
+date: 2026-06-29
 hero_image: /images/posts/installing-replacement-window-companies-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Most companies handle permit applications as part of their service when permits are required. Same-size replacement windows rarely need permits, but changing opening sizes or adding new windows typically does. Ask about this during the quoting process."
   - q: "How long does a full house window replacement take?"
     a: "Professional crews typically replace 8-15 windows per day depending on the installation method and accessibility. A 20-window house is usually completed in 2-3 days. Custom or oversized windows take longer."
-draft: true
+draft: false
 ---
 
 Replacement window installation companies range from national brands with billion-dollar marketing budgets to two-person local outfits working from a van. Both ends of that spectrum can deliver quality work, and both can leave you with problems. The difference is knowing how to evaluate them before signing anything.
