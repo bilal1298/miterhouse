@@ -8,7 +8,7 @@ tags:
   - insulation
   - basement-finishing
   - cost-guide
-date: 2026-07-31
+date: 2026-07-01
 hero_image: /images/posts/blown-in-insulation-per-square-foot-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of an attic being insulated with blown-in cellulose insulation being applied between ceiling joists using a hose, the worker wearing a respirator and safety goggles, with kraft-faced batts visible on the walls. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Yes — Home Depot and Lowe's loan blowing machines free when you buy 20+ bags. You need a helper to feed the hopper. The step people skip: install soffit baffles at every rafter bay before blowing. Blocking soffits with insulation causes ice dams and moisture damage."
   - q: "What should you do before adding blown-in insulation?"
     a: "Air seal all penetrations through the attic floor — plumbing pipes, wiring, recessed lights, and the attic hatch. Sealing before insulating improves energy savings by 25% or more compared to insulating over unaddressed air leaks."
-draft: true
+draft: false
 ---
 
 Blown-in insulation runs $1.00 to $3.00 per square foot installed in 2026 — cellulose at the lower end ($1.00–$2.50) and fiberglass at the higher end ($1.25–$3.00). For DIY, materials alone cost $0.50–$1.25 per square foot. On a 1,200-square-foot attic, that's $600–$1,500 DIY or $1,200–$3,600 professionally installed.
