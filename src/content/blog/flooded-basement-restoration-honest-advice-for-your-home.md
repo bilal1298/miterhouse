@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - basement
-date: 2026-06-23
+date: 2026-07-02
 hero_image: /images/posts/flooded-basement-restoration-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a bright, freshly finished basement living space with luxury vinyl plank flooring, recessed lighting, light gray walls, and a mini kitchenette in the background. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "For clean water and moderate damage dried within 48 hours, yes — a submersible pump, rental dehumidifier, and fans handle it. Category 3 contaminated water (sewage, river flooding), visible mold, or damage to electrical systems require professional help regardless of your skill level."
   - q: "How long does flooded basement restoration take?"
     a: "Emergency response and water extraction take hours. Structural drying requires 3–7 days of continuous airflow before materials reach safe moisture levels. Rebuilding a finished basement — new drywall, flooring, paint, and trim — takes another 2–4 weeks and costs $7,000–$22,000 depending on scope."
-draft: true
+draft: false
 ---
 
 A flooded basement creates a situation where the decisions you make in the first 24 to 48 hours determine whether restoration costs $2,000 or $20,000. The immediate priority is removing water and starting the drying process. Everything else — restoration, repairs, preventing future floods — comes after the space is dry.
