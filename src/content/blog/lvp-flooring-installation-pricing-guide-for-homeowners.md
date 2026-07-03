@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - cost-guide
-date: 2026-06-09
+date: 2026-07-03
 hero_image: /images/posts/lvp-flooring-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A sharp utility knife with extra blades, metal straightedge, tapping block, pull bar, 1/4-inch spacers, and a rubber mallet handle most cuts — no saw needed for most rigid-core products. An oscillating tool for undercutting door casings is the one specialty tool worth renting if you don't own one."
   - q: "How long should I expect a DIY LVP installation to take?"
     a: "A 200-square-foot room takes 5 to 7 hours for a first-timer including prep. By your second room you'll work considerably faster as the click technique and cutting approach become routine. A 1,200-square-foot whole-house installation typically takes 2 to 3 weekends."
-draft: true
+draft: false
 ---
 
 LVP flooring installation costs $3.50 to $8 per square foot for a complete professional job including materials, underlayment, and labor. A typical 250-square-foot room runs $875 to $2,000 all-in. Do the installation yourself and you'll spend $2 to $5 per square foot — just materials and supplies — saving $375 to $750 per room. LVP (luxury vinyl plank) is the most installed residential flooring type in the country right now, and the pricing reflects both its popularity and the competitive market.
