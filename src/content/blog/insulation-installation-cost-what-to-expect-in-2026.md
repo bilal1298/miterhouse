@@ -9,7 +9,7 @@ tags:
   - insulation
   - installation
   - cost-guide
-date: 2026-07-30
+date: 2026-07-04
 hero_image: /images/posts/insulation-installation-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of an attic being insulated with blown-in cellulose insulation being applied between ceiling joists using a hose, the worker wearing a respirator and safety goggles, with kraft-faced batts visible on the walls. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "Blown-in cellulose and fiberglass require a blowing machine — rental is available for free or low cost at some home centers when you buy insulation bags from them. Batt insulation needs only a utility knife, straightedge, stapler, and protective gear including an N95 respirator, safety glasses, and gloves."
   - q: "What's the most common mistake to avoid?"
     a: "Insulating before air sealing is the number-one efficiency mistake. Air leaks around recessed lights, top plates, and penetrations let conditioned air escape regardless of R-value. Air sealing bundled with insulation maximizes energy savings — and many contractors offer discounted rates when both are done together."
-draft: true
+draft: false
 ---
 
 Insulation installation costs in 2026 range from $1,500 to $5,000 for a standard attic project and $3,000 to $12,000 for whole-house insulation upgrades. Prices have increased modestly (3% to 8%) over the past two years, driven primarily by labor costs rather than material prices. The good news: federal tax credits and utility rebates are more generous than ever, potentially covering 30% or more of your project cost.
