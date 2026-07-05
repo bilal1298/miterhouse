@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - tile
-date: 2026-08-04
+date: 2026-07-05
 hero_image: /images/posts/fireplace-tile-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A wet tile saw with a diamond blade, a 1/4-inch notched trowel, tile spacers, a rubber grout float, and a level. For curved or hearth cuts, a jigsaw with a tile blade helps. Total tool investment runs $100–$200 if starting from scratch."
   - q: "What's the most common fireplace tile mistake?"
     a: "Using standard mastic adhesive instead of heat-rated thinset mortar. Mastic fails when the surround gets warm, causing tiles to detach months after installation. Always use a thinset rated for high-temperature applications near a fireplace."
-draft: true
+draft: false
 ---
 
 Tiling a fireplace surround costs $800 to $3,500 for a standard-size fireplace, depending on tile material, surround complexity, and whether you hire a pro or handle it yourself. This project ranks among the most visually impactful upgrades you can make to a living room, and it's well within reach for a confident DIYer willing to invest a weekend of careful work.
