@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-06-27
+date: 2026-07-06
 hero_image: /images/posts/window-deltona-replacement-full-planning-guide.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Deltona is in Volusia County, which is in the wind-borne debris region of the Florida Building Code. New or replacement windows must meet impact resistance standards or be protected by approved shutters. Most homeowners choose impact-rated windows for convenience over maintaining separate shutters."
   - q: "How much do impact windows cost in Deltona?"
     a: "Impact-rated windows in Deltona typically cost $500-$1,200 per window installed, depending on size and type. A full-house project (15-20 windows) runs $8,000-$20,000. Non-impact windows are cheaper but require approved shutters, which add their own cost."
-draft: true
+draft: false
 ---
 
 Window replacement in Deltona, Florida presents a specific set of considerations that differ from most of the country. Located in Volusia County within central Florida's hurricane zone, Deltona homeowners need to navigate impact window requirements, the Florida Building Code, and a contractor market shaped by storm season demand cycles. A typical whole-house window replacement in Deltona runs $8,000 to $22,000, with impact-rated windows accounting for the higher end of that range.
