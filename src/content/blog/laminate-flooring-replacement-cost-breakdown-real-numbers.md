@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - cost-guide
-date: 2026-09-19
+date: 2026-07-07
 hero_image: /images/posts/laminate-flooring-replacement-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "You need a tape measure, T-square or straight edge, miter or circular saw for crosscuts, jigsaw for notches around pipes and door frames, tapping block and pull bar (usually sold together for $15–$25), spacers, and safety glasses. Knee pads save you real discomfort on a multi-room project."
   - q: "What's the most common mistake to avoid?"
     a: "Installing over a moisture problem and calling it done. If laminate failed due to swelling or delamination, the moisture source — a slow plumbing leak, concrete slab vapor, or high ambient humidity — is still present. Installing new flooring over an unresolved moisture problem guarantees the same failure in a shorter timeframe."
-draft: true
+draft: false
 ---
 
 Replacing laminate flooring costs $3 to $8 per square foot for materials and $2 to $5 per square foot for professional installation, putting a typical 300-square-foot room at $1,500 to $3,900 all-in. That range swings based on the quality of laminate you choose, the condition of your subfloor, how much demolition is involved, and whether you tackle the installation yourself or hire it out.
