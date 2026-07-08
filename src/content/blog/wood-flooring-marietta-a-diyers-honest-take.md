@@ -7,7 +7,7 @@ tags:
   - tile-installation
   - flooring
   - home-improvement
-date: 2026-08-05
+date: 2026-07-08
 hero_image: /images/posts/wood-flooring-marietta-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Floating click-lock engineered hardwood is beginner-friendly and the right product choice for Marietta's slab-on-grade homes anyway — no nailing to concrete required. Nail-down solid hardwood over plywood is harder and benefits from renting a pneumatic flooring nailer rather than hand-nailing. Either way, acclimate the material for 5–7 days with your HVAC running before you start — skip this step in summer and you will get gaps when the AC dehumidifies."
   - q: "How long does wood flooring installation take in Marietta?"
     a: "A professional installs 200–300 square feet per day. A careful beginner doing floating installation should plan on a full day for a standard 200-square-foot room. Add 1–2 hours for subfloor prep (moisture testing, leveling, vapor barrier) before any boards go down."
-draft: true
+draft: false
 ---
 
 Wood flooring in the Marietta, Georgia area runs $6 to $14 per square foot installed for engineered hardwood, $8 to $18 for solid hardwood, and $3 to $7 for high-quality laminate that mimics real wood. Marietta's humid subtropical climate and the age of many homes in the area create specific considerations that generic flooring guides tend to skip.
