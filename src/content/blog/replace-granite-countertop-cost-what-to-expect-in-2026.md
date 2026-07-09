@@ -8,7 +8,7 @@ tags:
   - countertops
   - kitchen-remodel
   - cost-guide
-date: 2026-08-30
+date: 2026-07-09
 hero_image: /images/posts/replace-granite-countertop-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of bathroom fixtures laid out on a clean countertop including a brushed nickel faucet, handles, a towel bar, and mounting hardware, with installation instructions visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Often yes — if your sink is in good shape and the new countertop cutout dimensions match, reusing it saves $200–$600. Confirm this during templating, not on installation day. The plumber still needs to disconnect and reconnect ($150–$250), but you skip the sink purchase entirely."
   - q: "What's the most common mistake to avoid?"
     a: "Choosing your new slab from a small sample chip rather than visiting the slab yard. Granite has significant natural variation — two slabs of the same name can look completely different. Visit in person, see the actual slab you are buying in full daylight, and have the fabricator mark the sections to be cut before you leave."
-draft: true
+draft: false
 ---
 
 Replacing an existing granite countertop costs between $2,500 and $8,000 for most kitchens in 2026, including removal of the old slab, new material, fabrication, and professional installation. The extra step of removing existing granite — which is heavier and more tightly bonded than laminate — adds $300 to $800 to what a fresh installation would cost.
