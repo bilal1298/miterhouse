@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-06-27
+date: 2026-07-10
 hero_image: /images/posts/vermont-window-replacement-full-planning-guide.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Triple-pane windows with double Low-E coatings and argon or krypton gas fill perform best in Vermont's cold winters. Look for a U-factor of 0.25 or lower. Fiberglass frames handle temperature swings better than vinyl, which can become brittle in extreme cold."
   - q: "How much can I save on energy bills with new windows in Vermont?"
     a: "Replacing single-pane windows with modern triple-pane units in Vermont can reduce heating costs by 15-25%. For a home spending $3,000-$4,000 per year on heating, that translates to $450-$1,000 in annual savings, making the payback period shorter than in milder climates."
-draft: true
+draft: false
 ---
 
 Replacing windows in Vermont is a different calculation than in most other states. The combination of harsh winters (where temperatures regularly drop below zero), high heating costs, and an older housing stock means that window performance has an outsized impact on both comfort and energy bills. Vermont homeowners typically spend $600 to $1,500 per window installed, with whole-house projects running $10,000 to $30,000 depending on window count, product quality, and the condition of existing frames.
