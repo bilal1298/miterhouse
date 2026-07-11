@@ -9,7 +9,7 @@ tags:
   - flooring
   - hardwood-floors
   - cost-guide
-date: 2026-06-12
+date: 2026-07-11
 hero_image: /images/posts/hardwood-flooring-repair-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner installing hardwood flooring kneeling on a subfloor, fitting tongue-and-groove oak planks with a rubber mallet, with boxes of uninstalled planks stacked nearby and a tape measure on the floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "For minor scratch repair, you need wood filler, sandpaper, and matching stain. Board replacement requires a circular saw set to the right depth, a chisel, a pry bar, and a flooring nailer. Refinishing calls for a drum sander and edge sander rental."
   - q: "When should I replace hardwood floors instead of repairing them?"
     a: "If more than 30% of the floor has structural damage, deep water staining, or the boards have been refinished to the point where the tongue and groove is compromised, full replacement is usually more cost-effective than patchwork repairs."
-draft: true
+draft: false
 ---
 
 Hardwood floor repairs range from under $100 for a DIY scratch fix to $5,000+ for professional refinishing of an entire room. The cost depends almost entirely on what kind of damage you're dealing with and how much floor area is affected. Most homeowners spend between $500 and $2,500 on a repair project.
