@@ -7,7 +7,7 @@ tags:
   - kitchen
   - kitchen-remodel
   - cost-guide
-date: 2026-09-07
+date: 2026-07-12
 hero_image: /images/posts/80s-kitchen-remodel-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Homes built 1980–1983 may have asbestos in 9×9-inch floor tiles. Test before removing anything — professional abatement runs $1,500–$4,000. Also check for polybutylene supply lines (gray plastic pipe) and replace them during the remodel."
   - q: "How long does an 80s kitchen remodel take?"
     a: "A cosmetic refresh takes 2–4 weeks. A mid-range remodel with new cabinets runs 4–8 weeks. A full gut with layout changes stretches to 10–16 weeks, especially when you need electrical upgrades or a structural engineer for load-bearing walls."
-draft: true
+draft: false
 ---
 
 Most 1980s kitchens cost $20,000 to $65,000 to remodel — but the final number depends entirely on what's lurking behind those honey-oak cabinet doors. And there's always something lurking.
