@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - home-repair
-date: 2026-09-10
+date: 2026-07-14
 hero_image: /images/posts/underpinning-foundation-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a partially finished basement showing different construction stages with framing complete on one wall, insulation installed on another, and bare concrete on the third, recessed light cans in the ceiling. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "No — this is one of the few home repairs where DIY is simply not an option. Push pier and helical pier installation requires hydraulic equipment and torque monitoring that is not rentable, and most jurisdictions require a licensed contractor with engineered plans. The structural risk of incorrect work is catastrophic and irreversible."
   - q: "How long does a foundation underpinning project take from start to finish?"
     a: "Most residential projects run 4–5 weeks total: 1–2 weeks for engineering and permits, 1 week for site prep and excavation, 1 week for pier installation and load transfer, then 1 week for backfill and site restoration. Wait 30–60 days after completion before patching interior drywall cracks."
-draft: true
+draft: false
 ---
 
 Foundation underpinning costs $1,000 to $3,000 per pier or section for standard residential work, with most whole-house underpinning projects running $10,000 to $50,000 depending on the number of support points needed, the method used, and the soil conditions on your property. This is one of the most expensive structural repairs a homeowner can face, and it is also one of the most important — a failing foundation threatens the entire structure above it.
