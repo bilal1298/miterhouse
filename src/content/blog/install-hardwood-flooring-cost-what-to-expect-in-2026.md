@@ -9,7 +9,7 @@ tags:
   - installation
   - hardwood-floors
   - cost-guide
-date: 2026-06-11
+date: 2026-07-15
 hero_image: /images/posts/install-hardwood-flooring-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner installing hardwood flooring kneeling on a subfloor, fitting tongue-and-groove oak planks with a rubber mallet, with boxes of uninstalled planks stacked nearby and a tape measure on the floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "Nail-down solid hardwood requires a pneumatic floor nailer (rent for $50–$80/day), miter saw, moisture meter, and tapping block. Click-lock engineered hardwood needs only a utility knife, pull bar, tapping block, and spacers — no specialized tools required."
   - q: "What's the most common mistake to avoid?"
     a: "Skipping moisture testing is the hardwood installer's most expensive mistake. The NWFA requires the subfloor and hardwood moisture content to be within 2–4 percentage points of each other. Ignoring this causes cupping, buckling, and gaps — and the warranty won't cover it."
-draft: true
+draft: false
 ---
 
 Hardwood flooring installation costs $6 to $18 per square foot in 2026, with most homeowners spending $8 to $12 per square foot for solid or engineered hardwood professionally installed. A 300-square-foot living room runs $2,400 to $3,600 at that mid-range, while a whole-house installation of 1,000 square feet typically falls between $8,000 and $12,000. Hardwood remains the premium flooring choice with the strongest resale value, but the price gap between hardwood and quality alternatives like LVP has never been wider.
