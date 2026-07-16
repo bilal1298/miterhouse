@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - cost-guide
-date: 2026-09-12
+date: 2026-07-16
 hero_image: /images/posts/concrete-pier-foundation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes, for shallow Sonotube piers — if your frost line is 4 feet or less, the soil isn't clay or rock, and your building department allows owner-built. Materials run $30–$80 per pier. Deeper piers, full house foundations, and repair work on existing foundations are professional jobs."
   - q: "What most commonly goes wrong with DIY pier installation?"
     a: "Two things: hitting water in the hole before you can pour (the hole floods and the concrete won't set properly), and the Sonotube floating up during the pour because it wasn't braced. Stake and brace the tube firmly before pouring. Also allow a full 7-day minimum cure before loading any weight."
-draft: true
+draft: false
 ---
 
 A concrete pier foundation costs $200 to $600 per pier installed, with a standard deck needing 6–12 piers ($1,200–$7,200) and a full house foundation requiring 20–40 piers at $25,000–$55,000 total. Individual pier cost is driven almost entirely by two factors: how deep you need to go and what the soil looks like on the way down.
