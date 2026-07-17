@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - basement
-date: 2026-09-27
+date: 2026-07-17
 hero_image: /images/posts/simple-basement-finishing-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a basement being finished with metal stud framing going up, fiberglass insulation batts between some studs, recessed lighting cans visible in the ceiling joists above, and a level leaning against the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Most tasks are genuinely learnable: framing walls, installing rigid foam insulation, hanging drywall, and floating LVP flooring are all done successfully by first-timers every weekend. The skill ceiling is the electrical rough-in — running Romex through framing to outlet and switch locations. If you have never done electrical work, either study it seriously (the Ugly's Electrical References guide is a practical starting point) or hire an electrician for just that phase and do everything else yourself."
   - q: "What's the most common mistake to avoid?"
     a: "Skipping the moisture check before framing. The plastic sheet test (tape 2-foot polyethylene squares to the floor and walls for 72 hours) costs nothing and takes 5 minutes. If moisture is migrating through the concrete, finishing over it — even with moisture-resistant materials — traps that vapor behind your walls and breeds mold within a few years. Fix the moisture source first: grading, crack sealing, sump pump if needed. Everything else in a simple basement finish is reversible. Mold inside finished walls is not."
-draft: true
+draft: false
 ---
 
 "Simple" basement finishing is a bit of a misnomer. The individual tasks — framing, insulating, drywalling — are each learnable. But combining them into a finished space that passes inspection and holds up for years requires planning that most DIY guides gloss over. The actual work is less complicated than a kitchen remodel, but it involves more sequential steps than most homeowners expect.
