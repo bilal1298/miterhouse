@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-07
+date: 2026-07-18
 hero_image: /images/posts/frost-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "In frost-prone areas, posts should be set below the local frost line, which ranges from 24 to 60+ inches depending on your region. The general rule is to bury one-third of the total post length. In areas with a 36-inch frost line, use 10-foot posts set 40 inches deep."
   - q: "What's the most common mistake with frost fence installation?"
     a: "Not setting posts below the frost line. Shallow posts heave upward during freeze-thaw cycles, causing the fence to lean, rack, and eventually fail. This is the single most important detail and the one most commonly shortcut."
-draft: true
+draft: false
 ---
 
 Frost fence installation costs between $15 and $45 per linear foot for materials and labor, depending on fence height, material, and how deep your frost line runs. For a 150-foot residential perimeter fence, that puts total project costs at $2,250 to $6,750. The cost runs higher in cold climates specifically because of the deeper post holes required to get below the frost line.
