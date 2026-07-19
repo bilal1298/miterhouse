@@ -8,7 +8,7 @@ tags:
   - painting
   - kitchen-remodel
   - cost-guide
-date: 2026-09-13
+date: 2026-07-19
 hero_image: /images/posts/cabinet-painting-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of kitchen cabinet doors being painted laid flat on sawhorses in a garage, with a HVLP sprayer applying smooth white paint, some doors drying on a rack in the background. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Yes for white or light neutrals on flat-panel doors. Dark colors (navy, charcoal, black) show every imperfection and are better left to a professional sprayer. The hybrid approach — sending doors to a spray shop while painting boxes yourself — cuts costs 30–40%."
   - q: "How long does cabinet painting take?"
     a: "A pro crew finishes in 1–2 weeks including prep, paint, and cure time. DIY spread over weekends takes 3–5 weeks. Either way, plan for 7–14 days without cabinet doors while the paint hardens enough to reinstall."
-draft: true
+draft: false
 ---
 
 Cabinet painting costs $3,000–$7,000 for a professional job on a standard kitchen, or $200–$500 in materials to do it yourself. Before you commit to a [full kitchen overhaul](/blog/80s-kitchen-remodel-honest-advice-for-your-home/), a fresh coat on structurally sound cabinets may be all you need. It's the highest-impact, lowest-cost kitchen update available — and the gap between what you pay and what it looks like is absurd.
