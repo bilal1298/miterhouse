@@ -8,7 +8,7 @@ tags:
   - insulation
   - attic
   - cost-guide
-date: 2026-11-18
+date: 2026-07-20
 hero_image: /images/posts/attic-insulation-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of an attic being insulated with blown-in cellulose insulation being applied between ceiling joists using a hose, the worker wearing a respirator and safety goggles, with kraft-faced batts visible on the walls. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Yes for blown-in cellulose — Home Depot and Lowe's loan the blowing machine free when you buy 20+ bags. You'll need a helper, an N95 respirator, and a full day. Budget $500–$1,500 for materials. Air seal all penetrations first — that step matters as much as the insulation."
   - q: "What's the most expensive mistake with attic insulation?"
     a: "Skipping air sealing. Gaps around plumbing, wiring, and the attic hatch let heated air bypass insulation entirely. Sealing those penetrations first saves 15–25% more energy than insulation alone — and costs only $350–$1,000 professionally."
-draft: true
+draft: false
 ---
 
 You'll spend $0.80 to $3.50 per square foot for professionally installed attic insulation in 2026. For a 1,000-square-foot attic — the norm for a 1,500 to 2,000-square-foot home — that's $800 to $3,500. Go the DIY route with blown cellulose and the floor drops to around $400.
