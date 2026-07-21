@@ -8,7 +8,7 @@ tags:
   - flooring
   - roofing
   - tile
-date: 2026-07-28
+date: 2026-07-21
 hero_image: /images/posts/roof-tile-inspection-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "You can do a meaningful ground-level inspection with binoculars — look for cracked, displaced, or missing tiles, and check gutters for tile fragments and mortar debris. Check the attic after rain for water stains or daylight. Do not walk on a tile roof without knowing exactly where to step; stepping in the wrong spot breaks tiles, and professionals use foam-padded shoes or walk boards for this reason."
   - q: "How often should I schedule professional tile roof inspections?"
     a: "Every 5 years for roofs under 10 years old, every 2–3 years for roofs aged 10–25 years, and annually once the roof is over 25 years old. Always schedule an inspection after a major storm regardless of roof age — hail and high wind displace tiles and crack ridge mortar in ways that are not visible from the ground."
-draft: true
+draft: false
 ---
 
 A professional roof tile inspection costs between $150 and $500 depending on your roof size, material, and location. It takes 1 to 3 hours for a thorough inspection and can save you thousands by catching problems before they turn into leaks, structural damage, or emergency repairs. If your tile roof is more than 10 years old and has never been inspected, schedule one now — it is the most cost-effective maintenance you can do.
