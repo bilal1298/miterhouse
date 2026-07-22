@@ -8,7 +8,7 @@ tags:
   - tile-installation
   - flooring
   - tile
-date: 2026-08-07
+date: 2026-07-22
 hero_image: /images/posts/slate-tile-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A wet saw with a continuous-rim diamond blade (not segmented — segmented chips slate edges), a notched trowel for white thinset (gray thinset can telegraph through lighter-colored slates), tile leveling clips for larger formats, a rubber mallet, a grout float, and a penetrating stone sealer. Budget for significantly more thinset than ceramic tile would require because each slate tile needs to be individually back-buttered."
   - q: "What's the most common mistake that ruins a slate installation?"
     a: "Not sealing the slate surface before grouting. Grout stains soak into unsealed clefted slate and are nearly impossible to remove completely. Apply a coat of penetrating sealer before grouting, let it dry, and the surface releases grout residue without staining. Skipping this single step ruins more slate installations than any other error."
-draft: true
+draft: false
 ---
 
 Installing slate tile costs $10 to $30 per square foot fully installed, with the tile itself running $3 to $15 per square foot and labor adding $6 to $15 per square foot. Slate is a premium natural stone with a character that manufactured tiles cannot replicate, but it demands more careful installation than ceramic or porcelain to deliver on that promise.
