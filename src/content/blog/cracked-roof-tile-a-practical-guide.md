@@ -8,7 +8,7 @@ tags:
   - flooring
   - roofing
   - tile
-date: 2026-07-28
+date: 2026-07-23
 hero_image: /images/posts/cracked-roof-tile-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A hairline surface crack that doesn't penetrate the full tile thickness is cosmetic on glazed clay and low urgency. A through-crack lets water reach the underlayment directly and needs repair promptly. Test by looking for daylight through the crack, or run a hose above it and check the attic for drips."
   - q: "Why do roofers charge $150+ just to replace one tile?"
     a: "Most roofers have a $150–$300 minimum service charge regardless of job size. Mobilizing a crew, safety setup, and driving to your home costs the same whether they replace 1 tile or 10. Bundle multiple small repairs into one call — or handle a single tile yourself — to avoid paying the minimum on a $20 fix."
-draft: true
+draft: false
 ---
 
 Replacing a single cracked roof tile costs $20–$75 in materials and a roofer's time. The repair itself is minor. What's not minor is what happens when you ignore it — water infiltration through even a small crack damages underlayment, decking, insulation, and interior finishes, escalating a $50 fix into a $2,000–$5,000 restoration.
