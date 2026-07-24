@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - cost-guide
-date: 2026-09-11
+date: 2026-07-24
 hero_image: /images/posts/how-much-does-dig-out-crawl-space-really-cost.webp
 hero_image_prompt: "A photorealistic photograph of a crawl space being encapsulated with thick white vapor barrier being installed over the dirt floor and up the foundation walls, a dehumidifier in place, and sealed vent covers visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "The excavation, underpinning, and concrete work all require professional expertise and equipment — none of it is DIY. Where homeowners can save is demo cleanup before the crew arrives, insulation after structural work is done, and interior finishing like framing and painting — cutting $3,000 to $10,000 from the total."
   - q: "How long should I expect this project to take?"
     a: "Plan on 2 to 6 months from engineering assessment to finished space. Permitting alone takes 4 to 8 weeks in busy jurisdictions, and excavation must proceed in controlled 4- to 6-foot sections that cannot be rushed without risking your foundation."
-draft: true
+draft: false
 ---
 
 Digging out a crawl space costs $20,000 to $80,000 and involves working around the foundation that holds your house up. That makes it one of the most expensive and most consequential home projects you can take on. The payoff can be enormous — converting a 3-foot crawl space into a 7- or 8-foot basement adds hundreds of square feet of usable space — but the decision hinges on whether your soil, your foundation, and your budget all cooperate.
