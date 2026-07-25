@@ -8,7 +8,7 @@ tags:
   - flooring
   - tile
   - cost-guide
-date: 2026-08-06
+date: 2026-07-25
 hero_image: /images/posts/tile-flooring-removal-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A beginner can absolutely handle small to medium tile removal — rent an electric demolition hammer with a flat chisel bit for anything over 50 square feet. The work is exhausting but not technical. The real beginner mistake is skipping the asbestos test on pre-1985 installations before breaking anything."
   - q: "What's the most common mistake in tile removal?"
     a: "Attacking the subfloor with the demo hammer at a steep angle instead of a shallow 15–20 degree angle. Going too steep gouges the plywood and can require expensive subfloor repair before new flooring can go down."
-draft: true
+draft: false
 ---
 
 Tile flooring removal costs $2 to $6 per square foot when you hire a professional, or roughly $100 to $300 in tool rental and disposal fees if you do it yourself. For a 200-square-foot room, that means $400 to $1,200 for professional removal or about $200 for a weekend of hard physical labor on your own.
