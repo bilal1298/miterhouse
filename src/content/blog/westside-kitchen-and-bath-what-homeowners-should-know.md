@@ -7,7 +7,7 @@ tags:
   - kitchen
   - bathroom-remodel
   - kitchen-remodel
-date: 2026-08-21
+date: 2026-07-26
 hero_image: /images/posts/westside-kitchen-and-bath-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Demolition is the most beginner-friendly task — and between two rooms, DIY demo saves $1,000–$2,500 in labor. Painting, hardware installation, and appliance swaps are also realistic for careful first-timers. Tile work, plumbing, and electrical rough-in require trades or significant skill to get right."
   - q: "What's the most common mistake in combined kitchen and bath projects?"
     a: "Scope creep — starting with a surface refresh and gradually escalating as you discover problems or fall in love with upgrade options mid-project. Set a firm budget ceiling before demolition starts, build in 10–15% contingency, and require any additions to be priced in writing before the contractor proceeds. Every mid-project change costs money and delays the timeline."
-draft: true
+draft: false
 ---
 
 Kitchen and bath renovations are the two highest-impact home improvements you can make, both for daily livability and resale value. A combined kitchen and bathroom remodel runs $15,000 to $50,000 for most homeowners, depending on whether you are refreshing surfaces or gutting to the studs. The kitchen alone accounts for 60 to 70 percent of that budget because it involves more cabinetry, countertop space, and appliances.
