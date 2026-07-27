@@ -7,7 +7,7 @@ tags:
   - attic-renovation
   - basement-finishing
   - home-repair
-date: 2026-09-15
+date: 2026-07-27
 hero_image: /images/posts/mold-damage-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of mold being treated in a home with a section of drywall removed revealing mold on the studs, a HEPA air scrubber running, and the worker wearing protective equipment including an N95 respirator. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "At minimum: an N95 respirator (a P100 half-face respirator is better), safety goggles that seal around the eyes, nitrile gloves, and a HEPA vacuum — standard vacuums blow spores back into the air. For cleaning, use a detergent-water solution on porous materials rather than bleach; bleach is effective on non-porous surfaces but doesn't penetrate into drywall or wood where mold roots."
   - q: "How do I know when to hire a professional remediator vs. handle it myself?"
     a: "The EPA's guideline is roughly 10 square feet (about a 3x3-foot patch) as the DIY limit. Beyond that size, or when mold is found inside wall cavities, in HVAC systems, or on structural framing, professional remediation is the safer choice. The bigger indicator is the moisture source — if you can't confidently identify and fix what caused the mold, a professional assessment is worth the $300–$600 to avoid fixing the wrong thing."
-draft: true
+draft: false
 ---
 
 Mold damage repair costs $500 to $6,000 for small to moderate problems and $10,000 to $30,000 for extensive remediation involving structural materials. The actual repair work is often less expensive than the investigation and moisture correction that must happen first — because removing mold without fixing the water source guarantees it comes right back.
