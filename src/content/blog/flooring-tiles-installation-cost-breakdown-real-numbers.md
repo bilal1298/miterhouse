@@ -9,7 +9,7 @@ tags:
   - flooring
   - installation
   - cost-guide
-date: 2026-08-08
+date: 2026-07-28
 hero_image: /images/posts/flooring-tiles-installation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "At minimum: a wet tile saw ($100–$300 to buy or $50–$80/day to rent), notched trowels, a mixing drill, grout float, tile spacers, and a level. Budget $100–$300 for tools if starting from scratch."
   - q: "What's the most common DIY tile mistake?"
     a: "Lippage — tiles sitting at different heights — caused by insufficient thinset coverage or a subfloor that wasn't flat before installation. The fix is always in the prep: a flat subfloor and full-coverage thinset prevent the problem entirely."
-draft: true
+draft: false
 ---
 
 The most expensive floor tile failure has nothing to do with the tile. It's the subfloor underneath — uneven, too flexible, or improperly prepped — and it doesn't show up until 6 to 18 months after installation when grout cracks, tiles pop loose, and lippage appears across the floor. Floor tile installation costs $5 to $25 per square foot fully installed, with most homeowners spending $7 to $14 per square foot for mid-range materials and professional labor. But the difference between a tile floor that lasts 40 years and one that fails in 3 almost always comes down to what happens before the first tile is set.
