@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-06-18
+date: 2026-07-29
 hero_image: /images/posts/plumbing-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "The core DIY plumbing toolkit: two adjustable wrenches, channel-lock pliers, a basin wrench, a flange plunger, a 25-foot hand drain snake, Teflon tape, and a universal toilet repair kit. Total investment is $100–$150 and covers about 90% of common household plumbing repairs."
   - q: "What's the most common mistake to avoid?"
     a: "Using chemical drain cleaners before a snake. If the chemicals fail, you are now snaking a drain full of caustic fluid — a safety hazard that makes the job worse. Go straight to the $25 hand snake; it handles most household clogs faster and without the risk."
-draft: true
+draft: false
 ---
 
 The average plumbing service call costs $150 to $450, and about half of those calls are for problems a homeowner could fix in under an hour with $20 in parts. The other half involve work that genuinely requires a licensed professional, specialized tools, or permits. The trick is knowing which half you are looking at before you start.
