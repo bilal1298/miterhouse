@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-09
+date: 2026-07-30
 hero_image: /images/posts/cedar-fence-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Miter saw or circular saw, impact driver, post-hole digger or rented auger ($75–$150/half day), level, speed square, string line, and a helper. Use galvanized or stainless steel screws only — regular steel stains cedar black within a year from a tannin reaction."
   - q: "How long does it take to build a 150-foot cedar fence?"
     a: "A pro crew of 2–3 finishes in 2–3 days. A DIY team of two should budget 3–4 weekends — post setting and concrete cure eat the first weekend, rails and pickets fill the rest. Digging 20+ holes by hand is the real bottleneck."
-draft: true
+draft: false
 ---
 
 Cedar fence installation runs $25–$55 per linear foot installed, or $12–$30 per foot in materials for a DIY build. For a 150-foot privacy fence at 6 feet tall, that's $3,750–$8,250 with a contractor or $1,800–$4,500 in materials. The price gap between cedar and pressure-treated pine ($15–$35/ft installed) reflects real differences in longevity, appearance, and maintenance — but there's one place where cedar shouldn't go: below ground.
