@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-06-30
+date: 2026-07-31
 hero_image: /images/posts/how-often-should-i-flush-my-water-heater-honest-guide.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Sediment builds up on the tank bottom, insulating gas burners and burying electric elements — reducing efficiency by 10–15% per the Department of Energy. The popping and rumbling sounds you eventually hear are steam bubbles forcing through the sediment layer. Unflushed tanks also corrode from the inside out, failing years before they should."
   - q: "How long does flushing a water heater actually take?"
     a: "The physical process takes 20–30 minutes, but a full drain of a 40–50 gallon tank takes an additional 20–45 minutes. Plan on about an hour total for a thorough flush, including time to let the tank refill and reheat before restoring normal use."
-draft: true
+draft: false
 ---
 
 Flush your water heater once a year — or every six months if you have hard water. That's the short answer. Skip this $0, 30-minute task and you'll knock 3 to 5 years off a $1,000+ appliance while paying 10 to 15 percent more in energy costs the entire time.
