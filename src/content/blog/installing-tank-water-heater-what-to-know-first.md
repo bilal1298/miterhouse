@@ -8,7 +8,7 @@ tags:
   - installation
   - electrical
   - plumbing
-date: 2026-06-30
+date: 2026-08-01
 hero_image: /images/posts/installing-tank-water-heater-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "You'll need a pipe wrench, garden hose for draining, channel-lock pliers for supply line connections, a non-contact voltage tester, and a flashlight. For gas units, soapy water in a spray bottle checks connections for leaks after installation. A hand truck or dolly is essential — a full 50-gallon tank weighs about 150 pounds empty."
   - q: "How long does a water heater installation take?"
     a: "A straight same-size electric swap typically takes 2 to 3 hours for a capable DIYer. Gas units take longer because of the flue reconnection and pilot lighting procedure. A professional plumber handles a straightforward swap in 1 to 2 hours. Add time for draining the old unit — that alone takes 20 to 45 minutes for a full tank."
-draft: true
+draft: false
 ---
 
 A tank water heater installation is one of those projects that sits right on the line between DIY-possible and call-a-pro-mandatory, depending on your fuel type, local codes, and comfort level with plumbing and gas connections. Getting it wrong is not just inconvenient — a poorly installed water heater can leak hundreds of gallons, produce carbon monoxide, or in rare cases, fail catastrophically. Here is what you need to understand before you start.
