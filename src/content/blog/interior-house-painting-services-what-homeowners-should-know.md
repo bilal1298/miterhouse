@@ -7,7 +7,7 @@ tags:
   - wall-repair
   - painting
   - home-improvement
-date: 2026-07-10
+date: 2026-08-02
 hero_image: /images/posts/interior-house-painting-services-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of the exterior of a two-story suburban home being painted with a painter on a ladder applying fresh white paint to wood siding, drop cloths protecting the foundation plantings, and a paint sprayer on the ground. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Bedrooms and living rooms with smooth walls in good condition are very manageable for a first-timer. The challenging parts are stairwells (dangerous ladder work), trim cutting-in (takes 50 linear feet of practice to get a clean edge), and ceilings (physical, and lap marks show easily). Start with a flat-walled bedroom to build your technique."
   - q: "How long should I expect this project to take?"
     a: "A professional crew of two paints a standard bedroom in 4 to 6 hours. Plan on 8 to 12 hours as a homeowner doing the same room with full prep, two coats, and cleanup. A whole house takes a pro crew a week — budget 3 to 6 weekends if you're doing it yourself."
-draft: true
+draft: false
 ---
 
 Professional interior house painting services cost $2 to $6 per square foot of wall space, or roughly $1,500 to $4,500 for a typical 1,500-square-foot home. That includes labor, paint, primer, and basic prep work like filling nail holes and light sanding. More involved prep — wallpaper removal, significant drywall repair, or lead paint abatement — adds $500 to $3,000 depending on scope.
