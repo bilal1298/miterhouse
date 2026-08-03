@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-03
+date: 2026-08-03
 hero_image: /images/posts/water-heater-constantly-running-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes — a deteriorated dip tube routes cold incoming water to the top of the tank instead of the bottom, mixing it with hot water and causing the heater to chase a temperature it can never reach. Small white or blue plastic fragments in your faucet aerators are the tell. The dip tube costs $10–$30 and is a DIY repair on most models."
   - q: "How do I find a reliable plumber for water heater issues?"
     a: "Ask neighbors for referrals, check Google reviews filtered to the last 12 months, verify the license with your state plumbing board, and get at least two written quotes that itemize the specific repair — not just a total number."
-draft: true
+draft: false
 ---
 
 A water heater that never seems to shut off is burning through energy and money while potentially signaling a problem that will get worse. Under normal conditions, a gas or electric water heater cycles on and off throughout the day — heating water until it reaches the set temperature, then shutting down until the tank temperature drops enough to trigger another heating cycle. If yours runs continuously or cycles far more frequently than it used to, something specific is wrong, and the fix depends on identifying the cause.
