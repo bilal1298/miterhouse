@@ -8,7 +8,7 @@ tags:
   - home-improvement-cost
   - water-damage
   - budget-renovation
-date: 2026-07-19
+date: 2026-08-04
 hero_image: /images/posts/water-proofing-services-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a suburban home getting a new roof with a roofing crew stripping old shingles, new underlayment partially rolled out, bundles of architectural shingles staged on the roof, and a dumpster below. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Interior sealant application (Drylok, RadonSeal) and exterior above-grade coating are easy weekend projects — basically masonry paint that anyone can roll on. Crack injection with polyurethane foam kits is moderate difficulty but manageable with patience. Interior perimeter drain installation involves jackhammering concrete and is hard physical work, but technically doable for a motivated DIYer. Exterior foundation excavation is genuinely dangerous at 8+ feet deep and should always be contracted out."
   - q: "What's the most common waterproofing mistake?"
     a: "Skipping the cheap fixes and jumping straight to an engineered drainage system. Correcting the grading so soil slopes 6 inches over the first 10 feet away from the foundation, and extending downspouts 4–6 feet from the house, often resolves basement moisture problems for $200–$500. Many homeowners who bought $8,000 interior systems later fixed grading and realized the expensive system wasn't necessary."
-draft: true
+draft: false
 ---
 
 Waterproofing services for a residential home range from $500 for a simple exterior sealant application to $15,000 or more for a full interior and exterior basement waterproofing system. That is a massive range, and the right solution for your house depends on where water is getting in, how much water is involved, and whether you are dealing with an active problem or trying to prevent one. Let me break down each type of waterproofing, what it actually costs, and which options a DIYer can handle.
