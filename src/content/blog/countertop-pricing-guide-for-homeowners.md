@@ -8,7 +8,7 @@ tags:
   - countertops
   - kitchen-remodel
   - cost-guide
-date: 2026-11-08
+date: 2026-08-05
 hero_image: /images/posts/countertop-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of bathroom fixtures laid out on a clean countertop including a brushed nickel faucet, handles, a towel bar, and mounting hardware, with installation instructions visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Slab grade, fabrication inclusions, and installation scope. One fabricator may quote a first-quality slab while another quotes commercial grade of the same color. Ask whether old counter removal, plumbing disconnection, and cabinet leveling are included — these add $300–$600 when billed separately."
   - q: "When's the best time to buy countertops?"
     a: "January through March, when fabricators are slower and more willing to negotiate. Peak renovation season (May–September) means full schedules, less price flexibility, and lead times stretching to 3–4 weeks. Big-box retailers run periodic promotions around holiday weekends that save 10–20% on material costs."
-draft: true
+draft: false
 ---
 
 Countertop costs range from $15 per square foot for post-form laminate to $250+ for premium marble — and the gap between materials isn't just aesthetics. Maintenance requirements, durability, resale impact, and installation complexity all differ enough to change which material is actually the best value for your kitchen.
