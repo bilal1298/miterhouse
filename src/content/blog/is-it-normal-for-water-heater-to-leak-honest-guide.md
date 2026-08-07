@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-04
+date: 2026-08-07
 hero_image: /images/posts/is-it-normal-for-water-heater-to-leak-honest-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Many water heater leaks — inlet/outlet connections, drain valve weeping, TPR valve issues — are manageable DIY fixes costing $0 to $30. The systematic check is simple: dry the tank completely, place dry paper towels at each potential leak point, wait 15 minutes, and trace any moisture upward to its source. The one exception is a leaking tank body, which requires replacement, not repair."
   - q: "When does a water heater leak become an emergency?"
     a: "Act immediately if water is leaking from the tank body itself, if the TPR valve is discharging continuously (indicating dangerous pressure or temperature), or if water is near electrical connections. Fitting drips and a weeping drain valve can wait a day or two — cap the drain valve with a brass hose cap and schedule a convenient repair."
-draft: true
+draft: false
 ---
 
 No, it is not normal for a water heater to leak — but not every drip you see means the tank is failing. Some water around the base of a water heater is harmless condensation, while other leaks indicate serious problems that demand immediate attention. The difference between a $0 non-issue and a $1,500 emergency replacement depends entirely on where the water is coming from and why.
