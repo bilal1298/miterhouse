@@ -8,7 +8,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-09-25
+date: 2026-08-09
 hero_image: /images/posts/plumbing-water-leak-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "For supply line and fixture leaks: adjustable wrenches, Teflon tape, and replacement supply hoses ($8–$15 each). For a copper pinhole: a pipe repair clamp ($8) for a temporary fix or a SharkBite push-fit coupling ($10–$15) for a permanent, no-solder repair. A thermal imaging camera (rentable for $50–$75/day) is invaluable for locating hidden leaks behind walls."
   - q: "How long should I expect this project to take?"
     a: "Fixing a dripping faucet or replacing a toilet fill valve runs 30–60 minutes including a hardware store trip. A supply line replacement is 10 minutes. For hidden leaks, detection adds a few hours before any repair starts. Slab leaks are multi-day projects that require specialist plumbers and possibly structural access."
-draft: true
+draft: false
 ---
 
 A water leak in your plumbing system can cost anywhere from $5 to fix (a worn faucet washer) to $10,000 or more (a slab leak requiring jackhammering and repiping). The key to keeping costs down is finding the leak fast, understanding what is causing it, and knowing which repairs you can handle versus which ones need a licensed plumber.
