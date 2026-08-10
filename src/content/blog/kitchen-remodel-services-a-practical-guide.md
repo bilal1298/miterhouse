@@ -7,7 +7,7 @@ tags:
   - kitchen
   - bathroom-remodel
   - kitchen-remodel
-date: 2026-09-04
+date: 2026-08-10
 hero_image: /images/posts/kitchen-remodel-services-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Demolition, painting, backsplash tile, and basic appliance swaps are the highest-value DIY opportunities. Cabinet installation is doable with patience and a laser level. Plumbing and electrical beyond like-for-like fixture swaps should go to licensed professionals — permit requirements in most jurisdictions make those trades non-negotiable."
   - q: "How long does a typical kitchen remodel take?"
     a: "A mid-range project that updates cabinets, countertops, and fixtures while keeping the layout intact takes 4 to 8 weeks. Stone countertop fabrication alone requires 7 to 14 business days after templating, and templating can't happen until cabinets are fully installed — that sequence is the biggest driver of project timeline."
-draft: true
+draft: false
 ---
 
 Kitchen remodel services break down into roughly a dozen distinct trades and specialties, and understanding which ones you need — and which ones you can skip or DIY — is the difference between a $10,000 targeted refresh and a $60,000 full gut. Most homeowners do not need every service available; they need the right combination for their kitchen's specific problems and their budget.
