@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-06-29
+date: 2026-08-11
 hero_image: /images/posts/professional-window-replacement-full-planning-guide.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Old window removal and disposal, rough opening inspection and minor repairs, new window installation properly shimmed and leveled, low-expansion spray foam around the perimeter, interior and exterior trim, caulking, and testing every operable window before the crew leaves. If the proposal doesn't explicitly include flashing tape on the exterior, ask about it — caulking alone fails over time."
   - q: "What's the most common mistake to avoid?"
     a: "Signing a contract during the first sales visit when a 'today-only discount' is dangled. High-pressure tactics from window companies are a known pattern — the discount is almost always available later. Get three proposals, compare them side by side on scope and materials, and make the decision on your timeline, not theirs."
-draft: true
+draft: false
 ---
 
 Hiring a professional for window replacement is the right call for most homeowners, and understanding what that process actually involves helps you hire better, spend smarter, and avoid the handful of mistakes that turn a routine project into an expensive headache. This guide walks through the entire process from first assessment to final walkthrough.
