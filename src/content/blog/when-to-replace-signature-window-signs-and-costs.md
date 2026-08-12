@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-06-28
+date: 2026-08-12
 hero_image: /images/posts/when-to-replace-signature-window-signs-and-costs.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes, for larger units. Fiberglass is strong enough to span large picture windows without deflecting, handles temperature extremes without noticeable expansion or contraction, and can be painted any color — important when the window is a visual centerpiece. For arched or specialty shapes, fiberglass holds its geometry better than vinyl over time."
   - q: "What's the most common mistake when replacing a signature window?"
     a: "Not inspecting the rough opening and surrounding wall before the new unit goes in. Signature windows are heavy, the headers above them bear significant load, and water infiltration from a failing old window often saturates the framing. Discovering rot or structural damage after the replacement window arrives adds $100–$500 and a scheduling delay to the project."
-draft: true
+draft: false
 ---
 
 Signature windows — those oversized, architecturally prominent windows that define a room's character — do not fail quietly. When they start going, you notice it in your energy bills, your comfort, and eventually the condition of the surrounding wall. Knowing when replacement is necessary versus when repair is sufficient can save you thousands of dollars or prevent you from pouring money into a losing cause.
