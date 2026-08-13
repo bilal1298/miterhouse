@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-09
+date: 2026-08-13
 hero_image: /images/posts/wrought-iron-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Post-hole digger, level, string line, concrete mixing tools, and an angle grinder with a metal cutoff wheel for any panel trimming. Panels weigh 50–80 pounds each, so a helper is not optional. Every cut edge must be re-primed and painted immediately to prevent rust — an overlooked cut becomes a rust problem within one season."
   - q: "What's the most common mistake with wrought iron fencing?"
     a: "Getting the posts even a half-inch out of alignment. With wood fencing you can fudge gaps with a board width, but ornamental steel panels have fixed dimensions — if two posts are not exactly parallel at panel-width spacing, the brackets won't line up. Setting corner and end posts first, then running a string line and setting all interior posts to that string, is the approach that prevents this."
-draft: true
+draft: false
 ---
 
 Wrought iron fence installation costs $30 to $100 per linear foot installed, depending on height, design complexity, and whether you are buying true custom fabrication or pre-made ornamental steel panels. A 100-foot perimeter with a single gate typically runs $3,500 to $10,000 for the complete job. That makes wrought iron the most expensive mainstream fencing option — two to three times the cost of wood or chain link — but it also lasts 50 to 100 years with proper maintenance, making the lifetime cost surprisingly competitive.
