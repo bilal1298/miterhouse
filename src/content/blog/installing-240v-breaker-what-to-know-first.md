@@ -7,7 +7,7 @@ tags:
   - tools
   - building-materials
   - installation
-date: 2026-08-25
+date: 2026-08-15
 hero_image: /images/posts/installing-240v-breaker-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a collection of essential home improvement tools arranged neatly on a workshop table — cordless drill, circular saw, level, speed square, utility knife, and safety glasses. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "A 240V breaker installation requires wire strippers, a non-contact voltage tester and a plug-in circuit tester, screwdrivers (flat and Phillips), and appropriate safety gear including insulated gloves and safety glasses."
   - q: "What's the most common mistake to avoid?"
     a: "Using undersized wire for the circuit amperage is the most dangerous 240V mistake. Every breaker amperage has a minimum wire gauge — 30A requires 10/3, 50A requires 6/3. Undersized wire overheats before the breaker trips, which can start a wall fire. Always size wire to the NEC tables, not just what fits through the conduit."
-draft: true
+draft: false
 ---
 
 Installing a 240V breaker is one of those electrical tasks that sits right on the boundary between advanced DIY and call-a-professional territory. If you are adding a circuit for an electric dryer, range, water heater, EV charger, or workshop equipment, you need a 240V double-pole breaker in your main panel. Here is what the job involves, what it costs, and an honest assessment of whether you should tackle it yourself.
