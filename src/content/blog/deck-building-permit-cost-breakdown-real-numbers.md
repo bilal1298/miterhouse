@@ -8,7 +8,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - cost-guide
-date: 2026-08-14
+date: 2026-08-16
 hero_image: /images/posts/deck-building-permit-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Building without one to save $150–$500. The consequences dwarf the fee: fines that can double the original amount, insurance denial for accidents on the unpermitted structure, and resale complications when title companies flag the work. Retroactive permitting costs more than doing it right upfront."
   - q: "Do freestanding decks need permits?"
     a: "Sometimes not. If the deck is freestanding, under a certain square footage (often 200 sq ft), and under 30 inches off the ground, some jurisdictions waive the permit. But 'some' is doing heavy lifting — always verify with your local building department before assuming you're exempt."
-draft: true
+draft: false
 ---
 
 A deck permit costs $150–$500 for a standard residential build — roughly 1–3% of the total project cost. The question isn't whether you can afford the permit. It's whether you can afford the consequences of not pulling one: fines that double the original fee, insurance denial for accidents on the structure, and resale complications when title companies flag unpermitted work.
