@@ -8,7 +8,7 @@ tags:
   - countertops
   - kitchen-remodel
   - cost-guide
-date: 2026-11-21
+date: 2026-08-17
 hero_image: /images/posts/countertop-removal-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "The most common problem is damaging cabinet tops during granite removal, especially when silicone adhesive bonds the slab tightly. Cut all caulk lines first, work a thin pry bar around the full perimeter, and lift evenly — never pry from one end. A damaged cabinet face frame costs $50–$200 to repair."
   - q: "Should I remove the old countertop myself or have the new fabricator do it?"
     a: "Many fabricators include removal in their installation quote or offer it at a reduced rate. The marginal cost of their crew pulling the old counter while they're already on-site is low. Ask during quoting — if they charge $100–$200 for removal, it may not be worth the DIY effort on stone."
-draft: true
+draft: false
 ---
 
 Countertop removal is the easiest place to save money on a kitchen renovation — if you're removing the right material. Laminate lifts off in 30 minutes with a screwdriver and a utility knife. Granite requires three people, careful pry-bar work, and one wrong move cracks either the slab or the cabinet underneath. The decision to DIY or hire out depends entirely on what you're pulling off.
