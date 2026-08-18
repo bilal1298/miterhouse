@@ -7,7 +7,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - home-improvement
-date: 2026-08-24
+date: 2026-08-18
 hero_image: /images/posts/sustainable-home-renovation-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshly painted with a roller applying warm gray paint to one wall, crisp blue painter's tape along the trim, a drop cloth on the hardwood floor, and a paint tray nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "LED lighting, smart thermostat installation, and adding insulation to an accessible attic are all beginner-friendly. Heat pump HVAC and heat pump water heaters should be installed by a licensed contractor — the efficiency gains are real but the equipment requires proper sizing and code-compliant venting."
   - q: "What's the most common mistake in sustainable renovation?"
     a: "Installing solar panels before reducing demand. A home spending 1,200 kWh/month needs a much bigger, more expensive array than one that uses 600 kWh after air sealing and HVAC upgrades. Reduce first, then size solar to the efficient home."
-draft: true
+draft: false
 ---
 
 Sustainable home renovation saves you money on utility bills while reducing your home's environmental footprint, but only if you focus on the upgrades that actually deliver measurable returns. Most "green renovation" guides read like product catalogs. This one focuses on what works, what the real costs look like, and where the payback is genuine versus theoretical.
