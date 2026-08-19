@@ -7,7 +7,7 @@ tags:
   - deck-building
   - outdoor-projects
   - landscaping
-date: 2026-10-30
+date: 2026-08-19
 hero_image: /images/posts/finding-good-deck-building-contractors-near-you.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Ask how they handle the ledger board connection. A knowledgeable contractor immediately mentions lag screws or through-bolts, proper flashing, and removing siding at the attachment point. Vague answers about just nailing it to the house are a red flag — the ledger is the most structurally critical joint on an attached deck."
   - q: "How long does it take a professional to build a deck?"
     a: "A standard 16x20-foot deck takes most professional crews 3–7 business days depending on complexity, materials, and inspection timing. Composite decking takes slightly longer than pressure-treated due to different fastening systems. Built-ins like benches and pergolas add 1–3 more days."
-draft: true
+draft: false
 ---
 
 Hiring the right deck contractor is the difference between a deck that lasts 25 years and one that develops problems within 3. A good deck builder charges $15–$35 per square foot for labor on a standard build. The challenge is separating experienced professionals from the handymen and fly-by-night operations that flood the market every spring.
