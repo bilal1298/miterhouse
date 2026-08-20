@@ -7,7 +7,7 @@ tags:
   - deck-building
   - outdoor-projects
   - landscaping
-date: 2026-08-13
+date: 2026-08-20
 hero_image: /images/posts/the-real-deal-on-custom-deck-building.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Standard framing tools: circular saw, miter saw, cordless drill, framing square, level, and post-hole digger. Curved sections require a jigsaw or router. Budget separately for permit-required hardware — Simpson Strong-Tie connectors for multi-level transitions and elevated sections add $300–$600 in hardware costs alone."
   - q: "How long does a custom deck take to build compared to a standard deck?"
     a: "A professional crew typically needs 10–20 days for a custom deck versus 5–10 days for a standard 300-square-foot rectangle. As a DIYer working weekends, a custom deck with multi-level sections and built-ins is realistically a 3–4 month project — plan for that commitment before you start."
-draft: true
+draft: false
 ---
 
 A custom deck differs from a standard rectangular deck in the same way a tailored suit differs from off-the-rack: it fits your specific space, lifestyle, and house architecture rather than defaulting to the easiest shape to build. Custom decks typically cost $25 to $75 per square foot installed (versus $15 to $45 for standard designs), and the premium buys you multi-level transitions, curved or angled sections, integrated features, and a design that works with your lot rather than ignoring it.
