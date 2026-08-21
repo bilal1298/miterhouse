@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-09-30
+date: 2026-08-21
 hero_image: /images/posts/when-to-replace-window-naperville-signs-and-costs.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Fiberglass is the top performer for Naperville's temperature swings — it expands and contracts at nearly the same rate as glass, which reduces seal failures over time. Vinyl is the more affordable and popular choice, but mid-grade or better is essential; the cheapest vinyl can warp or discolor within 10 years in northern Illinois winters and summers."
   - q: "What's the most common mistake when replacing windows in Naperville?"
     a: "Hiring an installer who prioritizes brand name over installation technique. A mid-grade window installed perfectly — properly shimmed, foam-insulated around the frame, flashed at the sill — outperforms a premium window with gaps at the head or a missing sill pan. Get references from completed projects and ask the installer specifically about their flashing approach."
-draft: true
+draft: false
 ---
 
 Naperville homeowners face a specific set of window replacement challenges thanks to northern Illinois weather — brutal winters, humid summers, and the temperature swings that come with living in a zone where it can be -10 degrees in January and 95 degrees in July. That climate demands windows that perform, not just windows that look nice.
