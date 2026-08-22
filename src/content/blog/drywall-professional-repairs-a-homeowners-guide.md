@@ -8,7 +8,7 @@ tags:
   - drywall
   - home-repair
   - painting
-date: 2026-07-21
+date: 2026-08-22
 hero_image: /images/posts/drywall-professional-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall seams using a wide taping knife to smooth joint compound over paper tape, with a hawk in the other hand, bare drywall sheets visible, and sanding dust in the air. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Most repairs require three visits spaced 12–24 hours apart — one to tape, one to fill, one to skim. A medium patch takes 3 days total. Factor in drying time between coats; rushing creates visible ridges under raking light."
   - q: "How do I check if the drywall repair was done well?"
     a: "Hold a flashlight nearly flat against the wall and sweep it across the repair (raking light test). No shadows from ridges or depressions should appear. Run your hand over the surface — you shouldn't feel any transition between compound and existing wall. Do this before the painter arrives."
-draft: true
+draft: false
 ---
 
 Every visible drywall patch fails for the same reason: the homeowner or handyman applied one coat of compound, sanded it, and painted. The repair sits proud of the surrounding surface, absorbs paint differently, and catches light at a slightly wrong angle. You can see it every time you walk past.
