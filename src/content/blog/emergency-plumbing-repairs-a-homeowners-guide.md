@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-06-17
+date: 2026-08-23
 hero_image: /images/posts/emergency-plumbing-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Pipe repair clamps in two or three sizes ($5–$15 each), plumber's epoxy putty ($8), Teflon tape ($3), adjustable wrench, channel-lock pliers, a flange plunger and cup plunger, wet/dry vacuum, bucket and old towels, and a flashlight. About $150 total — enough to contain most emergencies until professional help arrives."
   - q: "What's the most important plumbing thing to do before an emergency happens?"
     a: "Locate your main water shutoff and test that it actually turns. Old gate valves can seize from years of non-use, and discovering that in a flooding emergency is a nightmare. If it's stuck, schedule a plumber to replace it on your schedule — not at emergency rates during a crisis."
-draft: true
+draft: false
 ---
 
 Most homeowners facing a burst pipe at 2 a.m. do the worst possible thing: they panic, grab towels, and spend 10 minutes mopping while hundreds of gallons continue pouring in. The difference between a $300 repair and a $15,000 water damage restoration comes down to how quickly you stop the water — not how fast you clean it up. And the single most important thing you can do right now, before any emergency, is walk to your main water shutoff and test it.
