@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-01
+date: 2026-08-25
 hero_image: /images/posts/how-to-shut-off-water-heater-without-wrecking-anything.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Shutting off a water heater is a basic homeowner skill anyone can learn in five minutes. The key is doing it in the right sequence — for gas units, turn off the thermostat or gas control before shutting off the water supply. For electric units, cut the breaker before draining to prevent running elements dry."
   - q: "How long does the whole shutdown take?"
     a: "The shutdown itself takes under 5 minutes once you know where your controls are. Restarting takes longer: electric heaters need to fill completely before turning on the breaker, and gas heaters require relighting the pilot — allow 15 to 30 minutes for a full restart."
-draft: true
+draft: false
 ---
 
 Knowing how to shut off your water heater is a basic homeowner skill that can prevent serious damage in an emergency and save you from unnecessary service calls. Whether you are dealing with a leak, leaving for vacation, or prepping for maintenance, the shutdown process is straightforward — but the order of operations matters, especially with gas units where doing things in the wrong sequence creates safety risks.
