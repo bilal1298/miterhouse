@@ -8,7 +8,7 @@ tags:
   - cabinets
   - electrical
   - plumbing
-date: 2026-07-19
+date: 2026-08-27
 hero_image: /images/posts/the-real-deal-on-water-damaged-cabinets.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner assessing water damage in a basement with a moisture meter pressed against a damp wall, dehumidifier running, and water stains visible on the lower portion of the drywall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Drying, staining, and refinishing a cabinet with surface water damage is beginner-friendly — oxalic acid (wood bleach) removes most water marks, and a single coat of polyurethane seals it. Replacing a cabinet floor panel requires a circular saw and basic woodworking, which is manageable with some patience."
   - q: "What's the most common mistake with water-damaged cabinets?"
     a: "Closing up the cabinet before it is fully dry. Moisture trapped inside particleboard or behind the back panel is where mold colonies start. Use a fan inside the cabinet for 48–72 hours and verify with a moisture meter before refinishing or resealing any surface."
-draft: true
+draft: false
 ---
 
 Water damaged cabinets are one of the most common kitchen and bathroom problems homeowners face, and the repair-or-replace decision comes down to what the cabinets are made of, how long they were wet, and how far the damage has progressed. In many cases, you can salvage cabinets that look terrible on the surface — but in some cases, cabinets that look okay on the outside are structurally compromised and need replacing. Here is how to tell the difference.
