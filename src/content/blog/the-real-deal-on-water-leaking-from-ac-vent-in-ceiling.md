@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-09-22
+date: 2026-08-28
 hero_image: /images/posts/the-real-deal-on-water-leaking-from-ac-vent-in-ceiling.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes — pour a cup of distilled white vinegar down the cleanout port near the air handler, wait 30 minutes, then flush with warm water. For stubborn clogs, a wet/dry vacuum sealed against the exterior drain end clears most blockages in under 5 minutes."
   - q: "How long does it take to fix water leaking from an AC vent?"
     a: "A clogged drain line takes 15–30 minutes to clear. Frozen coil thaw takes 2–4 hours with the fan running. Ductwork insulation or drain pan replacement is a half-day job. The key is acting fast — mold can start within 24–48 hours of water contacting drywall."
-draft: true
+draft: false
 ---
 
 Water dripping from an AC vent in the ceiling means one of a few things: a clogged condensate drain line, frozen evaporator coils, or a ductwork condensation problem. The fix ranges from a 10-minute DIY task to an HVAC service call, but you need to act quickly because water on drywall leads to mold growth within 24–48 hours.
