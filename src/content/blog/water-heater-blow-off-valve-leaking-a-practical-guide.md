@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-10-04
+date: 2026-08-30
 hero_image: /images/posts/water-heater-blow-off-valve-leaking-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes — it is standard 3/4-inch NPT threads, and the replacement takes about 20 minutes with a pipe wrench. Drain 2–3 gallons to drop the water level below the valve, wrap new threads with 6–8 turns of Teflon tape, and reinstall. Match the pressure rating on your old valve. The discharge pipe must be reconnected before you restore water and power."
   - q: "What's the most dangerous thing people do with a leaking T&P valve?"
     a: "Cap it, plug it, or install a valve on the discharge pipe to stop the dripping. The T&P valve is the only pressure safety device on the tank. Blocking it creates a potential tank rupture under pressure — a genuinely catastrophic failure. If the valve leaks, diagnose and fix the root cause (high pressure, thermal expansion, failed valve) rather than silencing it."
-draft: true
+draft: false
 ---
 
 The blow off valve on your water heater — properly called the temperature and pressure relief valve, or T&P valve — is the most important safety device on the unit. When it leaks, it is either doing its job (releasing excess pressure or temperature) or it has failed and needs replacement. The distinction matters because one scenario means your water heater has a dangerous condition that needs correcting, and the other means you need a $15 part and 20 minutes.
