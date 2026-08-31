@@ -7,7 +7,7 @@ tags:
   - tools
   - building-materials
   - installation
-date: 2026-08-27
+date: 2026-08-31
 hero_image: /images/posts/smart-home-system-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner's tool belt and safety gear laid out on a workbench including safety glasses, ear protection, work gloves, a dust mask, and a loaded tool belt. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "For most DIY smart home work: a cordless drill/driver, a voltage tester (non-contact type, $15–$30), wire strippers, a screwdriver set, and a stud finder. If running low-voltage wire through finished walls, add a fish tape or flex bit. Smart switches require a neutral wire at the switch box — check with a voltage tester before buying; older homes often lack this."
   - q: "What's the most important foundation to get right first?"
     a: "Your Wi-Fi network. No smart device performs reliably on a weak or congested network. For homes over 1,500 square feet, a mesh Wi-Fi system (Eero, TP-Link Deco) costing $200–$500 is the single best investment before adding smart devices. Putting IoT devices on a separate guest network is also good security hygiene — worth the 10-minute setup."
-draft: true
+draft: false
 ---
 
 Smart home systems range from a single smart thermostat you install in 20 minutes to whole-home automation networks that take professional integrators weeks to configure. The question of DIY versus hiring out depends entirely on what you are installing, how deep you want to go, and whether you need the system to work flawlessly from day one.
