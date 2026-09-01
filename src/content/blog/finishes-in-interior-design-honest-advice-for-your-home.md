@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - home-improvement
-date: 2026-11-01
+date: 2026-09-01
 hero_image: /images/posts/finishes-in-interior-design-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of color-coded material samples arranged on a table including tile samples, paint swatches, flooring pieces, and hardware options, with price tags visible on each. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Selecting finishes is more about research and samples than trade skills — anyone can do it. Getting a proper finish paint job or tile installation is harder. Paint is the most forgiving DIY finish; tile and countertop work benefit from professional installation."
   - q: "What's the most common finish selection mistake?"
     a: "Choosing trendy over timeless, especially for flooring and countertops. Zellige tile and ultra-glossy black hardware look striking in photos but can feel dated within five years. Neutral floors, quartz or granite countertops, and consistent metal tones hold value far longer."
-draft: true
+draft: false
 ---
 
 Finishes are the surfaces you see and touch in every room — paint, tile, countertops, flooring, hardware, fixtures, and trim. They account for 30–50% of most renovation budgets, and the choices you make here determine whether a room feels cheap or intentional, regardless of what you spent. Here's the full pricing reference for every major finish category, with editorial takes on where the money matters and where it doesn't.
