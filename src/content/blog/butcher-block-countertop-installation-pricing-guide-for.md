@@ -8,7 +8,7 @@ tags:
   - kitchen-remodel
   - installation
   - cost-guide
-date: 2026-11-09
+date: 2026-09-02
 hero_image: /images/posts/butcher-block-countertop-installation-pricing-guide-for.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A circular saw with a 60–80 tooth blade, jigsaw for sink cutouts, bar clamps for corner joints, and a router if you want miter bolt channels for L-shaped runs. Finishing takes sandpaper in 120/150/220 grits and your chosen oil or Waterlox."
   - q: "How long does butcher block installation take?"
     a: "A single straight run installs in a half day once acclimated (48–72 hours). An L-shaped kitchen with a sink cutout takes a full day. The finish requires 3–6 coats in the first month, one coat per day."
-draft: true
+draft: false
 ---
 
 Butcher block countertops cost $40–$100 per square foot installed, making them one of the most affordable solid-surface options and the most DIY-friendly countertop material available. For a standard 35-square-foot kitchen, you're looking at $1,400–$3,500 total — and you can cut that 30–50% by doing the install yourself.
