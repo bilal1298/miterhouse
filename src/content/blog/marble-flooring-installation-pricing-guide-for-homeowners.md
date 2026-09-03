@@ -9,7 +9,7 @@ tags:
   - kitchen-remodel
   - installation
   - cost-guide
-date: 2026-11-07
+date: 2026-09-03
 hero_image: /images/posts/marble-flooring-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "Installing marble tile requires a wet saw with a continuous-rim diamond blade (not a segmented blade — it chips marble edges), a notched trowel for white thinset, tile leveling clips for large-format tiles, a rubber mallet, and a grout float. You will also need a penetrating stone sealer and application pad before and after grouting."
   - q: "How long should I expect this project to take?"
     a: "A professional tile setter installs roughly 50–75 square feet of marble per day, slower than ceramic because each tile requires individual back-buttering and thickness compensation. A 200-square-foot room takes 2 to 3 days for setting plus one day for grouting and sealing. Allow 72 hours after grouting before foot traffic."
-draft: true
+draft: false
 ---
 
 Marble floor tile installation runs $15 to $40 per square foot fully installed, putting a 200-square-foot room in the $3,000–$8,000 range. The wide spread comes from tile quality (Carrara runs half the cost of Calacatta), tile size (large-format costs more to install), and subfloor conditions. Marble is one of the most beautiful flooring options available, but it's also one of the most demanding in terms of proper installation. Cut corners here and you'll see cracking, lippage, and staining within the first year.
