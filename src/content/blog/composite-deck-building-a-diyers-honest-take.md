@@ -7,7 +7,7 @@ tags:
   - deck-building
   - outdoor-projects
   - landscaping
-date: 2026-08-12
+date: 2026-09-05
 hero_image: /images/posts/composite-deck-building-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Same tools as a wood deck — circular saw, drill/driver, level, string line — plus a few extras: a miter saw with a fine-tooth carbide blade (60+ teeth for clean cuts), the manufacturer's hidden fastener tool, and joist tape ($15–$30/roll) for protecting the pressure-treated framing underneath."
   - q: "How long does a DIY composite deck take to build?"
     a: "A 300-square-foot composite deck takes 7–10 days of active work spread over 4–6 weekends. Permits add 2–4 weeks upfront. Hidden fastener installation runs about 20% slower than face screwing — plan accordingly, but the cleaner result is worth the time."
-draft: true
+draft: false
 ---
 
 Composite decking costs 40–60% more than pressure-treated wood for the surface material, but the framing underneath is identical either way — same pressure-treated joists, beams, and posts. That means the actual premium is narrower than most people think, and the decision comes down to one question: how long are you keeping this deck?
