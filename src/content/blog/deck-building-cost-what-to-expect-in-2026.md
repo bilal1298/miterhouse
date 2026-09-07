@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - cost-guide
-date: 2026-08-10
+date: 2026-09-07
 hero_image: /images/posts/deck-building-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Choosing composite decking and railing without realizing railings account for 20–30% of total cost. Composite railing runs $25–$60/linear foot versus $15–$30 for wood. On a 300-square-foot deck with 52 linear feet of railing, that upgrade alone adds $500–$1,500."
   - q: "When's the best time to build a deck?"
     a: "Schedule the contractor in winter (November–February) for the best pricing — deck builders are slowest then. Buy lumber in late fall for 10–20% savings on pressure-treated wood. Build in late spring or early fall for optimal weather and proper sealer cure time."
-draft: true
+draft: false
 ---
 
 Building a deck in 2026 costs $15 to $45 per square foot professionally installed — $4,500 to $13,500 for a standard 300-square-foot deck. The material you choose drives the biggest swing: pressure-treated wood sits at the low end, composite occupies the middle, and hardwood or PVC reaches the top. Labor, footings, railings, and permits account for roughly half the total regardless of decking material.
