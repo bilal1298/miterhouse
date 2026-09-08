@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-10-01
+date: 2026-09-08
 hero_image: /images/posts/replacing-local-contractors-window-what-it-costs-and-takes.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Verify their state contractor license through your state licensing board's online lookup. Call the insurance carrier on their Certificate of Insurance to confirm the policy is active — not just that a certificate was issued. Ask for references from projects in the last 12 months, not career highlights. Drive by past installations if possible and check exterior caulk lines and trim fit."
   - q: "What's the most common mistake when comparing local bids?"
     a: "Comparing total prices without comparing scope. Build a spreadsheet with every window's brand, U-factor, SHGC, installation type, and labor warranty side by side. The cheapest bid often excludes items the middle bid includes — like proper flashing, interior trim restoration, or permit fees. A $1,500 difference often disappears once you add what the low bid excluded."
-draft: true
+draft: false
 ---
 
 Local window replacement contractors consistently deliver better value than national chains for most homeowners. They have lower overhead, price more competitively, and often provide more attentive service because your referral matters to their business. The challenge is separating the excellent local contractors from the unreliable ones — there is no national brand reputation doing the vetting for you.
