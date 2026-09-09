@@ -8,7 +8,7 @@ tags:
   - drywall
   - home-repair
   - painting
-date: 2026-07-22
+date: 2026-09-09
 hero_image: /images/posts/drywall-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall seams using a wide taping knife to smooth joint compound over paper tape, with a hawk in the other hand, bare drywall sheets visible, and sanding dust in the air. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Small repairs — nail holes, doorknob patches — take 20 minutes of active work spread over two days for drying between coats. A medium patch (4–6 inches) takes 30–60 minutes of active work over 3–4 days. Drying time between thin coats is unavoidable; rushing with thick coats causes cracking."
   - q: "Why does my drywall patch show through paint?"
     a: "Three causes: compound wasn't feathered wide enough (creates a visible hump), texture doesn't match the surrounding wall, or you skipped PVA primer (compound absorbs paint differently, causing matte 'flashing'). The feathering issue is the most common — extend compound 6–8 inches beyond the patch edge on each side."
-draft: true
+draft: false
 ---
 
 A nail pop costs $0.10 in spackle and 2 minutes of your time. A ceiling texture match costs $400+ through a contractor and requires equipment most homeowners don't own. Between those extremes sits every other drywall repair, and the right call depends on exactly three things: damage type, location (wall vs. ceiling), and whether the surface is smooth or textured.
