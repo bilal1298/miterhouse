@@ -8,7 +8,7 @@ tags:
   - water-damage
   - drywall
   - painting
-date: 2026-10-19
+date: 2026-09-11
 hero_image: /images/posts/water-stains-on-drywall-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshly painted with a roller applying warm gray paint to one wall, crisp blue painter's tape along the trim, a drop cloth on the hardwood floor, and a paint tray nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Yes — if the drywall is structurally sound (firm when pressed, no mold), a coat of shellac-based primer like Zinsser BIN followed by two coats of ceiling or wall paint handles most stains. The common beginner mistake is using regular latex primer, which will let tannins and minerals bleed through within days."
   - q: "How long does drywall need to dry before priming a water stain?"
     a: "Until a moisture meter reads below 1 percent for drywall — surface-dry is not dry enough. Depending on ventilation, a fan blowing into the area, and a dehumidifier, this typically takes 3–5 days for moderate damage. Priming over damp drywall traps moisture and accelerates mold growth behind the paint."
-draft: true
+draft: false
 ---
 
 Water stains on drywall are your home telling you something went wrong — and the brown ring or discolored patch you see is just the symptom, not the disease. Before you paint over it, prime over it, or cut it out, you need to find and stop the water source. That single step determines whether this is a $20 fix or a $2,000 problem.
