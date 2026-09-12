@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-02
+date: 2026-09-12
 hero_image: /images/posts/honeywell-hot-water-heater-no-status-light-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes — turn off gas, remove the burner assembly (2–4 screws), swap the thermopile, and reinstall. The whole job takes about 45 minutes. Match the thermopile model to your water heater; bring the old one to the hardware store to confirm compatibility."
   - q: "What's the most common mistake when troubleshooting a Honeywell no-status-light problem?"
     a: "Assuming the gas control valve has failed without testing the thermopile first. The gas control valve ($100–$250) is expensive; a thermopile ($15–$40) is cheap. Always test thermopile voltage with a multimeter before replacing anything else — 400+ millivolts means the thermopile is fine and the gas control itself needs attention."
-draft: true
+draft: false
 ---
 
 A dead status light on your Honeywell water heater points to a failed thermopile about 80% of the time — a $15 to $40 part that takes under an hour to swap. The gas control valve ($100 to $250) is the other possibility, but you should never replace it before testing the thermopile with a $15 multimeter.
