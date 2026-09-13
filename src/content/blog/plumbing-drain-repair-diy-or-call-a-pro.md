@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-09-23
+date: 2026-09-13
 hero_image: /images/posts/plumbing-drain-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "An $80 to $120 toolkit covers most drain problems: a flange plunger ($8–$12), 25-foot hand snake ($25–$40), channel-lock pliers ($15–$25), and a pipe wrench for threaded cleanout plugs. For branch line clogs, a 50-foot hand snake extends your reach. PVC joint repairs also need a pipe cutter, primer, and PVC cement."
   - q: "How do I know if a drain problem is DIY or professional territory?"
     a: "A single slow drain is almost always a DIY fix in the trap or first 5 feet of pipe. Multiple slow drains on the same floor point to a branch line — still potentially DIY with a snake from a cleanout. When every drain in the house is slow or backing up, that's the main sewer line, which requires professional equipment and camera inspection to diagnose properly."
-draft: true
+draft: false
 ---
 
 Drain problems range from a 5-minute fix with a plunger to a $10,000 sewer line replacement, and the difference between those extremes depends on where the clog or damage is, what your pipes are made of, and how long the problem has been developing. The good news: most residential drain repairs fall squarely in the DIY-friendly zone if you know how to diagnose the issue first.
