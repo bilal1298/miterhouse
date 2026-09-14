@@ -8,7 +8,7 @@ tags:
   - tile
   - electrical
   - plumbing
-date: 2026-07-18
+date: 2026-09-14
 hero_image: /images/posts/water-damage-ceiling-tiles-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a professional installing floor tiles in a spacious room with natural light, using a notched trowel to spread thinset, with tile spacers and a level tool visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Drop ceiling tile replacement is one of the easiest home repairs — push up and angle the tile through the grid, slide in the new one. The harder part is finding matching tiles for older installations, since new tiles next to old ones look noticeably different in color. Replacing the surrounding tiles in the affected section produces a cleaner result."
   - q: "What's the biggest mistake people make with water-damaged ceiling tiles?"
     a: "Installing new tiles before the structure above is fully dry — and before fixing the source. New mineral fiber tiles absorb moisture just as readily as the old ones, so you will see new staining within weeks. Use a moisture meter to confirm the framing reads below 15 percent before putting any tile back."
-draft: true
+draft: false
 ---
 
 Water-stained or damaged ceiling tiles are one of the most visible signs of a moisture problem in your home, and they signal something more important than cosmetics — there is water getting where it should not be. Replacing the tiles without fixing the source is the most common mistake homeowners make. Here is how to handle the problem properly, from diagnosis through repair.
