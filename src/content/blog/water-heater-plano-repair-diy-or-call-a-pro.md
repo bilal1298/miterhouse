@@ -8,7 +8,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-04
+date: 2026-09-15
 hero_image: /images/posts/water-heater-plano-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Flushing sediment (every 6 months given Plano's hard water), replacing anode rods every 2–3 years, swapping electric heating elements, and replacing thermostats are all within DIY range with basic tools. Gas control valve work, gas line modifications, and venting issues should go to a licensed plumber."
   - q: "Why does my Plano water heater need more maintenance than a standard schedule?"
     a: "Lake Lavon water runs 15–22 grains per gallon of hardness. At that level, mineral scale accumulates on heating elements and tank bottoms roughly twice as fast as in soft-water areas. Skip a year of flushing and you can have an inch of calcium scale on the tank bottom — enough to reduce efficiency noticeably and shorten element life to 3–5 years instead of 8–10."
-draft: true
+draft: false
 ---
 
 Water heater problems in Plano, Texas, hit differently than in most cities. The combination of extremely hard water (Plano consistently tests at 15 to 22 grains per gallon), North Texas temperature swings, and the region's expansive clay soils create water heater issues that homeowners in other markets rarely see. Knowing which repairs are safe to tackle yourself and which demand a licensed Plano plumber saves money on the easy fixes and prevents costly mistakes on the complex ones.
