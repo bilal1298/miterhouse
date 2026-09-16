@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-10-03
+date: 2026-09-16
 hero_image: /images/posts/water-heater-smells-like-gas-but-no-leak-honest-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Relighting the pilot, cleaning the burner assembly with compressed air, and replacing an anode rod (for sulfur in the water) are all DIY-safe. Backdrafting vent problems and gas valve seepage require a licensed technician — these involve safety-critical components you should not attempt to repair without proper training and testing equipment."
   - q: "What does it mean if my hot water smells like sulfur but the water heater doesn't smell like gas?"
     a: "That's hydrogen sulfide from bacteria reacting with the magnesium anode rod inside the tank — a water quality issue, not a gas leak. Replace the magnesium anode with an aluminum/zinc rod ($25–$50) and flush the tank with 3% hydrogen peroxide to kill the bacteria."
-draft: true
+draft: false
 ---
 
 If your water heater smells like gas but you cannot find a visible leak with soapy water on the connections, you are dealing with one of several specific situations — and some are more urgent than others. The smell might be a pilot light issue, a burner problem, a vent malfunction, or even a false alarm from a different source entirely. But you need to rule out the dangerous possibilities first before diagnosing the nuisance ones.
