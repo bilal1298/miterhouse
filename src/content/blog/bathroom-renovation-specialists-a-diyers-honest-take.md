@@ -7,7 +7,7 @@ tags:
   - bathroom-remodel
   - bathroom
   - kitchen-remodel
-date: 2026-11-05
+date: 2026-09-17
 hero_image: /images/posts/bathroom-renovation-specialists-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a bathroom mid-renovation with partially installed white subway tile, new fixtures still in packaging nearby, blue painter's tape on the edges, and a level tool resting on the vanity. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes — demo, painting non-tiled walls, and installing accessories like towel bars and mirrors are all homeowner-friendly tasks. Handling those saves $700–$1,900 in labor while leaving waterproofing, tile, and plumbing to the pro."
   - q: "What's the biggest mistake when hiring a bathroom specialist?"
     a: "Not verifying their waterproofing method upfront. A qualified specialist names specific products — Schluter-KERDI, Laticrete Hydro Ban, or RedGard — and explains the process. Vague answers like 'we make sure it's waterproof' are a red flag. A failed membrane costs $5,000–$15,000 to fix."
-draft: true
+draft: false
 ---
 
 A contractor who does nothing but bathrooms will finish your remodel in 2–3 weeks where a general contractor quotes 3–4. They'll nail the waterproofing, the tile layout, and the fixture rough-in because that's all they do, every day. But the moment your project expands beyond the bathroom — a wall comes down, a linen closet gets added from the hallway — the specialist starts subcontracting work they don't regularly handle. And that's where the decision gets interesting.
