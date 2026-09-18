@@ -10,7 +10,7 @@ tags:
   - kitchen
   - installation
   - cost-guide
-date: 2026-09-02
+date: 2026-09-18
 hero_image: /images/posts/kitchen-countertop-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a stone countertop being templated in a mid-renovation kitchen with a fabricator measuring a granite slab against new white cabinets, blue tape marking the cut lines. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -20,7 +20,7 @@ faq:
     a: "Stone countertop installation requires CNC cutting equipment at the fabricator's shop — this is not a DIY project. If you're doing laminate countertops yourself, you need a circular saw, jigsaw, drill, caulk gun, and a belt sander for edge finishing. A miter bolt kit handles corner joints."
   - q: "How long does the countertop process take from start to finish?"
     a: "Standard stone fabrication takes 10 to 14 business days after the template visit. Budget 3 to 6 weeks total from your first quote to installation day — templating happens after cabinets are fully installed, so that sequence drives the timeline more than the fabrication itself."
-draft: true
+draft: false
 ---
 
 Kitchen countertop installation in 2026 costs between $2,000 and $8,000 for most projects, with the national average sitting around $4,500 for a mid-range stone or engineered countertop in a standard-sized kitchen. That number includes material, fabrication, and professional installation but typically excludes plumbing, demolition, and backsplash work — which add another $500 to $1,500 to the total.
