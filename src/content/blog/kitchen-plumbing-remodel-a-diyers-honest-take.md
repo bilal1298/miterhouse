@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - plumbing
-date: 2026-09-06
+date: 2026-09-19
 hero_image: /images/posts/kitchen-plumbing-remodel-a-diyers-honest-take.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A faucet replacement needs basin wrenches (the awkward ones that work in tight spaces under the sink), adjustable pliers, and Teflon tape. Adding a garbage disposal also needs a wire stripper and wire nuts. For supply line swaps, compression fittings require two adjustable wrenches and a pipe cutter. That's your kit for the fixture-level work that makes sense to DIY."
   - q: "How long does kitchen plumbing rough-in take?"
     a: "A plumber's rough-in phase — installing new supply lines, drain lines, vent connections, and stub-outs before drywall — typically takes 1 to 2 days for a standard kitchen. Then comes a 4 to 8 week gap for other trades. The finish phase (faucet, disposal, dishwasher, ice maker) takes half a day to a full day after countertops are installed."
-draft: true
+draft: false
 ---
 
 Kitchen plumbing remodel costs range from $1,500 for a simple fixture swap to $15,000 or more for a full re-pipe with layout changes, and the complexity of plumbing work behind your walls is almost always worse than what you are imagining. Moving a sink 6 inches might mean rerouting drain lines through joists. Adding a pot filler over the range requires running a hot water line across the kitchen. Every change that looks simple on a floor plan has plumbing consequences.
