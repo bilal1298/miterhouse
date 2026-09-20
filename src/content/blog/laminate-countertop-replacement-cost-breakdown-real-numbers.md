@@ -9,7 +9,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - cost-guide
-date: 2026-11-10
+date: 2026-09-20
 hero_image: /images/posts/laminate-countertop-replacement-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of luxury vinyl plank flooring being installed in a bright living room, with click-lock planks being joined together, a utility knife and straightedge nearby, and the transition between old and new flooring visible. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "You need a circular saw (cut laminate face-down to minimize chip-out), jigsaw for sink cutouts, drill for mounting clips, caulk gun, and channel-lock pliers for the plumbing disconnect. A belt sander makes edge finishing cleaner. The miter bolt kit for L-shaped corners is the part most DIYers forget to buy before starting."
   - q: "What's the most common mistake to avoid?"
     a: "Skipping silicone at the corner miter joint is the most expensive laminate countertop mistake. That joint exposes raw particleboard end-grain on both pieces — without sealant, moisture wicks in within weeks and causes the substrate to swell and delaminate at the most visible part of the counter."
-draft: true
+draft: false
 ---
 
 Replacing a laminate countertop runs $400–$2,000 if you're staying with laminate, or $2,000–$6,000+ if upgrading to stone or quartz. The project is one of the fastest and most impactful kitchen upgrades you can make — most replacements take less than a day. Here's a line-by-line breakdown of every cost you'll encounter so there are no surprises on project day.
