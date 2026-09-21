@@ -7,7 +7,7 @@ tags:
   - deck-building
   - outdoor-projects
   - landscaping
-date: 2026-10-27
+date: 2026-09-21
 hero_image: /images/posts/building-a-deck-guide-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Circular saw, drill/driver, post-hole digger or rented auger, concrete mixer (or hand mixing), level, string line, speed square, and safety gear. Budget $300–$600 for purchases and rentals if you don't own these. A miter saw makes cleaner cuts but isn't required."
   - q: "What's the most common deck-building mistake?"
     a: "Missing ledger flashing. The ledger connects your deck to the house, and without Z-flashing above it, water gets behind the board and rots the rim joist over years. It's a $30–$60 fix during construction and a $2,000–$6,000 repair after the fact."
-draft: true
+draft: false
 ---
 
 The number-one cause of structural deck failure isn't cheap lumber or undersized joists — it's missing ledger flashing. A $30 piece of Z-flashing installed during construction prevents water from rotting the rim joist behind the ledger board. Skip it, and you're looking at a $2,000–$6,000 repair in 5–8 years. Every other deck-building decision matters less than getting this one right.
