@@ -9,7 +9,7 @@ tags:
   - landscaping
   - installation
   - cost-guide
-date: 2026-10-08
+date: 2026-09-22
 hero_image: /images/posts/invisible-fence-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "The main tools are an edging tool or flat-blade shovel for burying wire in lawn areas, an angle grinder or concrete saw for crossing driveways ($50/day rental), wire strippers, and waterproof wire connectors. The kit includes training flags, the transmitter, and at least one collar."
   - q: "How long does installation and training take?"
     a: "Wire burial for a typical 1/3-acre lot takes 4 to 6 hours. Dog training is what takes time — two short sessions per day for 2 to 3 weeks is the standard protocol to reliably teach a dog to respect the boundary. Professional installation earns its cost primarily through these included training sessions, not the wire burial."
-draft: true
+draft: false
 ---
 
 An invisible fence (also called an in-ground or underground dog fence) keeps your pet contained without a physical barrier. The system buries a wire around your property perimeter, and a receiver collar on your dog delivers a warning tone followed by a mild static correction if the dog approaches the boundary. Professionally installed, expect to pay $1,000 to $2,500 for a typical residential lot. DIY kits cut that to $200 to $500.
