@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-06
+date: 2026-09-23
 hero_image: /images/posts/privacy-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A post hole auger or rented power auger (essential — hand digging 24–30-inch holes is brutal), a level (4-foot), a string line, a tape measure, a circular saw or miter saw for cutting pickets, and a cordless drill for driving screws. Rent the auger for $50–$100 per day rather than buying it."
   - q: "What's the most common mistake that causes early fence failure?"
     a: "Undersized gate posts. Every gate post should be 6x6 regardless of fence height — gates swing, slam, and bear load in ways regular fence posts don't. Undersized gate posts are the first thing to lean, and a leaning gate post means rebuilding the entire gate section within 3–5 years. The upgrade from 4x4 to 6x6 gate posts costs $20–$30 extra and lasts decades longer."
-draft: true
+draft: false
 ---
 
 A privacy fence does one job that no other fence type does as well: it creates a visual barrier between your property and everything outside it. Whether you want to block a neighbor's sight lines, contain noise from a busy road, or simply create a secluded backyard space, the privacy fence is the solution — but material choice, height, and installation quality determine whether that barrier lasts 10 years or 25.
