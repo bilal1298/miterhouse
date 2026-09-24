@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - installation
-date: 2026-10-12
+date: 2026-09-24
 hero_image: /images/posts/quotes-fence-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Watch for a single line item with no material specification — 'wood fence, 300 LF, $8,500' tells you nothing about post size, post depth, rail count, or wood species. Get quotes that specify 4x4 vs. 6x6 posts, post hole depth, number of rails, and whether concrete is included. If one quote is 40% below the others with no explanation, materials or post depth are being cut."
   - q: "What's the most cost-effective way to negotiate a lower price?"
     a: "Offer to schedule during the fall or winter slow season — fence companies are busiest April through August and often discount 5–15% for filling gaps in slower months. Offering a neighbor the same project along a shared property line is another legitimate strategy; the contractor gets a bigger job with minimal extra mobilization and can price both homeowners better as a result."
-draft: true
+draft: false
 ---
 
 Getting quotes for a fence installation that you can actually compare requires preparation on your end. Most homeowners get three wildly different numbers from three different companies and have no idea which one represents the best value because the quotes are not apples-to-apples. The scope is different, the materials are described differently, and key details are missing from at least one of them.
