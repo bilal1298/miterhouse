@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - installation
-date: 2026-10-11
+date: 2026-09-25
 hero_image: /images/posts/residential-fence-installation-guide-diy-or-hire-out.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A rented power auger ($50–$100/day) is essential — hand-digging 30-inch post holes through clay or rocky soil is not realistic for more than a few posts. Beyond that: a 4-foot level, 25-foot tape measure, string line and stakes, circular saw, cordless drill with bits, and safety glasses and gloves. For post setting, two bags of 80-pound fast-setting concrete per post and a mixing bucket. Everything except the auger is standard homeowner tool inventory."
   - q: "What's the most common mistake to avoid?"
     a: "Not calling 811 before digging. It is required by law in every US state, it is free, and buried utilities are marked within two business days. Hitting a gas line is a safety emergency; hitting a cable or phone line triggers immediate repair billing. The second most common mistake is setting line posts before corner posts have cured — if corner posts shift during cure, the whole fence line shifts with them. Set corners first, wait 24 hours, then align and set the rest."
-draft: true
+draft: false
 ---
 
 A residential fence serves three purposes: defining your property boundary, providing privacy or security, and adding curb appeal. Getting the installation right affects all three for the next 15 to 25 years. Whether you build it yourself or hire a contractor, the fundamentals are the same: proper post setting, correct materials for your climate, and compliance with local codes.
