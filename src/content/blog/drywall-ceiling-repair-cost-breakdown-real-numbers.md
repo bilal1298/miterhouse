@@ -9,7 +9,7 @@ tags:
   - home-repair
   - painting
   - cost-guide
-date: 2026-10-18
+date: 2026-09-26
 hero_image: /images/posts/drywall-ceiling-repair-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall seams using a wide taping knife to smooth joint compound over paper tape, with a hawk in the other hand, bare drywall sheets visible, and sanding dust in the air. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "Texture matching and full-ceiling repainting. A $200 patch becomes a $500–$800 project once you add retexturing for uniformity and repainting because ceiling white yellows with age. Use a raking light (flashlight held flat against the ceiling) before signing off — it catches ridges invisible under normal lighting."
   - q: "Can I patch just the damaged section without repainting the whole ceiling?"
     a: "Only on smooth, white ceilings painted within the last 2–3 years. Older ceilings yellow unevenly, so a fresh patch of Benjamin Moore ceiling white next to 8-year-old ceiling white will show. On textured ceilings, the texture boundary is almost always visible too."
-draft: true
+draft: false
 ---
 
 A $200 ceiling patch becomes a $700 project the moment you factor in texture matching and full-ceiling repainting. The drywall repair itself — cutting, backing, taping, mudding — is the predictable part. The cost surprise hits when the new compound won't match the existing knockdown pattern, or when fresh ceiling white sits next to paint that's been yellowing for a decade.
