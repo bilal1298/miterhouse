@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-07-25
+date: 2026-09-28
 hero_image: /images/posts/heat-pump-air-conditioner-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of an HVAC technician servicing a home system with the furnace panel open, a multimeter checking connections, refrigerant gauges visible, and the homeowner watching from the doorway. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Replacing the air filter monthly, keeping the outdoor unit clear of debris, pouring a cup of white vinegar into the condensate drain every few months, and cleaning the condenser fins with a garden hose. These simple habits prevent the majority of service calls."
   - q: "How long does a heat pump repair take?"
     a: "Most diagnostic and repair visits take 1–3 hours. Refrigerant leak repair takes longer because the system must be evacuated, pressure-tested, repaired, and recharged — a process that runs 2–4 hours and requires a licensed HVAC technician with EPA 608 certification."
-draft: true
+draft: false
 ---
 
 Heat pump air conditioner repairs range from simple filter changes you can do in five minutes to refrigerant-related problems that require a licensed HVAC technician and can cost $300 to $1,500 or more. Understanding which category your problem falls into saves you from overpaying for simple fixes or, worse, attempting repairs that require professional certification.
