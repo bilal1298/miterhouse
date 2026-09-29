@@ -8,7 +8,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-09-26
+date: 2026-09-29
 hero_image: /images/posts/home-water-pump-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner reading a how-to guide on a tablet in a utility room with exposed pipes and an electrical panel visible, a flashlight and basic tools nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A tire pressure gauge (to check the pressure tank's air charge), a non-contact voltage tester, and a multimeter. Most pump diagnostics are pressure readings and basic electrical checks — you don't need specialized plumbing tools for the diagnostic phase."
   - q: "How much does well pump replacement cost vs. simpler repairs?"
     a: "A pressure switch replacement costs $15–$40 in parts and 30 minutes of work. A pressure tank replacement runs $150–$400. A submersible pump replacement — which requires a well truck to pull the pump from 100–400 feet down — costs $1,000–$3,000 installed. Most 'pump problems' are actually switch or tank problems."
-draft: true
+draft: false
 ---
 
 Most homeowners who think their well pump died are about to spend $1,000 to $3,000 on a problem that a $15 pressure switch would have fixed. The pump is the last component you should suspect — it's buried 100 to 400 feet underground and built to last 15 to 25 years. The pressure switch, pressure tank, and check valve fail far more often and cost far less to replace.
