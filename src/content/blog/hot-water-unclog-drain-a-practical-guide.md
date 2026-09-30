@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-11-11
+date: 2026-09-30
 hero_image: /images/posts/hot-water-unclog-drain-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Only for metal pipes. PVC drains — the standard in homes built after 1980 — are rated for 140°F continuous use. Boiling water at 212°F can soften joints and loosen connections, especially at the trap. For PVC, use the hottest water from your tap rather than boiling water off the stove."
   - q: "When should I call a plumber for a clogged drain?"
     a: "If three rounds of hot water, a plunger, and removing the P-trap don't restore flow, the clog is likely deeper in the main drain line. A plumber's basic snake service costs $150–$250 and reaches 25–50 feet into the drain line — worth it before renting a power auger yourself."
-draft: true
+draft: false
 ---
 
 Pour boiling water down a slow kitchen drain and you'll fix it about a third of the time. That's the honest success rate — hot water dissolves grease, soap scum, and minor organic buildup, but it does nothing for hair, mineral scale, or solid objects. And if you have PVC pipes (most homes built after 1980), boiling water at 212°F can soften joints and loosen cement connections, turning a $0 fix into a $500 plumbing repair.
