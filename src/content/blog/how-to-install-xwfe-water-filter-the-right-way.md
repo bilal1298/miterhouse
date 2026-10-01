@@ -8,7 +8,7 @@ tags:
   - installation
   - electrical
   - plumbing
-date: 2026-09-23
+date: 2026-10-01
 hero_image: /images/posts/how-to-install-xwfe-water-filter-the-right-way.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner reading a how-to guide on a tablet in a utility room with exposed pipes and an electrical panel visible, a flashlight and basic tools nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "None — this is a completely tool-free installation. You need the new filter, a towel for the small water drip when removing the old one, and a container to catch the first couple cups you flush through. The whole job is turning the filter and pressing a reset button."
   - q: "Why does my fridge not recognize the new XWFE filter?"
     a: "Almost always the RFID chip — either the aftermarket filter doesn't include one, or the chip isn't seated flat against the filter cap. Try removing the filter, pressing the chip firmly into place, and reinstalling. If your replacement lacks a chip entirely, you can carefully peel the chip from the old filter and transfer it to the new one."
-draft: true
+draft: false
 ---
 
 Installing a GE XWFE water filter takes about five minutes once you know the trick — and there is a trick. The XWFE uses a chip-based authentication system that trips up a lot of first-timers, but the actual physical installation is one of the simplest appliance maintenance tasks you can do.
