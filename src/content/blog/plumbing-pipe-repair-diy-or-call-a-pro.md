@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-06-16
+date: 2026-10-02
 hero_image: /images/posts/plumbing-pipe-repair-diy-or-call-a-pro.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "An adjustable wrench (10-inch), channel-lock pliers, a pipe wrench for stubborn threaded connections, Teflon tape, a hacksaw or tubing cutter, a flange plunger, and a 25-foot hand drain snake cover about 90% of DIY pipe work. For temporary pinhole fixes, keep an epoxy pipe repair kit and a pipe repair clamp on hand — both under $20 and invaluable in an emergency."
   - q: "When does the cost math favor hiring a plumber over DIY?"
     a: "When the pipe is behind a finished wall, under a slab, or on the main water or sewer line. For those situations, the professional's tools, speed, and insurance protection make them the better value even on tasks that look simple — the cost of water damage from a failed DIY repair far exceeds any typical plumber bill."
-draft: true
+draft: false
 ---
 
 Most plumbing pipe repairs fall into two categories: ones you can absolutely handle with basic tools and a trip to the hardware store, and ones that will flood your house if you get them wrong. Knowing the difference before you start saves you money, time, and potentially thousands in water damage.
