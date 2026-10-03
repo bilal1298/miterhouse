@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-16
+date: 2026-10-03
 hero_image: /images/posts/preventing-water-damage-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner assessing water damage in a basement with a moisture meter pressed against a damp wall, dehumidifier running, and water stains visible on the lower portion of the drywall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "The monthly 10-minute walkthrough and quarterly sump pump test described in this article require zero special skills — just knowing where to look. Replacing rubber washing machine hoses with braided steel takes 15 minutes and $20 in parts, and is a good first plumbing task for beginners."
   - q: "What's the most common mistake to avoid?"
     a: "Failing to test shutoff valves annually is the biggest one. A valve that has not been operated in years often seizes open, which means you cannot stop water flow during an emergency. Test each valve by turning it off and confirming water stops — the 5 minutes you spend now is the difference between a wet floor and a destroyed ceiling."
-draft: true
+draft: false
 ---
 
 Preventing water damage comes down to three things: controlling where water goes outside your home, maintaining the systems that carry water inside your home, and catching small leaks before they become big problems. A homeowner who spends $300 to $500 per year on these prevention tasks avoids the average $12,000 to $15,000 water damage claim. The return on investment is hard to beat.
