@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-06-19
+date: 2026-10-04
 hero_image: /images/posts/sewer-plumbing-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Everything from your foundation to the street connection is your responsibility. Tree root intrusion and bellied pipe are the two most common causes in residential sewer lines. Root cutting costs $200–$600 but needs repeating every 1–3 years; pipe lining at $4,000–$8,000 permanently seals the issue. Bellied pipe always requires excavation — lining cannot fix a grading problem."
   - q: "How long does sewer line repair take?"
     a: "Hydro-jetting and camera inspection are same-day jobs. Pipe lining typically takes 1–2 days once the contractor is on site. Traditional excavation and pipe replacement runs 1–3 days for the repair itself, plus additional time for landscaping restoration, driveway or sidewalk repairs, and final inspection before the trench can be backfilled."
-draft: true
+draft: false
 ---
 
 Sewer plumbing repair is one of the most expensive and disruptive home repairs you can face, ranging from a $200 drain cleaning to a $15,000 full line replacement. The good news is that a $150 to $300 camera inspection will tell you exactly what you are dealing with before anyone starts digging. Never authorize major sewer work without one.
