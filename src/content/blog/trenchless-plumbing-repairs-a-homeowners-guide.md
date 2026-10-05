@@ -7,7 +7,7 @@ tags:
   - home-repair
   - electrical
   - plumbing
-date: 2026-09-24
+date: 2026-10-05
 hero_image: /images/posts/trenchless-plumbing-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "The plumber feeds a sewer camera through a cleanout and records the entire line, noting damage locations, joint offsets, root intrusion, and any collapsed sections. That footage is what tells you whether trenchless is viable — a completely collapsed pipe with no continuous path cannot be lined or burst. The inspection costs $150–$400 and is worth every dollar."
   - q: "How long does trenchless sewer repair take?"
     a: "Most residential trenchless jobs complete in 1–2 days: one day for cleaning, liner prep, and installation, and another for curing and final camera inspection. That compares favorably to traditional excavation, which typically runs 3–5 days or more."
-draft: true
+draft: false
 ---
 
 Trenchless plumbing repair lets you fix or replace underground sewer and water lines without digging up your entire yard. If your plumber just told you the main sewer line needs replacing, this technology could save you thousands in landscape restoration costs and weeks of disruption.
