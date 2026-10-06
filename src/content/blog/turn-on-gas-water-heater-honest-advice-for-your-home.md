@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-10-04
+date: 2026-10-06
 hero_image: /images/posts/turn-on-gas-water-heater-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "A standard 40-gallon tank takes 30–40 minutes to heat from cold after the burner fires. A 50-gallon tank takes 40–50 minutes. If the house has been vacant and the water is fully cold, run a hot tap for 1 minute first to flush stale water from the lines."
   - q: "When should I call a pro instead of relighting the water heater myself?"
     a: "Call a licensed plumber or HVAC tech if you smell gas and can't identify the source, if the vent pipe is disconnected or crushed, if you see scorch marks or melted components, or if this is a brand-new installation that's never been tested by a professional."
-draft: true
+draft: false
 ---
 
 Turning on a gas water heater is something most homeowners need to do at some point — after a move-in, a power outage, seasonal shutdown, or after the pilot light has gone out. The process takes about 10 minutes, requires no tools, and is well within any homeowner's ability. But there are safety steps that matter, and skipping them is how people get hurt or damage the unit.
