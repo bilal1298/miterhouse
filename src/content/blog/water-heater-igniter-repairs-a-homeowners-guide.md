@@ -8,7 +8,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-07-01
+date: 2026-10-07
 hero_image: /images/posts/water-heater-igniter-repairs-a-homeowners-guide.webp
 hero_image_prompt: "A photorealistic photograph of a new tank water heater being installed in a utility closet, with copper supply lines being connected, a pipe wrench in use, and the old unit visible nearby waiting for removal. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Adjustable wrench and needle-nose pliers for a piezo igniter swap — that's it. A hot surface igniter replacement also needs a screwdriver and your owner's manual to identify the correct model-specific part. Handle HSI elements only by the ceramic base; touching the heating element with bare hands deposits oils that create hot spots and cause early failure."
   - q: "What's the most common water heater igniter diagnosis mistake?"
     a: "Replacing the igniter when the actual problem is a bad thermocouple. If the pilot lights but goes out when you release the control knob, the igniter is fine — the thermocouple is not holding the gas valve open. A thermocouple costs $10–$25 and is the more common failure between the two. Diagnose before ordering parts."
-draft: true
+draft: false
 ---
 
 When your gas water heater will not light, the igniter is the first suspect — and in about 60% of cases, it is the actual culprit. A failed igniter means no hot water, and while the repair is often straightforward enough for a handy homeowner, understanding what is actually broken and what it takes to fix it saves you from unnecessary part purchases and potential safety mistakes.
