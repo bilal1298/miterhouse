@@ -7,7 +7,7 @@ tags:
   - tools
   - building-materials
   - installation
-date: 2026-08-26
+date: 2026-10-08
 hero_image: /images/posts/how-to-install-compression-fitting-the-right-way.webp
 hero_image_prompt: "A photorealistic photograph of a collection of essential home improvement tools arranged neatly on a workshop table — cordless drill, circular saw, level, speed square, utility knife, and safety glasses. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Compression fitting projects need two adjustable wrenches (or open-end wrenches matched to the fitting size), a pipe cutter or hacksaw, deburring tool, and possibly Teflon tape or pipe dope depending on the application."
   - q: "What's the most common mistake to avoid?"
     a: "Over-tightening is the most common compression fitting mistake. The correct technique is hand-tight plus 1/2 to 3/4 turn with a wrench — not cranked down as hard as possible. Over-tightening deforms the ferrule beyond its design limits and creates leaks rather than preventing them."
-draft: true
+draft: false
 ---
 
 Compression fittings are one of the most reliable and DIY-friendly ways to connect copper, brass, or chromed supply tubes in residential plumbing. They create a watertight seal without soldering, threading, or special tools. If you are connecting a supply line to a shut-off valve, hooking up a faucet, or making a repair on a copper water line, compression fittings are likely your best option. Here is how they work and how to install them correctly.
