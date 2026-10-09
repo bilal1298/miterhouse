@@ -8,7 +8,7 @@ tags:
   - cost-guide
   - budget-renovation
   - installation
-date: 2026-08-19
+date: 2026-10-09
 hero_image: /images/posts/ac-condenser-installation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a clipboard with a renovation cost estimate on a workbench next to a tape measure, pencil, and material samples, with a partially renovated room visible behind. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "No. AC condenser installation requires EPA Section 608 certification to handle refrigerant, plus specialized gauges, vacuum pumps, and brazing equipment. This is one job where hiring a licensed HVAC contractor is non-negotiable."
   - q: "Should you replace just the condenser or the whole AC system?"
     a: "If the indoor coil and air handler are a different age or refrigerant type, replace everything. Mismatched systems cause compatibility issues, reduced efficiency, and most manufacturers won't warranty a new condenser paired with an old evaporator coil."
-draft: true
+draft: false
 ---
 
 You'll pay $1,500 to $4,500 for a residential AC condenser replacement — $800 to $2,800 for the unit itself and $500 to $1,700 for labor. If you only need the condenser coil swapped inside an existing outdoor unit, costs drop to $500–$1,500 total. But most people saying "condenser replacement" mean the entire outdoor box — compressor, coil, fan, and housing.
