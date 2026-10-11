@@ -8,7 +8,7 @@ tags:
   - budget-renovation
   - installation
   - landscaping
-date: 2026-08-17
+date: 2026-10-11
 hero_image: /images/posts/charge-install-sod-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner sitting at a kitchen table reviewing renovation plans with blueprints spread out, a laptop showing a spreadsheet, paint swatches, and a calculator, natural afternoon light. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A professional crew installs 2,000 square feet in a single day. DIY takes a full weekend for prep and laying. Wait 2–3 weeks before the first mow — tug a corner of sod and feel for firm root resistance. Mowing too early tears the sod off the soil before roots establish."
   - q: "What's the best time of year to install sod?"
     a: "Warm-season grasses (Bermuda, Zoysia, St. Augustine) root fastest in late spring through early summer. Cool-season grasses (Kentucky Bluegrass, Fescue) do best in early fall when soil is still warm but air temperatures are dropping. Avoid peak summer — watering demands are brutal and your water bill can spike $50–$200/month during establishment."
-draft: true
+draft: false
 ---
 
 Sod installation runs $1.00 to $2.50 per square foot fully installed, putting a 2,000-square-foot front yard at $2,000–$5,000 total. The sod itself is only $0.35–$0.85 per square foot — site preparation and labor make up the rest, and that's where budgets quietly balloon.
