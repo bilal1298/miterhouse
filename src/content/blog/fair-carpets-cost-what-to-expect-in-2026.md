@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - home-improvement
-date: 2026-08-18
+date: 2026-10-12
 hero_image: /images/posts/fair-carpets-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a room with new carpet being stretched using a carpet stretcher and knee kicker, with the carpet padding visible at the edges and tack strips along the wall. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Basic carpet installation in a rectangular room is manageable with a knee kicker and carpet stretcher rental, but stairs and pattern matching are genuinely tricky. Most first-timers do one bedroom before deciding whether to DIY the rest or hire out."
   - q: "What's the most common carpet buying mistake?"
     a: "Letting the salesperson talk you into cheap padding to offset the carpet price. Padding under 8-pound rebond density will cause good carpet to mat prematurely. Always specify the padding grade separately from the carpet quote."
-draft: true
+draft: false
 ---
 
 A fair price for carpet in 2026 — material plus professional installation — falls between $3 and $11 per square foot. That means carpeting a 300-square-foot living room runs $900 to $3,300 all-in, depending on the fiber, padding quality, and your local labor market. If your quotes feel too high or suspiciously low, here's where the money actually goes and where stores bury their margin.
