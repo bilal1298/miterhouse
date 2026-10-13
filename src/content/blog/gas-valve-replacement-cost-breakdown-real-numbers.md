@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - cost-guide
-date: 2026-08-18
+date: 2026-10-13
 hero_image: /images/posts/gas-valve-replacement-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of color-coded material samples arranged on a table including tile samples, paint swatches, flooring pieces, and hardware options, with price tags visible on each. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "A quarter-turn ball valve. Ball valves seal more reliably than gate valves, operate with a simple quarter turn, and are now code-required in most jurisdictions. A 3/4-inch brass ball valve rated for natural gas runs $15–$50."
   - q: "What's the most common gas valve emergency?"
     a: "A stuck shut-off valve during a gas leak. Valves that haven't been exercised in years seize open, leaving you unable to stop gas flow in an emergency. The fix is prevention: turn each gas shut-off valve off and on once a year to keep it functional."
-draft: true
+draft: false
 ---
 
 Replacing a gas valve costs between $150 and $600 for the complete job — parts and labor — when done by a licensed plumber or HVAC technician. The valve itself runs $20 to $200 depending on the type and size, with labor making up the bulk of the bill at $100 to $400 for one to two hours of work.
