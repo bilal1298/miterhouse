@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - cost-guide
-date: 2026-08-19
+date: 2026-10-14
 hero_image: /images/posts/how-much-does-pex-repipe-really-cost.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Most professional crews complete a standard 1,500–2,000 sq ft home in 2–4 working days. Slab foundation homes take longer due to tunneling or rerouting through the attic. You'll be without water for portions of days 1 and 2, and intermittently on subsequent days as fixtures are reconnected."
   - q: "Is PEX-A worth the extra cost over PEX-B?"
     a: "PEX-A costs roughly double per foot ($0.75–$1.50 vs. $0.40–$0.90) but is more flexible and uses expansion fittings that maintain full flow diameter. For a whole-house repipe, the total material difference is $150–$400 — not enough to matter. Choose based on what your plumber prefers to work with; their speed with their preferred system saves you more in labor than the tubing difference costs."
-draft: true
+draft: false
 ---
 
 If your home has galvanized steel pipes, they're corroding from the inside right now. The rust you see at joints is the tip of the iceberg — the real damage is the scale narrowing your pipes to a fraction of their original diameter, choking your water pressure a little more each year. And if you have polybutylene pipes (gray, blue, or black flexible tubing marked "PB"), insurance companies are increasingly dropping coverage for homes that still have them. A planned repipe costs $4,000 to $15,000. An emergency repair after a catastrophic pipe failure — with water damage, hotel stays, and remediation — costs multiples of that.
