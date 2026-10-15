@@ -8,7 +8,7 @@ tags:
   - cost-guide
   - budget-renovation
   - installation
-date: 2026-11-03
+date: 2026-10-15
 hero_image: /images/posts/install-surround-sound-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of color-coded material samples arranged on a table including tile samples, paint swatches, flooring pieces, and hardware options, with price tags visible on each. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "For surface-mounted speaker placement, just a tape measure, stud finder, drill, and wire staples. In-wall or in-ceiling wire runs also need a drywall saw, fish tape or fish sticks, and low-voltage mounting brackets. The receiver setup itself requires only a measuring microphone — most modern AV receivers include one for auto-calibration."
   - q: "What's the most common mistake to avoid?"
     a: "Skipping acoustic treatment is the biggest missed opportunity. A well-placed $800 system in a treated room with an area rug, heavy curtains, and a few acoustic panels consistently outperforms a $2,000 system in a room with hardwood floors and bare walls."
-draft: true
+draft: false
 ---
 
 Installing a surround sound system costs between $500 and $6,000+ depending on whether you go with a basic 5.1 setup or a full Dolby Atmos configuration with in-wall and in-ceiling speakers. Professional installation adds $200–$1,500 on top of equipment costs, primarily for running speaker wire through walls and ceilings. Here's exactly where the money goes and where you can save.
