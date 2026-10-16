@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - cost-guide
-date: 2026-08-16
+date: 2026-10-16
 hero_image: /images/posts/replace-concrete-slab-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Small slabs under 100 square feet using bagged concrete mix are feasible for someone comfortable with physical labor. Anything over 200 square feet requires ready-mix delivery coordination and a finishing window of 60–90 minutes — which is unforgiving for a first-timer. You can save money by handling demolition and form-building yourself before the pour crew arrives."
   - q: "What's the most common mistake that leads to early slab failure?"
     a: "Skipping control joints or placing them too far apart. For a 4-inch slab, joints should be cut every 8–12 feet. Without them, concrete shrinks into random, ugly cracks rather than planned straight lines. The second most common mistake is inadequate compaction of the subgrade — a $400 plate compactor rental prevents thousands in slab repairs."
-draft: true
+draft: false
 ---
 
 Replacing a concrete slab costs $6 to $16 per square foot for a standard 4-inch residential slab, including demolition, disposal, and the new pour. For a typical 400 sq ft patio or garage floor, that puts the total between $2,400 and $6,400. The actual number depends on slab thickness, access difficulty, soil conditions, and your local labor market.
