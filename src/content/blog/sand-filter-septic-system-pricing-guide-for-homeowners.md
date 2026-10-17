@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - cost-guide
-date: 2026-11-02
+date: 2026-10-17
 hero_image: /images/posts/sand-filter-septic-system-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of color-coded material samples arranged on a table including tile samples, paint swatches, flooring pieces, and hardware options, with price tags visible on each. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "No. Sand filter septic installation requires a licensed engineer for system design, county health department permits and multiple inspections, and specialized excavation and plumbing contractors. It is not a DIY project in any jurisdiction. What you can do yourself: clear vegetation from the filter bed area, handle any topsoil stripping, and manage your own site access logistics before the contractor arrives."
   - q: "How long should I expect this project to take?"
     a: "From initial perc test to a working system typically takes 2–4 months. The permitting and engineering phase alone ($1,600–$4,600 in soft costs) can take 4–8 weeks depending on your county's workload. Once permits are in hand, actual excavation and installation takes 3–7 days of work on site. The system is typically operational within a week of the final inspection passing."
-draft: true
+draft: false
 ---
 
 A sand filter septic system costs between $7,000 and $18,000 for a complete installation, with most homeowners landing in the $10,000–$15,000 range depending on system size, site conditions, and local permitting requirements. This is significantly more than a conventional gravity-fed septic system ($3,000–$7,000), but it's often the only option when soil conditions or lot constraints rule out a traditional drain field.
