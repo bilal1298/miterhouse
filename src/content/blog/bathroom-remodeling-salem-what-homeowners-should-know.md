@@ -7,7 +7,7 @@ tags:
   - bathroom-remodel
   - bathroom
   - cost-guide
-date: 2026-08-25
+date: 2026-10-18
 hero_image: /images/posts/bathroom-remodeling-salem-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a bathroom mid-renovation with partially installed white subway tile, new fixtures still in packaging nearby, blue painter's tape on the edges, and a level tool resting on the vanity. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Many Salem, MA homes date to the 1800s–early 1900s, meaning likely lead paint, galvanized plumbing, and non-standard framing. Budget 20–30% above standard remodel estimates, and confirm your contractor holds EPA RRP certification before they disturb any painted surfaces."
   - q: "How long does a standard bathroom remodel take in Salem?"
     a: "About 5 weeks of active work, plus 1–2 weeks upfront for permits. Add lead time for contractor availability — good bathroom remodelers in both Salem markets are booked 6–12 weeks out."
-draft: true
+draft: false
 ---
 
 Salem, Oregon and Salem, Massachusetts share a name but almost nothing else when it comes to bathroom remodeling costs. MA runs 15–25% higher thanks to pricier labor and the headaches of working on 1800s-era housing stock. OR is cheaper per square foot but demands aggressive moisture management that adds its own line items. Here's what each market actually looks like.
