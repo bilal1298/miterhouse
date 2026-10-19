@@ -9,7 +9,7 @@ tags:
   - kitchen-remodel
   - installation
   - cost-guide
-date: 2026-11-19
+date: 2026-10-19
 hero_image: /images/posts/concrete-countertop-installation-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a concrete surface being refinished with a worker using a concrete grinder on a patio slab, dust collection hose attached, and freshly ground smooth sections contrasting with the rough original. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "They overlap: concrete runs $65–$135/sq ft installed vs. $55–$150 for quartz. But concrete offers unlimited customization — any shape, color, or embedded material. Quartz offers zero maintenance. If you want something unique and don't mind resealing every 1–3 years, concrete wins. If you want set-and-forget, quartz wins."
   - q: "What's the biggest maintenance commitment with concrete countertops?"
     a: "Resealing every 1–3 years and wiping spills quickly. Wine, coffee, and citrus stain through worn sealer. Concrete also develops hairline cracks near sink cutouts over time — cosmetic, not structural, but part of owning the material. A penetrating sealer looks more natural; a topical sealer protects better but shows wear patterns."
-draft: true
+draft: false
 ---
 
 Concrete countertops cost $65 to $135 per square foot installed by a professional — $2,600 to $5,400 for a 40-square-foot kitchen. That's competitive with granite and quartz on price, but concrete offers something neither can match: every slab is built specifically for your kitchen, in whatever shape, color, thickness, or embedded material you want.
