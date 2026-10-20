@@ -9,7 +9,7 @@ tags:
   - kitchen-remodel
   - installation
   - cost-guide
-date: 2026-08-29
+date: 2026-10-20
 hero_image: /images/posts/granite-countertop-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "A typical kitchen slab run weighs 300–600 pounds and requires a crew and equipment to move safely. Cutting requires a wet saw with a diamond blade that produces hazardous silica dust. One wrong cut on a $2,000 slab means buying another one — the DIY savings disappear fast."
   - q: "How long does granite countertop installation take from start to finish?"
     a: "Three to five weeks total: templating on week one, fabrication over weeks two and three, then installation day. The fabricator can't template until cabinets are fully installed and level, so plan your cabinet installation first and add cabinet lead time to the overall project schedule."
-draft: true
+draft: false
 ---
 
 The biggest waste of money in granite countertops isn't the stone — it's the grade. Homeowners routinely spend an extra $1,500 to $3,000 upgrading from Level 1 to Level 3 granite, and buyers at resale can't tell the difference. They see "granite countertops" on the listing and move on. Granite countertop installation runs $2,000 to $4,500 for a standard kitchen, with the slab itself at $40 to $100 per square foot and professional installation adding $10 to $30 per square foot.
