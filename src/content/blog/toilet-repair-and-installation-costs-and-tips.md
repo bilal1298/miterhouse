@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - installation
-date: 2026-11-04
+date: 2026-10-21
 hero_image: /images/posts/toilet-repair-and-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner measuring cabinet dimensions in a kitchen with a tape measure and notepad, new cabinet samples on the counter, morning light through a window above the sink. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "An adjustable wrench, putty knife, level, new wax ring or wax-free gasket, braided stainless supply line, and toilet shims. A full two-piece toilet weighs 50–80 pounds, so have a second person for the lift. One-piece units run 80–120 pounds."
   - q: "What's the most common toilet installation mistake?"
     a: "Not measuring the rough-in before buying the toilet. The standard is 12 inches from the wall to the drain center, but older homes sometimes have 10-inch or 14-inch rough-ins. A 12-inch toilet on a 10-inch rough-in won't fit the space — measure first, then shop."
-draft: true
+draft: false
 ---
 
 Most toilet repairs cost under $200, and a complete toilet replacement (new toilet plus installation) runs $250–$800 for a standard model or $500–$1,500 for a premium unit. The confusion around toilet costs comes from lumping simple repairs — a $10 flapper replacement — with full bathroom plumbing overhauls. Here's what each scenario actually involves and costs.
