@@ -7,7 +7,7 @@ tags:
   - deck-building
   - outdoor-projects
   - landscaping
-date: 2026-08-09
+date: 2026-10-22
 hero_image: /images/posts/deck-building-calculator-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Run the numbers before getting bids. When one quote is 30% lower than the others, your math tells you whether the low bidder is cutting scope or just more efficient. Ask for itemized quotes and compare joist counts, post counts, and hardware quantities against your own figures."
   - q: "When is a deck calculator actually useful?"
     a: "For a quick ballpark on decking board count and joist count — the two biggest material categories. But always add 20–30% to the calculator's total for the line items it misses: hardware, blocking, flashing, gravel, delivery, and permit fees."
-draft: true
+draft: false
 ---
 
 Most online deck calculators estimate $50–$100 for hardware and fasteners on a 16×20 deck. The real number is $390. That single line item gap explains why calculators consistently underestimate actual project costs by 15–30% — and why homeowners who trust the calculator output end up making mid-project hardware store runs that blow their budget.
