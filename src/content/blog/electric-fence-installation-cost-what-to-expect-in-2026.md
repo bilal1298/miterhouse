@@ -10,7 +10,7 @@ tags:
   - electrical
   - installation
   - cost-guide
-date: 2026-11-14
+date: 2026-10-23
 hero_image: /images/posts/electric-fence-installation-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -20,7 +20,7 @@ faq:
     a: "T-post driver or post pounder, wire tensioners, a digital fence tester ($20–$40), wire connectors, and an insulator for each strand per post. For high-tensile wire, you'll also need in-line tensioners and wire crimps. Most of these are inexpensive and reusable."
   - q: "What's the most common electric fence installation mistake?"
     a: "Undersizing the grounding system. Most DIYers install one ground rod when the system needs three 6-foot rods spaced 10 feet apart. Weak grounding produces weak shocks, and animals quickly learn they can push through a fence that doesn't deliver a convincing deterrent."
-draft: true
+draft: false
 ---
 
 Electric fencing runs $1–$6 per linear foot for materials, making it the cheapest fencing option you can install. A complete 500-foot perimeter — energizer, posts, wire, grounding, and hardware — costs $400–$1,800 for a DIY install. Professional installation doubles that to $1,000–$3,500.
