@@ -7,7 +7,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-27
+date: 2026-10-24
 hero_image: /images/posts/how-to-install-board-and-batten-siding-the-right-way.webp
 hero_image_prompt: "A photorealistic photograph of vinyl siding being installed on a home exterior with a worker snapping panels into the starter strip, a utility knife and tin snips on a scaffold platform, and house wrap visible where siding hasn't been applied yet. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "You'll need a circular saw or miter saw, a nail gun loaded with stainless steel or hot-dipped galvanized ring-shank nails, a level, chalk line, measuring tape, and a caulk gun. For fiber cement, also add a respirator — cutting it creates silica dust."
   - q: "What's the most common mistake to avoid?"
     a: "Fastening through board edges instead of the center is the single most destructive mistake. Center-nailing lets boards expand and contract freely; edge-nailing pins them and causes splits along the nail line when the wood swells in humid weather."
-draft: true
+draft: false
 ---
 
 Board and batten siding consists of wide boards installed vertically with narrow strips (battens) covering the seams between them. Installing it correctly costs between $5 and $12 per square foot for materials alone, or $8 to $20 per square foot installed professionally. For a typical 1,500-square-foot exterior, that puts the total project between $12,000 and $30,000 depending on material choice and labor costs.
