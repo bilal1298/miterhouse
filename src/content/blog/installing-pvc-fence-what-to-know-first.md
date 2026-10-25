@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-06
+date: 2026-10-25
 hero_image: /images/posts/installing-pvc-fence-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "You'll need a post hole digger or auger, level, string line, circular saw with a 60+ tooth fine-tooth blade for cutting PVC, concrete mixer or mixing hose, and a drill. Steel post inserts require a shovel for deep setting in the hole before pouring concrete."
   - q: "What's the most common mistake to avoid?"
     a: "Skipping steel post inserts on privacy fences taller than 5 feet. A hollow PVC post cannot withstand wind loads long-term — it will flex, crack, or lean. Installing galvanized steel post inserts adds only $8–$15 per post and is the difference between a fence that lasts 25 years and one that starts leaning after three."
-draft: true
+draft: false
 ---
 
 PVC fencing has earned its reputation as the set-it-and-forget-it option in residential fencing. Made from the same polyvinyl chloride used in plumbing pipes, it resists rot, insects, and moisture damage without any ongoing treatment. But PVC fencing has quirks that catch first-time installers off guard — thermal expansion, wind load issues, and post reinforcement requirements that wood fence builders may not anticipate. Getting these details right during installation determines whether your fence looks great for 25 years or develops problems within the first two.
