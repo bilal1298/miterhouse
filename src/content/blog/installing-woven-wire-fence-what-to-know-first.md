@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - installation
-date: 2026-11-14
+date: 2026-10-26
 hero_image: /images/posts/installing-woven-wire-fence-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of a cedar privacy fence being built in a suburban backyard, with a post hole digger next to a freshly set post, horizontal rails being nailed, and stacks of pickets leaning against the partially completed fence. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "You'll need a T-post driver, come-along or fence stretcher for tensioning the wire, pliers, wire cutters, post hole digger or auger for corner posts, a level, measuring tape, and heavy leather gloves — woven wire will cut you without them."
   - q: "How long should I expect this project to take?"
     a: "A 200-foot run is a solid full-day project for two people. Setting and bracing four corner posts the day before is the most critical prep step — let the concrete cure 48 hours before stretching wire against them. A professional crew typically installs 500 to 800 linear feet per day."
-draft: true
+draft: false
 ---
 
 Woven wire fencing — sometimes called field fence or farm fence — is one of the most versatile and affordable fencing options for rural and semi-rural properties. It handles livestock containment, garden protection, and property boundary marking at $2 to $5 per linear foot for materials alone, making it roughly half the cost of chain link and a quarter the cost of wood privacy fencing.
