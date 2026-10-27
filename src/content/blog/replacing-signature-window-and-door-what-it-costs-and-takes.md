@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - doors
-date: 2026-06-29
+date: 2026-10-27
 hero_image: /images/posts/replacing-signature-window-and-door-what-it-costs-and-takes.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Yes, always. If one installer does the windows and another does the doors, warranty claims fall into a gray area — each company blames the other for any infiltration or alignment issues at the transitions. A single contractor owns the entire project and cannot point fingers. The combined pricing also runs 10–20% lower per opening than two separate contracts."
   - q: "What's the most common mistake to avoid?"
     a: "Forgetting about the rough opening repairs. When old windows and doors come out, hidden water damage, insect damage, and insulation gaps are nearly universal in homes over 20 years old. Budget an extra $1,000–$3,000 for the project and ask every contractor how they price opening repairs — a contractor who does not mention this possibility has not done much of this work."
-draft: true
+draft: false
 ---
 
 When your home's signature windows and entry doors reach the end of their service life, replacing them together creates an opportunity to improve energy efficiency, curb appeal, and security in a single coordinated project. Tackling windows and doors at the same time also reduces the total cost compared to two separate projects, since you only mobilize one crew and do the finishing work once.
