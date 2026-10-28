@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - cost-guide
-date: 2026-09-14
+date: 2026-10-28
 hero_image: /images/posts/sprinkler-valve-repair-cost-what-to-expect-in-2026.webp
 hero_image_prompt: "A photorealistic photograph of a lawn irrigation system being installed with trenches dug in a front yard, PVC pipe and sprinkler heads being connected, a pipe cutter and glue nearby, and green grass on either side of the trench. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A standard screwdriver and pliers handle solenoid and diaphragm swaps — no special tools required. Full valve replacement (when the body is cracked) requires PVC primer and cement, a pipe cutter, and about 2 hours cure time before pressurizing."
   - q: "What's the most common mistake when repairing sprinkler valves?"
     a: "Replacing the solenoid when the real problem is debris under the diaphragm — or replacing the diaphragm when the actual fault is corroded wire nuts between the controller and the valve. Test the solenoid first, then open the valve bonnet to inspect the diaphragm, and only then trace the wiring."
-draft: true
+draft: false
 ---
 
 Repairing a sprinkler valve costs $75 to $250 for a DIY fix or $150 to $400 when you hire an irrigation technician. Full valve replacement — when repair is not practical — runs $200 to $500 installed. These are small numbers compared to the cost of replacing dead sod or dealing with water damage from a stuck-open valve, so this is not a repair to put off.
