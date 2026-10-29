@@ -7,7 +7,7 @@ tags:
   - wall-repair
   - painting
   - home-improvement
-date: 2026-10-16
+date: 2026-10-29
 hero_image: /images/posts/ceiling-painting-services-a-practical-guide.webp
 hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshly painted with a roller applying warm gray paint to one wall, crisp blue painter's tape along the trim, a drop cloth on the hardwood floor, and a paint tray nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes for standard 8–9 foot flat ceilings in good condition. Roll in one direction, maintain a wet edge, and work perpendicular to the primary light source. Budget 4–5 hours per room versus 2–3 for someone experienced. The biggest pitfall is letting sections dry before blending — that creates visible lap marks you can't spot-fix."
   - q: "Why does my ceiling paint keep peeling?"
     a: "Almost always moisture. In bathrooms, the exhaust fan is undersized or not running during showers — CFM rating should match the room's square footage. In other rooms, check for roof leaks or attic condensation before repainting. Paint over a moisture problem just peels again."
-draft: true
+draft: false
 ---
 
 Ceiling paint punishes bad technique instantly. Drips, roller marks, and uneven coverage that you'd barely notice on a wall are impossible to miss overhead, where raking light hits every imperfection. The actual painting takes a few hours per room — it's the prep and method that separate a clean result from one you'll stare at for years.
