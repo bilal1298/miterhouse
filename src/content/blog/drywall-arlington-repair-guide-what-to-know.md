@@ -8,7 +8,7 @@ tags:
   - drywall
   - home-repair
   - painting
-date: 2026-10-19
+date: 2026-10-30
 hero_image: /images/posts/drywall-arlington-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall seams using a wide taping knife to smooth joint compound over paper tape, with a hawk in the other hand, bare drywall sheets visible, and sanding dust in the air. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Expect 2–4 weeks for non-emergency work in the Northern Virginia market. Group repairs into one visit — most Arlington contractors charge a $200–$350 minimum regardless of scope, so combining several nail pops, a crack, and a small patch into one call cuts your per-repair cost dramatically."
   - q: "Does Arlington County require permits for drywall repair?"
     a: "No permits for cosmetic drywall repairs. If the work involves structural changes, electrical access, or plumbing modification, you'll need permits from Arlington's Department of Community Planning, Housing and Development."
-draft: true
+draft: false
 ---
 
 Drywall repair in Arlington runs $200 to $400 for a basic patch — 20–40% above the national average thanks to Northern Virginia's high labor rates and a contractor pool that stays booked 2–4 weeks out. Add EPA lead compliance costs for pre-1978 homes, and a simple crack repair that costs $175 elsewhere starts at $250 here.
