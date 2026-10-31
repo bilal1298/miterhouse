@@ -7,7 +7,7 @@ tags:
   - wall-repair
   - cost-guide
   - painting
-date: 2026-07-11
+date: 2026-10-31
 hero_image: /images/posts/painting-rooms-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a bright bedroom being freshly painted with a roller applying warm gray paint to one wall, crisp blue painter's tape along the trim, a drop cloth on the hardwood floor, and a paint tray nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Absolutely — room painting is one of the most beginner-accessible home improvement projects. The quality gap between a careful beginner and a pro comes down almost entirely to prep: washing the walls, filling holes, sanding glossy surfaces, and taping carefully. Spend half your total time on prep and the painting itself is straightforward."
   - q: "What sheen should I use in a kids' room or high-traffic hallway?"
     a: "Use eggshell or satin — not flat or matte. Flat paint looks great on a chip but shows every handprint and scuff mark within months in a kids' room or hallway. Satin is easier to wipe clean and only slightly shinier than eggshell. The sheen decision has more practical impact on how long your paint job holds up than brand or price."
-draft: true
+draft: false
 ---
 
 Painting a room yourself costs between $100 and $300 in materials for an average-sized bedroom (10x12 feet), while hiring a professional runs $300 to $800 per room. The wide range depends on ceiling height, the number of windows and doors, wall condition, and whether you are doing a simple color refresh or a dramatic change that requires extra primer coats.
