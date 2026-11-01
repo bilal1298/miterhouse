@@ -7,7 +7,7 @@ tags:
   - water-damage
   - electrical
   - plumbing
-date: 2026-10-07
+date: 2026-11-01
 hero_image: /images/posts/water-heater-pipe-size-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner working under a kitchen sink with a wrench adjusting PVC drain fittings, a flashlight illuminating the work area, plumber's tape and pipe fittings spread on the cabinet floor. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Yes — the connections on top of the water heater are the most accessible plumbing joints in the house. If you are comfortable soldering copper or crimping PEX, replacing the first 3 feet of supply connections is a manageable DIY job at $30–$60 in materials. Gas pipe sizing is a different story — never attempt gas line work without a licensed plumber."
   - q: "What's the most common pipe sizing mistake when replacing a water heater?"
     a: "Converting to a tankless water heater without upsizing the gas supply line. Most tankless units demand 150,000–200,000 BTU/h, but existing gas lines are often sized for a 40,000–50,000 BTU/h tank unit. The new heater will fire, but it will short-cycle and underperform until the gas line is properly upsized."
-draft: true
+draft: false
 ---
 
 The pipe size connecting to your water heater directly affects water pressure, flow rate, and how quickly you get hot water at every fixture in your house. Most residential water heaters use 3/4-inch supply lines, but there are scenarios where that standard size is wrong for your setup, and getting it wrong means either weak pressure or wasted energy.
