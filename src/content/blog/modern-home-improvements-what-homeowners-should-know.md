@@ -7,7 +7,7 @@ tags:
   - home-improvement-cost
   - budget-renovation
   - home-improvement
-date: 2026-08-15
+date: 2026-11-02
 hero_image: /images/posts/modern-home-improvements-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of color-coded material samples arranged on a table including tile samples, paint swatches, flooring pieces, and hardware options, with price tags visible on each. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Attic insulation has a 2–4-year payback through energy savings. Garage door replacement recovers over 100% of its cost at resale per the Cost vs. Value Report. A $150–$300 smart thermostat pays for itself in under two years. In contrast, a high-end kitchen remodel only recovers about 50% — it improves your daily life, but not proportionally to the cost."
   - q: "What modern improvements are actually worth skipping?"
     a: "Swimming pools add less value than they cost to install and maintain in most markets. Premium appliance brands (a $12,000 range) return no more resale value than mid-range stainless. Smart window blinds at $200–$500 per window solve a problem most people do not have. Spend that money on insulation, water management, or a heat pump instead."
-draft: true
+draft: false
 ---
 
 Modern home improvements are less about following trends and more about making targeted upgrades that actually increase your home's value, comfort, and efficiency. The projects that deliver the best returns in 2026 look different from the granite-countertop-and-open-concept playbook of a decade ago. Here is what is genuinely worth your money and attention right now.
