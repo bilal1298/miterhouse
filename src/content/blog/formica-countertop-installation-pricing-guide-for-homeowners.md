@@ -9,7 +9,7 @@ tags:
   - kitchen-remodel
   - installation
   - cost-guide
-date: 2026-11-11
+date: 2026-11-06
 hero_image: /images/posts/formica-countertop-installation-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -19,7 +19,7 @@ faq:
     a: "A router with a laminate trimming bit, a J-roller, contact cement, and a sharp file for edging. The total tool investment runs $75–$150. The trickiest part isn't the tools — it's working methodically because contact cement bonds on contact with no repositioning."
   - q: "How long does Formica countertop installation take?"
     a: "A post-form countertop swap takes 2–4 hours including plumbing disconnect and reconnect. Custom-fabricated Formica has a 1–2 week lead time for fabrication, then 2–4 hours of professional installation. Factor in the gap if you're planning around a kitchen renovation timeline."
-draft: true
+draft: false
 ---
 
 Formica countertop installation costs $400–$2,500 for a standard kitchen, depending on whether you choose a prefabricated post-form countertop or a custom-fabricated Formica surface. Formica is a brand name that's become generic for laminate countertops — like Kleenex for tissues — and as a brand, their product line has evolved significantly. Here's what current Formica products actually cost, how they compare to generic laminate, and what installation involves.
