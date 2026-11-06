@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - bathroom
   - installation
-date: 2026-09-13
+date: 2026-11-06
 hero_image: /images/posts/bathroom-vanity-countertop-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a freshly installed floating bathroom vanity with a white quartz countertop, undermount sink, polished chrome faucet, and the tools used for installation still visible on the floor nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Silicone caulk, a drill/driver, adjustable wrench, level, measuring tape, and possibly a jigsaw for minor trimming. The whole installation takes 2–4 hours for a single vanity once materials are in hand."
   - q: "What's the most common countertop installation mistake?"
     a: "Not checking that the vanity cabinet is level before setting the countertop. An unlevel cabinet causes poor sink drainage and visible gaps at the wall. Shim the vanity first, then dry-fit the countertop before applying any silicone."
-draft: true
+draft: false
 ---
 
 You'll spend $200 to $3,000 on a bathroom vanity countertop depending on material, plus $150–$500 for labor if you hire it out. But here's the thing — a prefab countertop swap is one of the most approachable bathroom upgrades out there. Most take a single Saturday from start to finish, and the visual impact is immediate.
