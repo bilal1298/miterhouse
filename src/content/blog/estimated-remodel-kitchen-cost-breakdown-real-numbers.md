@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - cost-guide
-date: 2026-11-03
+date: 2026-11-06
 hero_image: /images/posts/estimated-remodel-kitchen-cost-breakdown-real-numbers.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Keep the existing layout. Moving the sink requires $1,000–$3,000 in plumbing relocation. Moving the range means gas line rerouting. Every fixture you move adds labor and material costs — and those costs compound quickly in a small space."
   - q: "What's the most common kitchen remodel planning mistake?"
     a: "Not accounting for cabinet lead times. Stock cabinets ship in 1–2 weeks, but semi-custom takes 4–8 weeks and custom takes 8–16 weeks. If you order late, your countertop fabricator is stuck waiting — and the whole project timeline shifts by weeks."
-draft: true
+draft: false
 ---
 
 A kitchen remodel costs $15,000–$75,000 for most homeowners, with the national average landing at $35,000–$40,000 for a mid-range renovation of a standard-sized kitchen. That range is enormous because "kitchen remodel" covers everything from a cosmetic refresh — paint, hardware, countertops — to a gut renovation with new cabinets, appliances, flooring, plumbing, and electrical. Here's how to figure out where your project falls, with every line item broken down.
