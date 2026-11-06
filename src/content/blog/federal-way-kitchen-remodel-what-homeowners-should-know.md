@@ -7,7 +7,7 @@ tags:
   - kitchen
   - bathroom-remodel
   - kitchen-remodel
-date: 2026-09-05
+date: 2026-11-06
 hero_image: /images/posts/federal-way-kitchen-remodel-what-homeowners-should-know.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Asbestos testing ($200–$500) and possible abatement in pre-1980 homes, electrical panel upgrades from 100-amp to 200-amp ($1,500–$3,000), and subfloor damage around the sink and dishwasher area. Budget a 15–20% contingency specifically for these."
   - q: "How long does a mid-range Federal Way kitchen remodel take?"
     a: "Six to ten weeks from demo to punch list, assuming permits are in hand. The biggest timeline killer is the countertop template-to-install gap — fabricators need 5–10 business days after templating, and they can't template until cabinets are fully installed and level."
-draft: true
+draft: false
 ---
 
 A kitchen remodel in Federal Way, Washington costs $25,000–$75,000 for a mid-range renovation, with the final number depending on whether you're refreshing surfaces or gutting the layout. The Seattle-Tacoma metro area runs about 10–15% higher than national averages for both labor and permits, and Federal Way sits right in that pricing zone.
