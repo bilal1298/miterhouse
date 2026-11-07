@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - kitchen-remodel
   - installation
-date: 2026-08-21
+date: 2026-11-07
 hero_image: /images/posts/how-to-install-water-shut-off-valve-for-toilet-the-right-way.webp
 hero_image_prompt: "A photorealistic photograph of a bright kitchen mid-renovation showing progress with new shaker cabinets on one wall and bare studs on the other, a level and drill on the counter, blue painter's tape along trim. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "You need an adjustable wrench, a basin wrench or pliers, Teflon tape, a bucket, towels, and possibly a pipe cutter if replacing the supply stub-out. A compression valve requires no soldering."
   - q: "What's the most common mistake to avoid?"
     a: "Over-tightening compression fittings is the most common cause of leaks on this job. Finger-tight plus one full turn with a wrench is usually enough. Going further cracks the ferrule or deforms the valve seat."
-draft: true
+draft: false
 ---
 
 Replacing or installing a toilet shut-off valve is a 30-to-60-minute job that costs $10 to $30 in parts if you do it yourself, or $100 to $250 if you call a plumber. It is one of the most practical plumbing skills a homeowner can learn, because a working shut-off valve is the one thing standing between a toilet malfunction and hundreds of gallons of water on your bathroom floor.
