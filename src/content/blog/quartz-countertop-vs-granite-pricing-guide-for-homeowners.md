@@ -8,7 +8,7 @@ tags:
   - countertops
   - kitchen-remodel
   - cost-guide
-date: 2026-11-21
+date: 2026-11-08
 hero_image: /images/posts/quartz-countertop-vs-granite-pricing-guide-for-homeowners.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner measuring cabinet dimensions in a kitchen with a tape measure and notepad, new cabinet samples on the counter, morning light through a window above the sink. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Countertop fabrication and installation is not a DIY job — the slabs weigh hundreds of pounds and must be templated, cut, and polished with specialized equipment. What you can do yourself: remove the old countertop to reduce labor cost (saves $100–$200), and coordinate the plumber for the sink reconnection, which is a separate charge of roughly $200–$400."
   - q: "How long should I expect this project to take?"
     a: "Once you choose a slab, fabrication typically takes 1–2 weeks, then installation is a single day. The longest part is the waiting: visiting a slab yard, selecting your specific piece, getting the template made after cabinets are final, and waiting for the shop to cut and polish it. Plan for 3–5 weeks from selection to installation day."
-draft: true
+draft: false
 ---
 
 Quartz and granite are the two most popular premium countertop materials, and their pricing overlaps significantly. Granite runs $50 to $120 per square foot installed; quartz runs $55 to $150 per square foot. For a typical 40-square-foot kitchen, that puts both options in the $2,000 to $6,000 range depending on the specific product you choose.
