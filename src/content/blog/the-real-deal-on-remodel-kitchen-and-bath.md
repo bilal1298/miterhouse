@@ -7,7 +7,7 @@ tags:
   - kitchen
   - bathroom-remodel
   - kitchen-remodel
-date: 2026-11-06
+date: 2026-11-09
 hero_image: /images/posts/the-real-deal-on-remodel-kitchen-and-bath.webp
 hero_image_prompt: "A photorealistic photograph of a kitchen mid-renovation with new cabinets partially installed, exposed plumbing visible, a miter saw on the floor, and natural light from a window over the sink area. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Set up a temporary kitchen station with a microwave, coffee maker, and mini-fridge in the dining room or living room before demo day. A standard kitchen renovation takes 3–5 weeks, so plan your grocery and takeout budget accordingly."
   - q: "How long does a combined kitchen and bath remodel take?"
     a: "Most contractors complete the bathroom in 1–2 weeks, then move to the kitchen for 3–5 weeks. Total project timeline is 5–8 weeks for a mid-range scope. Add 2–3 weeks if the home is over 30 years old — hidden plumbing and electrical surprises are common."
-draft: true
+draft: false
 ---
 
 Remodeling the kitchen and bathroom together costs $30,000–$80,000 for most mid-range projects, and doing them simultaneously (or at least planning them as one project) saves 10–20% compared to tackling each room separately. The savings come from shared contractor mobilization, overlapping material orders, and coordinated plumbing and electrical work. Here's how to plan a combined kitchen and bath remodel that stays on budget and timeline.
