@@ -8,7 +8,7 @@ tags:
   - bathroom-remodel
   - bathroom
   - kitchen-remodel
-date: 2026-10-17
+date: 2026-11-10
 hero_image: /images/posts/the-real-deal-on-water-damage-in-bathroom-walls.webp
 hero_image_prompt: "A photorealistic photograph of a clean, updated bathroom with white subway tile, a floating vanity with a vessel sink, brushed nickel fixtures, and natural light streaming through a frosted window. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Level 1 repairs (recaulking, regrouting, surface painting) are beginner-friendly — total cost $150–$500 and a weekend of work. Level 2 (drywall replacement) requires comfort with cutting drywall, taping, and mudding — learnable but takes patience. Call a professional for Level 3 or 4 damage: rotted framing, supply line leaks behind the wall, shower pan failure, or mold covering more than 10 square feet require specialized skills and containment."
   - q: "How long does bathroom wall water damage repair take?"
     a: "Surface repairs (recaulk, repaint) take half a day. Drywall replacement on one wall section takes 1–2 days plus drying time between mud coats. A full wall rebuild with plumbing takes a professional crew 5–10 days. If mold remediation is involved, add 1–3 weeks before reconstruction can begin. The mandatory 24–48 hour drying window before closing walls is non-negotiable."
-draft: true
+draft: false
 ---
 
 Water damage in bathroom walls ranges from minor cosmetic fixes costing $150 to $500 up to major structural repairs running $2,000 to $8,000 or more. The cost depends entirely on how long the moisture has been there, how deep it has penetrated, and whether it has reached framing or subfloor.
