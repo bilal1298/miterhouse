@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - roofing
   - landscaping
-date: 2026-10-28
+date: 2026-11-11
 hero_image: /images/posts/building-rooftop-deck-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner building a pressure-treated wood deck in a suburban backyard, attaching deck boards with a cordless drill, with a framing square, level, and stacks of lumber visible nearby. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Very little. Structural assessment, waterproof membrane installation, stair access, and railing systems all require professionals. Once waterproofing is professionally installed, you can install a pedestal paver system on top — some manufacturers support homeowner installation of the pavers themselves."
   - q: "What's the most common rooftop deck mistake?"
     a: "Skipping the structural engineer. Standard residential roof framing handles 20 psf live load; a deck needs 40 psf. That gap means reinforcement costing $3,000–$15,000 — and sometimes the roof simply can't be made adequate. Better to discover that before you've spent money on design and materials."
-draft: true
+draft: false
 ---
 
 Standard residential roof framing is designed for 20 pounds per square foot of live load. A rooftop deck requires 40 psf. That gap between what your roof can handle and what a deck demands is why these projects start at $25,000 and often push past $75,000 — and why a structural engineer isn't optional, it's the first phone call you make.
