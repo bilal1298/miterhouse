@@ -8,7 +8,7 @@ tags:
   - outdoor-projects
   - landscaping
   - home-repair
-date: 2026-07-27
+date: 2026-11-12
 hero_image: /images/posts/composite-roof-repair-guide-what-to-know.webp
 hero_image_prompt: "A photorealistic photograph of a suburban home getting a new roof with a roofing crew stripping old shingles, new underlayment partially rolled out, bundles of architectural shingles staged on the roof, and a dumpster below. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "A flat pry bar, roofing nails, a hammer, and roofing cement. You also need matching replacement shingles — always save leftovers from the original installation for exactly this. The technique requires lifting the shingles above the damaged one carefully to access the nails without cracking surrounding shingles."
   - q: "How do you know when repair becomes full replacement?"
     a: "When repair costs exceed 30–40% of a full re-roof, or the roof is within 5 years of its 20–30 year expected lifespan, replacement is smarter. If you're calling a roofer every 1–2 years for different issues, the cumulative costs add up fast against the price of new shingles."
-draft: true
+draft: false
 ---
 
 When water shows up on a ceiling, most homeowners assume the shingles failed. But composite shingles covering roughly 80% of American roofs are rarely the first point of failure — the metal flashing around chimneys, vents, skylights, and roof-to-wall junctions is. Flashing doesn't last as long as shingles and may need replacement once or twice during a roof's lifespan. Chasing a leak by replacing shingles while ignoring deteriorated flashing underneath is the most expensive mistake in roof repair.
