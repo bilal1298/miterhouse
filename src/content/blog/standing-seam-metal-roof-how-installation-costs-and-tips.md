@@ -8,7 +8,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-29
+date: 2026-11-19
 hero_image: /images/posts/standing-seam-metal-roof-how-installation-costs-and-tips.webp
 hero_image_prompt: "A photorealistic photograph of a suburban home getting a new roof with a roofing crew stripping old shingles, new underlayment partially rolled out, bundles of architectural shingles staged on the roof, and a dumpster below. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "For a primary residence, this is not a DIY project — the tools alone explain why. Mechanically seamed standing seam requires a specialized seaming machine (manual or electric) to fold the interlocking seams. Panel layout demands a metal brake for custom trim bends, and on-site forming requires a portable roll-forming machine. These are not standard rental items in most areas. For small outbuildings with snap-lock systems, you need metal snips, a metal brake, a drill, a chalk line, and roofing nailers."
   - q: "What's the most common mistake to avoid?"
     a: "Installing panels even slightly out of plumb. Metal panels are unforgiving: a 1/8-inch deviation at the eave compounds to 1/2 inch or more at the ridge across a wide roof. Unlike shingles where a crooked course is invisible, a misaligned metal panel is obvious and cannot be corrected without removing and resetting it. Set the first panel with a plumb bob, not just a level — and check plumb again every 3–4 panels."
-draft: true
+draft: false
 ---
 
 Installing a standing seam metal roof costs between $10 and $18 per square foot for materials and professional labor, putting a typical 2,000-square-foot roof project at $20,000 to $36,000. That is roughly two to three times the cost of asphalt shingles, but the payoff is a roof that lasts 40 to 70 years, sheds snow better than any other residential roofing material, and requires almost no maintenance.
