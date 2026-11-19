@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-10-02
+date: 2026-11-19
 hero_image: /images/posts/when-to-replace-window-elgin-signs-and-costs.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Fiberglass handles the Fox River valley's temperature swings — ranging 130+ degrees F between winter lows and summer highs — better than vinyl, which can become brittle in extreme cold and warp in direct summer sun. Fiberglass costs 30–50% more but holds its dimensional tolerances across the full temperature range, which also preserves seal integrity longer."
   - q: "What's the most common mistake Elgin homeowners make with window replacement?"
     a: "Buying insert replacement windows for older east-side homes where the original frames have absorbed decades of freeze-thaw moisture. The frames may look acceptable on the surface but harbor hidden rot. Spending $150–$300 more per window for full-frame replacement in these homes is nearly always the right call — you see what you're working with before the new unit goes in."
-draft: true
+draft: false
 ---
 
 Elgin, Illinois sits in the western suburbs of Chicago where the Fox River valley creates its own microclimate of cold winters, warm summers, and enough moisture to keep window installers busy year-round. The city's housing stock spans from Victorian-era homes along the river to modern subdivision construction west of Randall Road, and each generation of home presents different window replacement challenges.
