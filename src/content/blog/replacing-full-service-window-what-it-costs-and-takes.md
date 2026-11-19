@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-10-03
+date: 2026-11-19
 hero_image: /images/posts/replacing-full-service-window-what-it-costs-and-takes.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Full-frame window replacement is generally not a DIY project for primary windows — it requires structural header verification, proper sill pan flashing installation, and low-expansion foam technique that differs from what most guides show. If you are doing a small outbuilding window, you need a pry bar, reciprocating saw, level, drill, low-expansion foam, flashing tape, exterior caulk, and a helper. For a house, hire a licensed contractor and verify they carry liability insurance and an installation warranty."
   - q: "How long should I expect this project to take?"
     a: "A crew of two completes 4–6 standard full-frame replacements per day. For a 15–20 window project, expect 3–5 days of installation work. The total project timeline is longer: 2–6 weeks from contract signing for windows to arrive (custom sizes run longer), then 3–5 installation days, then 1–2 days for final trim, caulking, and punch list. Budget 4–8 weeks from signed contract to finished project."
-draft: true
+draft: false
 ---
 
 Full service window replacement means the entire window comes out — frame, sashes, hardware, and often the surrounding trim — and a completely new unit goes in. This is different from a pocket or insert replacement where the existing frame stays and only the operable parts swap out. Full-frame replacement costs more and takes longer, but it is the right choice when the existing frames are rotted, warped, out of square, or when you want to change window sizes.
