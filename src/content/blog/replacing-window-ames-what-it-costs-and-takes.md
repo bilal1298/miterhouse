@@ -7,7 +7,7 @@ tags:
   - windows
   - outdoor-projects
   - landscaping
-date: 2026-10-01
+date: 2026-11-19
 hero_image: /images/posts/replacing-window-ames-what-it-costs-and-takes.webp
 hero_image_prompt: "A photorealistic photograph of a replacement window being installed in a residential home, with the old window removed showing the rough opening, foam insulation being sprayed around the frame, and the new vinyl double-hung window ready to be set. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "At minimum: double-pane with low-E coating and argon fill, meeting Iowa's IECC Climate Zone 5 requirements (U-factor 0.30 or lower). For north-facing windows or older homes with large window areas, triple-pane is worth the $100–$250 premium per window — the comfort improvement on -8°F nights is immediate and noticeable."
   - q: "Do older Ames homes near campus need special handling?"
     a: "Yes. Pre-1950 homes in Old Town often have non-standard sizing and rope-and-weight systems, so expect full-frame replacement rather than inserts — add $100–$300 per window. If the home is in a historic district near Iowa State, check aesthetic requirements before ordering modern vinyl, as some districts restrict visible frame material and color."
-draft: true
+draft: false
 ---
 
 Window replacement in Ames, Iowa presents a particular set of considerations driven by the central Iowa climate. With heating-degree days far above the national average and summer humidity that can be punishing, the windows you choose need to handle both extremes. Ames homeowners also have a healthy mix of housing stock — from early 1900s homes near campus to newer construction in the expanding neighborhoods west of town — each with different window replacement needs.
