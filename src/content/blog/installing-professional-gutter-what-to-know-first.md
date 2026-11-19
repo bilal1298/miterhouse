@@ -7,7 +7,7 @@ tags:
   - installation
   - outdoor-projects
   - landscaping
-date: 2026-07-26
+date: 2026-11-19
 hero_image: /images/posts/installing-professional-gutter-what-to-know-first.webp
 hero_image_prompt: "A photorealistic photograph of seamless gutters being installed on the fascia of a suburban home, with a gutter machine visible on the ground below, the installer on a ladder securing hangers, and downspout components ready to be attached. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "Professionals use truck-mounted seamless gutter machines that extrude gutters on-site — you can't rent these. For DIY sectional gutter installation, you need a level, string line, tin snips, a pop rivet gun, gutter sealant, and stable ladder setup that allows you to work safely along the full roofline."
   - q: "What's the most common mistake to avoid?"
     a: "Getting the slope wrong is the most common gutter installation failure. Gutters need to drop 1/4 inch per 10 feet toward the downspout — only one inch of total drop on a 40-foot run. Gutters that pitch the wrong direction or stay flat will pool water and develop leaks at the seams within a season or two."
-draft: true
+draft: false
 ---
 
 Professional gutter installation costs between $6 and $15 per linear foot for standard aluminum seamless gutters, putting the total for an average home (150 to 200 linear feet) at $1,000 to $2,500 installed. That price includes materials, hangers, downspouts, and labor. Upgrading to copper or steel pushes costs to $15 to $40 per linear foot.
