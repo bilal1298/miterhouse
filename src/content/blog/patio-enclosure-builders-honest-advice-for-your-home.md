@@ -7,7 +7,7 @@ tags:
   - outdoor-projects
   - landscaping
   - home-improvement
-date: 2026-09-16
+date: 2026-11-19
 hero_image: /images/posts/patio-enclosure-builders-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a patio being laid with concrete pavers in a suburban backyard, with a herringbone pattern taking shape on a compacted gravel base, a plate compactor nearby, and polymeric sand being swept into joints. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "A DIY screen room kit (like Screen Tight) requires basic aluminum framing assembly tools: a miter saw or chop saw for cutting aluminum, a cordless drill, a tape measure, and a screen installation tool to press screen into the frame channel. Four-season rooms are not DIY — they require licensed trades."
   - q: "How long should I expect this project to take?"
     a: "A screen room typically takes 2 to 5 days for a professional crew. A three-season room takes 1 to 3 weeks. A four-season sunroom runs 4 to 12 weeks, including permit approval time. Add 2 to 8 weeks of permit processing before any work begins for anything beyond a simple screen room."
-draft: true
+draft: false
 ---
 
 Patio enclosure builders charge $8,000 to $50,000+ to convert an open patio into a screened or glass-enclosed room, with most projects landing in the $15,000 to $30,000 range. The massive price spread comes down to one decision: are you adding a basic screen room on your existing slab, or building a fully insulated, climate-controlled sunroom that functions as year-round living space?
