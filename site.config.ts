@@ -99,8 +99,6 @@ export const siteConfig = {
 
   // ── Sponsored guest posts (Write for Us page) ─────────────────
   guestPost: {
-    price: 60,
-    currency: "USD",
     wordCount: "1,200–2,500",
     maxExternalLinks: 2,
     reviewTime: "1–3 business days",

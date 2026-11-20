@@ -4,14 +4,13 @@ import JsonLd from "../components/JsonLd.astro";
 import { siteConfig } from "../../site.config";
 
 const gp = siteConfig.guestPost;
-const price = `$${gp.price} ${gp.currency}`;
 const nicheTitle = siteConfig.niche.replace(/\b\w/g, (c) => c.toUpperCase());
-const mailto = `mailto:${siteConfig.email}?subject=${encodeURIComponent("Sponsored Guest Post – [Your Topic]")}`;
+const mailto = `mailto:${siteConfig.email}?subject=${encodeURIComponent("Sponsored Guest Post Inquiry")}`;
 
 const faqs = [
   {
     q: "How much does a sponsored guest post cost?",
-    a: `Our standard sponsored guest post rate is ${price} per article.`,
+    a: `Our sponsored publication rates are shared upon inquiry. Please contact ${siteConfig.email} for pricing and submission details.`,
   },
   {
     q: "How many external links can I include?",
@@ -52,7 +51,7 @@ const faqJsonLd = {
 
 <BaseLayout
   title={`Write for Us — Sponsored ${nicheTitle} Guest Posts`}
-  description={`Publish a sponsored ${siteConfig.niche} guest post on ${siteConfig.name} for ${price}. Guidelines, accepted topics, link policy, and how to submit your article.`}
+  description={`Publish a sponsored ${siteConfig.niche} guest post on ${siteConfig.name}. Guidelines, accepted topics, link policy, and how to inquire about sponsored rates.`}
 >
   <JsonLd data={faqJsonLd} />
 
@@ -64,48 +63,52 @@ const faqJsonLd = {
         Publish a practical, genuinely useful {siteConfig.niche} article in front of
         {" "}{gp.readers} who are planning their next project.
       </p>
+      <div class="wfu-head-cta">
+        <a class="btn" href={mailto}>Inquire About Sponsored Posts</a>
+        <a class="wfu-head-cta__email" href={mailto}>{siteConfig.email}</a>
+      </div>
     </header>
 
-    <div class="wfu-top">
-      <section class="wfu-intro" aria-labelledby="opportunities">
+    <section class="wfu-top" aria-labelledby="opportunities">
+      <div class="wfu-intro">
         <h2 id="opportunities">Sponsored Guest Post Opportunities</h2>
+        <p>Interested in publishing your content on {siteConfig.name}?</p>
         <p>
-          {siteConfig.name} accepts sponsored guest post submissions from businesses,
-          brands, marketing agencies, SEO agencies, and industry professionals. If you have
-          real expertise to share with {gp.readers}, we'd like to hear from you — and the
-          process is simple: send us your article, we review it, and approved posts go live.
+          We welcome sponsored guest post submissions from businesses, brands, marketing
+          agencies, SEO professionals, and industry experts in the home improvement,
+          renovation, DIY, and interior design niches.
         </p>
         <p>
-          Every contributed article is a sponsored placement at one flat rate. Our editors
-          review each submission and maintain editorial control over everything we
-          publish, which keeps the site useful for readers and worth being featured on.
+          Our editors review each submission and maintain editorial control over everything
+          we publish, which keeps the site useful for readers and worth being featured on.
         </p>
         <div class="wfu-note">
-          <strong>Good to know before you pitch:</strong> we don't offer paid writing
-          assignments, and we don't provide free guest-post placements.
+          <strong>Good to know before you pitch:</strong> we accept sponsored guest posts
+          only. We don't offer paid writing assignments, and we don't provide free
+          guest-post placements.
         </div>
-      </section>
+      </div>
 
-      <aside class="wfu-price" aria-labelledby="pricing">
-        <div class="kicker">Standard rate</div>
-        <h2 id="pricing">Our Pricing</h2>
-        <p class="wfu-price__amount">
-          <span class="wfu-price__num">${gp.price}</span>
-          <span class="wfu-price__unit">{gp.currency} per sponsored article</span>
-        </p>
-        <ul class="wfu-price__list">
-          <li>{gp.wordCount} word article</li>
-          <li>Up to {gp.maxExternalLinks} relevant external links</li>
-          <li>Short author bio</li>
-          <li>Editorial review in {gp.reviewTime}</li>
-          <li>Payment due after publication</li>
+      <aside class="wfu-package" aria-labelledby="package">
+        <div class="kicker">Sponsored publication</div>
+        <h3 id="package">Our sponsored publication package includes:</h3>
+        <ul class="wfu-package__list">
+          <li>{gp.wordCount} words of original, high-quality content</li>
+          <li>Up to {gp.maxExternalLinks} relevant external links, subject to editorial approval</li>
+          <li>A short author bio and relevant brand mention</li>
+          <li>Long-term publication, subject to editorial and payment terms</li>
+          <li>Editorial review within {gp.reviewTime}</li>
         </ul>
-        <a class="btn wfu-price__btn" href={mailto}>Submit Your Article</a>
-        <p class="wfu-price__email">
-          Or email <a href={mailto}>{siteConfig.email}</a>
+        <div class="wfu-package__ask">
+          <p class="wfu-package__q">Interested in publishing with us?</p>
+          <p>Contact our editorial team for sponsored publication rates and submission details.</p>
+        </div>
+        <a class="btn wfu-package__btn" href={mailto}>Inquire About Sponsored Posts</a>
+        <p class="wfu-package__email">
+          Email: <a href={mailto}>{siteConfig.email}</a>
         </p>
       </aside>
-    </div>
+    </section>
 
     <div class="prose wfu-body">
       <section aria-labelledby="included">
@@ -211,7 +214,7 @@ const faqJsonLd = {
       <section aria-labelledby="payment">
         <h2 id="payment"><span class="hr"></span>Payment Terms</h2>
         <ul>
-          <li>The rate is {price} per sponsored article.</li>
+          <li>Sponsored publication rates are shared upon inquiry.</li>
           <li>Payment is due within {gp.paymentWindowHours} hours after publication.</li>
           <li>Articles with payment outstanding beyond that window may be unpublished until payment is received.</li>
           <li>Available payment methods can be confirmed during correspondence.</li>
@@ -234,15 +237,33 @@ const faqJsonLd = {
     <section class="wfu-cta" aria-labelledby="cta">
       <h2 id="cta">Ready to submit your proposal?</h2>
       <p>
-        Send your article or topic idea to <a href={mailto}>{siteConfig.email}</a>. Sponsored
-        placements are {price} per article.
+        Contact our editorial team at <a href={mailto}>{siteConfig.email}</a> for sponsored
+        publication rates and submission details.
       </p>
-      <a class="btn" href={mailto}>Get Started</a>
+      <a class="btn" href={mailto}>Inquire About Sponsored Posts</a>
     </section>
   </div>
 </BaseLayout>
 
 <style>
+  .wfu-head-cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 12px 24px;
+    margin-top: 24px;
+  }
+  .wfu-head-cta .btn { margin-top: 0; }
+  .wfu-head-cta__email {
+    font-family: var(--label);
+    font-size: 14px;
+    color: var(--accent-deep);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .wfu-head-cta__email:hover { color: var(--accent); }
+
   .wfu-top {
     display: grid;
     grid-template-columns: minmax(0, 1.25fr) minmax(0, .75fr);
@@ -275,55 +296,33 @@ const faqJsonLd = {
   }
   .wfu-note strong { color: var(--ink); }
 
-  /* pricing card */
-  .wfu-price {
+  /* sponsored package card */
+  .wfu-package {
     border: 1px solid var(--ink);
     border-radius: 2px;
     padding: clamp(24px, 3vw, 34px);
     background: var(--paper);
   }
-  .wfu-price h2 {
+  .wfu-package h3 {
     font-family: var(--display);
     font-weight: 440;
-    font-size: 24px;
+    font-size: 22px;
+    line-height: 1.2;
     margin-top: 10px;
   }
-  .wfu-price__amount {
-    display: flex;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 10px;
+  .wfu-package__list {
+    list-style: none;
     margin-top: 14px;
     padding-bottom: 18px;
     border-bottom: 1px solid var(--line);
   }
-  .wfu-price__num {
-    font-family: var(--display);
-    font-weight: 380;
-    font-size: clamp(56px, 6vw, 72px);
-    line-height: 1;
-    letter-spacing: -.02em;
-    color: var(--accent);
-  }
-  .wfu-price__unit {
-    font-family: var(--label);
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-    color: var(--ink-soft);
-  }
-  .wfu-price__list {
-    list-style: none;
-    margin-top: 18px;
-  }
-  .wfu-price__list li {
+  .wfu-package__list li {
     position: relative;
     padding: 6px 0 6px 22px;
     font-size: 16.5px;
     line-height: 1.4;
   }
-  .wfu-price__list li::before {
+  .wfu-package__list li::before {
     content: "";
     position: absolute;
     left: 2px;
@@ -334,19 +333,34 @@ const faqJsonLd = {
     border-bottom: 2px solid var(--accent);
     transform: rotate(-45deg);
   }
-  .wfu-price__btn {
+  .wfu-package__ask { margin-top: 18px; }
+  .wfu-package__ask p {
+    font-size: 16.5px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+  .wfu-package__ask .wfu-package__q {
+    font-family: var(--display);
+    font-weight: 480;
+    font-size: 19px;
+    color: var(--ink);
+    margin-bottom: 4px;
+  }
+  .wfu-package__btn {
     display: block;
     text-align: center;
-    margin-top: 22px;
+    margin-top: 20px;
+    padding-inline: 12px;
+    letter-spacing: .08em;
   }
-  .wfu-price__email {
+  .wfu-package__email {
     margin-top: 14px;
     text-align: center;
     font-family: var(--label);
-    font-size: 13px;
-    color: var(--muted);
+    font-size: 14px;
+    color: var(--ink-soft);
   }
-  .wfu-price__email a,
+  .wfu-package__email a,
   .wfu-cta p a {
     color: var(--accent-deep);
     text-decoration: underline;
@@ -445,7 +459,6 @@ const faqJsonLd = {
 
   @media (max-width: 860px) {
     .wfu-top { grid-template-columns: 1fr; }
-    .wfu-price { order: -1; }
     .wfu-body .wfu-steps { grid-template-columns: 1fr; }
   }
   @media (max-width: 560px) {
