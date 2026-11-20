@@ -7,7 +7,7 @@ tags:
   - outdoor-projects
   - landscaping
   - home-improvement
-date: 2026-09-15
+date: 2026-11-20
 hero_image: /images/posts/widen-driveway-with-concrete-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a concrete driveway being poured in front of a suburban home, with workers smoothing wet concrete with a bull float, forms along the edges, and a concrete truck parked in the street. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -17,7 +17,7 @@ faq:
     a: "A 1.5-cubic-yard pour for a 3x40-foot extension is within reach for a motivated beginner with a helper. The key skills are getting the gravel sub-base flat and compacted, setting forms at the right grade, and moving quickly once the concrete is placed — you have 60–90 minutes before it's unworkable. Order a short-load delivery rather than hand-mixing 60 bags."
   - q: "How long before I can drive on the new concrete?"
     a: "Keep vehicles off for at least 7–10 days. Avoid heavy vehicles (pickup trucks with loads, delivery trucks) for the full 28-day curing period. New concrete reaches about 70% of its final strength in 7 days but continues curing for a month."
-draft: true
+draft: false
 ---
 
 Widening a driveway with concrete costs $6 to $12 per square foot for a basic extension, putting a typical 3-foot-wide, 40-foot-long addition at $720 to $1,440 in materials and $2,000 to $4,500 fully installed by a contractor. It is one of the more straightforward concrete projects — manageable as a DIY effort for someone comfortable with basic concrete work — and the payoff in daily convenience is immediate.
