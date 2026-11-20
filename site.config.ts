@@ -97,6 +97,33 @@ export const siteConfig = {
     pinterest: "",
   },
 
+  // ── Sponsored guest posts (Write for Us page) ─────────────────
+  guestPost: {
+    price: 60,
+    currency: "USD",
+    wordCount: "1,200–2,500",
+    maxExternalLinks: 2,
+    reviewTime: "1–3 business days",
+    paymentWindowHours: 72,
+    readers: "homeowners",
+    topics: [
+      "Home improvement",
+      "Home renovation and remodeling",
+      "DIY projects",
+      "Kitchen and bathroom upgrades",
+      "Interior design",
+      "Painting and decorating",
+      "Flooring",
+      "Roofing",
+      "Plumbing",
+      "Electrical improvements",
+      "Lighting",
+      "Landscaping and gardening",
+      "Home maintenance",
+      "Other closely related home and property improvement topics",
+    ],
+  },
+
   // ── Publishing ─────────────────────────────────────────────────
   postsPerPage: 12,
   publishCadencePerDay: 2,

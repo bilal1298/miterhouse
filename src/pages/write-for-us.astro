@@ -1,80 +1,455 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import JsonLd from "../components/JsonLd.astro";
 import { siteConfig } from "../../site.config";
+
+const gp = siteConfig.guestPost;
+const price = `$${gp.price} ${gp.currency}`;
+const nicheTitle = siteConfig.niche.replace(/\b\w/g, (c) => c.toUpperCase());
+const mailto = `mailto:${siteConfig.email}?subject=${encodeURIComponent("Sponsored Guest Post – [Your Topic]")}`;
+
+const faqs = [
+  {
+    q: "How much does a sponsored guest post cost?",
+    a: `Our standard sponsored guest post rate is ${price} per article.`,
+  },
+  {
+    q: "How many external links can I include?",
+    a: `Up to ${gp.maxExternalLinks} relevant external links are permitted per article, subject to editorial approval. This includes links in the author bio.`,
+  },
+  {
+    q: "How long does publication take?",
+    a: `Editorial review takes ${gp.reviewTime} after we receive the completed article. Publication follows approval.`,
+  },
+  {
+    q: "How do I submit my article?",
+    a: "Google Docs with viewer access enabled is preferred. Word documents (.docx) are also accepted.",
+  },
+  {
+    q: "When is payment due?",
+    a: `Payment is due within ${gp.paymentWindowHours} hours after publication.`,
+  },
+  {
+    q: "Do you accept free guest posts?",
+    a: `No. ${siteConfig.name} currently accepts sponsored guest post submissions only.`,
+  },
+  {
+    q: "Do you offer dofollow backlinks?",
+    a: 'Sponsored links are appropriately marked using rel="sponsored" or rel="nofollow", in accordance with applicable search engine guidelines.',
+  },
+];
+
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+};
 ---
 
 <BaseLayout
-  title={`Write for Us — ${siteConfig.name}`}
-  description={`Contribute a guest post to ${siteConfig.name}. We publish practical, expert home improvement content.`}
+  title={`Write for Us — Sponsored ${nicheTitle} Guest Posts`}
+  description={`Publish a sponsored ${siteConfig.niche} guest post on ${siteConfig.name} for ${price}. Guidelines, accepted topics, link policy, and how to submit your article.`}
 >
-  <div class="wrap">
-    <article class="prose" style="padding-top:3rem">
+  <JsonLd data={faqJsonLd} />
+
+  <div class="wrap wfu">
+    <header class="page-head">
+      <div class="eyebrow">Sponsored guest posts</div>
       <h1>Write for Us</h1>
-
       <p>
-        Have hands-on experience with home improvement projects? {siteConfig.name} welcomes
-        guest contributions from contractors, interior designers, remodelers, and experienced
-        DIYers who want to share practical tips, project insights, and real-world advice with
-        our community of homeowners.
+        Publish a practical, genuinely useful {siteConfig.niche} article in front of
+        {" "}{gp.readers} who are planning their next project.
       </p>
+    </header>
 
-      <h2>Why Contribute to {siteConfig.name}?</h2>
+    <div class="wfu-top">
+      <section class="wfu-intro" aria-labelledby="opportunities">
+        <h2 id="opportunities">Sponsored Guest Post Opportunities</h2>
+        <p>
+          {siteConfig.name} accepts sponsored guest post submissions from businesses,
+          brands, marketing agencies, SEO agencies, and industry professionals. If you have
+          real expertise to share with {gp.readers}, we'd like to hear from you — and the
+          process is simple: send us your article, we review it, and approved posts go live.
+        </p>
+        <p>
+          Every contributed article is a sponsored placement at one flat rate. Our editors
+          review each submission and maintain editorial control over everything we
+          publish, which keeps the site useful for readers and worth being featured on.
+        </p>
+        <div class="wfu-note">
+          <strong>Good to know before you pitch:</strong> we don't offer paid writing
+          assignments, and we don't provide free guest-post placements.
+        </div>
+      </section>
 
-      <ul>
-        <li><strong>Reach an engaged audience</strong> — our readers are DIYers and budget-conscious homeowners actively planning their next project</li>
-        <li><strong>Build your authority</strong> — position yourself as a trusted voice in the home improvement space</li>
-        <li><strong>Get a permanent dofollow backlink</strong> — every published post includes an author bio with a link back to your site</li>
-        <li><strong>Dedicated author profile</strong> — your own page on {siteConfig.name} showcasing all your contributions</li>
-      </ul>
+      <aside class="wfu-price" aria-labelledby="pricing">
+        <div class="kicker">Standard rate</div>
+        <h2 id="pricing">Our Pricing</h2>
+        <p class="wfu-price__amount">
+          <span class="wfu-price__num">${gp.price}</span>
+          <span class="wfu-price__unit">{gp.currency} per sponsored article</span>
+        </p>
+        <ul class="wfu-price__list">
+          <li>{gp.wordCount} word article</li>
+          <li>Up to {gp.maxExternalLinks} relevant external links</li>
+          <li>Short author bio</li>
+          <li>Editorial review in {gp.reviewTime}</li>
+          <li>Payment due after publication</li>
+        </ul>
+        <a class="btn wfu-price__btn" href={mailto}>Submit Your Article</a>
+        <p class="wfu-price__email">
+          Or email <a href={mailto}>{siteConfig.email}</a>
+        </p>
+      </aside>
+    </div>
 
-      <h2>Topics We Accept</h2>
+    <div class="prose wfu-body">
+      <section aria-labelledby="included">
+        <h2 id="included"><span class="hr"></span>What's Included?</h2>
+        <div class="wfu-grid">
+          <div class="wfu-cell">
+            <h3>Publication on {siteConfig.name}</h3>
+            <p>Your approved article published on the site, formatted to match our editorial style.</p>
+          </div>
+          <div class="wfu-cell">
+            <h3>Up to {gp.maxExternalLinks} external links</h3>
+            <p>Contextually relevant links, subject to editorial approval and appropriately qualified.</p>
+          </div>
+          <div class="wfu-cell">
+            <h3>Author bio</h3>
+            <p>A short bio with one relevant author or company link, counted within the link limit.</p>
+          </div>
+          <div class="wfu-cell">
+            <h3>Long-term placement</h3>
+            <p>Approved articles are intended to remain published long-term, subject to editorial and payment terms.</p>
+          </div>
+        </div>
+      </section>
 
+      <section aria-labelledby="topics">
+        <h2 id="topics"><span class="hr"></span>Accepted Topics</h2>
+        <p>We publish home improvement guest posts across these subjects:</p>
+        <ul class="wfu-topics">
+          {gp.topics.map((topic) => <li>{topic}</li>)}
+        </ul>
+      </section>
+
+      <section aria-labelledby="guidelines">
+        <h2 id="guidelines"><span class="hr"></span>Content Guidelines</h2>
+        <p>
+          The best sponsored articles read like something a reader would bookmark. Before
+          you submit, make sure yours meets these requirements:
+        </p>
+        <ul>
+          <li>{gp.wordCount} words</li>
+          <li>Original, unpublished content</li>
+          <li>Informative, practical, and genuinely useful to {gp.readers}</li>
+          <li>A natural, conversational writing style</li>
+          <li>Clear H2 and H3 headings</li>
+          <li>No keyword stuffing, spun content, or fabricated statistics</li>
+          <li>Promotional content kept limited and naturally integrated</li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="links">
+        <h2 id="links"><span class="hr"></span>External Link Policy</h2>
+        <ul>
+          <li>Up to {gp.maxExternalLinks} relevant external links per article, including any link in the author bio.</li>
+          <li>Links must be contextually relevant and are subject to editorial approval.</li>
+          <li>Paid promotional links are marked with <code>rel="sponsored"</code> (or <code>rel="nofollow"</code> where appropriate), in line with search engine guidelines.</li>
+          <li>We don't accept links to gambling, casino, adult, pharmaceutical, payday loan, or other unsuitable promotional sites.</li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="images">
+        <h2 id="images"><span class="hr"></span>Image Requirements</h2>
+        <p>
+          Relevant, high-quality, royalty-free images are welcome. By submitting images,
+          you confirm that you have the rights to submit them and for us to publish them.
+        </p>
+      </section>
+
+      <section aria-labelledby="submit">
+        <h2 id="submit"><span class="hr"></span>Content Submission Instructions</h2>
+        <ol class="wfu-steps">
+          <li>
+            <span class="wfu-steps__n">1</span>
+            <h3>Prepare your article</h3>
+            <p>Write a {gp.wordCount} word article that follows the guidelines above, plus a short author bio.</p>
+          </li>
+          <li>
+            <span class="wfu-steps__n">2</span>
+            <h3>Share the document</h3>
+            <p>Google Docs is preferred — set sharing to “Anyone with the link – Viewer.” Word (.docx) files are accepted too.</p>
+          </li>
+          <li>
+            <span class="wfu-steps__n">3</span>
+            <h3>Email it to us</h3>
+            <p>Send the link or file to <a href={mailto}>{siteConfig.email}</a>, along with any images you'd like included.</p>
+          </li>
+        </ol>
+      </section>
+
+      <section aria-labelledby="timeline">
+        <h2 id="timeline"><span class="hr"></span>Editorial Review &amp; Publication Timeline</h2>
+        <p>
+          We review completed articles within {gp.reviewTime}. Publication is subject to
+          editorial approval, and we may suggest edits so the piece fits our standards.
+          Approved articles are intended to remain published long-term, subject to our
+          editorial and payment terms.
+        </p>
+        <p>
+          We can't promise search rankings, SEO benefits, or specific traffic — what we
+          offer is a quality placement on a site built for real readers.
+        </p>
+      </section>
+
+      <section aria-labelledby="payment">
+        <h2 id="payment"><span class="hr"></span>Payment Terms</h2>
+        <ul>
+          <li>The rate is {price} per sponsored article.</li>
+          <li>Payment is due within {gp.paymentWindowHours} hours after publication.</li>
+          <li>Articles with payment outstanding beyond that window may be unpublished until payment is received.</li>
+          <li>Available payment methods can be confirmed during correspondence.</li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="faq">
+        <h2 id="faq"><span class="hr"></span>Frequently Asked Questions</h2>
+        <div class="faq-list">
+          {faqs.map((f) => (
+            <details class="faq-item">
+              <summary>{f.q}</summary>
+              <p class="faq-item__answer">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    </div>
+
+    <section class="wfu-cta" aria-labelledby="cta">
+      <h2 id="cta">Ready to submit your proposal?</h2>
       <p>
-        Guest posts covering any of our core topics are welcome:
+        Send your article or topic idea to <a href={mailto}>{siteConfig.email}</a>. Sponsored
+        placements are {price} per article.
       </p>
-
-      <ul>
-        {siteConfig.categories.map((cat) => <li>{cat}</li>)}
-      </ul>
-
-      <p>
-        We're especially interested in step-by-step how-to guides, honest cost breakdowns
-        from real projects, tool and material comparisons with practical trade-offs, and
-        project planning advice that helps homeowners make informed decisions.
-      </p>
-
-      <h2>Submission Requirements</h2>
-
-      <ul>
-        <li>1,200–2,500 words of original, unpublished content</li>
-        <li>Clear H2/H3 headings with short, scannable paragraphs</li>
-        <li>Practical, conversational tone — write like you're explaining to a neighbor</li>
-        <li>Up to 2 relevant outbound links (subject to editorial review)</li>
-        <li>100% original work — no republished, spun, or unedited AI-generated content</li>
-        <li>No fabricated statistics, invented studies, or made-up cost figures</li>
-        <li>No keyword stuffing or thinly veiled promotional pieces</li>
-      </ul>
-
-      <h2>How to Submit</h2>
-
-      <p>
-        Send your submission to{" "}
-        <a href={`mailto:${siteConfig.email}?subject=Guest Post Submission – [Your Topic]`}>
-          {siteConfig.email}
-        </a>{" "}
-        with the subject line <strong>Guest Post Submission – [Your Topic]</strong>. Please include:
-      </p>
-
-      <ul>
-        <li>Your completed article (Google Doc or Word format preferred)</li>
-        <li>A short bio (2–3 sentences) and a link to your website</li>
-        <li>Any relevant images (royalty-free, minimum 1200×630px)</li>
-      </ul>
-
-      <p>
-        Our editorial team will review your submission and get back to you within
-        5–7 business days.
-      </p>
-    </article>
+      <a class="btn" href={mailto}>Get Started</a>
+    </section>
   </div>
 </BaseLayout>
+
+<style>
+  .wfu-top {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(0, .75fr);
+    gap: clamp(28px, 5vw, 64px);
+    align-items: start;
+    padding-top: clamp(32px, 5vw, 56px);
+  }
+  .wfu-intro h2,
+  .wfu-cta h2 {
+    font-family: var(--display);
+    font-weight: 420;
+    font-size: clamp(26px, 3.2vw, 36px);
+    line-height: 1.1;
+    letter-spacing: -.01em;
+  }
+  .wfu-intro p {
+    font-size: 19.5px;
+    line-height: 1.72;
+    color: var(--ink-soft);
+    margin-top: 1.1em;
+  }
+  .wfu-note {
+    margin-top: 1.6em;
+    padding: 16px 20px;
+    border-left: 3px solid var(--accent);
+    background: var(--paper-2);
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--ink-soft);
+  }
+  .wfu-note strong { color: var(--ink); }
+
+  /* pricing card */
+  .wfu-price {
+    border: 1px solid var(--ink);
+    border-radius: 2px;
+    padding: clamp(24px, 3vw, 34px);
+    background: var(--paper);
+  }
+  .wfu-price h2 {
+    font-family: var(--display);
+    font-weight: 440;
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  .wfu-price__amount {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid var(--line);
+  }
+  .wfu-price__num {
+    font-family: var(--display);
+    font-weight: 380;
+    font-size: clamp(56px, 6vw, 72px);
+    line-height: 1;
+    letter-spacing: -.02em;
+    color: var(--accent);
+  }
+  .wfu-price__unit {
+    font-family: var(--label);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .wfu-price__list {
+    list-style: none;
+    margin-top: 18px;
+  }
+  .wfu-price__list li {
+    position: relative;
+    padding: 6px 0 6px 22px;
+    font-size: 16.5px;
+    line-height: 1.4;
+  }
+  .wfu-price__list li::before {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 13px;
+    width: 9px;
+    height: 5px;
+    border-left: 2px solid var(--accent);
+    border-bottom: 2px solid var(--accent);
+    transform: rotate(-45deg);
+  }
+  .wfu-price__btn {
+    display: block;
+    text-align: center;
+    margin-top: 22px;
+  }
+  .wfu-price__email {
+    margin-top: 14px;
+    text-align: center;
+    font-family: var(--label);
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .wfu-price__email a,
+  .wfu-cta p a {
+    color: var(--accent-deep);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* body sections */
+  .wfu-body {
+    max-width: 760px;
+    margin-inline: auto;
+    padding-top: clamp(12px, 2vw, 24px);
+  }
+  .wfu-body > section > * + * { margin-top: 1.1em; }
+
+  .wfu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .wfu-body .wfu-cell {
+    margin-top: 0;
+    padding: 20px 22px;
+    background: var(--paper-2);
+    border-radius: 2px;
+  }
+  .wfu-body .wfu-cell h3 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  .wfu-body .wfu-cell p {
+    margin-top: 8px;
+    font-size: 16.5px;
+    line-height: 1.55;
+    color: var(--ink-soft);
+  }
+
+  .wfu-body .wfu-topics {
+    columns: 2;
+    column-gap: 32px;
+  }
+  .wfu-body .wfu-topics li { break-inside: avoid; }
+
+  .wfu-body .wfu-steps {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .wfu-body .wfu-steps li {
+    margin-top: 0;
+    padding: 22px;
+    border: 1px solid var(--line);
+    border-radius: 2px;
+  }
+  .wfu-steps__n {
+    display: grid;
+    place-items: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: var(--paper);
+    font-family: var(--label);
+    font-weight: 700;
+    font-size: 13px;
+  }
+  .wfu-body .wfu-steps h3 {
+    margin-top: 14px;
+    font-size: 20px;
+  }
+  .wfu-body .wfu-steps p {
+    margin-top: 8px;
+    font-size: 16px;
+    line-height: 1.55;
+    color: var(--ink-soft);
+  }
+
+  /* closing CTA */
+  .wfu-cta {
+    max-width: 760px;
+    margin: clamp(40px, 6vw, 72px) auto 0;
+    padding: clamp(28px, 4vw, 44px);
+    background: var(--paper-2);
+    border-top: 3px solid var(--accent);
+    text-align: center;
+  }
+  .wfu-cta p {
+    margin: 14px auto 0;
+    max-width: 46ch;
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-soft);
+  }
+  .wfu-cta .btn { margin-top: 22px; }
+
+  @media (max-width: 860px) {
+    .wfu-top { grid-template-columns: 1fr; }
+    .wfu-price { order: -1; }
+    .wfu-body .wfu-steps { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 560px) {
+    .wfu-grid { grid-template-columns: 1fr; }
+    .wfu-body .wfu-topics { columns: 1; }
+  }
+</style>
