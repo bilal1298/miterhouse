@@ -8,7 +8,7 @@ tags:
   - drywall
   - painting
   - water-damage
-date: 2026-10-20
+date: 2026-11-21
 hero_image: /images/posts/drywall-flood-cut-honest-advice-for-your-home.webp
 hero_image_prompt: "A photorealistic photograph of a homeowner mudding drywall seams using a wide taping knife to smooth joint compound over paper tape, with a hawk in the other hand, bare drywall sheets visible, and sanding dust in the air. The scene is set in a well-lit suburban home. natural lighting, shot on a Canon EOS R5 with a 35mm lens, shallow depth of field, editorial photography style. No text overlays, no watermarks, no logos, no artificial lighting artifacts. The image looks like it was taken by a professional home renovation photographer for an editorial magazine feature."
 faq:
@@ -18,7 +18,7 @@ faq:
     a: "Sealing the wall cavity too soon. Even when surfaces look dry, framing can hold elevated moisture for 3–7 days. Use a pin-type moisture meter daily and wait until studs read below 15% before installing new drywall — patience here saves $3,000–$10,000 in future mold remediation."
   - q: "How high above the water line should a flood cut go?"
     a: "24 inches above the visible high-water mark is standard. Water wicks 12–18 inches above where it sat through capillary action, and the extra buffer ensures you're cutting into genuinely dry material. If water sat for several days, go 30 inches instead."
-draft: true
+draft: false
 ---
 
 The choice after a flood is simple but the consequences aren't: do a proper flood cut now for $500–$1,500, or close up the walls too soon and pay $3,000–$10,000 for mold remediation in six months. Every shortcut in this process — cutting too low, skipping the drying phase, leaving wet insulation in the cavity — leads to the same expensive outcome.
